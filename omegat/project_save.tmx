@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0/&gt;Sprinkle&lt;t1/&gt; &lt;t2/&gt;it&lt;t3/&gt; &lt;t4/&gt;with&lt;t5/&gt; a &lt;t6/&gt;tiny&lt;t7/&gt; &lt;t8/&gt;amount&lt;t9/&gt; &lt;t10/&gt;of&lt;t11/&gt; &lt;t12/&gt;water&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203510Z" creationid="beatr" creationdate="20230512T203510Z">
+        <seg>&lt;t0/&gt;Espolvorearlo&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;con&lt;t5/&gt; una&lt;t6/&gt;pequeña&lt;t7/&gt; &lt;t8/&gt;cantidad&lt;t9/&gt; &lt;t10/&gt;de&lt;t11/&gt; &lt;t12/&gt;agua&lt;t13/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;egg&lt;t3/&gt; and a sprinkle of salt and mix for 10 seconds on speed 5.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202024Z" creationid="beatr" creationdate="20230512T202024Z">
@@ -182,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dampen the uncovered end of the nori sheet with water.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203523Z" creationid="beatr" creationdate="20230512T203523Z">
+        <seg>Humedece el margen sin cubrir de la hoja de nori con agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drizzle over the sushi seasoning and fluff with a fork up and allow to cool slightly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203455Z" creationid="beatr" creationdate="20230512T203455Z">
+        <seg>Salpica sobre el condimento de sushi y dale  vueltas con un tenedor and deja que se enfríe un poco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipment</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201508Z" creationid="beatr" creationdate="20230512T201508Z">
@@ -262,6 +286,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place a nori sheet on top of the sushi mat with the rough side facing up.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203506Z" creationid="beatr" creationdate="20230512T203506Z">
+        <seg>Coloca una hoja de nori encima de la esterilla de sushi con la parte rugosa hacia fuera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Place a sushi bamboo mat (these can be bought from the Asian section of the supermarket) onto a flat bench.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203501Z" creationid="beatr" creationdate="20230512T203501Z">
+        <seg>Pon una esterilla de bambú de sushi (se pueden comprar en la sección asiática en el supermercado) en un bench cuadrada (de vaca).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Place the butter into your Thermomix bowl and cook for 2 minutes, 60 degrees, speed 2 or until melted.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201949Z" creationid="beatr" creationdate="20230512T201949Z">
@@ -286,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place your filling in a thin line in the &lt;t0/&gt;centre&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203519Z" creationid="beatr" creationdate="20230512T203519Z">
+        <seg>Coloca el relleno en una fina línea en el &lt;t0/&gt;centro&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202344Z" creationid="beatr" creationdate="20230512T202344Z">
@@ -298,6 +346,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201446Z" creationid="beatr" creationdate="20230512T201446Z">
         <seg>Tiempo de preparación: 5 minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RECIPE NOTES &amp; TIPS</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203537Z" creationid="beatr" creationdate="20230512T203537Z">
+        <seg>NOTAS Y CONSEJOS SOBRE LA RECETA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove the sushi rice from the basket once cooked – &lt;t0/&gt;if you leave the sushi rice to sit in the rice basket after the cooking time, it will become gluggy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203544Z" creationid="beatr" creationdate="20230512T203544Z">
+        <seg>Quitar el arroz de sushi de la cesta &lt;t0/&gt;si dejas el arroz de sushi en la cesta tras el tiempo de cocción, se quedará pegajoso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +394,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203220Z" creationid="beatr" creationdate="20230512T203220Z">
         <seg>Raciones&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;de rollito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spread a thin layer of cooked sushi rice (approximately ½ cup) over the sheet of nori (leaving a 2cm gap at the top of the sheet – to assist with sealing) and press down with the flat side of a spoon.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203515Z" creationid="beatr" creationdate="20230512T203515Z">
+        <seg>Unta una delgada capa del arroz cocido (aproximadamente ½ de una taza) sobre la hoja de nori (dejando un margen de 2cm encima de la hoja– para ayudar al sellado) y aplástala con la parte plana de la cuchara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start from the end without the gap and roll tightly together (it takes a bit of practice).</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203527Z" creationid="beatr" creationdate="20230512T203527Z">
+        <seg>Empieza desde el final sin el margen y enróllalo de manera apretada (requiere un poco de práctica).</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +458,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202412Z" creationid="beatr" creationdate="20230512T202412Z">
         <seg>Tiempo en total&lt;t0/&gt;30&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transfer the rice to a large plate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203447Z" creationid="beatr" creationdate="20230512T203447Z">
+        <seg>Pasar el arroz en un plato grande.</seg>
       </tuv>
     </tu>
     <tu>
