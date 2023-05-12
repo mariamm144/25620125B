@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;egg&lt;t3/&gt; and a sprinkle of salt and mix for 10 seconds on speed 5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202024Z" creationid="beatr" creationdate="20230512T202024Z">
+        <seg>Añade &lt;t0/&gt;la harina con levadura&lt;t1/&gt;, el azucar en polvo, leche, &lt;t2/&gt;el huevo&lt;t3/&gt; y una pizca de sal y mezclar durante 10 segundos a la velocidad 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Author&lt;t0/&gt; &lt;t1/&gt;Lucy &amp; Lauren</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201505Z" creationid="beatr" creationdate="20230512T201505Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201501Z" creationid="beatr" creationdate="20230512T201501Z">
         <seg>Calorías&lt;t0/&gt;73&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Continue until you have used &lt;t0/&gt;all of&lt;t1/&gt; the pikelet mixture.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202204Z" creationid="beatr" creationdate="20230512T202204Z">
+        <seg>Continúa hasta que hayas gastado toda la masa de los pikelets.&lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202031Z" creationid="beatr" creationdate="20230512T202031Z">
+        <seg> Raspa las paredes de los lados del bol y mezcla durante otros 5 minutos en la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;24&lt;t2/&gt; &lt;t3/&gt;Pikelets</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201457Z" creationid="beatr" creationdate="20230512T201457Z">
@@ -186,6 +210,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201454Z" creationid="beatr" creationdate="20230512T201454Z">
         <seg>Tiempo en total&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When bubbles begin to appear on the surface of the pikelets, carefully flip them over and cook for a further 30 seconds on the other side before transferring to a plate and cover with foil to keep warm.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202045Z" creationid="beatr" creationdate="20230512T202045Z">
+        <seg>Cuando empiecen a salir burbujas en la superficie de los pikelets, dales ña vuelta cuidadodamente y deja que se hagan otros 30 segundos a cada lado antes de sacarlos en un plato y cubrirlos con lámina para mantener el calor.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
