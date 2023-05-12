@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Calories: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Polyunsaturated Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Monounsaturated Fat: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Trans Fat: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Cholesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodium: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potassium: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fiber: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Sugar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamin A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcium: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Iron: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202245Z" creationid="beatr" creationdate="20230512T202245Z">
+        <seg>Calorías: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasas poliinsaturadas: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Grasas monoinsaturadas: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Grasas trans: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Colesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodio: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potasio: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt;| &lt;t43/&gt;Fibra: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Azúcar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamina A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcio: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Hierro: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;73&lt;t2/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201501Z" creationid="beatr" creationdate="20230512T201501Z">
@@ -102,10 +110,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cooking sushi rice in your Thermomix couldn't be easier!</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202305Z" creationid="beatr" creationdate="20230512T202305Z">
+        <seg>¡Cocinar arroz para sushi en tu Thermomix no puede ser más fácil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201433Z" creationid="beatr" creationdate="20230512T201433Z">
         <seg>Comida&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Course&lt;t0/&gt; &lt;t1/&gt;healthy snacks</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202318Z" creationid="beatr" creationdate="20230512T202318Z">
+        <seg>Plato&lt;t0/&gt;de tentempiés&lt;t1/&gt;saludables</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +142,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Japanese</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202320Z" creationid="beatr" creationdate="20230512T202320Z">
+        <seg>Cocina&lt;t0/&gt;japonesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipment</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201508Z" creationid="beatr" creationdate="20230512T201508Z">
         <seg>Utensilios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Follow our &lt;t0/&gt;step by step&lt;t1/&gt; method for making perfect Thermomix sushi every time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202313Z" creationid="beatr" creationdate="20230512T202313Z">
+        <seg>Sigue nuestro &lt;t0/&gt;método paso a paso&lt;t1/&gt; para hacer siempre un sushi Thermomix perfecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a gluten free version, switch to Gluten Free self-&lt;t0/&gt;raising&lt;t1/&gt; flour.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202234Z" creationid="beatr" creationdate="20230512T202234Z">
+        <seg>Para una versión sin gluten, utilice harina sin gluten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +206,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202215Z" creationid="beatr" creationdate="20230512T202215Z">
+        <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nutrition</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202237Z" creationid="beatr" creationdate="20230512T202237Z">
+        <seg>Nutrición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Our famous Thermomix Pikelet recipe can be ready to enjoy in less than 30 minutes!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201417Z" creationid="beatr" creationdate="20230512T201417Z">
@@ -170,6 +234,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201949Z" creationid="beatr" creationdate="20230512T201949Z">
         <seg>Pon la mantequilla en el bol de tu Thermomix y pónlo a 2 minutos, a 60 grados, a la velocidad 2 o hasta que se derrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202344Z" creationid="beatr" creationdate="20230512T202344Z">
+        <seg>Tiempo de preparación: 10 minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +262,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Serve these pikelets warm with your choice of toppings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202212Z" creationid="beatr" creationdate="20230512T202212Z">
+        <seg>Sirve estos pikelets calientes con los toppings de tu elección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;24&lt;t2/&gt; &lt;t3/&gt;Pikelets</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201457Z" creationid="beatr" creationdate="20230512T201457Z">
         <seg>Raciones&lt;t0/&gt;24&lt;t1/&gt; &lt;t2/&gt;Pikelets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The sugar can be omitted from this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202226Z" creationid="beatr" creationdate="20230512T202226Z">
+        <seg>Puede prescindir del azúcar en esta receta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +294,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thermomix Sushi</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202251Z" creationid="beatr" creationdate="20230512T202251Z">
+        <seg>Sushi Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These pikelets are freezer friendly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202230Z" creationid="beatr" creationdate="20230512T202230Z">
+        <seg>Estos pikelets son aptos para el congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201454Z" creationid="beatr" creationdate="20230512T201454Z">
@@ -214,10 +318,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;30&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202412Z" creationid="beatr" creationdate="20230512T202412Z">
+        <seg>Tiempo en total&lt;t0/&gt;30&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When bubbles begin to appear on the surface of the pikelets, carefully flip them over and cook for a further 30 seconds on the other side before transferring to a plate and cover with foil to keep warm.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202045Z" creationid="beatr" creationdate="20230512T202045Z">
         <seg>Cuando empiecen a salir burbujas en la superficie de los pikelets, dales ña vuelta cuidadodamente y deja que se hagan otros 30 segundos a cada lado antes de sacarlos en un plato y cubrirlos con lámina para mantener el calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can make the pikelet mixture up to 12 hours in advance, simply keep it in the fridge until needed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T202219Z" creationid="beatr" creationdate="20230512T202219Z">
+        <seg>Puede preparar la mezcla para pikelets con hasta 12 horas de antelación, simplemente guárdela en el frigorífico hasta que la necesite.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
