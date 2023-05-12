@@ -4,6 +4,126 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>190&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201612Z" creationid="beatr" creationdate="20230512T201612Z">
+        <seg>190&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de harina&lt;t4/&gt; &lt;t5/&gt;con&lt;t6/&gt; &lt;t7/&gt;levadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Author&lt;t0/&gt; &lt;t1/&gt;Lucy &amp; Lauren</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201505Z" creationid="beatr" creationdate="20230512T201505Z">
+        <seg>Autoras&lt;t0/&gt;Lucy&lt;t1/&gt; &amp; Lauren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calories&lt;t0/&gt; &lt;t1/&gt;73&lt;t2/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201501Z" creationid="beatr" creationdate="20230512T201501Z">
+        <seg>Calorías&lt;t0/&gt;73&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201449Z" creationid="beatr" creationdate="20230512T201449Z">
+        <seg>Tiempo de cocina&lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201433Z" creationid="beatr" creationdate="20230512T201433Z">
+        <seg>Comida&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Australian</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201441Z" creationid="beatr" creationdate="20230512T201441Z">
+        <seg>Cocina&lt;t0/&gt;Australiana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201508Z" creationid="beatr" creationdate="20230512T201508Z">
+        <seg>Utensilios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Frying&lt;t0/&gt; Pan</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201512Z" creationid="beatr" creationdate="20230512T201512Z">
+        <seg>Una&lt;t0/&gt; sartén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ingredients</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201537Z" creationid="beatr" creationdate="20230512T201537Z">
+        <seg>Ingredientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Made with just a few basic ingredients from your fridge and pantry, you will love how easy this recipe is to put together!</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201427Z" creationid="beatr" creationdate="20230512T201427Z">
+        <seg>Hecha con unos cuantos ingredientes de tu nevera y despensa, ¿te encantará lo fácil que es de preparar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our famous Thermomix Pikelet recipe can be ready to enjoy in less than 30 minutes!</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201417Z" creationid="beatr" creationdate="20230512T201417Z">
+        <seg>¡Nuestra famosa receta de Pikelets en la Thermomix puede estar lista en menos de 30 minutos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201446Z" creationid="beatr" creationdate="20230512T201446Z">
+        <seg>Tiempo de preparación: 5 minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;24&lt;t2/&gt; &lt;t3/&gt;Pikelets</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201457Z" creationid="beatr" creationdate="20230512T201457Z">
+        <seg>Raciones&lt;t0/&gt;24&lt;t1/&gt; &lt;t2/&gt;Pikelets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thermomix Pikelet Recipe</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201424Z" creationid="beatr" creationdate="20230512T201424Z">
+        <seg>Receta Pikelet en la Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201454Z" creationid="beatr" creationdate="20230512T201454Z">
+        <seg>Tiempo en total&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
