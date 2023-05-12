@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>400&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sushi rice</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203311Z" creationid="beatr" creationdate="20230512T203311Z">
+        <seg>400&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;arroz de sushi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>50&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter &lt;t4/&gt;extra to grease frying &lt;t5/&gt;pan</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201814Z" creationid="beatr" creationdate="20230512T201814Z">
@@ -58,6 +66,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201746Z" creationid="beatr" creationdate="20230512T201746Z">
         <seg>60&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>950&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;water</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203336Z" creationid="beatr" creationdate="20230512T203336Z">
+        <seg>950&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;t0/&gt;Rinse&lt;t1/&gt; &lt;t2/&gt;under&lt;t3/&gt; &lt;t4/&gt;cold&lt;t5/&gt; &lt;t6/&gt;water&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203428Z" creationid="beatr" creationdate="20230512T203428Z">
+        <seg>&lt;t0/&gt;Enjuagar&lt;t1/&gt; &lt;t2/&gt;bajo&lt;t3/&gt; &lt;t4/&gt;agua&lt;t5/&gt; &lt;t6/&gt;fría&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +106,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202245Z" creationid="beatr" creationdate="20230512T202245Z">
         <seg>Calorías: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasas poliinsaturadas: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Grasas monoinsaturadas: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Grasas trans: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Colesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodio: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potasio: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt;| &lt;t43/&gt;Fibra: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Azúcar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamina A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcio: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Hierro: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Calories&lt;t0/&gt; &lt;t1/&gt;296&lt;t2/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203243Z" creationid="beatr" creationdate="20230512T203243Z">
+        <seg>Calorías&lt;t0/&gt;296&lt;t1/&gt;kcal</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place the rice basket on top of the Thermomix and weigh in the sushi rice.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203422Z" creationid="beatr" creationdate="20230512T203422Z">
+        <seg>Coloca el cestillo del arroz encima de la Thermomix y pesa el arroz para sushi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Place the water into the Thermomix bowl, insert the rice basket, secure the &lt;t0/&gt;lid&lt;t1/&gt; and cook for 20 minutes, &lt;t2/&gt;Varoma&lt;t3/&gt;, Speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203437Z" creationid="beatr" creationdate="20230512T203437Z">
+        <seg>Poner el agua en el bol del Thermomix, introducir el cestillo del arroz, asegurar la &lt;t0/&gt;tapa&lt;t1/&gt; y cocer durante 20 minutos, &lt;t2/&gt;Varoma&lt;t3/&gt;, Velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202344Z" creationid="beatr" creationdate="20230512T202344Z">
@@ -274,6 +322,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201457Z" creationid="beatr" creationdate="20230512T201457Z">
         <seg>Raciones&lt;t0/&gt;24&lt;t1/&gt; &lt;t2/&gt;Pikelets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;rolls</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203220Z" creationid="beatr" creationdate="20230512T203220Z">
+        <seg>Raciones&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;de rollito</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Very carefully remove the rice basket from the Thermomix (it will be very hot!).</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203442Z" creationid="beatr" creationdate="20230512T203442Z">
+        <seg> Quitar cuidadosamente la cesta de arroz de la Thermomix (¡estará muy caliente!).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When bubbles begin to appear on the surface of the pikelets, carefully flip them over and cook for a further 30 seconds on the other side before transferring to a plate and cover with foil to keep warm.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202045Z" creationid="beatr" creationdate="20230512T202045Z">
@@ -338,6 +402,30 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202219Z" creationid="beatr" creationdate="20230512T202219Z">
         <seg>Puede preparar la mezcla para pikelets con hasta 12 horas de antelación, simplemente guárdela en el frigorífico hasta que la necesite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>nori &lt;t0/&gt;sheets</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203352Z" creationid="beatr" creationdate="20230512T203352Z">
+        <seg>hojas de&lt;t0/&gt;nori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sushi rice &lt;t0/&gt;seasoning&lt;t1/&gt; &lt;t2/&gt;to&lt;t3/&gt; &lt;t4/&gt;drizzle</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203343Z" creationid="beatr" creationdate="20230512T203343Z">
+        <seg>arroz sushi &lt;t0/&gt;sazonar&lt;t1/&gt; &lt;t2/&gt;a&lt;t3/&gt; &lt;t4/&gt;rociar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>your&lt;t0/&gt; &lt;t1/&gt;choice&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;fillings</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T203407Z" creationid="beatr" creationdate="20230512T203407Z">
+        <seg>tu&lt;t0/&gt; &lt;t1/&gt;elección&lt;t2/&gt; &lt;t3/&gt;de&lt;t4/&gt; &lt;t5/&gt;rellenos</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
