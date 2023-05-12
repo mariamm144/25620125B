@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>1/2&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201758Z" creationid="beatr" creationdate="20230512T201758Z">
+        <seg>1/2&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>190&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201612Z" creationid="beatr" creationdate="20230512T201612Z">
-        <seg>190&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de harina&lt;t4/&gt; &lt;t5/&gt;con&lt;t6/&gt; &lt;t7/&gt;levadura</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201730Z" creationid="beatr" creationdate="20230512T201612Z">
+        <seg>190&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de harina&lt;t4/&gt; &lt;t5/&gt;con&lt;t6/&gt; &lt;t7/&gt;levadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;egg</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201751Z" creationid="beatr" creationdate="20230512T201751Z">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;huevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>200&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201720Z" creationid="beatr" creationdate="20230512T201720Z">
+        <seg>200 ml de leche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;tablespoons&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201704Z" creationid="beatr" creationdate="20230512T201704Z">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;cuchadaras de&lt;t2/&gt; &lt;t3/&gt;azucar&lt;t4/&gt; &lt;t5/&gt;en polvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>50&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter &lt;t4/&gt;extra to grease frying &lt;t5/&gt;pan</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201814Z" creationid="beatr" creationdate="20230512T201814Z">
+        <seg>50&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla&lt;t4/&gt;extra para engrasar &lt;t5/&gt;la sartén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>60&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201746Z" creationid="beatr" creationdate="20230512T201746Z">
+        <seg>60&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201836Z" creationid="beatr" creationdate="20230512T201836Z">
+        <seg>Instrucciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Made with just a few basic ingredients from your fridge and pantry, you will love how easy this recipe is to put together!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201427Z" creationid="beatr" creationdate="20230512T201427Z">
@@ -90,6 +146,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201417Z" creationid="beatr" creationdate="20230512T201417Z">
         <seg>¡Nuestra famosa receta de Pikelets en la Thermomix puede estar lista en menos de 30 minutos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Place the butter into your Thermomix bowl and cook for 2 minutes, 60 degrees, speed 2 or until melted.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230512T201949Z" creationid="beatr" creationdate="20230512T201949Z">
+        <seg>Pon la mantequilla en el bol de tu Thermomix y pónlo a 2 minutos, a 60 grados, a la velocidad 2 o hasta que se derrita.</seg>
       </tuv>
     </tu>
     <tu>
