@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CourseDessert</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T162204Z" creationid="mmolc" creationdate="20230519T162204Z">
+        <seg>Curso: Postre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Australian</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201441Z" creationid="beatr" creationdate="20230512T201441Z">
