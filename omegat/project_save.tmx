@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>1 egg</seg>
+      </tuv>
+      <tuv lang="es" changeid="Dell" changedate="20140516T112044Z" creationid="Dell" creationdate="20140516T112044Z">
+        <seg>1 huevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Preheat oven to 180 degrees celsius (fan-forced).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T134004Z" creationid="mmolc" creationdate="20230519T134004Z">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Precalentar el horno a 180 grados Celsius (con la ventilación a tope).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1/2&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;salt</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201758Z" creationid="beatr" creationdate="20230512T201758Z">
@@ -13,7 +29,39 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>10.&lt;t0/&gt;           &lt;t1/&gt;Bake for 8 - 10 minutes or until the sugar cookies are beginning to turn golden on the edge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>10.&lt;t0/&gt; &lt;t1/&gt;Hornea durante 8 - 10 minutos o hasta que las galletas de azúcar empiecen a dorarse por los bordes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>11.&lt;t0/&gt;           &lt;t1/&gt;Allow to cool on the tray for 5 minutes before transferring to a wire tray to cool completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>11.&lt;t0/&gt; &lt;t1/&gt;Deja enfriar en la bandeja durante 5 minutos antes de transferir a una bandeja de rejilla para enfriar completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>12.&lt;t0/&gt;           &lt;t1/&gt;Once cool, decorate as desired.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>12.&lt;t0/&gt; &lt;t1/&gt;Una vez frías, decorar al gusto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>170 grams caster sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T133439Z" creationid="mmolc" creationdate="20230519T133439Z">
+        <seg>170 gramos de azúcar glas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>190&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201730Z" creationid="beatr" creationdate="20230512T201612Z">
@@ -21,7 +69,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;egg</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201751Z" creationid="beatr" creationdate="20230512T201751Z">
@@ -29,7 +77,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Place the butter and caster sugar into the Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T134409Z" creationid="mmolc" creationdate="20230519T134409Z">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Coloca la mantequilla y el azúcar glas en el cuenco de Thermomix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>200&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;milk</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201720Z" creationid="beatr" creationdate="20230512T201720Z">
@@ -37,7 +93,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;tablespoons&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201704Z" creationid="beatr" creationdate="20230512T201704Z">
@@ -45,7 +101,31 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>3 x Baking Trays</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132915Z" creationid="mmolc" creationdate="20230519T132915Z">
+        <seg>3 bandejas de horno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Add the condensed milk and mix for 30 seconds, Speed 5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T134810Z" creationid="mmolc" creationdate="20230519T134810Z">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Añade la leche condensada y remuévelo durante 30 segundos, a la velocidad 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>395 grams sweetened condensed milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T133502Z" creationid="mmolc" creationdate="20230519T133502Z">
+        <seg>395 gramos de leche condensada azucarada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>400&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sushi rice</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203311Z" creationid="beatr" creationdate="20230512T203311Z">
@@ -53,7 +133,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>500 grams butter softened</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T133102Z" creationid="mmolc" creationdate="20230519T133102Z">
+        <seg>500 gramos de mantequilla derretida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>50&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter &lt;t4/&gt;extra to grease frying &lt;t5/&gt;pan</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201814Z" creationid="beatr" creationdate="20230512T201814Z">
@@ -61,7 +149,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>60&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201746Z" creationid="beatr" creationdate="20230512T201746Z">
@@ -69,7 +157,31 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>750 grams self-raising flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T133627Z" creationid="mmolc" creationdate="20230519T133605Z">
+        <seg>750 gramos de harina leudante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>8.&lt;t0/&gt;              &lt;t1/&gt;Roll the dough on your bench until it's approximately 4 mm thick and use the cutter of your choice to make shapes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>8.&lt;t0/&gt; &lt;t1/&gt;Enrolla la masa en la encimera hasta que tenga aproximadamente 4 mm de grosor y utiliza el cortador de tu elección para hacer formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>9.&lt;t0/&gt;              &lt;t1/&gt;Place the cut out sugar cookies onto your prepared trays and continue until all of the dough has been used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>9.&lt;t0/&gt; &lt;t1/&gt;Coloca las galletas de azúcar recortadas en las bandejas preparadas y continúa hasta que hayas utilizado toda la masa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>950&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;water</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203336Z" creationid="beatr" creationdate="20230512T203336Z">
@@ -77,7 +189,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Rinse&lt;t1/&gt; &lt;t2/&gt;under&lt;t3/&gt; &lt;t4/&gt;cold&lt;t5/&gt; &lt;t6/&gt;water&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203428Z" creationid="beatr" creationdate="20230512T203428Z">
@@ -85,7 +197,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Sprinkle&lt;t1/&gt; &lt;t2/&gt;it&lt;t3/&gt; &lt;t4/&gt;with&lt;t5/&gt; a &lt;t6/&gt;tiny&lt;t7/&gt; &lt;t8/&gt;amount&lt;t9/&gt; &lt;t10/&gt;of&lt;t11/&gt; &lt;t12/&gt;water&lt;t13/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203510Z" creationid="beatr" creationdate="20230512T203510Z">
@@ -93,7 +205,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;Grease and line 3 baking trays and set aside (or as many trays as will fit in your oven).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T134313Z" creationid="mmolc" creationdate="20230519T134313Z">
+        <seg>&lt;t2/&gt;Aceita y forra 3 bandejas (o cuantas te quepan en el horno) y deja a un lado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;egg&lt;t3/&gt; and a sprinkle of salt and mix for 10 seconds on speed 5.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202024Z" creationid="beatr" creationdate="20230512T202024Z">
@@ -101,7 +221,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Author&lt;t0/&gt; &lt;t1/&gt;Lucy &amp; Lauren</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201505Z" creationid="beatr" creationdate="20230512T201505Z">
@@ -109,7 +229,31 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>Author&lt;t0/&gt;Lucy &amp; Lauren</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132823Z" creationid="mmolc" creationdate="20230519T132823Z">
+        <seg>Autor:&lt;t0/&gt;Lucy &amp; Lauren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories82&lt;t0/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132817Z" creationid="mmolc" creationdate="20230519T132817Z">
+        <seg>Calorías: 82&lt;t0/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;120&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;17&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;2&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;5&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;3&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;65&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;19&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;7&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;167&lt;t40/&gt;IU&lt;t41/&gt; | Calcium: &lt;t42/&gt;15&lt;t43/&gt;mg&lt;t44/&gt; | Iron: &lt;t45/&gt;1&lt;t46/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T130018Z" creationid="mmolc" creationdate="20230519T130018Z">
+        <seg>Calorías: &lt;t0/&gt;120&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;17&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;2&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;5&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;3&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Grasas trans: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;65&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;19&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Azúcares: &lt;t36/&gt;7&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;167&lt;t40/&gt;IU&lt;t41/&gt; | Calcio: &lt;t42/&gt;15&lt;t43/&gt;mg&lt;t44/&gt; | Hierro: &lt;t45/&gt;1&lt;t46/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Polyunsaturated Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Monounsaturated Fat: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Trans Fat: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Cholesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodium: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potassium: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fiber: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Sugar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamin A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcium: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Iron: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202245Z" creationid="beatr" creationdate="20230512T202245Z">
@@ -117,7 +261,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;296&lt;t2/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203243Z" creationid="beatr" creationdate="20230512T203243Z">
@@ -125,7 +269,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;73&lt;t2/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201501Z" creationid="beatr" creationdate="20230512T201501Z">
@@ -133,7 +277,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Continue until you have used &lt;t0/&gt;all of&lt;t1/&gt; the pikelet mixture.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202204Z" creationid="beatr" creationdate="20230512T202204Z">
@@ -141,7 +285,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>Cook Time12 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132610Z" creationid="mmolc" creationdate="20230519T132529Z">
+        <seg>Tiempo de cocina: 12&lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201449Z" creationid="beatr" creationdate="20230512T201449Z">
@@ -149,7 +301,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Cooking sushi rice in your Thermomix couldn't be easier!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202305Z" creationid="beatr" creationdate="20230512T202305Z">
@@ -157,7 +309,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201433Z" creationid="beatr" creationdate="20230512T201433Z">
@@ -165,7 +317,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;healthy snacks</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202318Z" creationid="beatr" creationdate="20230512T202318Z">
@@ -173,7 +325,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>CourseBiscuits, Biscuits and Cookies, cookies</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132255Z" creationid="mmolc" creationdate="20230519T132255Z">
+        <seg>Corriente: Galletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Australian</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201441Z" creationid="beatr" creationdate="20230512T201441Z">
@@ -181,7 +341,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Japanese</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202320Z" creationid="beatr" creationdate="20230512T202320Z">
@@ -189,7 +349,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>CuisineAustralian</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132307Z" creationid="mmolc" creationdate="20230519T132307Z">
+        <seg>Cocina: Australiana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dampen the uncovered end of the nori sheet with water.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203523Z" creationid="beatr" creationdate="20230512T203523Z">
@@ -197,7 +365,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Drizzle over the sushi seasoning and fluff with a fork up and allow to cool slightly.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203455Z" creationid="beatr" creationdate="20230512T203455Z">
@@ -205,7 +373,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Equipment</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201508Z" creationid="beatr" creationdate="20230512T201508Z">
@@ -213,7 +381,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Follow our &lt;t0/&gt;step by step&lt;t1/&gt; method for making perfect Thermomix sushi every time.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202313Z" creationid="beatr" creationdate="20230512T202313Z">
@@ -221,7 +389,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>For a gluten free version, switch to Gluten Free self-&lt;t0/&gt;raising&lt;t1/&gt; flour.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202234Z" creationid="beatr" creationdate="20230512T202234Z">
@@ -229,7 +397,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Frying&lt;t0/&gt; Pan</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201512Z" creationid="beatr" creationdate="20230512T201512Z">
@@ -237,7 +405,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>I like to use a metal egg flip to transfer my sugar cookies from the bench to my baking tray.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>A mí me gusta utilizar una paleta de metal para pasar las galletas de azúcar de la mesa a la bandeja del horno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ingredients</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201537Z" creationid="beatr" creationdate="20230512T201537Z">
@@ -245,7 +421,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Instructions</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201836Z" creationid="beatr" creationdate="20230512T201836Z">
@@ -253,7 +429,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>It's very important to chill your dough for 45 minutes - 1 hour, as if you don't it will be too soft to roll and cut into shapes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>Es muy importante enfriar la masa entre 45 minutos y 1 hora, ya que de lo contrario estará demasiado blanda para extenderla y cortarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Made with just a few basic ingredients from your fridge and pantry, you will love how easy this recipe is to put together!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201427Z" creationid="beatr" creationdate="20230512T201427Z">
@@ -261,7 +445,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>Mix for 1 minute, Speed 5 (scrape down the sides after 30 seconds).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T134714Z" creationid="mmolc" creationdate="20230519T134714Z">
+        <seg>Remuévelo durante 1 minuto a la velocidad 5 (raspa los laterales del cuenco pasados los 30 segundos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202215Z" creationid="beatr" creationdate="20230512T202215Z">
@@ -269,7 +461,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Nutrition</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202237Z" creationid="beatr" creationdate="20230512T202237Z">
@@ -277,7 +469,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Our famous Thermomix Pikelet recipe can be ready to enjoy in less than 30 minutes!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201417Z" creationid="beatr" creationdate="20230512T201417Z">
@@ -285,7 +477,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>Our super easy Thermomix Condensed Milk Cookies are the perfect biscuit jar filler!</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T130937Z" creationid="mmolc" creationdate="20230519T130937Z">
+        <seg>¡Nuestras galletas súper fáciles de leche condensada con Thermomix son perfectas para llenar el bote!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place a nori sheet on top of the sushi mat with the rough side facing up.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203506Z" creationid="beatr" creationdate="20230512T203506Z">
@@ -293,7 +493,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Place a sushi bamboo mat (these can be bought from the Asian section of the supermarket) onto a flat bench.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203501Z" creationid="beatr" creationdate="20230512T203501Z">
@@ -301,7 +501,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Place the butter into your Thermomix bowl and cook for 2 minutes, 60 degrees, speed 2 or until melted.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201949Z" creationid="beatr" creationdate="20230512T201949Z">
@@ -309,7 +509,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Place the rice basket on top of the Thermomix and weigh in the sushi rice.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203422Z" creationid="beatr" creationdate="20230512T203422Z">
@@ -317,7 +517,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Place the water into the Thermomix bowl, insert the rice basket, secure the &lt;t0/&gt;lid&lt;t1/&gt; and cook for 20 minutes, &lt;t2/&gt;Varoma&lt;t3/&gt;, Speed 4.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203437Z" creationid="beatr" creationdate="20230512T203437Z">
@@ -325,7 +525,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Place your filling in a thin line in the &lt;t0/&gt;centre&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203519Z" creationid="beatr" creationdate="20230512T203519Z">
@@ -333,7 +533,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>Prep Time10 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132615Z" creationid="mmolc" creationdate="20230519T132503Z">
+        <seg>Tiempo de preparación: 10&lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202344Z" creationid="beatr" creationdate="20230512T202344Z">
@@ -341,7 +549,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201446Z" creationid="beatr" creationdate="20230512T201446Z">
@@ -349,7 +557,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>RECIPE NOTES &amp; TIPS</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203537Z" creationid="beatr" creationdate="20230512T203537Z">
@@ -357,7 +565,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Remove the sushi rice from the basket once cooked – &lt;t0/&gt;if you leave the sushi rice to sit in the rice basket after the cooking time, it will become gluggy.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203544Z" creationid="beatr" creationdate="20230512T203544Z">
@@ -365,7 +573,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, speed 4.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202031Z" creationid="beatr" creationdate="20230512T202031Z">
@@ -373,7 +581,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Serve these pikelets warm with your choice of toppings.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202212Z" creationid="beatr" creationdate="20230512T202212Z">
@@ -381,7 +589,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>Servings100 &lt;t0/&gt;cookies</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132801Z" creationid="mmolc" creationdate="20230519T132801Z">
+        <seg>Porciones: 100 &lt;t0/&gt;galletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;24&lt;t2/&gt; &lt;t3/&gt;Pikelets</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201457Z" creationid="beatr" creationdate="20230512T201457Z">
@@ -389,7 +605,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;rolls</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203220Z" creationid="beatr" creationdate="20230512T203220Z">
@@ -397,7 +613,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Spread a thin layer of cooked sushi rice (approximately ½ cup) over the sheet of nori (leaving a 2cm gap at the top of the sheet – to assist with sealing) and press down with the flat side of a spoon.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203515Z" creationid="beatr" creationdate="20230512T203515Z">
@@ -405,7 +621,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Start from the end without the gap and roll tightly together (it takes a bit of practice).</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203527Z" creationid="beatr" creationdate="20230512T203527Z">
@@ -413,7 +629,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>The mixture will be very soft once it has been combined, and you will need a spatula to help remove it from your Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>La mezcla será muy suave una vez que se ha combinado, y necesitará una espátula para ayudar a sacarlo de su tazón Thermomix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The sugar can be omitted from this recipe.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202226Z" creationid="beatr" creationdate="20230512T202226Z">
@@ -421,7 +645,23 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>The time it takes to cream your butter with the sugar mixture can vary, especially if your butter hasn't quite been bought to room temperature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>El tiempo que se tarda en juntar la mantequilla con la mezcla de azúcar puede variar, especialmente si su mantequilla no ha sido comprada del todo a temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thermomix Condensed Milk Cookies</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T130113Z" creationid="mmolc" creationdate="20230519T130113Z">
+        <seg>Galletas de leche condensada Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Pikelet Recipe</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201424Z" creationid="beatr" creationdate="20230512T201424Z">
@@ -429,7 +669,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>Thermomix Sugar Cookies Recipe</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T125338Z" creationid="mmolc" creationdate="20230519T125338Z">
+        <seg>Receta Thermomix de galletas con azúcar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Sushi</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202251Z" creationid="beatr" creationdate="20230512T202251Z">
@@ -437,7 +685,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>These pikelets are freezer friendly.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202230Z" creationid="beatr" creationdate="20230512T202230Z">
@@ -445,7 +693,39 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>They are made from just 4 basic ingredients and you will get around 100 biscuits from a batch!</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T131218Z" creationid="mmolc" creationdate="20230519T130951Z">
+        <seg>¡Están hechas de tan solo 4 ingredientes básicos, y obtendrás unas 100 galletas de una!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This easy Thermomix Sugar Cookies Recipe makes PERFECT cut out biscuits that everyone will love to decorate - and eat!</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T160259Z" creationid="mmolc" creationdate="20230519T160259Z">
+        <seg>¡Esta receta Thermomix de galletas con azúcar permite elaborar galletas con un recorte PERFECTO que todos disfrutarán decorando y comiendo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is completely normal.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>Esto es completamente normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time20 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T132719Z" creationid="mmolc" creationdate="20230519T132719Z">
+        <seg>Tiempo total: 20&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201454Z" creationid="beatr" creationdate="20230512T201454Z">
@@ -453,7 +733,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;30&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202412Z" creationid="beatr" creationdate="20230512T202412Z">
@@ -461,7 +741,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Transfer the rice to a large plate.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203447Z" creationid="beatr" creationdate="20230512T203447Z">
@@ -469,7 +749,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>Very carefully remove the rice basket from the Thermomix (it will be very hot!).</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203442Z" creationid="beatr" creationdate="20230512T203442Z">
@@ -477,7 +757,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>When bubbles begin to appear on the surface of the pikelets, carefully flip them over and cook for a further 30 seconds on the other side before transferring to a plate and cover with foil to keep warm.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202045Z" creationid="beatr" creationdate="20230512T202045Z">
@@ -485,7 +765,23 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>You can add 100s and 1000s to the dough, mix through with a spatula before chilling the dough in the fridge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>Puedes añadir bolitas multicolores de repostería a la masa, mezclar con una espátula antes de enfriar la masa en la nevera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can freeze both the uncooked dough and the biscuits for up to one month.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>Puedes congelar tanto la masa cruda como las galletas hasta un mes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can make the pikelet mixture up to 12 hours in advance, simply keep it in the fridge until needed.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202219Z" creationid="beatr" creationdate="20230512T202219Z">
@@ -493,7 +789,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>any flavourings or add-ins you like (see notes)</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T133804Z" creationid="mmolc" creationdate="20230519T133804Z">
+        <seg>cualquier condimento o añadido que desees (mirar en Notas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nori &lt;t0/&gt;sheets</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203352Z" creationid="beatr" creationdate="20230512T203352Z">
@@ -501,7 +805,15 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
+        <seg>pinch salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="Verónica Berenguer" changedate="20190529T094723Z" creationid="Usuario" creationdate="20190517T145741Z">
+        <seg>Una pizca de sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sushi rice &lt;t0/&gt;seasoning&lt;t1/&gt; &lt;t2/&gt;to&lt;t3/&gt; &lt;t4/&gt;drizzle</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203343Z" creationid="beatr" creationdate="20230512T203343Z">
@@ -509,7 +821,7 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="en">
         <seg>your&lt;t0/&gt; &lt;t1/&gt;choice&lt;t2/&gt; &lt;t3/&gt;of&lt;t4/&gt; &lt;t5/&gt;fillings</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203407Z" creationid="beatr" creationdate="20230512T203407Z">
