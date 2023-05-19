@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add another 250g of the self-raising flour and mix for a further 20 seconds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T164439Z" creationid="mmolc" creationdate="20230519T164439Z">
+        <seg>Añade otros 250g de harina con levadura y remuévelo durante 20 segundos más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;egg&lt;t3/&gt; and a sprinkle of salt and mix for 10 seconds on speed 5.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202024Z" creationid="beatr" creationdate="20230512T202024Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202031Z" creationid="beatr" creationdate="20230512T202031Z">
         <seg> Raspa las paredes de los lados del bol y mezcla durante otros 5 minutos en la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of the bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T164249Z" creationid="mmolc" creationdate="20230519T164249Z">
+        <seg> Raspa las paredes de los lados del bol.</seg>
       </tuv>
     </tu>
     <tu>
