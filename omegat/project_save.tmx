@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Add the egg, milk and vanilla extract and mix for 10 seconds, speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T162654Z" creationid="mmolc" creationdate="20230519T162654Z">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Añade el huevo, la leche y el extracto de vainilla y remuévelo durante 10 segundos en la velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>300 grams plain flour</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162417Z" creationid="mmolc" creationdate="20230519T162417Z">
@@ -190,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Scrape down the sides of the bowl and add the plain flour and mix for 10 seconds, speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T162700Z" creationid="mmolc" creationdate="20230519T162700Z">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Raspa los laterales de tu cuenco, añade la harina y remuévelo durante 10 segundos en la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>400&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sushi rice</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203311Z" creationid="beatr" creationdate="20230512T203311Z">
         <seg>400&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;arroz de sushi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Mix for a further 2 minutes using the dough/interval function.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T162704Z" creationid="mmolc" creationdate="20230519T162704Z">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Remuévelo durante 2 minutos más usando la función de masa/intervalos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Turn the dough out onto your bench and divide into two.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T162707Z" creationid="mmolc" creationdate="20230519T162707Z">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Vuelca la masa en tu encimera y divídela en dos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>60&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201746Z" creationid="beatr" creationdate="20230512T201746Z">
         <seg>60&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>7.&lt;t0/&gt;              &lt;t1/&gt;Once the dough has chilled, preheat your oven to 180 degrees celsius (fan forced) and line two trays with baking paper.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T163523Z" creationid="mmolc" creationdate="20230519T163523Z">
+        <seg>7.&lt;t0/&gt;              &lt;t1/&gt;Una vez que la masa se haya enfriado, precalienta el horno a 180 grados Celsius (con la ventilación a tope) y forra dos bandejas con papel de cocina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +466,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162204Z" creationid="mmolc" creationdate="20230519T162204Z">
         <seg>Curso: Postre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cover and place in the fridge for 45 minutes - 1 hour to chill.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T162717Z" creationid="mmolc" creationdate="20230519T162717Z">
+        <seg>Cúbrela y colócala en la nevera para 45 minutos-1 hora para que se enfríe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +714,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203544Z" creationid="beatr" creationdate="20230512T203544Z">
         <seg>Quitar el arroz de sushi de la cesta &lt;t0/&gt;si dejas el arroz de sushi en la cesta tras el tiempo de cocción, se quedará pegajoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of the Thermomix bowl and mix for a further 20 seconds, speed 3 or until pale and creamy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T162648Z" creationid="mmolc" creationdate="20230519T162648Z">
+        <seg>Raspa los laterales de tu cuento de Thermomix y remueve todo durante 20 segundos más en la velocidad 3 o hasta que tenga un aspecto claro y cremoso. </seg>
       </tuv>
     </tu>
     <tu>
