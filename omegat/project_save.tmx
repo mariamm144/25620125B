@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Add 250g of the self-raising flour and mix for 20 seconds, Speed 6.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230519T164227Z" creationid="mmolc" creationdate="20230519T164227Z">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Añade 250g de harina con levadura remuévelo durante 20 segundos, a la velocidad 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Scrape down the sides of the bowl and add the plain flour and mix for 10 seconds, speed 4.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162700Z" creationid="mmolc" creationdate="20230519T162700Z">
