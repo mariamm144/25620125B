@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>9.&lt;t0/&gt;              &lt;t1/&gt;Store in an airtight container or freeze indivually wrapped slices in the freeer for up to 3 months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T234644Z" creationid="mmolc" creationdate="20230520T234644Z">
+        <seg>9.&lt;t0/&gt;              &lt;t1/&gt;Consérvalos en un recipiente hermético o congélalos envueltos individualmente en el frigorífico hasta 3 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>90&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173732Z" creationid="beatr" creationdate="20230520T173732Z">
