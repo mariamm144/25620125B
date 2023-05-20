@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Transfer the rice from the rice basket to a flat plate – &lt;t0/&gt;this &lt;t1/&gt;allow&lt;t2/&gt; the rice to begin to cool and also makes it easier to drizzle with the sushi seasoning and fluff with a fork.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T120625Z" creationid="beatr" creationdate="20230520T120625Z">
+        <seg>Transferir el arroz desde la cesta a un plato llano – &lt;t0/&gt;esto &lt;t1/&gt;permite&lt;t2/&gt;que el arroz empiece  a enfriarse y también hace más fácil salpicar con el condimento de sushi y borra con un tenedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Transfer the rice to a large plate.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203447Z" creationid="beatr" creationdate="20230512T203447Z">
