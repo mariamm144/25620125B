@@ -1399,6 +1399,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This recipe will make approximately 100 cookies.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T191529Z" creationid="mmolc" creationdate="20230520T191529Z">
+        <seg>Con esta receta tendrás aproximadamente 100 galletas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To make multiple flavoured biscuits from the one dough, split your dough and place into bowls.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T191235Z" creationid="mmolc" creationdate="20230520T191235Z">
@@ -1495,6 +1503,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We use a teaspoon to scoop up the dough.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T191336Z" creationid="mmolc" creationdate="20230520T191336Z">
+        <seg>Utilizamos una cucharilla para recoger la masa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When bubbles begin to appear on the surface of the pikelets, carefully flip them over and cook for a further 30 seconds on the other side before transferring to a plate and cover with foil to keep warm.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202045Z" creationid="beatr" creationdate="20230512T202045Z">
@@ -1523,6 +1539,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
         <seg>Puedes congelar tanto la masa cruda como las galletas hasta un mes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can make larger biscuits however the baking time will vary and you will get less cookies.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T191435Z" creationid="mmolc" creationdate="20230520T191435Z">
+        <seg>Puedes hacer galletas más grandes, pero el tiempo de horneado variará y obtendrás menos galletas.</seg>
       </tuv>
     </tu>
     <tu>
