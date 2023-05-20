@@ -1327,6 +1327,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix Blueberry Muffins</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195045Z" creationid="mmolc" creationdate="20230520T195045Z">
+        <seg>Muffins de arándanos con Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Cheese and Vegemite Scrolls</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T140615Z" creationid="beatr" creationdate="20230520T140615Z">
