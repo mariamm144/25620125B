@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;Cheese</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173943Z" creationid="beatr" creationdate="20230520T173943Z">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de queso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>160&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sultanas</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T130532Z" creationid="beatr" creationdate="20230520T130532Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133439Z" creationid="mmolc" creationdate="20230519T133439Z">
         <seg>170 gramos de azúcar glas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>170&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173830Z" creationid="beatr" creationdate="20230520T173830Z">
+        <seg>170&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de leche</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +942,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line an oven tray with baking paper.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T174122Z" creationid="beatr" creationdate="20230520T174122Z">
+        <seg> Precalienta el horno a 210 grados centígrados (con ventilador) y forra una bandeja de horno con papel de hornear.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prep Time10 &lt;t0/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132615Z" creationid="mmolc" creationdate="20230519T132503Z">
@@ -1346,6 +1371,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203407Z" creationid="beatr" creationdate="20230512T203407Z">
         <seg>tu&lt;t0/&gt; &lt;t1/&gt;elección&lt;t2/&gt; &lt;t3/&gt;de&lt;t4/&gt; &lt;t5/&gt;rellenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>¼&lt;t0/&gt; &lt;t1/&gt;cup&lt;t2/&gt; &lt;t3/&gt;Vegemite&lt;t4/&gt; &lt;t5/&gt;at &lt;t6/&gt;room&lt;t7/&gt; &lt;t8/&gt;temperature</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173922Z" creationid="beatr" creationdate="20230520T173922Z">
+        <seg>¼&lt;t0/&gt; &lt;t1/&gt;taza&lt;t2/&gt; &lt;t3/&gt;de Vegemite&lt;t4/&gt; &lt;t5/&gt;a &lt;t6/&gt;temperatura&lt;t7/&gt; &lt;t8/&gt;ambiente</seg>
       </tuv>
     </tu>
     <tu>
