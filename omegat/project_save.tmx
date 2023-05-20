@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the final 250g and mix for 20 seconds, Speed 6 (please note that you'll need to use the spatula to assist with the mixing).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T183822Z" creationid="mmolc" creationdate="20230520T183822Z">
+        <seg>Añade los 250g restantes y remueve durante 20 segundos, en la velocidad 6 (por favor, ten en cuenta que necesitarás la espátula para removerlo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the milk and mix for 7 seconds on Speed 4 to combine.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174803Z" creationid="beatr" creationdate="20230520T174803Z">
