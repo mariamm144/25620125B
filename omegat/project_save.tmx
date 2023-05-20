@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 4 or until well combined.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T232806Z" creationid="mmolc" creationdate="20230520T232806Z">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Raspa los laterales de tu cuenco de Thermomix y remueve todo en la velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>400&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sushi rice</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203311Z" creationid="beatr" creationdate="20230512T203311Z">
