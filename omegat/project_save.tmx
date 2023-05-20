@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Place the butter and caster sugar into your Thermomix bowl and mix for 30 seconds, Speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T232240Z" creationid="mmolc" creationdate="20230520T232240Z">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Coloca la mantequilla en el cuenco de Thermomix  y remuévela durante 30 segundos en la velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Scrape down the sides of your Thermomix bowl and add the caster sugar, baking powder and salt and mix for 20 seconds, speed 3.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162644Z" creationid="mmolc" creationdate="20230519T162644Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T200856Z" creationid="mmolc" creationdate="20230520T200856Z">
         <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Añade la harina con levadura, el azúcar molido, leche, huevos el extracto de vainilla, y remueve durante 10 segundos en la velocidad 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Add the vanilla extract, milk, eggs and self raising flour and mix for 10 seconds, Speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T232511Z" creationid="mmolc" creationdate="20230520T232511Z">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Añade el extracto de vainilla, leche, huevos y la harina con levadura, y remuévelo durante 10 segundos, en la velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1319,6 +1335,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scrape down the sides of the bowl and mix for a further 20 seconds, Speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T232316Z" creationid="mmolc" creationdate="20230520T232316Z">
+        <seg>Raspa las paredes de los lados del bol y mezcla durante otros 20 segundos en la velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, speed 4.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202031Z" creationid="beatr" creationdate="20230512T202031Z">
@@ -1419,6 +1443,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203220Z" creationid="beatr" creationdate="20230512T203220Z">
         <seg>Raciones&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;de rollito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set aside until needed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T232151Z" creationid="mmolc" creationdate="20230520T232151Z">
+        <seg>Déjalo apartado hasta que se necesite.</seg>
       </tuv>
     </tu>
     <tu>
