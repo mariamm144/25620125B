@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mix on for 10 minutes, 100 degrees, Speed 1. &lt;t0/&gt;It needs to heat for this long to allow the mixture to thicken enough.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T132644Z" creationid="beatr" creationdate="20230520T132644Z">
+        <seg>Meclar durante 10 minutos,  a 100 grados, a la velocidad 1. &lt;t0/&gt; Necesita calentarse por tanto tiempo para que la mezcla se espese lo suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202215Z" creationid="beatr" creationdate="20230512T202215Z">
