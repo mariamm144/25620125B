@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bake in oven for 25 minutes or until golden brown on top and cooked through.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T180220Z" creationid="beatr" creationdate="20230520T180220Z">
+        <seg>SBake in oven for 25 minutes or until golden brown on top and cooked through.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Baking Trays x 2</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162342Z" creationid="mmolc" creationdate="20230519T162342Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203501Z" creationid="beatr" creationdate="20230512T203501Z">
         <seg>Pon una esterilla de bambú de sushi (se pueden comprar en la sección asiática en el supermercado) en un bench cuadrada (de vaca).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place on a baking tray and sprinkle with the remaining grated cheese.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T180044Z" creationid="beatr" creationdate="20230520T180044Z">
+        <seg>Colocar en la bandeja de hornear y espolvorear con el queso rallado restante</seg>
       </tuv>
     </tu>
     <tu>
