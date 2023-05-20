@@ -1439,6 +1439,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your dough will be soft, however if making these Scrolls in a warm climate, we suggest placing the dough into the fridge for 20 minutes to firm before slicing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T181315Z" creationid="beatr" creationdate="20230520T181315Z">
+        <seg>Tu masa será suave, sin embargo, si haces estos rollitos en un clima cálido, sugerimos colocar la masa en la nevera durante 20 minutos para endurecerla antes de cortar..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>any flavourings or add-ins you like (see notes)</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133804Z" creationid="mmolc" creationdate="20230519T133804Z">
