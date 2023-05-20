@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories212&lt;t0/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231449Z" creationid="mmolc" creationdate="20230520T231449Z">
+        <seg>Calorías: 212&lt;t0/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories283&lt;t0/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195508Z" creationid="mmolc" creationdate="20230520T195508Z">
@@ -1343,6 +1351,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings10 &lt;t0/&gt;pieces</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231436Z" creationid="mmolc" creationdate="20230520T231436Z">
+        <seg>Porciones: 10 &lt;t0/&gt;trozos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings100 &lt;t0/&gt;cookies</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132801Z" creationid="mmolc" creationdate="20230519T132801Z">
@@ -1883,6 +1899,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195901Z" creationid="mmolc" creationdate="20230520T195901Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 cucharadita de extracto de vainilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 x 20cm round cake tin</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231544Z" creationid="mmolc" creationdate="20230520T231544Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;molde redondo 1 x 20 cm</seg>
       </tuv>
     </tu>
     <tu>
