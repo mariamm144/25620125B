@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow to cool for 10 minutes on the baking trays before transferring to a wire rack to cool completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T184947Z" creationid="mmolc" creationdate="20230520T184947Z">
+        <seg>Deja enfriar todo en las bandejas durante 10 minutos antes de transferirlo a una bandeja de rejilla para que se enfríe completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author&lt;t0/&gt; &lt;t1/&gt;Lucy &amp; Lauren</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201505Z" creationid="beatr" creationdate="20230512T201505Z">
