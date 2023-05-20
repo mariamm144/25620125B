@@ -344,8 +344,8 @@
       <tuv lang="en">
         <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Roll into teaspoon-sized balls and place onto the prepared baking trays.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230520T184225Z" creationid="mmolc" creationdate="20230520T184225Z">
-        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Formar bolas del tamaño de una cucharadita y colocarlas en las bandejas de horno preparadas..</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T184358Z" creationid="mmolc" creationdate="20230520T184225Z">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Forma bolas del tamaño de una cucharadita y colócalas en las bandejas de horno preparadas..</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +362,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201746Z" creationid="beatr" creationdate="20230512T201746Z">
         <seg>60&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>7.&lt;t0/&gt;              &lt;t1/&gt;Bake for 10-12 minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T184504Z" creationid="mmolc" creationdate="20230520T184504Z">
+        <seg>7.&lt;t0/&gt;              &lt;t1/&gt;Hornear durante 10-12 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1083,6 +1091,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201446Z" creationid="beatr" creationdate="20230512T201446Z">
         <seg>Tiempo de preparación: 5 minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press down lightly with a fork.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T184422Z" creationid="mmolc" creationdate="20230520T184340Z">
+        <seg>Presiónalo ligeramente con un tenedor.</seg>
       </tuv>
     </tu>
     <tu>
