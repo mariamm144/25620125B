@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's important to not over mix the ingredients as this will result in a dense muffin.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T224608Z" creationid="mmolc" creationdate="20230520T224410Z">
+        <seg>Es importante no mezclar demasiado los ingredientes, ya que el resultado será una muffin denso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It's very important to chill your dough for 45 minutes - 1 hour, as if you don't it will be too soft to roll and cut into shapes.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
@@ -1687,6 +1695,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also use greek or vanilla yoghurt in place of milk for this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T224343Z" creationid="mmolc" creationdate="20230520T224343Z">
+        <seg>También puedes utilizar yogur griego o de vainilla en lugar de leche para esta receta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can freeze both the uncooked dough and the biscuits for up to one month.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
@@ -1723,6 +1739,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T181607Z" creationid="beatr" creationdate="20230520T181607Z">
         <seg>Puedes utilizar diferentes tipos de quesos para esta receta, estos rollitos también están deliciosos hechos con una combinación de Tasty Cheese y mozzarella. &lt;t0/&gt;&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use fresh or frozen blueberries for this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T224246Z" creationid="mmolc" creationdate="20230520T224246Z">
+        <seg>Puedes utilizar arándanos frescos o congelados para esta receta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use larger muffin trays for a 'cafe style' muffin, please note you will need to increase your cooking time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T224452Z" creationid="mmolc" creationdate="20230520T224452Z">
+        <seg>Puedes utilizar bandejas de magdalenas más grandes para hacer magdalenas "estilo café", pero tenga en cuenta que tendrá que aumentar el tiempo de cocción.</seg>
       </tuv>
     </tu>
     <tu>
