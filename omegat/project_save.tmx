@@ -496,8 +496,8 @@
       <tuv lang="en">
         <seg>Bake in oven for 25 minutes or until golden brown on top and cooked through.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T180220Z" creationid="beatr" creationdate="20230520T180220Z">
-        <seg>SBake in oven for 25 minutes or until golden brown on top and cooked through.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230520T180330Z" creationid="beatr" creationdate="20230520T180220Z">
+        <seg>Hornear durante 25 minutos o hasta que quede se dore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If it’s too &lt;t0/&gt;cold&lt;t1/&gt; it will be difficult to spread smoothly and you may get holes in your dough.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T180656Z" creationid="beatr" creationdate="20230520T180656Z">
+        <seg>Si está demasiado frío &lt;t0/&gt;&lt;t1/&gt;  será difícil de untar cómodamente y podrían salir agujeros en la masa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ingredients</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201537Z" creationid="beatr" creationdate="20230512T201537Z">
@@ -834,6 +842,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201427Z" creationid="beatr" creationdate="20230512T201427Z">
         <seg>Hecha con unos cuantos ingredientes de tu nevera y despensa, ¿te encantará lo fácil que es de preparar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that your Vegemite is at room temperature before trying to spread it across the dough.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T180508Z" creationid="beatr" creationdate="20230520T180508Z">
+        <seg>Asegúrate de que tu Vegemite está a temperatura ambiente antes de empezar a untarlo.</seg>
       </tuv>
     </tu>
     <tu>
