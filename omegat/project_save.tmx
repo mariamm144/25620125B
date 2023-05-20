@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the rolls into the fridge for an hour before cutting – &lt;t0/&gt;this allows the rolls to set making it easier to cut and serve.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T122658Z" creationid="beatr" creationdate="20230520T122658Z">
+        <seg>Pon los rollitos en el frigorífico por una hora antes de cortarlos – &lt;t0/&gt;esto permite que los rollitos se asienten haciendo que sean más fáciles de cortar y servir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the water into the Thermomix bowl, insert the rice basket, secure the &lt;t0/&gt;lid&lt;t1/&gt; and cook for 20 minutes, &lt;t2/&gt;Varoma&lt;t3/&gt;, Speed 4.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203437Z" creationid="beatr" creationdate="20230512T203437Z">
