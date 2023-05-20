@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>160&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sultanas</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T130532Z" creationid="beatr" creationdate="20230520T130532Z">
+        <seg>160&lt;t0/&gt; g de pasas sultanas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>165 grams caster sugar</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162356Z" creationid="mmolc" creationdate="20230519T162356Z">
@@ -238,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>30&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;rice &lt;t4/&gt;bubbles</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T130507Z" creationid="beatr" creationdate="20230520T130507Z">
+        <seg>30&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;burbujas de &lt;t4/&gt;arroz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>395 grams sweetened condensed milk</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133502Z" creationid="mmolc" creationdate="20230519T133502Z">
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203336Z" creationid="beatr" creationdate="20230512T203336Z">
         <seg>950&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>95&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;mini chocolate chips&lt;t4/&gt; &lt;t5/&gt;(½ cup)</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T130708Z" creationid="beatr" creationdate="20230520T130708Z">
+        <seg>95&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de pepitas de chocolate&lt;t4/&gt; &lt;t5/&gt;(½ taza)</seg>
       </tuv>
     </tu>
     <tu>
