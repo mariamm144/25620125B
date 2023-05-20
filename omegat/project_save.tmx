@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These Cheese and Vegemite Scrolls can be ready to enjoy in less than 30 minutes!</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173245Z" creationid="beatr" creationdate="20230520T173245Z">
+        <seg>¡Estos rollitos de queso y vegemite pueden estar listos en menos de 30 minutos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These pikelets are freezer friendly.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202230Z" creationid="beatr" creationdate="20230512T202230Z">
