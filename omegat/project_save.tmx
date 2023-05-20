@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix Cheese and Vegemite Scrolls</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T140615Z" creationid="beatr" creationdate="20230520T140615Z">
+        <seg>Rollitos de queso y Vegemite Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Condensed Milk Cookies</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T130113Z" creationid="mmolc" creationdate="20230519T130113Z">
