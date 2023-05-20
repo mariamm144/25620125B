@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mix for another 10 seconds, Speed 5, or until just combined - it’s fine if the mixture is a little lumpy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T201233Z" creationid="mmolc" creationdate="20230520T201233Z">
+        <seg>Mezcla durante 10 segundos mas, en la velocidad 5, o hasta que la mezcla esté bien removida; no pasa nada si la mezcla está un poco grumosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mix on for 10 minutes, 100 degrees, Speed 1. &lt;t0/&gt;It needs to heat for this long to allow the mixture to thicken enough.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T132644Z" creationid="beatr" creationdate="20230520T132644Z">
@@ -1243,6 +1251,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T164249Z" creationid="mmolc" creationdate="20230519T164249Z">
         <seg> Raspa las paredes de los lados del bol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T200919Z" creationid="mmolc" creationdate="20230520T200919Z">
+        <seg> Raspa las paredes del bol.</seg>
       </tuv>
     </tu>
     <tu>
