@@ -400,8 +400,8 @@
       <tuv lang="en">
         <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Transfer the mixture in three equal parts (approx 180g each) and add the cocoa to one and a couple of drops of pink food colouring (or cochineal if using) to the other.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230520T233405Z" creationid="mmolc" creationdate="20230520T233405Z">
-        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Repartir la mezcla en tres partes iguales (aproximadamente 180 g cada una) y añadir el cacao a una y un par de gotas de colorante alimentario rosa (o cochinilla si se utiliza) a la otra.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T233500Z" creationid="mmolc" creationdate="20230520T233405Z">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Reparte la mezcla en tres partes iguales (aproximadamente 180 g cada una) y añadir el cacao a una y un par de gotas de colorante alimentario rosa (o cochinilla si se utiliza) a la otra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +418,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201814Z" creationid="beatr" creationdate="20230512T201814Z">
         <seg>50&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla&lt;t4/&gt;extra para engrasar &lt;t5/&gt;la sartén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Add spoonfuls of the three different coloured mixtures to your prepared loaf tin and once all the mixture is in the tin, use a butter knife to gently swirl the mixture to create the ‘marble’ effect.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T233710Z" creationid="mmolc" creationdate="20230520T233710Z">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Añade cucharadas de las tres mezclas de colores diferentes al molde preparado y, una vez que toda la mezcla esté en el molde, utilice un cuchillo para mantequilla para remover suavemente la mezcla y crear el efecto "mármol".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1146,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T132644Z" creationid="beatr" creationdate="20230520T132644Z">
         <seg>Meclar durante 10 minutos,  a 100 grados, a la velocidad 1. &lt;t0/&gt; Necesita calentarse por tanto tiempo para que la mezcla se espese lo suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mix to create the coloured mixture.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T233450Z" creationid="mmolc" creationdate="20230520T233450Z">
+        <seg>Mezcla para lograr la mezcla coloreada.</seg>
       </tuv>
     </tu>
     <tu>
