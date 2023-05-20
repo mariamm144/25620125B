@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Add the self-raising flour, caster sugar, milk, eggs and vanilla extract and mix for 10 seconds, Speed 5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T200856Z" creationid="mmolc" creationdate="20230520T200856Z">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Añade la harina con levadura, el azúcar molido, leche, huevos el extracto de vainilla, y remueve durante 10 segundos en la velocidad 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>300 grams plain flour</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162417Z" creationid="mmolc" creationdate="20230519T162417Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173422Z" creationid="beatr" creationdate="20230520T173422Z">
         <seg>Tiempo de cocina&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cook for 3 minutes, 60 degrees, Speed 2, or until melted.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T200607Z" creationid="mmolc" creationdate="20230520T200607Z">
+        <seg>Cocina durante 3 minutos, a 60 grados, en la velocidad 2, o hasta que se derrita.</seg>
       </tuv>
     </tu>
     <tu>
