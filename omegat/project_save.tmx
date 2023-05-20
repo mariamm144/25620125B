@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time30 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T230606Z" creationid="mmolc" creationdate="20230520T230606Z">
+        <seg>Tiempo de cocina: 30&lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201449Z" creationid="beatr" creationdate="20230512T201449Z">
@@ -818,6 +826,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162204Z" creationid="mmolc" creationdate="20230519T162204Z">
         <seg>Curso: Postre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CourseDesserts</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T230554Z" creationid="mmolc" creationdate="20230520T230554Z">
+        <seg>Corriente: postres</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,6 +1579,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T131218Z" creationid="mmolc" creationdate="20230519T130951Z">
         <seg>¡Están hechas de tan solo 4 ingredientes básicos, y obtendrás unas 100 galletas de una!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This easy Thermomix Marble Cake recipe is simple to make and the perfect cake for your next special occasion - it's also freezer friendly too.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T230515Z" creationid="mmolc" creationdate="20230520T230515Z">
+        <seg>Esta receta de bizcocho de mármol para Thermomix es muy fácil de hacer y es perfecta para la próxima ocasión especial. Además se puede congelar.</seg>
       </tuv>
     </tu>
     <tu>
