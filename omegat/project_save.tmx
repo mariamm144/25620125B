@@ -806,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I use Tasty Cheese when making this recipe, however you can also use Cheddar, Mozzarella – or a combination of both!</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T180929Z" creationid="beatr" creationdate="20230520T180929Z">
+        <seg>Yo uso Tasty Cheese cuando hago esta receta uso Tasty Cheese, Sin embargo también puedes usar Chedar, Mozzarella – ¡o una combinación de los dos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it’s too &lt;t0/&gt;cold&lt;t1/&gt; it will be difficult to spread smoothly and you may get holes in your dough.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T180656Z" creationid="beatr" creationdate="20230520T180656Z">
