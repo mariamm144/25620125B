@@ -1495,6 +1495,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add any flavourings you like to the cookie dough (sprinkles, sultanas, Milo, nuts, peanut butter, Smarties etc).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T190513Z" creationid="mmolc" creationdate="20230520T190513Z">
+        <seg>Puedes añadir cualquier condimento que quieras a la masa de galletas (bolitas multicolores, sultanas, Milo, nueces, mantequilla de cacahuete, lacasitos, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can freeze both the uncooked dough and the biscuits for up to one month.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
