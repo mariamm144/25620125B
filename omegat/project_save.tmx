@@ -1655,6 +1655,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Time40 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T230614Z" creationid="mmolc" creationdate="20230520T230614Z">
+        <seg>Tiempo total: 40 &lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T125450Z" creationid="beatr" creationdate="20230520T125450Z">
