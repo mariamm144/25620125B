@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>7.&lt;t0/&gt;              &lt;t1/&gt;Place the cake tin into the oven and cook for 30 – 35 minutes or until your marble cake is cooked through when tested with a skewer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T234156Z" creationid="mmolc" creationdate="20230520T234156Z">
+        <seg>7.&lt;t0/&gt;              &lt;t1/&gt;Coloca el molde en el horno y cocina los muffins durante 30-35 minutos o hasta que estén hechos al probarlos con una brocheta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>750 grams self-raising flour</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133627Z" creationid="mmolc" creationdate="20230519T133605Z">
