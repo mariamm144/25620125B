@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cut into small pieces with a sharp knife and serve.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T131706Z" creationid="beatr" creationdate="20230520T131706Z">
+        <seg>Corta en trocitos con un cuchillo afilado y sírvelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dampen the uncovered end of the nori sheet with water.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203523Z" creationid="beatr" creationdate="20230512T203523Z">
