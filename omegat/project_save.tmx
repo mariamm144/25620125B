@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the vanilla extract and continue to mix for 20 seconds, Speed 1.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T135422Z" creationid="beatr" creationdate="20230520T135422Z">
+        <seg>Añade el extracto de vainilla y continúa mezclando por 20 segundos, a la velocidad 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author&lt;t0/&gt; &lt;t1/&gt;Lucy &amp; Lauren</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201505Z" creationid="beatr" creationdate="20230512T201505Z">
