@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Chop the butter and place into your Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T200510Z" creationid="mmolc" creationdate="20230520T200510Z">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Pica la mantequilla y ponla en el bol de la Thermomix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Place the butter and caster sugar into the Thermomix bowl.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T134409Z" creationid="mmolc" creationdate="20230519T134409Z">
