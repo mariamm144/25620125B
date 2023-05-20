@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;20&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;11&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;7&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Trans Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Cholesterol: &lt;t24/&gt;31&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Sodium: &lt;t28/&gt;381&lt;t29/&gt;mg&lt;t30/&gt; | &lt;t31/&gt;Potassium: &lt;t32/&gt;161&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Fiber: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Sugar: &lt;t40/&gt;1&lt;t41/&gt;g&lt;t42/&gt; | &lt;t43/&gt;Vitamin A: &lt;t44/&gt;336&lt;t45/&gt;IU&lt;t46/&gt; | &lt;t47/&gt;Calcium: &lt;t48/&gt;115&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Iron: &lt;t52/&gt;1&lt;t53/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T181944Z" creationid="beatr" creationdate="20230520T181944Z">
+        <seg>Calorías: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;20&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteinas: &lt;t8/&gt;8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;11&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;7&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasa transgénica: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Colesterol: &lt;t24/&gt;31&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Sodio: &lt;t28/&gt;381&lt;t29/&gt;mg&lt;t30/&gt; | &lt;t31/&gt;Potasio: &lt;t32/&gt;161&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Fibrar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Azúcar: &lt;t40/&gt;1&lt;t41/&gt;g&lt;t42/&gt; | &lt;t43/&gt;Vitamina A: &lt;t44/&gt;336&lt;t45/&gt;IU&lt;t46/&gt; | &lt;t47/&gt;Calcio: &lt;t48/&gt;115&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Hierro: &lt;t52/&gt;1&lt;t53/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;296&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;65&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;1&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Sodium: &lt;t20/&gt;15&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Potassium: &lt;t24/&gt;62&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fiber: &lt;t28/&gt;2&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Calcium: &lt;t32/&gt;15&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Iron: &lt;t36/&gt;1&lt;t37/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T131910Z" creationid="beatr" creationdate="20230520T125209Z">
@@ -1435,6 +1443,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202219Z" creationid="beatr" creationdate="20230512T202219Z">
         <seg>Puede preparar la mezcla para pikelets con hasta 12 horas de antelación, simplemente guárdela en el frigorífico hasta que la necesite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use different cheeses for &lt;t0/&gt;this recipes&lt;t1/&gt;, these scrolls are also delicious made with a combination of tasty and mozzarella cheese.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T181607Z" creationid="beatr" creationdate="20230520T181607Z">
+        <seg>Puedes utilizar diferentes tipos de quesos para esta receta, estos rollitos también están deliciosos hechos con una combinación de Tasty Cheese y mozzarella. &lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
