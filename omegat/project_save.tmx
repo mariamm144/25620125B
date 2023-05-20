@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you make your scrolls smaller/larger than specified in the recipe, the cooking time will vary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T181149Z" creationid="beatr" creationdate="20230520T181149Z">
+        <seg>Si haces tus rollitos más grandes o pequeños que en esta receta el tiempo de cocina va a variar..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ingredients</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201537Z" creationid="beatr" creationdate="20230512T201537Z">
