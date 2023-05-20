@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the milk and mix for 7 seconds on Speed 4 to combine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T174803Z" creationid="beatr" creationdate="20230520T174803Z">
+        <seg>Añade la leche y mezclar durante 7 segundos a la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the vanilla extract and continue to mix for 20 seconds, Speed 1.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T135422Z" creationid="beatr" creationdate="20230520T135422Z">
@@ -1031,6 +1039,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the Kneading Function and mix for 2 minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T174857Z" creationid="beatr" creationdate="20230520T174857Z">
+        <seg>Selectciona la función de amasar y mezcla por dos minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Serve these pikelets warm with your choice of toppings.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202212Z" creationid="beatr" creationdate="20230512T202212Z">
@@ -1299,6 +1315,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203447Z" creationid="beatr" creationdate="20230512T203447Z">
         <seg>Pasar el arroz en un plato grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn the dough out onto a floured bench and using a rolling pin, roll the dough out until you have a 30cm x 40cm rectangle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T175001Z" creationid="beatr" creationdate="20230520T175001Z">
+        <seg>Volcar la masa sobre un banco enharinado y, con ayuda de un rodillo, extenderla hasta obtener un rectángulo de 30 cm x 40 cm.</seg>
       </tuv>
     </tu>
     <tu>
