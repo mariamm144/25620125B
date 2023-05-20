@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt; &lt;t1/&gt;212&lt;t2/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173519Z" creationid="beatr" creationdate="20230520T173519Z">
+        <seg>Calorías&lt;t0/&gt;212&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;296&lt;t2/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203243Z" creationid="beatr" creationdate="20230512T203243Z">
@@ -550,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173422Z" creationid="beatr" creationdate="20230520T173422Z">
+        <seg>Tiempo de cocina&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cooking sushi rice in your Thermomix couldn't be easier!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202305Z" creationid="beatr" creationdate="20230512T202305Z">
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201433Z" creationid="beatr" creationdate="20230512T201433Z">
         <seg>Comida&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Course&lt;t0/&gt; &lt;t1/&gt;Snacks</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173400Z" creationid="beatr" creationdate="20230520T173400Z">
+        <seg>Plato&lt;t0/&gt; &lt;t1/&gt;Snacks</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;12&lt;t2/&gt; &lt;t3/&gt;scrolls</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173455Z" creationid="beatr" creationdate="20230520T173455Z">
+        <seg>Raciones&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;de rollito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;16</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T125545Z" creationid="beatr" creationdate="20230520T125545Z">
@@ -1118,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are freezer friendly and perfect for lunchboxes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173339Z" creationid="beatr" creationdate="20230520T173339Z">
+        <seg>Son aptas para el congelador y perfectas para la fiambrera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are made from just 4 basic ingredients and you will get around 100 biscuits from a batch!</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T131218Z" creationid="mmolc" creationdate="20230519T130951Z">
@@ -1178,6 +1218,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202412Z" creationid="beatr" creationdate="20230512T202412Z">
         <seg>Tiempo en total&lt;t0/&gt;30&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;35&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173434Z" creationid="beatr" creationdate="20230520T173434Z">
+        <seg>Tiempo en total&lt;t0/&gt;35&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
