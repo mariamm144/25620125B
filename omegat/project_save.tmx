@@ -1255,6 +1255,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Store in an airtight container at room temperature for up to a week.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T185251Z" creationid="mmolc" creationdate="20230520T185251Z">
+        <seg>Consérvalo en un recipiente hermético en el frigorífico hasta una semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Store in an airtight container in the fridge for up to a week.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T140512Z" creationid="beatr" creationdate="20230520T140512Z">
