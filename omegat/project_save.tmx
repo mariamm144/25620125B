@@ -856,8 +856,8 @@
       <tuv lang="en">
         <seg>Equipment</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201508Z" creationid="beatr" creationdate="20230512T201508Z">
-        <seg>Utensilios</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195639Z" creationid="beatr" creationdate="20230512T201508Z">
+        <seg>Utensilios:</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +936,8 @@
       <tuv lang="en">
         <seg>Ingredients</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201537Z" creationid="beatr" creationdate="20230512T201537Z">
-        <seg>Ingredientes</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195653Z" creationid="beatr" creationdate="20230512T201537Z">
+        <seg>Ingredientes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1707,6 +1707,54 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203407Z" creationid="beatr" creationdate="20230512T203407Z">
         <seg>tu&lt;t0/&gt; &lt;t1/&gt;elección&lt;t2/&gt; &lt;t3/&gt;de&lt;t4/&gt; &lt;t5/&gt;rellenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 teaspoon vanilla extract</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195901Z" creationid="mmolc" creationdate="20230520T195901Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 cucharadita de extracto de vainilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;110 grams caster sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195809Z" creationid="mmolc" creationdate="20230520T195809Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;110 gramos de azúcar molido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;150 grams butter</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195711Z" creationid="mmolc" creationdate="20230520T195711Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;150 gramos de mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 eggs</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195838Z" creationid="mmolc" creationdate="20230520T195838Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 huevos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;375 grams milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195834Z" creationid="mmolc" creationdate="20230520T195834Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;375 gramos de leche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;375 grams self raising flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195746Z" creationid="mmolc" creationdate="20230520T195746Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;375 gramos de harina con levadura</seg>
       </tuv>
     </tu>
     <tu>
