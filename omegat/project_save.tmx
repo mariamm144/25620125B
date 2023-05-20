@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;nut-free toasted muesli&lt;t4/&gt; &lt;t5/&gt;(~1 ½ cups)</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T130254Z" creationid="beatr" creationdate="20230520T130254Z">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de muesli tostado sin frutos secos&lt;t4/&gt; &lt;t5/&gt;(~1 taza ½ )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>165 grams caster sugar</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162356Z" creationid="mmolc" creationdate="20230519T162356Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201751Z" creationid="beatr" creationdate="20230512T201751Z">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;huevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;vanilla&lt;t4/&gt; &lt;t5/&gt;extract</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125837Z" creationid="beatr" creationdate="20230520T125837Z">
+        <seg>1 cucharadita de extracto de vanilla</seg>
       </tuv>
     </tu>
     <tu>
