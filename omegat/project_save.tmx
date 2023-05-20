@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>300&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173713Z" creationid="beatr" creationdate="20230520T173713Z">
+        <seg>300&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de&lt;t4/&gt; &lt;t5/&gt;harina con levadura&lt;t6/&gt; &lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>30&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;rice &lt;t4/&gt;bubbles</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T130507Z" creationid="beatr" creationdate="20230520T130507Z">
@@ -358,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>90&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173732Z" creationid="beatr" creationdate="20230520T173732Z">
+        <seg>90&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>950&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;water</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203336Z" creationid="beatr" creationdate="20230512T203336Z">
@@ -450,6 +466,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162342Z" creationid="mmolc" creationdate="20230519T162342Z">
         <seg>bandejas de horno x 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Baking&lt;t0/&gt; &lt;t1/&gt;Tray</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173624Z" creationid="beatr" creationdate="20230520T173624Z">
+        <seg>bandeja&lt;t0/&gt; &lt;t1/&gt;de horno</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1346,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203407Z" creationid="beatr" creationdate="20230512T203407Z">
         <seg>tu&lt;t0/&gt; &lt;t1/&gt;elección&lt;t2/&gt; &lt;t3/&gt;de&lt;t4/&gt; &lt;t5/&gt;rellenos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>½&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;salt&lt;t4/&gt; &lt;t5/&gt;optional</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T173814Z" creationid="beatr" creationdate="20230520T173814Z">
+        <seg>½ cucharadita de sal opcional</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
