@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Set aside &lt;t1/&gt;until&lt;t2/&gt; &lt;t3/&gt;needed&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T132119Z" creationid="beatr" creationdate="20230520T132119Z">
+        <seg>&lt;t0/&gt;Dejar a un lado &lt;t1/&gt;hasta&lt;t2/&gt; &lt;t3/&gt;que haga falta&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Sprinkle&lt;t1/&gt; &lt;t2/&gt;it&lt;t3/&gt; &lt;t4/&gt;with&lt;t5/&gt; a &lt;t6/&gt;tiny&lt;t7/&gt; &lt;t8/&gt;amount&lt;t9/&gt; &lt;t10/&gt;of&lt;t11/&gt; &lt;t12/&gt;water&lt;t13/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203510Z" creationid="beatr" creationdate="20230512T203510Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201949Z" creationid="beatr" creationdate="20230512T201949Z">
         <seg>Pon la mantequilla en el bol de tu Thermomix y pónlo a 2 minutos, a 60 grados, a la velocidad 2 o hasta que se derrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the butter, brown sugar, &lt;t0/&gt;honey&lt;t1/&gt; and cinnamon into the TM bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T132419Z" creationid="beatr" creationdate="20230520T132419Z">
+        <seg>Coloca la mantequilla, el azúcar moreno, &lt;t0/&gt;la miel&lt;t1/&gt; y la canela en el bowl de la TM.</seg>
       </tuv>
     </tu>
     <tu>
