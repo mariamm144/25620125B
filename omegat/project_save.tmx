@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;296&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;65&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;1&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Sodium: &lt;t20/&gt;15&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Potassium: &lt;t24/&gt;62&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fiber: &lt;t28/&gt;2&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Calcium: &lt;t32/&gt;15&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Iron: &lt;t36/&gt;1&lt;t37/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125209Z" creationid="beatr" creationdate="20230520T125209Z">
+        <seg>Calorias: &lt;t0/&gt;296&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;65&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteinas: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturada Grasa: &lt;t16/&gt;1&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Sodio: &lt;t20/&gt;15&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Potasio: &lt;t24/&gt;62&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fibra: &lt;t28/&gt;2&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Calcio: &lt;t32/&gt;15&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Hierro: &lt;t36/&gt;1&lt;t37/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Polyunsaturated Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Monounsaturated Fat: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Trans Fat: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Cholesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodium: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potassium: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fiber: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Sugar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamin A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcium: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Iron: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202245Z" creationid="beatr" creationdate="20230512T202245Z">
@@ -840,8 +848,8 @@
       <tuv lang="en">
         <seg>Store in the fridge until needed.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T124513Z" creationid="beatr" creationdate="20230520T124513Z">
-        <seg>Guárdalo en el frigorífico hasta .</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230520T124606Z" creationid="beatr" creationdate="20230520T124513Z">
+        <seg>Guárdalo en el frigorífico el tiempo necesario.</seg>
       </tuv>
     </tu>
     <tu>
