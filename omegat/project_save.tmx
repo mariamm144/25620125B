@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Divide the cookie dough between bowls and flavour however you'd like (see notes).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T184029Z" creationid="mmolc" creationdate="20230520T184029Z">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Divide la masa de las galletas entre los cuencos y condimenta a tu gusto (ver en Notas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Mix for a further 2 minutes using the dough/interval function.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162704Z" creationid="mmolc" creationdate="20230519T162704Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201814Z" creationid="beatr" creationdate="20230512T201814Z">
         <seg>50&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla&lt;t4/&gt;extra para engrasar &lt;t5/&gt;la sartén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Roll into teaspoon-sized balls and place onto the prepared baking trays.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T184225Z" creationid="mmolc" creationdate="20230520T184225Z">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Formar bolas del tamaño de una cucharadita y colocarlas en las bandejas de horno preparadas..</seg>
       </tuv>
     </tu>
     <tu>
