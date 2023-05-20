@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Preheat your oven to 180 degrees celsius (fan-forced) and line a 20cm round baking tin with baking paper.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T232107Z" creationid="mmolc" creationdate="20230520T232107Z">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Precalienta el horno a 180 grados centígrados (con ventilador) y forra un molde redondo de 20 cm con papel de hornear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1/2&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;salt</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201758Z" creationid="beatr" creationdate="20230512T201758Z">
@@ -1903,6 +1911,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 tsp cocoa</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231848Z" creationid="mmolc" creationdate="20230520T231848Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 cucharadita de cacao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 tsp vanilla extract</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T231650Z" creationid="mmolc" creationdate="20230520T231650Z">
@@ -1995,6 +2011,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T231709Z" creationid="mmolc" creationdate="20230520T231709Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;80 gramos de leche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;pink food colouring</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231924Z" creationid="mmolc" creationdate="20230520T231924Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;colorante alimentario rosa</seg>
       </tuv>
     </tu>
     <tu>
