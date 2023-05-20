@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Transfer the mixture in three equal parts (approx 180g each) and add the cocoa to one and a couple of drops of pink food colouring (or cochineal if using) to the other.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T233405Z" creationid="mmolc" creationdate="20230520T233405Z">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Repartir la mezcla en tres partes iguales (aproximadamente 180 g cada una) y añadir el cacao a una y un par de gotas de colorante alimentario rosa (o cochinilla si se utiliza) a la otra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>500 grams butter softened</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133102Z" creationid="mmolc" creationdate="20230519T133102Z">
@@ -1337,8 +1345,8 @@
       <tuv lang="en">
         <seg>Scrape down the sides of the Thermomix bowl and mix for a further 20 seconds, speed 3 or until pale and creamy.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230519T162648Z" creationid="mmolc" creationdate="20230519T162648Z">
-        <seg>Raspa los laterales de tu cuento de Thermomix y remueve todo durante 20 segundos más en la velocidad 3 o hasta que tenga un aspecto claro y cremoso. </seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T232841Z" creationid="mmolc" creationdate="20230519T162648Z">
+        <seg>Raspa los laterales de tu cuenco de Thermomix y remueve todo durante 20 segundos más en la velocidad 3 o hasta que tenga un aspecto claro y cremoso. </seg>
       </tuv>
     </tu>
     <tu>
