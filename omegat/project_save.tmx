@@ -1503,6 +1503,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix Marble Cake</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T230302Z" creationid="mmolc" creationdate="20230520T230230Z">
+        <seg>Bizcocho de mármol Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Pikelet Recipe</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201424Z" creationid="beatr" creationdate="20230512T201424Z">
