@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Muffins are best consumed within 2-3 days of baking.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T225329Z" creationid="mmolc" creationdate="20230520T225329Z">
+        <seg>Las magdalenas se consumen mejor a los 2-3 días de hornearlas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202215Z" creationid="beatr" creationdate="20230512T202215Z">
@@ -1395,6 +1403,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T185723Z" creationid="mmolc" creationdate="20230520T185251Z">
         <seg>Consérvalo en un recipiente hermético a temperatura ambiente hasta una semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Store in an airtight container at room temperature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T225421Z" creationid="mmolc" creationdate="20230520T225421Z">
+        <seg>Guárdelo en un recipiente hermético a temperatura ambiente.</seg>
       </tuv>
     </tu>
     <tu>
