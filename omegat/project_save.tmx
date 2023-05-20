@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>100&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;brown&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125705Z" creationid="beatr" creationdate="20230520T125705Z">
+        <seg>100&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de azúcar moreno&lt;t4/&gt; &lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>11.&lt;t0/&gt;           &lt;t1/&gt;Allow to cool on the tray for 5 minutes before transferring to a wire tray to cool completely.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
         <seg>12.&lt;t0/&gt; &lt;t1/&gt;Una vez frías, decorar al gusto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;butter</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125627Z" creationid="beatr" creationdate="20230520T125627Z">
+        <seg>125 g de mantequilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +122,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133439Z" creationid="mmolc" creationdate="20230519T133439Z">
         <seg>170 gramos de azúcar glas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>180&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;honey</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125718Z" creationid="beatr" creationdate="20230520T125718Z">
+        <seg>180&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de miel</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +178,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201704Z" creationid="beatr" creationdate="20230512T201704Z">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;cuchadaras de&lt;t2/&gt; &lt;t3/&gt;azucar&lt;t4/&gt; &lt;t5/&gt;en polvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;cinnamon</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125822Z" creationid="beatr" creationdate="20230520T125822Z">
+        <seg>2 cucharaditas de canela en polvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +394,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162342Z" creationid="mmolc" creationdate="20230519T162342Z">
         <seg>bandejas de horno x 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125556Z" creationid="beatr" creationdate="20230520T125556Z">
+        <seg>Calorías</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;16</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125545Z" creationid="beatr" creationdate="20230520T125545Z">
+        <seg>Porciones &lt;t0/&gt; &lt;t1/&gt; 16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;24&lt;t2/&gt; &lt;t3/&gt;Pikelets</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201457Z" creationid="beatr" creationdate="20230512T201457Z">
@@ -962,6 +1010,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132719Z" creationid="mmolc" creationdate="20230519T132719Z">
         <seg>Tiempo total: 20&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T125450Z" creationid="beatr" creationdate="20230520T125450Z">
+        <seg>Tiempo en total&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
