@@ -1086,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you don't have any pink food colouring, different colours can be used or you can divide the mixture into two and have one chocolate and one vanilla.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T235159Z" creationid="mmolc" creationdate="20230520T235159Z">
+        <seg>Si no tienes ningún colorante alimentario rosa, puedes utilizar otros colores o dividir la mezcla en dos y tener una de chocolate y otra de vainilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you make your scrolls smaller/larger than specified in the recipe, the cooking time will vary.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T181149Z" creationid="beatr" creationdate="20230520T181149Z">
@@ -1192,8 +1200,8 @@
       <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202215Z" creationid="beatr" creationdate="20230512T202215Z">
-        <seg>Notas</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T234652Z" creationid="beatr" creationdate="20230512T202215Z">
+        <seg>Notas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1939,6 +1947,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T225209Z" creationid="mmolc" creationdate="20230520T224452Z">
         <seg>Puedes utilizar bandejas de muffins más grandes para hacer muffins "estilo café", pero ten en cuenta que tendrás que aumentar el tiempo de cocción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will need to use softened butter for this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T234741Z" creationid="mmolc" creationdate="20230520T234741Z">
+        <seg>Puedes utilizar mantequilla derretida para esta receta.</seg>
       </tuv>
     </tu>
     <tu>
