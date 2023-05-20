@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure the butter is softened to assist combining with the caster sugar.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T191048Z" creationid="mmolc" creationdate="20230520T191048Z">
+        <seg>Asegúrese de que la mantequilla esté blanda para ayudar a combinarla con el azúcar en polvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Equipment</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201508Z" creationid="beatr" creationdate="20230512T201508Z">
