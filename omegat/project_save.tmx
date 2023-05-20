@@ -1903,10 +1903,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 tsp vanilla extract</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231650Z" creationid="mmolc" creationdate="20230520T231650Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 cucharadita de extracto de vanilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 x 20cm round cake tin</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T231544Z" creationid="mmolc" creationdate="20230520T231544Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;molde redondo 1 x 20 cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;110 grams butter at room temp</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231621Z" creationid="mmolc" creationdate="20230520T231621Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;110 gramos de mantequilla a temperatura ambiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1935,6 +1951,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 eggs 70 gram eggs</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231747Z" creationid="mmolc" creationdate="20230520T231747Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 huevos de 70 gramos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;200 grams self raising flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231819Z" creationid="mmolc" creationdate="20230520T231819Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;200 gramos de harina con levadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;300 grams blueberries – fresh or frozen</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T200016Z" creationid="mmolc" creationdate="20230520T200016Z">
@@ -1955,6 +1987,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195746Z" creationid="mmolc" creationdate="20230520T195746Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;375 gramos de harina con levadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;80 grams milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T231709Z" creationid="mmolc" creationdate="20230520T231709Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;80 gramos de leche</seg>
       </tuv>
     </tu>
     <tu>
