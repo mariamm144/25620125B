@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Preheat your oven to 180 degrees celsius (fan-forced) and line a 12-hole muffin tray with paper cases.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T200348Z" creationid="mmolc" creationdate="20230520T200348Z">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Precalienta el horno a 180 grados centígrados (con ventilador) y forra con papel de hornear una bandeja con 12 huecos para muffins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1/2&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;salt</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201758Z" creationid="beatr" creationdate="20230512T201758Z">
@@ -944,8 +952,8 @@
       <tuv lang="en">
         <seg>Instructions</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201836Z" creationid="beatr" creationdate="20230512T201836Z">
-        <seg>Instrucciones</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T200021Z" creationid="beatr" creationdate="20230512T201836Z">
+        <seg>Instrucciones:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1739,6 +1747,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195838Z" creationid="mmolc" creationdate="20230520T195838Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 huevos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;300 grams blueberries – fresh or frozen</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T200016Z" creationid="mmolc" creationdate="20230520T200016Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;300 gramos de arándanos, frescos o congelados</seg>
       </tuv>
     </tu>
     <tu>
