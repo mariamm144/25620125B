@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fluff the rice with a fork – &lt;t0/&gt;do this gently &lt;t1/&gt;so as to&lt;t2/&gt; &lt;t3/&gt;seperate&lt;t4/&gt; the rice grains and mix through the seasoning but without squishing the rice.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T122123Z" creationid="beatr" creationdate="20230520T122123Z">
+        <seg>Borra el arroz con un tenedor – &lt;t0/&gt;hazlo con delicadeza &lt;t1/&gt;para&lt;t2/&gt; &lt;t3/&gt;separar&lt;t4/&gt; los granos de arroz y mezcla por el condimento, pero sin aplastar el arroz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow our &lt;t0/&gt;step by step&lt;t1/&gt; method for making perfect Thermomix sushi every time.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202313Z" creationid="beatr" creationdate="20230512T202313Z">
