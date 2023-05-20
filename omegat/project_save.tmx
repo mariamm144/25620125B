@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the flour, butter and salt into the Thermomix bowl and mix for 10 seconds on Speed 9 until mixture is the same consistency as &lt;t0/&gt;bread crumbs&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230520T174632Z" creationid="beatr" creationdate="20230520T174632Z">
+        <seg> del Poner la harina ¡, la mantequilla y la sal en el bowl de la Thermomix y mezcla durante 10 segundos a la velocidad 9 hasta que la mezcla tenga la misma consistencia &lt;t0/&gt;de pan rallado&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the rice basket on top of the Thermomix and weigh in the sushi rice.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203422Z" creationid="beatr" creationdate="20230512T203422Z">
