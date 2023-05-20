@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories283&lt;t0/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195508Z" creationid="mmolc" creationdate="20230520T195508Z">
+        <seg>Calorías: 283&lt;t0/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories82&lt;t0/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132817Z" creationid="mmolc" creationdate="20230519T132817Z">
@@ -670,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time20 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195429Z" creationid="mmolc" creationdate="20230520T195429Z">
+        <seg>Tiempo de cocina: 20 &lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201449Z" creationid="beatr" creationdate="20230512T201449Z">
@@ -690,6 +706,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202305Z" creationid="beatr" creationdate="20230512T202305Z">
         <seg>¡Cocinar arroz para sushi en tu Thermomix no puede ser más fácil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cost$10</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195632Z" creationid="mmolc" creationdate="20230520T195632Z">
+        <seg>Precio: 10 dólares</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +794,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132307Z" creationid="mmolc" creationdate="20230519T132307Z">
         <seg>Cocina: Australiana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CuisineWestern</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195339Z" creationid="mmolc" creationdate="20230520T195339Z">
+        <seg>Cocina: Occidental</seg>
       </tuv>
     </tu>
     <tu>
@@ -1207,6 +1239,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings12</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195452Z" creationid="mmolc" creationdate="20230520T195452Z">
+        <seg>Porciones: 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings24 &lt;t0/&gt;biscuits</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162327Z" creationid="mmolc" creationdate="20230519T162327Z">
@@ -1467,6 +1507,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132719Z" creationid="mmolc" creationdate="20230519T132719Z">
         <seg>Tiempo total: 20&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time30 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230520T195441Z" creationid="mmolc" creationdate="20230520T195441Z">
+        <seg>Tiempo total: 30 &lt;t0/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
