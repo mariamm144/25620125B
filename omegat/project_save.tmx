@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;26&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;10&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;6&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;0.4&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;57&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;87&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;49&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;12&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;336&lt;t40/&gt;IU&lt;t41/&gt; | Calcium: &lt;t42/&gt;21&lt;t43/&gt;mg&lt;t44/&gt; | Iron: &lt;t45/&gt;0.4&lt;t46/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T002119Z" creationid="mmolc" creationdate="20230521T002119Z">
+        <seg>Calorías: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;26&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;10&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;6&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Grasas trans: &lt;t21/&gt;0.4&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;57&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;87&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;49&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Azúcares: &lt;t36/&gt;12&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;336&lt;t40/&gt;IU&lt;t41/&gt; | Calcio: &lt;t42/&gt;21&lt;t43/&gt;mg&lt;t44/&gt; | Hierro: &lt;t45/&gt;0.4&lt;t46/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;283&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;37&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;6&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;12&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;7&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;57&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;114&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;106&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;13&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;417&lt;t40/&gt;IU&lt;t41/&gt; | Vitamin C: &lt;t42/&gt;2&lt;t43/&gt;mg&lt;t44/&gt; | Calcium: &lt;t45/&gt;49&lt;t46/&gt;mg&lt;t47/&gt; | Iron: &lt;t48/&gt;1&lt;t49/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T230051Z" creationid="mmolc" creationdate="20230520T230051Z">
@@ -1216,8 +1224,8 @@
       <tuv lang="en">
         <seg>Nutrition</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202237Z" creationid="beatr" creationdate="20230512T202237Z">
-        <seg>Nutrición</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T001838Z" creationid="beatr" creationdate="20230512T202237Z">
+        <seg>Nutrición:</seg>
       </tuv>
     </tu>
     <tu>
