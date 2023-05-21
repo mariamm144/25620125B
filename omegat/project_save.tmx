@@ -1703,6 +1703,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This Marble Cake can be baked in different sized cake tins, please note the baking time will vary.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T001514Z" creationid="mmolc" creationdate="20230521T001514Z">
+        <seg>Este bizcocho de mármol puede hornearse en moldes de diferentes tamaños, pero el tiempo de horneado variará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This easy Thermomix Marble Cake recipe is simple to make and the perfect cake for your next special occasion - it's also freezer friendly too.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T230515Z" creationid="mmolc" creationdate="20230520T230515Z">
