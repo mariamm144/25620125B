@@ -680,8 +680,8 @@
       <tuv lang="en">
         <seg>Calories</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T125556Z" creationid="beatr" creationdate="20230520T125556Z">
-        <seg>Calorías</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T003147Z" creationid="beatr" creationdate="20230520T125556Z">
+        <seg>Calorías:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2135,10 +2135,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;125 grams butter softened</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T003345Z" creationid="mmolc" creationdate="20230521T003345Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;125 gramos de mantequilla derretida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;150 grams butter</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195711Z" creationid="mmolc" creationdate="20230520T195711Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;150 gramos de mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;165 grams caster sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T003255Z" creationid="mmolc" creationdate="20230521T003255Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;165 gramos de azúcar molido</seg>
       </tuv>
     </tu>
     <tu>
@@ -2163,6 +2179,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T231819Z" creationid="mmolc" creationdate="20230520T231819Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;200 gramos de harina con levadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;225 grams self raising flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T003239Z" creationid="mmolc" creationdate="20230521T003239Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;225 gramos de harina con levadura</seg>
       </tuv>
     </tu>
     <tu>
