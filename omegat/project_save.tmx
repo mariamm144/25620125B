@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the butter and caster sugar into your Thermomix bowl and mix for 15 seconds, speed 3 to combine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T054818Z" creationid="beatr" creationdate="20230521T054818Z">
+        <seg>Coloca la mantequilla y Place the butter and caster sugar into your Thermomix bowl and mix for 15 seconds, speed 3 to combine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the butter into your Thermomix bowl and cook for 2 minutes, 60 degrees, speed 2 or until melted.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201949Z" creationid="beatr" creationdate="20230512T201949Z">
@@ -1450,6 +1458,15 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203519Z" creationid="beatr" creationdate="20230512T203519Z">
         <seg>Coloca el relleno en una fina línea en el &lt;t0/&gt;centro&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pre-heat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line two baking trays with baking paper.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T054444Z" creationid="beatr" creationdate="20230521T054444Z">
+        <seg> Precalienta el horno a 180 grados centígrados (con ventilador) y forra una bandeja de horno con papel de hornear.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2211,6 +2228,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162403Z" creationid="Usuario" creationdate="20190517T145741Z">
         <seg>una pizca de sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sprinkles&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;decorate</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T054323Z" creationid="beatr" creationdate="20230521T054323Z">
+        <seg>espolvorear&lt;t0/&gt; &lt;t1/&gt;para&lt;t2/&gt; &lt;t3/&gt;decorar</seg>
       </tuv>
     </tu>
     <tu>
