@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>100&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053500Z" creationid="beatr" creationdate="20230521T053500Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;100 gramos de azúcar molido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>11.&lt;t0/&gt;           &lt;t1/&gt;Allow to cool on the tray for 5 minutes before transferring to a wire tray to cool completely.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T125627Z" creationid="beatr" creationdate="20230520T125627Z">
         <seg>125 g de mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter&lt;t4/&gt; &lt;t5/&gt;at &lt;t6/&gt;room&lt;t7/&gt; &lt;t8/&gt;temperature</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053441Z" creationid="beatr" creationdate="20230521T053441Z">
+        <seg>125 gramos de mantequilla a temperatura ambiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;vanilla&lt;t4/&gt; &lt;t5/&gt;extract</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053538Z" creationid="beatr" creationdate="20230521T053538Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 cucharadita de extracto de vainilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;vanilla&lt;t4/&gt; &lt;t5/&gt;extract</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T125837Z" creationid="beatr" creationdate="20230520T125837Z">
@@ -250,6 +274,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201720Z" creationid="beatr" creationdate="20230512T201720Z">
         <seg>200 ml de leche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>240&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053529Z" creationid="beatr" creationdate="20230521T053529Z">
+        <seg>240&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de&lt;t4/&gt; &lt;t5/&gt;harina con levadura&lt;t6/&gt; &lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +714,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173624Z" creationid="beatr" creationdate="20230520T173624Z">
         <seg>bandeja&lt;t0/&gt; &lt;t1/&gt;de horno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Baking&lt;t0/&gt; &lt;t1/&gt;Trays&lt;t2/&gt; x 2</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053417Z" creationid="beatr" creationdate="20230521T053417Z">
+        <seg>bandejas de horno x 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,6 +1162,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T001834Z" creationid="mmolc" creationdate="20230521T001834Z">
         <seg>Yo suelo cubrir este bizcocho de mármol Thermomix con un &lt;t0/&gt;simple glaseado de chocolate,&lt;t1/&gt;aunque también se puede cubrir con un glaseado de chocolate o vainilla comprado en la tienda, e incluso está deliciosa servida sin glaseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Icing&lt;t0/&gt; &lt;t1/&gt;Ingredients</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053638Z" creationid="beatr" creationdate="20230521T053638Z">
+        <seg>Ingredientes&lt;t0/&gt; &lt;t1/&gt;para el glaseado</seg>
       </tuv>
     </tu>
     <tu>
@@ -1575,6 +1623,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;40&lt;t2/&gt; &lt;t3/&gt;Biscuits</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053339Z" creationid="beatr" creationdate="20230521T053339Z">
+        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;40&lt;t2/&gt; &lt;t3/&gt;galletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;rolls</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203220Z" creationid="beatr" creationdate="20230512T203220Z">
@@ -1939,6 +1995,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173434Z" creationid="beatr" creationdate="20230520T173434Z">
         <seg>Tiempo en total&lt;t0/&gt;35&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;57&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053305Z" creationid="beatr" creationdate="20230521T053305Z">
+        <seg>Tiempo en total&lt;t0/&gt;57&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
