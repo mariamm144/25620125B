@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Our Thermomix Apple Loaf recipe makes a great sweet treat for the whole family.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T002812Z" creationid="mmolc" creationdate="20230521T002812Z">
+        <seg>Nuestra receta de pan de manzana con Thermomix es un dulce estupendo para toda la familia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Our famous Thermomix Pikelet recipe can be ready to enjoy in less than 30 minutes!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201417Z" creationid="beatr" creationdate="20230512T201417Z">
@@ -1627,6 +1635,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T192655Z" creationid="mmolc" creationdate="20230520T192655Z">
         <seg>La masa cruda y las galletas horneadas pueden estar congeladas hasta dos meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thermomix Apple Loaf</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T002621Z" creationid="mmolc" creationdate="20230521T002621Z">
+        <seg>Pan de manzana con Thermomix</seg>
       </tuv>
     </tu>
     <tu>
