@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt;12&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053159Z" creationid="beatr" creationdate="20230521T053159Z">
+        <seg>Tiempo de cocina&lt;t0/&gt;12&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook for 3 minutes, 60 degrees, Speed 2, or until melted.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T200607Z" creationid="mmolc" creationdate="20230520T200607Z">
@@ -882,6 +890,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202305Z" creationid="beatr" creationdate="20230512T202305Z">
         <seg>¡Cocinar arroz para sushi en tu Thermomix no puede ser más fácil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cooling Time&lt;t0/&gt; &lt;t1/&gt;30&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053244Z" creationid="beatr" creationdate="20230521T053244Z">
+        <seg>Tiempo de enfriado&lt;t0/&gt; &lt;t1/&gt;30&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1375,6 +1391,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prep &lt;t0/&gt;Time&lt;t1/&gt;  &lt;t2/&gt;15&lt;t3/&gt; &lt;t4/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053143Z" creationid="beatr" creationdate="20230521T053143Z">
+        <seg>Tiempo de preparación: 15 minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prep Time10 &lt;t0/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132615Z" creationid="mmolc" creationdate="20230519T132503Z">
@@ -1755,6 +1779,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202230Z" creationid="beatr" creationdate="20230512T202230Z">
         <seg>Estos pikelets son aptos para el congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are freezer friendly and great for lunch &lt;t0/&gt;boxes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T053127Z" creationid="beatr" creationdate="20230521T053127Z">
+        <seg>Son aptas para el congelador y perfectas para el almuerzo</seg>
       </tuv>
     </tu>
     <tu>
