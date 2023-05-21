@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Preheat your oven to 180 degrees (fan-forced) and line the base and sides of a large loaf tin with baking paper.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T004319Z" creationid="mmolc" creationdate="20230521T004319Z">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Precalienta el horno a 180 grados centígrados (con ventilador) y forra la base y las paredes de un molde con papel de horno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Preheat your oven to 180 degrees celsius (fan-forced) and line a 12-hole muffin tray with paper cases.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T200348Z" creationid="mmolc" creationdate="20230520T200348Z">
@@ -2087,6 +2095,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 apple</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T003449Z" creationid="mmolc" creationdate="20230521T003449Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 manzana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 teaspoon vanilla extract</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195901Z" creationid="mmolc" creationdate="20230520T195901Z">
@@ -2119,6 +2135,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1/2 tsp cinnamon</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T003532Z" creationid="mmolc" creationdate="20230521T003532Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1/2 cucharaditas de canela en polvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;110 grams butter at room temp</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T231621Z" creationid="mmolc" creationdate="20230520T231621Z">
@@ -2139,6 +2163,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T003345Z" creationid="mmolc" creationdate="20230521T003345Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;125 gramos de mantequilla derretida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;130 grams milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T003430Z" creationid="mmolc" creationdate="20230521T003430Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;130 gramos de leche</seg>
       </tuv>
     </tu>
     <tu>
