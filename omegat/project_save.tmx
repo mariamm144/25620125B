@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I usually ice this Thermomix Marble Cake with a &lt;t0/&gt;simple chocolate icing &lt;t1/&gt;however you can also top it with a store bought chocolate or vanilla icing, and it's even delicious served un-iced.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T001834Z" creationid="mmolc" creationdate="20230521T001834Z">
+        <seg>Yo suelo cubrir este bizcocho de mármol Thermomix con un &lt;t0/&gt;simple glaseado de chocolate,&lt;t1/&gt;aunque también se puede cubrir con un glaseado de chocolate o vainilla comprado en la tienda, e incluso está deliciosa servida sin glaseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it’s too &lt;t0/&gt;cold&lt;t1/&gt; it will be difficult to spread smoothly and you may get holes in your dough.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T180656Z" creationid="beatr" creationdate="20230520T180656Z">
@@ -1739,6 +1747,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T191529Z" creationid="mmolc" creationdate="20230520T191529Z">
         <seg>Con esta receta tendrás aproximadamente 100 galletas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To freeze, wrap in cling wrap or place in a freezer safe container and store for up to two months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T001623Z" creationid="mmolc" creationdate="20230521T001623Z">
+        <seg>Para congelarlo, envuélvelo en film transparente o colóquelo en un recipiente apto para congelador y consérvalo hasta dos meses.</seg>
       </tuv>
     </tu>
     <tu>
