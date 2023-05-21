@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 - 2 &lt;t0/&gt;tbsp&lt;t1/&gt; &lt;t2/&gt;boiling&lt;t3/&gt; &lt;t4/&gt;water</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230521T054251Z" creationid="beatr" creationdate="20230521T054251Z">
+        <seg>1 - 2 &lt;t0/&gt;cucharadas&lt;t1/&gt; &lt;t2/&gt;de agua&lt;t3/&gt; &lt;t4/&gt;hirviendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 egg</seg>
       </tuv>
       <tuv lang="es" changeid="Dell" changedate="20140516T112044Z" creationid="Dell" creationdate="20140516T112044Z">
