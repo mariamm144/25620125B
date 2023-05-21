@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time50 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T002829Z" creationid="mmolc" creationdate="20230521T002829Z">
+        <seg>Tiempo de cocina: 50&lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201449Z" creationid="beatr" creationdate="20230512T201449Z">
@@ -1471,6 +1479,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings10 &lt;t0/&gt;Slices</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T003142Z" creationid="mmolc" creationdate="20230521T003142Z">
+        <seg>Porciones: 10 &lt;t0/&gt;trozos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings10 &lt;t0/&gt;pieces</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T231436Z" creationid="mmolc" creationdate="20230520T231436Z">
@@ -1795,6 +1811,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T182114Z" creationid="beatr" creationdate="20230520T182114Z">
         <seg>Para guardar los rollitos horneados, colócalos en un recipiente hermético y disfrútalos 5 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time1 &lt;t0/&gt;hour</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230521T002916Z" creationid="mmolc" creationdate="20230521T002916Z">
+        <seg>Tiempo total: 1&lt;t0/&gt;hora</seg>
       </tuv>
     </tu>
     <tu>
