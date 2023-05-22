@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 &lt;t0/&gt;clove&lt;t1/&gt; &lt;t2/&gt;garlic</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T182451Z" creationid="alond" creationdate="20230522T182451Z">
+        <seg>1 &lt;t0/&gt;diente&lt;t1/&gt; &lt;t2/&gt;de ajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 &lt;t0/&gt;egg</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171015Z" creationid="raque" creationdate="20230522T171015Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163516Z" creationid="raque" creationdate="20230522T163516Z">
         <seg>100 g &lt;t0/&gt;mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>100 grams carrot cut into 3cm &lt;t0/&gt;pieces</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T182542Z" creationid="alond" creationdate="20230522T182542Z">
+        <seg>100 gramo de zanahoria cortadas en trozos de 3cm &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
