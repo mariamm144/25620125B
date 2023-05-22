@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;baking&lt;t4/&gt; &lt;t5/&gt;powder</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062540Z" creationid="beatr" creationdate="20230522T062540Z">
+        <seg>1 cucharadita de levadura en polvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;butter&lt;t4/&gt; &lt;t5/&gt;room&lt;t6/&gt; &lt;t7/&gt;temperature</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053923Z" creationid="beatr" creationdate="20230521T053923Z">
@@ -326,10 +334,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>250&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;self-raising&lt;t4/&gt; &lt;t5/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062515Z" creationid="beatr" creationdate="20230522T062515Z">
+        <seg>250 g de harina con levadura </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>260&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;ripe bananas&lt;t4/&gt; &lt;t5/&gt;(&lt;t6/&gt;approx&lt;t7/&gt; 2 large)</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T062113Z" creationid="beatr" creationdate="20230522T062113Z">
         <seg>260&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de plátanos maduros&lt;t4/&gt; &lt;t5/&gt;(&lt;t6/&gt;aprox&lt;t7/&gt; 2 largos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;eggs</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062454Z" creationid="beatr" creationdate="20230522T062454Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 huevos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2676,6 +2700,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173922Z" creationid="beatr" creationdate="20230520T173922Z">
         <seg>¼&lt;t0/&gt; &lt;t1/&gt;taza&lt;t2/&gt; &lt;t3/&gt;de Vegemite&lt;t4/&gt; &lt;t5/&gt;a &lt;t6/&gt;temperatura&lt;t7/&gt; &lt;t8/&gt;ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>½&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;bicarbonate&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; soda</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062657Z" creationid="beatr" creationdate="20230522T062657Z">
+        <seg>½ cucharadita de bicarbonato de soda</seg>
       </tuv>
     </tu>
     <tu>
