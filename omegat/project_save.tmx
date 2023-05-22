@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;ground&lt;t4/&gt; &lt;t5/&gt;cinnamon</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062716Z" creationid="beatr" creationdate="20230522T062716Z">
+        <seg>1 cucharadita de canela en polvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;honey</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T062243Z" creationid="beatr" creationdate="20230522T062243Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162644Z" creationid="mmolc" creationdate="20230519T162644Z">
         <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Raspa los laterales de tu cuenco de Thermomix y añade el azúcar molido, la harina y la sal, y remueve durante 20 segundos en la velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>200&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;chocolate &lt;t4/&gt;baking&lt;t5/&gt; chips</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062917Z" creationid="beatr" creationdate="20230522T062917Z">
+        <seg>150 g de pepitas de chocolate para hornear</seg>
       </tuv>
     </tu>
     <tu>
@@ -2499,6 +2515,14 @@
         <seg>pinch salt</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162403Z" creationid="Usuario" creationdate="20190517T145741Z">
+        <seg>una pizca de sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>pinch&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062723Z" creationid="beatr" creationdate="20230522T062723Z">
         <seg>una pizca de sal</seg>
       </tuv>
     </tu>
