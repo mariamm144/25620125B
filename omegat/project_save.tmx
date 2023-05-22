@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 and ½ teaspoons will give you a regular strength iced coffee.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T171823Z" creationid="alond" creationdate="20230522T171823Z">
+        <seg>1 y ½ cucharaditas para un café helado normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 clove garlic or 1 teaspoon minced garlic</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T142223Z" creationid="alond" creationdate="20230502T142223Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="es" changeid="Dell" changedate="20140516T112044Z" creationid="Dell" creationdate="20140516T112044Z">
         <seg>1 huevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 teaspoon will give you a &lt;t2/&gt;more mild&lt;t3/&gt; tasting iced coffee.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T171848Z" creationid="alond" creationdate="20230522T171848Z">
+        <seg>Con 1 cucharadita obtendrá un &lt;t2/&gt;café helado de sabor más suave&lt;t3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,6 +1290,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230509T144437Z" creationid="alond" creationdate="20230509T144437Z">
         <seg>También puede &lt;t0/&gt;congelar los panes naan sobrantes hasta 1 mes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Amount of coffee granules&lt;t0/&gt; - 2 heaped teaspoons will give you a very strong Thermomix iced coffee&lt;t1/&gt; frappe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T171747Z" creationid="alond" creationdate="20230522T171747Z">
+        <seg>Cantidad de granos de café&lt;t0/&gt; - con 2 cucharaditas colmadas obtendrá un frappe de café helado Thermomix muy fuerte.&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pour into a tall glass and serve immediately.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T171632Z" creationid="alond" creationdate="20230522T171632Z">
+        <seg>Vierte en un vaso alto y sirve inmediatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pour the melted chocolate over the top and decorate with extra &lt;t0/&gt;mini Easter&lt;t1/&gt; eggs.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T164743Z" creationid="raque" creationdate="20230522T164743Z">
@@ -3284,6 +3316,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T192655Z" creationid="mmolc" creationdate="20230520T192655Z">
         <seg>La masa cruda y las galletas horneadas pueden estar congeladas hasta dos meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no need to dissolve the granules before using - simply place them into the Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T171907Z" creationid="alond" creationdate="20230522T171907Z">
+        <seg>No es necesario disolver los gránulos antes de usarlos, basta con colocarlos en el bol del Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
