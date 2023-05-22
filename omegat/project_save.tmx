@@ -408,8 +408,8 @@
       <tuv lang="en">
         <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Add the condensed milk and mix for 30 seconds, Speed 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230519T134810Z" creationid="mmolc" creationdate="20230519T134810Z">
-        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Añade la leche condensada y remuévelo durante 30 segundos, a la velocidad 5.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153016Z" creationid="mmolc" creationdate="20230519T134810Z">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Añade la leche condensada y remuévelo durante 30 segundos, a velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -480,8 +480,8 @@
       <tuv lang="en">
         <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Add 250g of the self-raising flour and mix for 20 seconds, Speed 6.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230519T164227Z" creationid="mmolc" creationdate="20230519T164227Z">
-        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Añade 250g de harina con levadura remuévelo durante 20 segundos, a la velocidad 6.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153023Z" creationid="mmolc" creationdate="20230519T164227Z">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Añade 250g de harina con levadura remuévelo durante 20 segundos, a velocidad 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,10 +502,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Scrape down the sides of the bowl and mix for a further 10 seconds, speed 4 or until the mixture is smooth and well combined.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153354Z" creationid="mmolc" creationdate="20230522T153354Z">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Raspa los laterales del cuenco de Thermomix y remueve todo a velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 4 or until well combined.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230520T232806Z" creationid="mmolc" creationdate="20230520T232806Z">
-        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Raspa los laterales de tu cuenco de Thermomix y remueve todo en la velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153151Z" creationid="mmolc" creationdate="20230520T232806Z">
+        <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Raspa los laterales de tu cuenco de Thermomix y remueve todo a velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +784,8 @@
       <tuv lang="en">
         <seg>Add the final 250g and mix for 20 seconds, Speed 6 (please note that you'll need to use the spatula to assist with the mixing).</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230520T183822Z" creationid="mmolc" creationdate="20230520T183822Z">
-        <seg>Añade los 250g restantes y remueve durante 20 segundos, en la velocidad 6 (por favor, ten en cuenta que necesitarás la espátula para removerlo).</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153036Z" creationid="mmolc" creationdate="20230520T183822Z">
+        <seg>Añade los 250g restantes y remueve durante 20 segundos, a velocidad 6 (por favor, ten en cuenta que necesitarás la espátula para removerlo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,8 +1096,8 @@
       <tuv lang="en">
         <seg>Cook for 3 minutes, 60 degrees, Speed 2, or until melted.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230520T200607Z" creationid="mmolc" creationdate="20230520T200607Z">
-        <seg>Cocina durante 3 minutos, a 60 grados, en la velocidad 2, o hasta que se derrita.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153103Z" creationid="mmolc" creationdate="20230520T200607Z">
+        <seg>Cocina durante 3 minutos, a 60 grados, a velocidad 2, o hasta que se derrita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1480,8 +1488,8 @@
       <tuv lang="en">
         <seg>Mix for another 10 seconds, Speed 5, or until just combined - it’s fine if the mixture is a little lumpy.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230520T201233Z" creationid="mmolc" creationdate="20230520T201233Z">
-        <seg>Mezcla durante 10 segundos mas, en la velocidad 5, o hasta que la mezcla esté bien removida; no pasa nada si la mezcla está un poco grumosa.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153145Z" creationid="mmolc" creationdate="20230520T201233Z">
+        <seg>Mezcla durante 10 segundos mas, a velocidad 5, o hasta que la mezcla esté bien removida; no pasa nada si la mezcla está un poco grumosa.</seg>
       </tuv>
     </tu>
     <tu>
