@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;1602&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;336&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;45&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Sodium: &lt;t15/&gt;1960&lt;t16/&gt;mg&lt;t17/&gt; | &lt;t18/&gt;Potassium: &lt;t19/&gt;428&lt;t20/&gt;mg&lt;t21/&gt; | Fiber: &lt;t22/&gt;12&lt;t23/&gt;g&lt;t24/&gt; | Sugar: &lt;t25/&gt;1&lt;t26/&gt;g&lt;t27/&gt; | Calcium: &lt;t28/&gt;60&lt;t29/&gt;mg&lt;t30/&gt; | Iron: &lt;t31/&gt;19&lt;t32/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175343Z" creationid="alond" creationdate="20230522T175343Z">
+        <seg>Calorías: &lt;t0/&gt;1602&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;336&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;45&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Sodio: &lt;t15/&gt;1960&lt;t16/&gt;mg&lt;t17/&gt; | &lt;t18/&gt;Potasio: &lt;t19/&gt;428&lt;t20/&gt;mg&lt;t21/&gt; | Fibra: &lt;t22/&gt;12&lt;t23/&gt;g&lt;t24/&gt; | Azúcar: &lt;t25/&gt;1&lt;t26/&gt;g&lt;t27/&gt; | Calcio: &lt;t28/&gt;60&lt;t29/&gt;mg&lt;t30/&gt; | Hierro: &lt;t31/&gt;19&lt;t32/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;187&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;26&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;7&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;7&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;2&lt;t19/&gt;g&lt;t20/&gt; | Cholesterol: &lt;t21/&gt;20&lt;t22/&gt;mg&lt;t23/&gt; | Sodium: &lt;t24/&gt;97&lt;t25/&gt;mg&lt;t26/&gt; | Potassium: &lt;t27/&gt;335&lt;t28/&gt;mg&lt;t29/&gt; | Sugar: &lt;t30/&gt;25&lt;t31/&gt;g&lt;t32/&gt; | Vitamin A: &lt;t33/&gt;324&lt;t34/&gt;IU&lt;t35/&gt; | Calcium: &lt;t36/&gt;235&lt;t37/&gt;mg&lt;t38/&gt; | Iron: &lt;t39/&gt;1&lt;t40/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T172220Z" creationid="alond" creationdate="20230522T172220Z">
@@ -1966,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Course&lt;t0/&gt;Breakfast&lt;t1/&gt;, Snacks</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175510Z" creationid="alond" creationdate="20230522T175510Z">
+        <seg>Cocina&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt;Drinks</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153927Z" creationid="alond" creationdate="20230519T153927Z">
@@ -2130,6 +2146,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171242Z" creationid="raque" creationdate="20230522T171242Z">
         <seg>Corta el queso parmesano en cuadrados de no más de 3 cm y colócalos en tu vaso de Thermomix para mezclar durante 10 segundos a velocidad 9 para rallar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cutting the bread – &lt;t0/&gt;as delicious as warm br&lt;t1/&gt;ead straight from the oven is… allow it to cool for approximately an hour before slicing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175230Z" creationid="alond" creationdate="20230522T175230Z">
+        <seg>Cortar el pan - &lt;t0/&gt;aunque esté delicioso recién salido del horno... déjalo enfriar durante aproximadamente una hora antes de cortarlo en rebanadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,6 +3720,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix Banana and Apple Pikelets</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175412Z" creationid="alond" creationdate="20230522T175412Z">
+        <seg>Pikelets de plátano y manzana con Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Blueberry Muffins</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195045Z" creationid="mmolc" creationdate="20230520T195045Z">
@@ -3832,6 +3864,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These easy Thermomix Banana and Apple Pikelets are perfect for the entire family, freezer friendly and a great lunchbox snack!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175445Z" creationid="alond" creationdate="20230522T175445Z">
+        <seg>Estos pikelets de plátano y manzana con Thermomix son perfectos para toda la familia, se pueden congelar y son un aperitivo ideal para el almuerzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These pikelets are freezer friendly.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202230Z" creationid="beatr" creationdate="20230512T202230Z">
@@ -3868,6 +3908,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T001514Z" creationid="mmolc" creationdate="20230521T001514Z">
         <seg>Este bizcocho de mármol puede hornearse en moldes de diferentes tamaños, pero el tiempo de horneado variará.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows the bread to hold &lt;t2/&gt;it’s&lt;t3/&gt; shape when cut.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175245Z" creationid="alond" creationdate="20230522T175245Z">
+        <seg>Esto permite que el pan mantenga su forma al cortarlo.</seg>
       </tuv>
     </tu>
     <tu>
