@@ -1518,6 +1518,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the mixture is too crumbly&lt;t0/&gt; - add a little more honey/rice malt syrup and mix again.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T160644Z" creationid="mmolc" creationdate="20230522T160644Z">
+        <seg>Si la mezcla está llena de migas,&lt;t0/&gt;añade un poco más de miel/sirope de arroz malteado y vuelve a remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you don't have a Thermomix,&lt;t0/&gt; you can use a blender or food processor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T160811Z" creationid="mmolc" creationdate="20230522T160811Z">
+        <seg>Si no tienes un aparato Thermomix,&lt;t0/&gt;puedes usar una batidora o un procesador de alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you don't have any pink food colouring, different colours can be used or you can divide the mixture into two and have one chocolate and one vanilla.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T235159Z" creationid="mmolc" creationdate="20230520T235159Z">
