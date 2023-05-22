@@ -2208,6 +2208,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix Apricot Balls</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T154525Z" creationid="mmolc" creationdate="20230522T154525Z">
+        <seg>Bolitas de albaricoque con Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Blueberry Muffins</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195045Z" creationid="mmolc" creationdate="20230520T195045Z">
@@ -2620,6 +2628,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202219Z" creationid="beatr" creationdate="20230512T202219Z">
         <seg>Puede preparar la mezcla para pikelets con hasta 12 horas de antelación, simplemente guárdela en el frigorífico hasta que la necesite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use any type of apple for this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T154458Z" creationid="mmolc" creationdate="20230522T154458Z">
+        <seg>Puedes utilizar cualquier tipo de manzana para esta receta.</seg>
       </tuv>
     </tu>
     <tu>
