@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>160 g &lt;t0/&gt;sourdough&lt;t1/&gt; starter</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172723Z" creationid="alond" creationdate="20230522T172723Z">
+        <seg>160 g &lt;t0/&gt;de&lt;t1/&gt; masa madre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>160&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sultanas</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T130532Z" creationid="beatr" creationdate="20230520T130532Z">
@@ -542,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>230 g &lt;t0/&gt;water</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172656Z" creationid="alond" creationdate="20230522T172656Z">
+        <seg>230 g &lt;t0/&gt;agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>240&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053529Z" creationid="beatr" creationdate="20230521T053529Z">
@@ -758,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>400 g &lt;t0/&gt;Bakers&lt;t1/&gt; flour or strong bread flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172649Z" creationid="alond" creationdate="20230522T172649Z">
+        <seg>400 g &lt;t0/&gt; Harina de panadería o harina de fuerza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>400 g can chickpeas drained (keep the liquid aside)</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T142335Z" creationid="alond" creationdate="20230502T142335Z">
@@ -778,6 +802,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230505T163344Z" creationid="alond" creationdate="20230505T161550Z">
         <seg>450 g de harina normal (o &lt;t0/&gt;harina&lt;t1/&gt; de panadería)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5 g &lt;t0/&gt;salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172653Z" creationid="alond" creationdate="20230522T172653Z">
+        <seg>5 g &lt;t0/&gt;sal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2318,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Knead for 10 minutes of kneading/Interval function.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172916Z" creationid="alond" creationdate="20230522T172916Z">
+        <seg>Amasa durante 10 minutos en función amasado (velocidad espiga).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Knead on Interval function for 3 minutes.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153157Z" creationid="alond" creationdate="20230519T153157Z">
@@ -2550,6 +2590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oven</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172519Z" creationid="alond" creationdate="20230522T172519Z">
+        <seg>Un horno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perfect for a hot day, our smooth iced coffee frappe will give you the energy boost you need!</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153850Z" creationid="alond" creationdate="20230519T153850Z">
@@ -2690,6 +2738,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174632Z" creationid="beatr" creationdate="20230520T174632Z">
         <seg> del Poner la harina ¡, la mantequilla y la sal en el bowl de la Thermomix y mezcla durante 10 segundos a la velocidad 9 hasta que la mezcla tenga la misma consistencia &lt;t0/&gt;de pan rallado&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the flour, salt, &lt;t0/&gt;water&lt;t1/&gt; and sourdough into the Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172744Z" creationid="alond" creationdate="20230522T172744Z">
+        <seg>Colocar la harina, la sal, &lt;t0/&gt;el agua&lt;t1/&gt; y la masa madre en el bol del Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
