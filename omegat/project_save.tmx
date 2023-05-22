@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A simple Thermomix Easter Egg Slice filled with yum&lt;t0/&gt;my chocolate Easter eggs... and it's completely no-bake!!</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163125Z" creationid="raque" creationdate="20230522T163125Z">
+        <seg>Una simple tira de Huevo de Pascua a Thermomix con deliciosos huevos de Pascua de chocolate... ¡y sin cocer!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add another 250g of the self-raising flour and mix for a further 20 seconds.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T164439Z" creationid="mmolc" creationdate="20230519T164439Z">
@@ -1134,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chilling Time&lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;hours</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163248Z" creationid="raque" creationdate="20230522T163248Z">
+        <seg>Tiempo de reposo &lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue until you have used &lt;t0/&gt;all of&lt;t1/&gt; the pikelet mixture.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202204Z" creationid="beatr" creationdate="20230512T202204Z">
@@ -1270,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Course&lt;t0/&gt; &lt;t1/&gt;Dessert</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163148Z" creationid="raque" creationdate="20230522T163148Z">
+        <seg>Tipo de plato &lt;t0/&gt; &lt;t1/&gt;Postre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Muffins</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061435Z" creationid="beatr" creationdate="20230522T061435Z">
@@ -1338,6 +1362,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201441Z" creationid="beatr" creationdate="20230512T201441Z">
         <seg>Cocina&lt;t0/&gt;Australiana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Easter</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163205Z" creationid="raque" creationdate="20230522T163205Z">
+        <seg>Gastronomía&lt;t0/&gt; &lt;t1/&gt;Pascua</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,6 +2008,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;10 &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163230Z" creationid="raque" creationdate="20230522T163230Z">
+        <seg>Tiempo de preparación &lt;t0/&gt; &lt;t1/&gt;10 &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202344Z" creationid="beatr" creationdate="20230512T202344Z">
@@ -2200,6 +2240,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;16 &lt;t2/&gt;pieces</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163416Z" creationid="raque" creationdate="20230522T163416Z">
+        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;16 &lt;t2/&gt;porciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;24&lt;t2/&gt; &lt;t3/&gt;Pikelets</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201457Z" creationid="beatr" creationdate="20230512T201457Z">
@@ -2388,6 +2436,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T130113Z" creationid="mmolc" creationdate="20230519T130113Z">
         <seg>Galletas de leche condensada Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thermomix Easter Egg Slice</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T162725Z" creationid="raque" creationdate="20230522T162725Z">
+        <seg>Tira de Huevo de Pascua a Thermomix</seg>
       </tuv>
     </tu>
     <tu>
@@ -2612,6 +2668,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T125450Z" creationid="beatr" creationdate="20230520T125450Z">
         <seg>Tiempo en total&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;hours&lt;t3/&gt; 10 &lt;t4/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163307Z" creationid="raque" creationdate="20230522T163307Z">
+        <seg>Tiempo total &lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;horas&lt;t3/&gt; 10 &lt;t4/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
