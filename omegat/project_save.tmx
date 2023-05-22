@@ -304,8 +304,8 @@
       <tuv lang="en">
         <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Peel the apple and roughly chop it into pieces no bigger than 1cm.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230522T152256Z" creationid="mmolc" creationdate="20230522T152256Z">
-        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;&gt;Pelar la manzana y cortarla en trozos de no más de 1 cm.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153517Z" creationid="mmolc" creationdate="20230522T152256Z">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;&gt;Pela la manzana y córtala en trozos de no más de 1 cm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,8 +440,8 @@
       <tuv lang="en">
         <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Place the self raising flour, caster sugar, butter, vanilla extract, eggs and milk into your Thermomix bowl and mix for 15 seconds, speed 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230522T152615Z" creationid="mmolc" creationdate="20230522T152615Z">
-        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Ponga la harina con levadura, el azúcar molido, la mantequilla, el extracto de vainilla, los huevos y la leche en el bol de la Thermomix y mézclelos durante 15 segundos a velocidad 5.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153447Z" creationid="mmolc" creationdate="20230522T152615Z">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Pon la harina con levadura, el azúcar molido, la mantequilla, el extracto de vainilla, los huevos y la leche en el bol de la Thermomix y mézclelos durante 15 segundos a velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +538,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162704Z" creationid="mmolc" creationdate="20230519T162704Z">
         <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Remuévelo durante 2 minutos más usando la función de masa/intervalos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Pour the mixture into your prepared loaf tin and sprinkle the apple pieces over the top.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153742Z" creationid="mmolc" creationdate="20230522T153440Z">
+        <seg>5.&lt;t0/&gt;              &lt;t1/&gt;Vierte la mezcla en el molde preparado y oon los trozos de manzana encima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,8 +1616,8 @@
       <tuv lang="en">
         <seg>Place the apple pieces into a small bowl and add the cinnamon before gently stirring to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230522T152354Z" creationid="mmolc" creationdate="20230522T152354Z">
-        <seg>Ponga los trozos de manzana en un bol pequeño y añada la canela antes de remover suavemente para combinar.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153455Z" creationid="mmolc" creationdate="20230522T152354Z">
+        <seg>Pon los trozos de manzana en un bol pequeño y añada la canela antes de remover suavemente para combinar.</seg>
       </tuv>
     </tu>
     <tu>
