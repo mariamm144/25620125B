@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the zucchini and carrot pieces and blitz for 4 seconds, speed 6 to grate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T183643Z" creationid="alond" creationdate="20230522T183643Z">
+        <seg>Añade los trozos de calabacín y zanahoria y tritúralos durante 4 segundos, velocidad 6 para rallarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow to cool for 10 minutes on the baking trays before transferring to a wire rack to cool completely.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T184947Z" creationid="mmolc" creationdate="20230520T184947Z">
@@ -2590,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there are still large pieces remaining, blitz for a further 3 s&lt;t0/&gt;econds, speed 5 until finely grated.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T183711Z" creationid="alond" creationdate="20230522T183711Z">
+        <seg>Si aún quedan trozos grandes, tritúralos durante otros 3&lt;t0/&gt;segundos, velocidad 5, hasta que queden finamente rallados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If using solid mini eggs, I would recommend chopping them into smaller pieces before using (this makes the &lt;t7/&gt;slice easier to cut).</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T165908Z" creationid="raque" creationdate="20230522T165908Z">
@@ -3540,6 +3556,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230505T162543Z" creationid="alond" creationdate="20230505T160227Z">
         <seg>Raspa las paredes del bol &lt;t0/&gt;entre &lt;t1/&gt;mezcla y mezcla&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of the bowl and add the mince, sauces and egg to your Thermomix bowl and mix for 15 seconds, speed 5 to combine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T183757Z" creationid="alond" creationdate="20230522T183757Z">
+        <seg>Raspa las paredes del bol y añade la carne picada, las salsas y el huevo al vaso de tu Thermomix y mezcla durante 15 segundos, velocidad 5 para combinar.</seg>
       </tuv>
     </tu>
     <tu>
