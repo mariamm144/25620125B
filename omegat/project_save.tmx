@@ -1366,6 +1366,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break the extra egg into a small bowl and lightly whisk.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171338Z" creationid="raque" creationdate="20230522T171338Z">
+        <seg>Rompe el huevo extra en un tazón pequeño y bate ligeramente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brush one edge of the pastry with a little of the egg before using a spoon to add an approximately 3cm wide line of mixture down the &lt;t1/&gt;centre&lt;t2/&gt; of the pasty.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171432Z" creationid="raque" creationdate="20230522T171432Z">
+        <seg>Pasa un cepillo por el borde de la masa con un poco de huevo antes de usar una cuchara para agregar una línea de mezcla de aproximadamente 3 cm de ancho por el centro de la masa pastelera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T003147Z" creationid="beatr" creationdate="20230520T125556Z">
@@ -2614,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the partially thawed pastry squares on your bench an&lt;t0/&gt;d cut in half lengthways.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171410Z" creationid="raque" creationdate="20230522T171410Z">
+        <seg>Coloca los cuadrados de masa parcialmente descongelados y córtalos por la mitad a lo largo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the rice basket on top of the Thermomix and weigh in the sushi rice.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203422Z" creationid="beatr" creationdate="20230512T203422Z">
@@ -2860,6 +2884,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T053611Z" creationid="beatr" creationdate="20230522T053611Z">
         <seg>Repetir hasta que la mezcla se acabe &lt;t2/&gt;&lt;t3/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Roll the pastry (starting from the edge without the egg) to enclose the fill&lt;t0/&gt;ing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171635Z" creationid="raque" creationdate="20230522T171635Z">
+        <seg>Enrolla la masa (empezando por el borde sin el huevo) para encerrar el relleno&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
