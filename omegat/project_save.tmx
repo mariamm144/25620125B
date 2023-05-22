@@ -3294,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please note the egg does help to bind the rissoles together.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184138Z" creationid="alond" creationdate="20230522T184138Z">
+        <seg>Ten en cuenta que el huevo ayuda a unir las croquetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please note these biscuits will soften after a couple of days, especially if iced.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T060311Z" creationid="beatr" creationdate="20230522T060311Z">
@@ -3992,6 +4000,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The below recipe makes around 10 Rissoles (depending on the size you make them) and you can freeze any leftovers – they make a great easy meal!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184421Z" creationid="alond" creationdate="20230522T184421Z">
+        <seg>Esta receta da alrededor de 10 croquetas frías (dependiendo del tamaño en que las hagas) y puedes congelar las sobras. ¡Es una comida fácil de preparar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The mixture will be very soft once it has been combined, and you will need a spatula to help remove it from your Thermomix bowl.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
@@ -4208,6 +4224,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These Rissoles are also a great lunch box snack!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184305Z" creationid="alond" creationdate="20230522T184305Z">
+        <seg>También son un buen tentempié para el almuerzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These Thermomix Fairy Biscuits require just a few easy ingredients and take no time to make.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053019Z" creationid="beatr" creationdate="20230521T053019Z">
@@ -4244,6 +4268,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202230Z" creationid="beatr" creationdate="20230512T202230Z">
         <seg>Estos pikelets son aptos para el congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These rissoles can be frozen either before&lt;t0/&gt; or after cooking.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184207Z" creationid="alond" creationdate="20230522T184207Z">
+        <seg>Estas croquetas pueden congelarse antes&lt;t0/&gt; o después de la cocción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4584,6 +4616,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We also like to add sweet potato or pumpkin.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184243Z" creationid="alond" creationdate="20230522T184243Z">
+        <seg>También nos gusta añadir boniato o calabaza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We recommend using caster sugar as it dissolves easily when blended in the frappe.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T172042Z" creationid="alond" creationdate="20230522T172042Z">
@@ -4696,6 +4736,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can leave the egg out of this recipe if you prefer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184112Z" creationid="alond" creationdate="20230522T184112Z">
+        <seg>Si lo prefieres, puedes prescindir del huevo en esta receta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can make larger biscuits however the baking time will vary and you will get less cookies.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T191435Z" creationid="mmolc" creationdate="20230520T191435Z">
@@ -4708,6 +4756,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202219Z" creationid="beatr" creationdate="20230512T202219Z">
         <seg>Puede preparar la mezcla para pikelets con hasta 12 horas de antelación, simplemente guárdela en el frigorífico hasta que la necesite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can substitute or add grated vegetables to this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184227Z" creationid="alond" creationdate="20230522T184227Z">
+        <seg>Puedes sustituir o añadir verduras ralladas a esta receta.</seg>
       </tuv>
     </tu>
     <tu>
