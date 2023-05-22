@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;365&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;38&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;24&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;14&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;2&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;6&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;0.2&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;126&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;197&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;3&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;28&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;220&lt;t40/&gt;IU&lt;t41/&gt; | &lt;t42/&gt;Vitamin C: &lt;t43/&gt;1&lt;t44/&gt;mg&lt;t45/&gt; | Calcium: &lt;t46/&gt;65&lt;t47/&gt;mg&lt;t48/&gt; | Iron: &lt;t49/&gt;1&lt;t50/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170139Z" creationid="raque" creationdate="20230522T170139Z">
+        <seg>Calorías: &lt;t0/&gt;365&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;38&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;24&lt;t10/&gt;g&lt;t11/&gt; | Grasas Saturadas: &lt;t12/&gt;14&lt;t13/&gt;g&lt;t14/&gt; | Grasas Poliinsaturadas: &lt;t15/&gt;2&lt;t16/&gt;g&lt;t17/&gt; | Grasas Monoinsaturadas: &lt;t18/&gt;6&lt;t19/&gt;g&lt;t20/&gt; | Grasas Trans: &lt;t21/&gt;0. 2&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;126&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;197&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;3&lt;t34/&gt;g&lt;t35/&gt; | Azúcar: &lt;t36/&gt;28&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;220&lt;t40/&gt;IU&lt;t41/&gt; | &lt;t42/&gt;Vitamina C: &lt;t43/&gt;1&lt;t44/&gt;mg&lt;t45/&gt;| Calcio: &lt;t46/&gt;65&lt;t47/&gt;mg&lt;t48/&gt; | Hierro: &lt;t49/&gt;1&lt;t50/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;72&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;11&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;1&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;3&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;2&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;0.3&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;0.3&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;0.001&lt;t22/&gt;g&lt;t23/&gt; | Sodium: &lt;t24/&gt;2&lt;t25/&gt;mg&lt;t26/&gt; | Potassium: &lt;t27/&gt;163&lt;t28/&gt;mg&lt;t29/&gt; | Fiber: &lt;t30/&gt;2&lt;t31/&gt;g&lt;t32/&gt; | Sugar: &lt;t33/&gt;6&lt;t34/&gt;g&lt;t35/&gt; | Vitamin A: &lt;t36/&gt;428&lt;t37/&gt;IU&lt;t38/&gt; | Vitamin C: &lt;t39/&gt;0.1&lt;t40/&gt;mg&lt;t41/&gt; | Calcium: &lt;t42/&gt;14&lt;t43/&gt;mg&lt;t44/&gt; | Iron: &lt;t45/&gt;1&lt;t46/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T162157Z" creationid="mmolc" creationdate="20230522T162157Z">
@@ -1250,6 +1258,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163248Z" creationid="raque" creationdate="20230522T163248Z">
         <seg>Tiempo de reposo &lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose your &lt;t0/&gt;favourite&lt;t1/&gt; &lt;t2/&gt;mini Easter&lt;t3/&gt; eggs&lt;t4/&gt; - I recommend using M&amp;Ms crispy speckled eggs as they cut easily and are bright and &lt;t5/&gt;colourful&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T165854Z" creationid="raque" creationdate="20230522T165854Z">
+        <seg>Elige tus mini huevos de Pascua favoritos - Yo recomiendo usar huevos moteados crujientes de M&amp;Ms ya que se cortan fácilmente y son brillantes y coloridos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freeze in an airtight container for up to 3 &lt;t0/&gt;months</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170003Z" creationid="raque" creationdate="20230522T170003Z">
+        <seg>Congelar en un recipiente hermético hasta 3 meses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Freezing&lt;t0/&gt; - freeze in an airtight container for up to 2 months.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161324Z" creationid="mmolc" creationdate="20230522T161324Z">
@@ -1690,6 +1714,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T160644Z" creationid="mmolc" creationdate="20230522T160644Z">
         <seg>Si la mezcla está llena de migas,&lt;t0/&gt;añade un poco más de miel/sirope de arroz malteado y vuelve a remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If using solid mini eggs, I would recommend chopping them into smaller pieces before using (this makes the &lt;t7/&gt;slice easier to cut).</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T165908Z" creationid="raque" creationdate="20230522T165908Z">
+        <seg>Si se utilizan mini huevos macizos, recomendaría picarlos en trozos más pequeños antes de usarlos (esto hace que sea más fácil de cortar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,8 +1912,8 @@
       <tuv lang="en">
         <seg>Nutrition</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230521T001838Z" creationid="beatr" creationdate="20230512T202237Z">
-        <seg>Nutrición:</seg>
+      <tuv lang="es" changeid="raque" changedate="20230522T170013Z" creationid="beatr" creationdate="20230512T202237Z">
+        <seg>Nutrientes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2248,6 +2280,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove the slice from the fridge 20 minutes before cutting&lt;t0/&gt; (this helps to stop the chocolate layer on top from cracking).</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T165929Z" creationid="raque" creationdate="20230522T165929Z">
+        <seg>Sácalos de la nevera 20 minutos antes de cortar (esto ayuda a que la capa de chocolate de la parte superior no se agriete).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove the sushi rice from the basket once cooked – &lt;t0/&gt;if you leave the sushi rice to sit in the rice basket after the cooking time, it will become gluggy.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203544Z" creationid="beatr" creationdate="20230512T203544Z">
@@ -2524,6 +2564,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T140512Z" creationid="beatr" creationdate="20230520T140512Z">
         <seg>Conservar en un recipiente hermético en el frigorífico hasta una semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Store in the fridge for up to 1 week</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T165946Z" creationid="raque" creationdate="20230522T165946Z">
+        <seg>Conservar en el frigorífico hasta 1 semana</seg>
       </tuv>
     </tu>
     <tu>
@@ -2932,6 +2980,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T055238Z" creationid="beatr" creationdate="20230522T055238Z">
         <seg>Coloca el glaseado en cada galleta con un cuchillo de mantequilla y añade las virutas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use any plain sweet biscuits you like&lt;t0/&gt; (such as &lt;t1/&gt;Arnotts&lt;t2/&gt; Ma&lt;t3/&gt;rie, Nice &lt;t4/&gt;etc&lt;t5/&gt;)</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T165824Z" creationid="raque" creationdate="20230522T165824Z">
+        <seg>Utiliza cualquier galleta dulce normal que te guste (como Arnotts María, Nice etc).</seg>
       </tuv>
     </tu>
     <tu>
