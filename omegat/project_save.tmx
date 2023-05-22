@@ -2272,6 +2272,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can freeze this biscuit dough, simply roll into a log and cover with foil before placing in the freezer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T060518Z" creationid="beatr" creationdate="20230522T060518Z">
+        <seg>Puedes congelar esta masa de galleta, simplemente haz un rollo y cúbrelo con papel de aluminio antes de meterlo en el congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can halve the ingredients to make less cookies.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T191646Z" creationid="mmolc" creationdate="20230520T191646Z">
