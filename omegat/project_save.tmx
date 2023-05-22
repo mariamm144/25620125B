@@ -2430,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Divide the mixture into 10 portions and use your hands to bring them together before rolling in the flour.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184010Z" creationid="alond" creationdate="20230522T184010Z">
+        <seg>Divide la mezcla en 10 porciones y unelas con las manos antes de pasarlas por la harina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Drizzle over the sushi seasoning and fluff with a fork up and allow to cool slightly.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203455Z" creationid="beatr" creationdate="20230512T203455Z">
@@ -3222,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the rissoles into a frying pan with a litt&lt;t0/&gt;le olive oil and cook for approximately 3 -4 minutes on each side or until cooked through.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T184045Z" creationid="alond" creationdate="20230522T184045Z">
+        <seg>Pon las croquetas en una sartén con un poco de aceite de oliva y cocínalas durante unos 3-4 minutos por cada lado o hasta que estén bien hechas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the rolls into the fridge for an hour before cutting – &lt;t0/&gt;this allows the rolls to set making it easier to cut and serve.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T122658Z" creationid="beatr" creationdate="20230520T122658Z">
@@ -3536,6 +3552,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scrape down th&lt;t0/&gt;e sides of the bowl and mix for a further 10 seconds, speed 4 or until the mixture is well combined.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T183846Z" creationid="alond" creationdate="20230522T183846Z">
+        <seg>Raspa las paredes del bol y mezcla durante 10 segundos más a velocidad 4 o hasta que la mezcla esté bien homogénea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scrape down the sides and melt for a further 30 seconds, 100 degrees, Speed 3 (if needed).</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T153253Z" creationid="beatr" creationdate="20230522T153253Z">
@@ -3562,8 +3586,8 @@
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and add the mince, sauces and egg to your Thermomix bowl and mix for 15 seconds, speed 5 to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T183757Z" creationid="alond" creationdate="20230522T183757Z">
-        <seg>Raspa las paredes del bol y añade la carne picada, las salsas y el huevo al vaso de tu Thermomix y mezcla durante 15 segundos, velocidad 5 para combinar.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230522T183901Z" creationid="alond" creationdate="20230522T183757Z">
+        <seg>Raspa las paredes del bol y añade la carne picada, las salsas y el huevo al vaso de tu Thermomix y mezcla durante 15 segundos, velocidad 5 para homogenear.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4540,6 +4564,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T165807Z" creationid="raque" creationdate="20230522T165807Z">
         <seg>Utiliza leche condensada azucarada entera, ya que cuaja más firmemente que la desnatada o ligera. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use your spatula to push the mince down towards the blades if needed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T183821Z" creationid="alond" creationdate="20230522T183821Z">
+        <seg>Utiliza la espátula para empujar la carne picada hacia las cuchillas si es necesario.</seg>
       </tuv>
     </tu>
     <tu>
