@@ -2310,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If&lt;t0/&gt; &lt;t1/&gt;using&lt;t2/&gt; a &lt;t3/&gt;pyrex&lt;t4/&gt; &lt;t5/&gt;bowl</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173416Z" creationid="alond" creationdate="20230522T173416Z">
+        <seg>Si&lt;t0/&gt; &lt;t1/&gt;utiliza&lt;t2/&gt; un &lt;t3/&gt;bol&lt;t4/&gt; &lt;t5/&gt;pyrex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ingredients</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195653Z" creationid="beatr" creationdate="20230512T201537Z">
@@ -2887,6 +2895,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preheat the oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) or 230 degrees &lt;t2/&gt;celsius&lt;t3/&gt; (&lt;t4/&gt;non fan&lt;t5/&gt;-forced).</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173320Z" creationid="alond" creationdate="20230522T173320Z">
+        <seg>Precalienta el horno a 210 grados &lt;t0/&gt;celsius&lt;t1/&gt; (forzado con ventilador) o 230 grados &lt;t2/&gt;celsius&lt;t3/&gt; (&lt;t4/&gt;sin ventilador&lt;t5/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line an oven tray with baking paper.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174122Z" creationid="beatr" creationdate="20230520T174122Z">
@@ -3052,6 +3068,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T053611Z" creationid="beatr" creationdate="20230522T053611Z">
         <seg>Repetir hasta que la mezcla se acabe &lt;t2/&gt;&lt;t3/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return to the greased bowl, &lt;t0/&gt;cover&lt;t1/&gt; and allow to prove for another 4 hours (for best results, cover and place into the fri&lt;t2/&gt;dge overnight to prove.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173232Z" creationid="alond" creationdate="20230522T173232Z">
+        <seg>Vuelve a ponerlo en el bol engrasado, &lt;t0/&gt;cúbrelo&lt;t1/&gt; y deja que fermente durante otras 4 horas (para obtener mejores resultados, cúbralo y póngalo en el frigorífico&lt;t2/&gt;durante toda la noche para que fermente).</seg>
       </tuv>
     </tu>
     <tu>
