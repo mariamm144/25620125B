@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add as much or as little as you like to suit your taste preferences.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172022Z" creationid="alond" creationdate="20230522T172022Z">
+        <seg>Añade la cantidad que desee según sus preferencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add one tablespoon of boiling water and then add an additional ½ tablespoon at a time until your icing is a spreadable consistency.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T055002Z" creationid="beatr" creationdate="20230522T055002Z">
@@ -1458,6 +1466,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T130018Z" creationid="mmolc" creationdate="20230519T130018Z">
         <seg>Calorías: &lt;t0/&gt;120&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;17&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;2&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;5&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;3&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Grasas trans: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;65&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;19&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Azúcares: &lt;t36/&gt;7&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;167&lt;t40/&gt;IU&lt;t41/&gt; | Calcio: &lt;t42/&gt;15&lt;t43/&gt;mg&lt;t44/&gt; | Hierro: &lt;t45/&gt;1&lt;t46/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;187&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;26&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;7&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;7&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;2&lt;t19/&gt;g&lt;t20/&gt; | Cholesterol: &lt;t21/&gt;20&lt;t22/&gt;mg&lt;t23/&gt; | Sodium: &lt;t24/&gt;97&lt;t25/&gt;mg&lt;t26/&gt; | Potassium: &lt;t27/&gt;335&lt;t28/&gt;mg&lt;t29/&gt; | Sugar: &lt;t30/&gt;25&lt;t31/&gt;g&lt;t32/&gt; | Vitamin A: &lt;t33/&gt;324&lt;t34/&gt;IU&lt;t35/&gt; | Calcium: &lt;t36/&gt;235&lt;t37/&gt;mg&lt;t38/&gt; | Iron: &lt;t39/&gt;1&lt;t40/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172220Z" creationid="alond" creationdate="20230522T172220Z">
+        <seg>Calorías: &lt;t0/&gt;187&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;26&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;7&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;7&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;2&lt;t19/&gt;g&lt;t20/&gt; | Colesterol: &lt;t21/&gt;20&lt;t22/&gt;mg&lt;t23/&gt; | Sodio: &lt;t24/&gt;97&lt;t25/&gt;mg&lt;t26/&gt; | Potasio: &lt;t27/&gt;335&lt;t28/&gt;mg&lt;t29/&gt; | Azúcar: &lt;t30/&gt;25&lt;t31/&gt;g&lt;t32/&gt; | Vitamina A: &lt;t33/&gt;324&lt;t34/&gt;IU&lt;t35/&gt; | Calcio: &lt;t36/&gt;235&lt;t37/&gt;mg&lt;t38/&gt; | Hierro: &lt;t39/&gt;1&lt;t40/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -3280,6 +3296,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sugar&lt;t0/&gt; - Adding sugar is e&lt;t1/&gt;ntirely optional.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172004Z" creationid="alond" creationdate="20230522T172004Z">
+        <seg>Azúcar&lt;t0/&gt; - Añadir azúcar es&lt;t1/&gt;totalmente opcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The balls will only take a few minutes to defrost.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161408Z" creationid="mmolc" creationdate="20230522T161408Z">
@@ -3756,6 +3780,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203442Z" creationid="beatr" creationdate="20230512T203442Z">
         <seg> Quitar cuidadosamente la cesta de arroz de la Thermomix (¡estará muy caliente!).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend using caster sugar as it dissolves easily when blended in the frappe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172042Z" creationid="alond" creationdate="20230522T172042Z">
+        <seg>Recomendamos utilizar azúcar en polvo, ya que se disuelve fácilmente al mezclarlo con el frappe.</seg>
       </tuv>
     </tu>
     <tu>
