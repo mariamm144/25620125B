@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 banana</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175824Z" creationid="alond" creationdate="20230522T175824Z">
+        <seg>1 plátano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 clove garlic or 1 teaspoon minced garlic</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T142223Z" creationid="alond" creationdate="20230502T142223Z">
@@ -1266,6 +1274,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T053124Z" creationid="beatr" creationdate="20230521T055550Z">
         <seg>Añade  &lt;t0/&gt;harina&lt;t1/&gt; con levadura, huevo egg y extracto de vainilla y mezclardurante 10 segundos, a la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, milk, vanilla extract, &lt;t2/&gt;ba&lt;t3/&gt;nana&lt;t4/&gt; and egg and mix for 10 seconds, Speed 5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180058Z" creationid="alond" creationdate="20230522T180058Z">
+        <seg>Añade la &lt;t0/&gt;harina con levadura&lt;t1/&gt;, la leche, el extracto de vainilla, el &lt;t2/&gt;plá&lt;t3/&gt;tano&lt;t4/&gt; y el huevo y mezcla durante 10 segundos, Velocidad 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the apple (which has been cut into chunks) and mix for 4 seconds, Speed 5, to grate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180013Z" creationid="alond" creationdate="20230522T180013Z">
+        <seg>Añade la manzana cortada en trozos y mezcla durante 4 segundos, Velocidad 5, para rallar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inst&lt;t0/&gt;ructions</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175911Z" creationid="alond" creationdate="20230522T175911Z">
+        <seg>Inst&lt;t0/&gt;rucciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instructions</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T200021Z" creationid="beatr" creationdate="20230512T201836Z">
@@ -2958,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the butter into your Thermomix bowl and cook for 2 minutes, 60 degrees, Speed 1 (or until melted).</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175943Z" creationid="alond" creationdate="20230522T175943Z">
+        <seg>Pon la mantequilla en el bol de tu Thermomix y cocínala durante 2 minutos, 60 grados, Velocidad 1 (o hasta que se derrita).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the butter into your Thermomix bowl and cook for 2 minutes, 60 degrees, speed 2 or until melted.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201949Z" creationid="beatr" creationdate="20230512T201949Z">
@@ -3364,6 +3404,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T152707Z" creationid="mmolc" creationdate="20230520T232316Z">
         <seg>Raspa las paredes de los lados del bol y mezcla durante otros 20 segundos a velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180116Z" creationid="alond" creationdate="20230522T180116Z">
+        <seg>Añada la &lt;t0/&gt;harina autolevante&lt;t1/&gt;, la leche, el extracto de vainilla, la &lt;t2/&gt;ba&lt;t3/&gt;nana&lt;t4/&gt; y el huevo y mezcle durante 10 segundos, Velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4460,6 +4508,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163607Z" creationid="raque" creationdate="20230522T163607Z">
         <seg>extra &lt;t0/&gt;mini huevos para decorar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>extra butter to grease the &lt;t0/&gt;pan</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175857Z" creationid="alond" creationdate="20230522T175857Z">
+        <seg>un poco más de mantequilla para engrasar la &lt;t0/&gt;sartén</seg>
       </tuv>
     </tu>
     <tu>
