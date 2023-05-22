@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place into the oven to bake for 10 - 12 minutes or until the edges of the biscuits start to turn golden.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T054309Z" creationid="beatr" creationdate="20230522T054309Z">
+        <seg>Colóquelas en el horno en el horno durante 10-12 minutos o hasta que los bordes de las galletas queden dorados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place on a baking tray and sprinkle with the remaining grated cheese.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T180044Z" creationid="beatr" creationdate="20230520T180044Z">
