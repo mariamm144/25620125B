@@ -2382,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lightly flour a flat baking tray.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173443Z" creationid="alond" creationdate="20230522T173443Z">
+        <seg>Enharina ligeramente una bandeja de horno plana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lightly grease two baking trays and preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced).</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171222Z" creationid="raque" creationdate="20230522T171222Z">
@@ -2710,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the &lt;t3/&gt;pyrex&lt;t4/&gt; bowl over the top of the dough to form a dome.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173546Z" creationid="alond" creationdate="20230522T173546Z">
+        <seg>Colocar el bol &lt;t3/&gt;pyrex&lt;t4/&gt; sobre la parte superior de la masa para formar una cúpula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the apple pieces into a small bowl and add the cinnamon before gently stirring to combine.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153455Z" creationid="mmolc" creationdate="20230522T152354Z">
@@ -2754,6 +2770,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T132419Z" creationid="beatr" creationdate="20230520T132419Z">
         <seg>Coloca la mantequilla, el azúcar moreno, &lt;t0/&gt;la miel&lt;t1/&gt; y la canela en el bowl de la TM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the dough onto the &lt;t0/&gt;centre&lt;t1/&gt; of the tray and cut a couple of tiny slits with a &lt;t2/&gt;very sharp knife on the top of the dough.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173518Z" creationid="alond" creationdate="20230522T173518Z">
+        <seg>Coloca la masa en el &lt;t0/&gt;centro&lt;t1/&gt; de la bandeja y haz un par de pequeñas hendiduras con un &lt;t2/&gt;cuchillo muy afilado en la parte superior de la masa.</seg>
       </tuv>
     </tu>
     <tu>
