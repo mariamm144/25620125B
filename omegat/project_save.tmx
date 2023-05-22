@@ -1968,6 +1968,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These biscuits can also be enjoyed plain.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T055843Z" creationid="beatr" creationdate="20230522T055843Z">
+        <seg>Estas galletas también se pueden disfrutar solas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These pikelets are freezer friendly.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202230Z" creationid="beatr" creationdate="20230512T202230Z">
@@ -2060,6 +2068,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T182114Z" creationid="beatr" creationdate="20230520T182114Z">
         <seg>Para guardar los rollitos horneados, colócalos en un recipiente hermético y disfrútalos 5 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To store, place in an airtight container and keep at room temperature for up to 5 days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T060054Z" creationid="beatr" creationdate="20230522T060054Z">
+        <seg>Para guardarlas, colócalas en un recipiente hermético y mantenlo a temperatura ambiente hasta 5 días.</seg>
       </tuv>
     </tu>
     <tu>
