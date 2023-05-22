@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt;15 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173939Z" creationid="alond" creationdate="20230522T173939Z">
+        <seg>Tiempo de coción&lt;t0/&gt;15 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt;3 &lt;t1/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154048Z" creationid="alond" creationdate="20230519T154048Z">
@@ -2106,6 +2114,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170734Z" creationid="raque" creationdate="20230522T170734Z">
         <seg>Dieta&lt;t0/&gt; &lt;t1/&gt;vegetariana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diet&lt;t0/&gt;Vegetarian</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173927Z" creationid="alond" creationdate="20230522T173927Z">
+        <seg>Dieta&lt;t0/&gt;Vegetariana</seg>
       </tuv>
     </tu>
     <tu>
@@ -3352,6 +3368,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;8 &lt;t1/&gt;pieces</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T174002Z" creationid="alond" creationdate="20230522T174002Z">
+        <seg>Raciones&lt;t0/&gt;8 &lt;t1/&gt;trozos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set aside until needed.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T232151Z" creationid="mmolc" creationdate="20230520T232151Z">
@@ -3642,8 +3666,8 @@
       <tuv lang="en">
         <seg>Thermomix Sourdough Loaf</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172242Z" creationid="alond" creationdate="20230522T172242Z">
-        <seg>Pan de manzana con Thermomix</seg>
+      <tuv lang="es" changeid="alond" changedate="20230522T173909Z" creationid="alond" creationdate="20230522T172242Z">
+        <seg>Masa madre con Thermomix</seg>
       </tuv>
     </tu>
     <tu>
@@ -3908,6 +3932,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053305Z" creationid="beatr" creationdate="20230521T053305Z">
         <seg>Tiempo en total&lt;t0/&gt;57&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;1 &lt;t1/&gt;hour&lt;t2/&gt; 25 &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173953Z" creationid="alond" creationdate="20230522T173953Z">
+        <seg>Tiempo total&lt;t0/&gt;1 &lt;t1/&gt;hora&lt;t2/&gt; 25 &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
