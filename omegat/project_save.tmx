@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt;  &lt;t1/&gt;167&lt;t2/&gt;.3&lt;t3/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T061625Z" creationid="beatr" creationdate="20230522T061625Z">
+        <seg>Calorías&lt;t0/&gt;167,3&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;212&lt;t2/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173519Z" creationid="beatr" creationdate="20230520T173519Z">
@@ -958,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T061533Z" creationid="beatr" creationdate="20230522T061533Z">
+        <seg>Tiempo de cocina&lt;t0/&gt;15&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201449Z" creationid="beatr" creationdate="20230512T201449Z">
@@ -1014,10 +1030,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cost&lt;t0/&gt; &lt;t1/&gt;$5</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T061646Z" creationid="beatr" creationdate="20230522T061646Z">
+        <seg>Coste&lt;t0/&gt; &lt;t1/&gt;$5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201433Z" creationid="beatr" creationdate="20230512T201433Z">
         <seg>Comida&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Course&lt;t0/&gt; &lt;t1/&gt;Muffins</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T061435Z" creationid="beatr" creationdate="20230522T061435Z">
+        <seg>Plato&lt;t0/&gt; &lt;t1/&gt;Muffins</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1122,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202320Z" creationid="beatr" creationdate="20230512T202320Z">
         <seg>Cocina&lt;t0/&gt;japonesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Western</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T061520Z" creationid="beatr" creationdate="20230522T061520Z">
+        <seg>Cocina&lt;t0/&gt;del Oeste de USA</seg>
       </tuv>
     </tu>
     <tu>
@@ -1764,6 +1804,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162327Z" creationid="mmolc" creationdate="20230519T162327Z">
         <seg>Porciones: 24 &lt;t0/&gt;galletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;12&lt;t2/&gt; &lt;t3/&gt;muffins</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T061717Z" creationid="beatr" creationdate="20230522T061717Z">
+        <seg>Raciones&lt;t0/&gt;12&lt;t1/&gt; &lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
