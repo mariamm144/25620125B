@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;milk&lt;t4/&gt; &lt;t5/&gt;full &lt;t6/&gt;cream</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062441Z" creationid="beatr" creationdate="20230522T062441Z">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt; de leche entera&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;cream</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>125&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter&lt;t4/&gt; &lt;t5/&gt;at &lt;t6/&gt;room&lt;t7/&gt; &lt;t8/&gt;temperature</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053441Z" creationid="beatr" creationdate="20230521T053441Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053923Z" creationid="beatr" creationdate="20230521T053923Z">
         <seg>Una cucharadita de mantequilla a temperatura ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;honey</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062243Z" creationid="beatr" creationdate="20230522T062243Z">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de miel</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +586,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
         <seg>8.&lt;t0/&gt; &lt;t1/&gt;Enrolla la masa en la encimera hasta que tenga aproximadamente 4 mm de grosor y utiliza el cortador de tu elección para hacer formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>80&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;butter</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062139Z" creationid="beatr" creationdate="20230522T062139Z">
+        <seg>80 g de mantequilla</seg>
       </tuv>
     </tu>
     <tu>
