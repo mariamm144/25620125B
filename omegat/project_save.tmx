@@ -1568,6 +1568,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove from the oven and let the biscuits cool on the oven trays for 10 minutes before transferring to a wire rack to cool completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T054621Z" creationid="beatr" creationdate="20230522T054621Z">
+        <seg>Sacar del horno y dejar enfriar las galletas en las bandejas durante 10 minutos antes de pasarlas a una rejilla para que se enfríen completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove the bowl from your machine and use a &lt;t0/&gt;table spoon&lt;t1/&gt; to scoop up the mixture and roll into a ball.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T053401Z" creationid="beatr" creationdate="20230522T053401Z">
