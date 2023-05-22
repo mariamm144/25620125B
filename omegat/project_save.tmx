@@ -806,10 +806,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Pour&lt;t1/&gt; &lt;t2/&gt;into&lt;t3/&gt; a &lt;t4/&gt;seperate&lt;t5/&gt; &lt;t6/&gt;bowl&lt;t7/&gt; and set aside.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163818Z" creationid="raque" creationdate="20230522T163818Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;Viértelo en un bol diferente y déjalo apartado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Rinse&lt;t1/&gt; &lt;t2/&gt;under&lt;t3/&gt; &lt;t4/&gt;cold&lt;t5/&gt; &lt;t6/&gt;water&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203428Z" creationid="beatr" creationdate="20230512T203428Z">
         <seg>&lt;t0/&gt;Enjuagar&lt;t1/&gt; &lt;t2/&gt;bajo&lt;t3/&gt; &lt;t4/&gt;agua&lt;t5/&gt; &lt;t6/&gt;fría&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0/&gt;Scrape&lt;t1/&gt; &lt;t2/&gt;down&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;sides&lt;t7/&gt; &lt;t8/&gt;of&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;bowl&lt;t13/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T164358Z" creationid="raque" creationdate="20230522T164358Z">
+        <seg>&lt;t0/&gt;Retira&lt;t1/&gt; &lt;t2/&gt;todo&lt;t3/&gt; &lt;t4/&gt;de&lt;t5/&gt; &lt;t6/&gt;los laterales&lt;t7/&gt; &lt;t8/&gt;del&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;bol&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T154115Z" creationid="beatr" creationdate="20230522T154115Z">
         <seg>Añadir la harina, el azúcar, la levadura en polvo, el bicarbonato, la canela y la sal y mezclar durante 5 segundos a la velocidad 4 (utiliza la espátula para mezclar).&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the sweetened condensed milk and mix for 10 seconds, Speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163900Z" creationid="raque" creationdate="20230522T163900Z">
+        <seg>Añade la leche condensada y mezcla durante 10 segundos, velocidad 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -1766,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Melt the butter in the Thermomix for 2 minutes, 80 degrees, Speed &lt;t0/&gt;2 (or until melted).</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163903Z" creationid="raque" creationdate="20230522T163842Z">
+        <seg>Derrite la mantequilla en la Thermomix, a 80 grados, velocidad 2 (o hasta que se derrita).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mix for 1 minute, Speed 5 (scrape down the sides after 30 seconds).</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T134714Z" creationid="mmolc" creationdate="20230519T134714Z">
@@ -1922,6 +1954,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153455Z" creationid="mmolc" creationdate="20230522T152354Z">
         <seg>Pon los trozos de manzana en un bol pequeño y añada la canela antes de remover suavemente para combinar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the biscuits into the Thermomix bowl and crush for 10 seconds, Speed 8.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T163728Z" creationid="raque" creationdate="20230522T163728Z">
+        <seg>Echar las galletas María en la Thermomix 10 segundos, velocidad 8. </seg>
       </tuv>
     </tu>
     <tu>
