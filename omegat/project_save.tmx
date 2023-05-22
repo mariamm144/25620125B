@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt;199&lt;t1/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T181005Z" creationid="alond" creationdate="20230522T181005Z">
+        <seg>Calorías&lt;t0/&gt;199&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt;250&lt;t1/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T174007Z" creationid="alond" creationdate="20230522T174007Z">
@@ -2094,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Course&lt;t0/&gt;Dinners</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180930Z" creationid="alond" creationdate="20230522T180930Z">
+        <seg>Tipo de plato&lt;t0/&gt;Cenas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt;Drinks</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153927Z" creationid="alond" creationdate="20230519T153927Z">
@@ -2186,6 +2202,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061520Z" creationid="beatr" creationdate="20230522T061520Z">
         <seg>Cocina&lt;t0/&gt;del Oeste de USA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt;Australian</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180938Z" creationid="alond" creationdate="20230522T180938Z">
+        <seg>Cocina&lt;t0/&gt;Australiana</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,6 +3688,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;10 &lt;t1/&gt;Rissoles</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T181000Z" creationid="alond" creationdate="20230522T181000Z">
+        <seg>Raciones&lt;t0/&gt;10 &lt;t1/&gt;croquetas frías</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt;20 &lt;t1/&gt;pikelet&lt;t2/&gt;s</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175624Z" creationid="alond" creationdate="20230522T175624Z">
@@ -4032,6 +4064,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix&lt;t0/&gt; &lt;t1/&gt;Rissoles</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180839Z" creationid="alond" creationdate="20230522T180839Z">
+        <seg>Croquetas frías&lt;t0/&gt; &lt;t1/&gt;con Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These Cheese and Vegemite Scrolls can be ready to enjoy in less than 30 minutes!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173245Z" creationid="beatr" creationdate="20230520T173245Z">
@@ -4044,6 +4084,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053019Z" creationid="beatr" creationdate="20230521T053019Z">
         <seg>Estas galletas de hada en la Thermomix requieren de unos pocos ingredientes y se hacen enseguida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These Thermomix Rissoles are made with beef and vegetables and are one of our &lt;t0/&gt;families&lt;t1/&gt; &lt;t2/&gt;favourite&lt;t3/&gt; recipes!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180917Z" creationid="alond" creationdate="20230522T180917Z">
+        <seg>¡Estas croquetas frías con Thermomix están hechas con ternera y verduras y son una de nuestras &lt;t0/&gt;recetas&lt;t1/&gt; &lt;t2/&gt;familiares favoritas&lt;t3/&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4300,6 +4348,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175605Z" creationid="alond" creationdate="20230522T175605Z">
         <seg>Tiempo total&lt;t0/&gt;15 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;25 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180951Z" creationid="alond" creationdate="20230522T180951Z">
+        <seg>Tiempo total&lt;t0/&gt;25 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
