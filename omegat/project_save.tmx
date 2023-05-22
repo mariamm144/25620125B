@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow to cool in the tray for 5 minutes before transferring to a wire rack to cool completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T154734Z" creationid="beatr" creationdate="20230522T154734Z">
+        <seg>Dejar enfriar en la bandeja durante 5 minutos antes de pasarlos a una rejilla para que se enfríe completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, freeze in an airtight container for up to 2 months.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T225540Z" creationid="mmolc" creationdate="20230520T225540Z">
@@ -1158,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook for 15 minutes or until the muffins spring back when lightly touched in the middle.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T154630Z" creationid="beatr" creationdate="20230522T154630Z">
+        <seg>Hornear durante 15 minutos o hasta que los muffins se ablanden al tocarlas ligeramente en el centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook for 3 minutes, 60 degrees, Speed 2, or until melted.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153103Z" creationid="mmolc" creationdate="20230520T200607Z">
@@ -1330,6 +1346,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203523Z" creationid="beatr" creationdate="20230512T203523Z">
         <seg>Humedece el margen sin cubrir de la hoja de nori con agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Divide the mixture evenly between the muffin cases filling to ⅔ full.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T154525Z" creationid="beatr" creationdate="20230522T154525Z">
+        <seg>Reparte la mezcla uniformemente entre los moldes para muffins llenándolos hasta ⅔ de su capacidad.</seg>
       </tuv>
     </tu>
     <tu>
