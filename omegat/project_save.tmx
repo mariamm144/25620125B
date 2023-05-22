@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place onto your baking trays.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T053509Z" creationid="beatr" creationdate="20230522T053509Z">
+        <seg>Colócalas en las bandejas de horno..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the butter and caster sugar into your Thermomix bowl and mix for 15 seconds, speed 3 to combine.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T055149Z" creationid="beatr" creationdate="20230521T054818Z">
@@ -1540,6 +1548,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203537Z" creationid="beatr" creationdate="20230512T203537Z">
         <seg>NOTAS Y CONSEJOS SOBRE LA RECETA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove the bowl from your machine and use a &lt;t0/&gt;table spoon&lt;t1/&gt; to scoop up the mixture and roll into a ball.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T053401Z" creationid="beatr" creationdate="20230522T053401Z">
+        <seg>Retira el bol de la máquina y utiliza una cuchara para recoger la mezcla y formar una bola. &lt;t0/&gt;&lt;t1/&gt; </seg>
       </tuv>
     </tu>
     <tu>
