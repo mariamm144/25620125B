@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freeze – &lt;t0/&gt;sourdough freezes beautifully.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175141Z" creationid="alond" creationdate="20230522T175141Z">
+        <seg>Congelar - &lt;t0/&gt;la masa madre se congela estupendamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Freezing&lt;t0/&gt; - freeze in an airtight container for up to 2 months.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161324Z" creationid="mmolc" creationdate="20230522T161324Z">
@@ -2282,6 +2290,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T132003Z" creationid="beatr" creationdate="20230520T132003Z">
         <seg>Engrasar y forrar un molde cuadrado de 20 cm con papel de horno, dejando que los lados sobresalgan..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I like to bake two loaves and freeze one of them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175203Z" creationid="alond" creationdate="20230522T175203Z">
+        <seg>Me gusta hornear dos panes y congelar uno de ellos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,6 +2386,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T181149Z" creationid="beatr" creationdate="20230520T181149Z">
         <seg>Si haces tus rollitos más grandes o pequeños que en esta receta el tiempo de cocina va a variar..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you’re baking every 3-4 days, then keep your starter at room temperature and feed it daily.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175000Z" creationid="alond" creationdate="20230522T175000Z">
+        <seg>Si horneas cada 3-4 días, manten el fermento a temperatura ambiente y alimentalo a diario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you’re only planning to bake once a week, keep your starter in the fridge and remove it the day before yo&lt;t1/&gt;u plan to use it.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175046Z" creationid="alond" creationdate="20230522T175046Z">
+        <seg>Si sólo vas a hornear una vez a la semana, guarda el fermento en el frigorífico y sácalo el día antes de utilizarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,8 +2520,8 @@
       <tuv lang="en">
         <seg>Look after your starter &lt;t0/&gt;– you need to take care of your starter and feed it!</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T174920Z" creationid="alond" creationdate="20230522T174920Z">
-        <seg>Cuida tu levadura casera &lt;t0/&gt;- ¡tienes que cuidarla y alimentarla!</seg>
+      <tuv lang="es" changeid="alond" changedate="20230522T175013Z" creationid="alond" creationdate="20230522T174920Z">
+        <seg>Cuida tu fermento &lt;t0/&gt;- ¡tienes que cuidarlo y alimentarlo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4076,6 +4108,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T173023Z" creationid="alond" creationdate="20230522T173023Z">
         <seg>Utiliza una espátula para raspar la masa pegajosa en un bol engrasado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a very sharp knife or old school razor blade – &lt;t0/&gt;when cutting tiny slits into your loaf before baking.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175122Z" creationid="alond" creationdate="20230522T175122Z">
+        <seg>Utiliza un cuchillo muy afilado o una cuchilla de afeitar de la vieja escuela - &lt;t0/&gt;al cortar pequeñas hendiduras en tu pan antes de hornear.</seg>
       </tuv>
     </tu>
     <tu>
