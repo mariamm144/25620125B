@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;The&lt;t1/&gt; &lt;t2/&gt;cooked&lt;t3/&gt; &lt;t4/&gt;biscuits&lt;t5/&gt; are &lt;t6/&gt;also&lt;t7/&gt; freezer &lt;t8/&gt;friendly&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T060644Z" creationid="beatr" creationdate="20230522T060644Z">
+        <seg>&lt;t0/&gt;Las&lt;t1/&gt; &lt;t2/&gt;galletas&lt;t3/&gt; &lt;t4/&gt;horneadas&lt;t5/&gt; también&lt;t6/&gt;son&lt;t7/&gt; aptas &lt;t8/&gt;para el congelador&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;Grease and line 3 baking trays and set aside (or as many trays as will fit in your oven).</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T134313Z" creationid="mmolc" creationdate="20230519T134313Z">
@@ -762,6 +770,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053417Z" creationid="beatr" creationdate="20230521T053417Z">
         <seg>bandejas de horno x 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Banana Chocolate Chip Muffins</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T060925Z" creationid="beatr" creationdate="20230522T060925Z">
+        <seg>Muffins de plátano con pepitas de chocolate</seg>
       </tuv>
     </tu>
     <tu>
