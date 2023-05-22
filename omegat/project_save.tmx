@@ -382,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>200 g ice cubes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154210Z" creationid="alond" creationdate="20230519T154200Z">
+        <seg>200 g de cubitos de hielo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>200 g milk any variety - skim, full cream, almond, soy, oat &lt;t0/&gt;etc</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154326Z" creationid="alond" creationdate="20230519T154326Z">
+        <seg>200 g de leche de cualquier variedad: desnatada, entera, de almendras, de soja, de avena, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>200&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;chocolate &lt;t4/&gt;baking&lt;t5/&gt; chips</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T062917Z" creationid="beatr" creationdate="20230522T062917Z">
@@ -830,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Mix&lt;t1/&gt; &lt;t2/&gt;on&lt;t3/&gt; &lt;t4/&gt;Speed&lt;t5/&gt; 6, 5 &lt;t6/&gt;secon&lt;t7/&gt;ds&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T153046Z" creationid="alond" creationdate="20230519T153046Z">
+        <seg>&lt;t0/&gt;Mezcle&lt;t1/&gt; &lt;t2/&gt;a&lt;t3/&gt; &lt;t4/&gt;Velocidad&lt;t5/&gt; 6, 5 &lt;t6/&gt;segundos&lt;t7/&gt;&lt;t8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Pour&lt;t1/&gt; &lt;t2/&gt;into&lt;t3/&gt; a &lt;t4/&gt;seperate&lt;t5/&gt; &lt;t6/&gt;bowl&lt;t7/&gt; and set aside.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163818Z" creationid="raque" creationdate="20230522T163818Z">
@@ -898,6 +922,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163125Z" creationid="raque" creationdate="20230522T163125Z">
         <seg>Una simple tira de Huevo de Pascua a Thermomix con deliciosos huevos de Pascua de chocolate... ¡y sin cocer!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A simple and delicious Thermomix Na&lt;t0/&gt;an Bread that is perfect served with curries, rice, butter chicken and more!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T152245Z" creationid="alond" creationdate="20230519T152245Z">
+        <seg>Un pan Naan sencillo y delicioso en Thermomix es perfecto para acompañar curry, arroz, pollo a la mantequilla y mucho más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author&lt;t0/&gt;Lucy&lt;t1/&gt; &amp; Lauren</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154129Z" creationid="alond" creationdate="20230519T154129Z">
+        <seg>Autoras&lt;t0/&gt;Lucy&lt;t1/&gt; y Lauren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bake in oven for 25 minutes or until golden brown on top and cooked through.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T180330Z" creationid="beatr" creationdate="20230520T180220Z">
@@ -1182,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;250&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;44&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;7&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;5&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;2&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;1&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;8&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;86&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;2&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;11&lt;t40/&gt;IU&lt;t41/&gt; | Vitamin C: &lt;t42/&gt;1&lt;t43/&gt;mg&lt;t44/&gt; | Calcium: &lt;t45/&gt;2&lt;t46/&gt;3&lt;t47/&gt;mg&lt;t48/&gt; | Iron: &lt;t49/&gt;3&lt;t50/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T153411Z" creationid="alond" creationdate="20230519T153411Z">
+        <seg>Calorías: &lt;t0/&gt;250&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;44&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;7&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;5&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;2&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Grasa trans: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;1&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;8&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;86&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;2&lt;t34/&gt;g&lt;t35/&gt; | Azúcar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;11&lt;t40/&gt;IU&lt;t41/&gt; | Vitamina C: &lt;t42/&gt;1&lt;t43/&gt;mg&lt;t44/&gt; | Calcio: &lt;t45/&gt;2&lt;t46/&gt;3&lt;t47/&gt;mg&lt;t48/&gt; | Hierro: &lt;t49/&gt;3&lt;t50/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;283&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;37&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;6&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;12&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;7&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;57&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;114&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;106&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;13&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;417&lt;t40/&gt;IU&lt;t41/&gt; | Vitamin C: &lt;t42/&gt;2&lt;t43/&gt;mg&lt;t44/&gt; | Calcium: &lt;t45/&gt;49&lt;t46/&gt;mg&lt;t47/&gt; | Iron: &lt;t48/&gt;1&lt;t49/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T230051Z" creationid="mmolc" creationdate="20230520T230051Z">
@@ -1278,10 +1326,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt;187&lt;t1/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154113Z" creationid="alond" creationdate="20230519T154113Z">
+        <seg>Calorías&lt;t0/&gt;187&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carefully remove your Apple and Cinnamon Loaf from the oven and allow it to cool in the loaf tin for 10 minutes before transferring to a wire rack to cool completely.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T154340Z" creationid="mmolc" creationdate="20230522T154230Z">
         <seg>Sácalo del horno y deja enfriar el pan de manzana con canela en las bandejas durante 10 minutos antes de pasarlas a una rejilla para que se enfríen completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the consistency - If you would like a smoother hummus, add a 1-2 tbs of the reserved chickpea liquid and &lt;t0/&gt;mix for a further 20 seconds on Speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T152150Z" creationid="alond" creationdate="20230519T152150Z">
+        <seg>Comprueba la consistencia. Si te gusta el humus más suave, añade 1 o 2 cda del líquido que has apartado de los garbanzos cocidos y mezcla por otros 20 segundos a Velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1390,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt;3 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154048Z" creationid="alond" creationdate="20230519T154048Z">
+        <seg>Tiempo de coción&lt;t0/&gt;3 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook for 15 minutes or until the muffins spring back when lightly touched in the middle.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T154630Z" creationid="beatr" creationdate="20230522T154630Z">
@@ -1402,6 +1474,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153103Z" creationid="mmolc" creationdate="20230520T200607Z">
         <seg>Cocina durante 3 minutos, a 60 grados, a velocidad 2, o hasta que se derrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cook with &lt;t0/&gt;naan one by one on a hot grill or frying pan until golden brown and cooked through.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T153139Z" creationid="alond" creationdate="20230519T153139Z">
+        <seg>Cocine &lt;t0/&gt;la masa una a una en una parrilla caliente o en una sartén hasta que esté doradas y se hayan cocinados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cost&lt;t0/&gt;$1</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154142Z" creationid="alond" creationdate="20230519T154142Z">
+        <seg>Coste&lt;t0/&gt;1€</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201433Z" creationid="beatr" creationdate="20230512T201433Z">
@@ -1490,6 +1578,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202318Z" creationid="beatr" creationdate="20230512T202318Z">
         <seg>Plato&lt;t0/&gt;de tentempiés&lt;t1/&gt;saludables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Course&lt;t0/&gt;Drinks</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T153927Z" creationid="alond" creationdate="20230519T153927Z">
+        <seg>Tipo de plato&lt;t0/&gt;Bebidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Course&lt;t0/&gt;breads</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T152330Z" creationid="alond" creationdate="20230519T152330Z">
+        <seg>Tipo de plato&lt;t0/&gt;panes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +1666,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061520Z" creationid="beatr" creationdate="20230522T061520Z">
         <seg>Cocina&lt;t0/&gt;del Oeste de USA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt;Indian&lt;t1/&gt;, &lt;t2/&gt;thermomix</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T152346Z" creationid="alond" creationdate="20230519T152346Z">
+        <seg>Cocina&lt;t0/&gt;India&lt;t1/&gt;, &lt;t2/&gt;thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt;Western</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154022Z" creationid="alond" creationdate="20230519T154022Z">
+        <seg>Cocina&lt;t0/&gt;Occidente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Knead on Interval function for 3 minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T153157Z" creationid="alond" creationdate="20230519T153157Z">
+        <seg>Amasa en Función amasado (velocidad espiga) por 3 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lightly press down on top of each biscuit to flatten slightly.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T054026Z" creationid="beatr" creationdate="20230522T054026Z">
@@ -2014,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Our Thermomix Iced Coffee Frappe recipe makes the creamiest and most delicious caffeine hit ever!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T153612Z" creationid="alond" creationdate="20230519T153612Z">
+        <seg>Nuestra receta de Frappe de café helado con Thermomix es el golpe de cafeína más cremoso y delicioso que existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Our famous Thermomix Pikelet recipe can be ready to enjoy in less than 30 minutes!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201417Z" creationid="beatr" creationdate="20230512T201417Z">
@@ -2026,6 +2162,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T130937Z" creationid="mmolc" creationdate="20230519T130937Z">
         <seg>¡Nuestras galletas súper fáciles de leche condensada con Thermomix son perfectas para llenar el bote!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perfect for a hot day, our smooth iced coffee frappe will give you the energy boost you need!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T153850Z" creationid="alond" creationdate="20230519T153850Z">
+        <seg>Perfecto para un día caluroso, nuestro suave frappe de café helado te dará la energía que necesitas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2304,6 +2448,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt;2 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154036Z" creationid="alond" creationdate="20230519T154036Z">
+        <seg>Tiempo de preparación&lt;t0/&gt;2 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press down lightly with a fork.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T184422Z" creationid="mmolc" creationdate="20230520T184340Z">
@@ -2576,6 +2728,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154107Z" creationid="alond" creationdate="20230519T154107Z">
+        <seg>Raciones&lt;t0/&gt;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set aside until needed.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T232151Z" creationid="mmolc" creationdate="20230520T232151Z">
@@ -2772,6 +2932,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T052824Z" creationid="beatr" creationdate="20230521T052824Z">
         <seg>Galletas de hada en la Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thermomix Iced Coffee Frappe</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T153509Z" creationid="alond" creationdate="20230519T153509Z">
+        <seg>Frappe de café helado Thermomix</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,6 +3216,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;5 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T154102Z" creationid="alond" creationdate="20230519T154102Z">
+        <seg>Timepo total&lt;t0/&gt;5 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Transfer the rice from the rice basket to a flat plate – &lt;t0/&gt;this &lt;t1/&gt;allow&lt;t2/&gt; the rice to begin to cool and also makes it easier to drizzle with the sushi seasoning and fluff with a fork.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T120625Z" creationid="beatr" creationdate="20230520T120625Z">
@@ -3116,6 +3292,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202045Z" creationid="beatr" creationdate="20230512T202045Z">
         <seg>Cuando empiecen a salir burbujas en la superficie de los pikelets, dales ña vuelta cuidadodamente y deja que se hagan otros 30 segundos a cada lado antes de sacarlos en un plato y cubrirlos con lámina para mantener el calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While hummus can &lt;t0/&gt;technically be frozen for up to 4 months&lt;t1/&gt;, it does lose &lt;t2/&gt;it's&lt;t3/&gt; &lt;t4/&gt;f&lt;t5/&gt;lavour&lt;t6/&gt; and texture the longer it is frozen.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230519T152213Z" creationid="alond" creationdate="20230519T152213Z">
+        <seg>Aunque &lt;t0/&gt;técnicamente el hummus se puede congelar hasta 4 meses&lt;t1/&gt;, pierde &lt;t2/&gt;sabor&lt;t3/&gt; &lt;t4/&gt;y&lt;t5/&gt; textura cuanto más tiempo pasa congelado.</seg>
       </tuv>
     </tu>
     <tu>
