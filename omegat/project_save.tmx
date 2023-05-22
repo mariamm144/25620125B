@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2 x &lt;t0/&gt;Baking&lt;t1/&gt; &lt;t2/&gt;Trays</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170931Z" creationid="raque" creationdate="20230522T170931Z">
+        <seg>2 x &lt;t0/&gt;bandejas para hornear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Add all of the remaining ingredients and mix together for 10 seconds, Speed 6.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T160412Z" creationid="mmolc" creationdate="20230522T160412Z">
@@ -638,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>500 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;ricotta</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170939Z" creationid="raque" creationdate="20230522T170939Z">
+        <seg>500 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;de ricotta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>500 grams butter softened</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133102Z" creationid="mmolc" creationdate="20230519T133102Z">
@@ -738,6 +754,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
         <seg>8.&lt;t0/&gt; &lt;t1/&gt;Enrolla la masa en la encimera hasta que tenga aproximadamente 4 mm de grosor y utiliza el cortador de tu elección para hacer formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>80 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;parmesan&lt;t3/&gt; &lt;t4/&gt;cheese</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170954Z" creationid="raque" creationdate="20230522T170954Z">
+        <seg>80 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;queso parmesano&lt;t3/&gt; &lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1042,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T225540Z" creationid="mmolc" creationdate="20230520T225540Z">
         <seg>Como alternativa, consérvalo en un taper hermético hasta 2 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And they're freezer friendly too!</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170709Z" creationid="raque" creationdate="20230522T170709Z">
+        <seg>Y también se pueden meter en el congelador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;25 &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170843Z" creationid="raque" creationdate="20230522T170843Z">
+        <seg>Tiempo de cocinar &lt;t0/&gt; &lt;t1/&gt;25 &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173422Z" creationid="beatr" creationdate="20230520T173422Z">
@@ -1440,8 +1480,8 @@
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173400Z" creationid="beatr" creationdate="20230520T173400Z">
-        <seg>Plato&lt;t0/&gt; &lt;t1/&gt;Snacks</seg>
+      <tuv lang="es" changeid="raque" changedate="20230522T170722Z" creationid="beatr" creationdate="20230520T173400Z">
+        <seg>Plato&lt;t0/&gt; &lt;t1/&gt;Aperitivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1536,8 @@
       <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Australian</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201441Z" creationid="beatr" creationdate="20230512T201441Z">
-        <seg>Cocina&lt;t0/&gt;Australiana</seg>
+      <tuv lang="es" changeid="raque" changedate="20230522T170756Z" creationid="beatr" creationdate="20230512T201441Z">
+        <seg>Gastronomía&lt;t0/&gt;Australiana</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,6 +1610,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203523Z" creationid="beatr" creationdate="20230512T203523Z">
         <seg>Humedece el margen sin cubrir de la hoja de nori con agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diet&lt;t0/&gt; &lt;t1/&gt;Vegetarian</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170730Z" creationid="raque" creationdate="20230522T170730Z">
+        <seg>Dieta&lt;t0/&gt; &lt;t1/&gt;Vegetariana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diet&lt;t0/&gt; &lt;t1/&gt;vegetarian</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170734Z" creationid="raque" creationdate="20230522T170734Z">
+        <seg>Dieta&lt;t0/&gt; &lt;t1/&gt;vegetariana</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,6 +2288,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;15 &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170821Z" creationid="raque" creationdate="20230522T170821Z">
+        <seg>Tiempo de preparación &lt;t0/&gt; &lt;t1/&gt;15 &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201446Z" creationid="beatr" creationdate="20230512T201446Z">
@@ -2484,6 +2548,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201457Z" creationid="beatr" creationdate="20230512T201457Z">
         <seg>Raciones&lt;t0/&gt;24&lt;t1/&gt; &lt;t2/&gt;Pikelets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;32 &lt;t2/&gt;rolls</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170909Z" creationid="raque" creationdate="20230522T170909Z">
+        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;32 &lt;t2/&gt;rollos</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,6 +3028,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173434Z" creationid="beatr" creationdate="20230520T173434Z">
         <seg>Tiempo en total&lt;t0/&gt;35&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;40 &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170856Z" creationid="raque" creationdate="20230522T170856Z">
+        <seg>Tiempo total &lt;t0/&gt; &lt;t1/&gt;40 &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
