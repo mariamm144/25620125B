@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;vanilla&lt;t3/&gt; &lt;t4/&gt;extract</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175818Z" creationid="alond" creationdate="20230522T175818Z">
+        <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; de &lt;t2/&gt;extracto&lt;t3/&gt; de &lt;t4/&gt;vainilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; raw &lt;t2/&gt;sugar</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230505T161651Z" creationid="alond" creationdate="20230505T161651Z">
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162411Z" creationid="mmolc" creationdate="20230519T162411Z">
         <seg>15 gramos de leche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>150 g &lt;t0/&gt;milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175756Z" creationid="alond" creationdate="20230522T175756Z">
+        <seg>150 g &lt;t0/&gt;leche</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +570,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201720Z" creationid="beatr" creationdate="20230512T201720Z">
         <seg>200 ml de leche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>200g g &lt;t0/&gt;self&lt;t1/&gt; &lt;t2/&gt;raising&lt;t3/&gt; &lt;t4/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175752Z" creationid="alond" creationdate="20230522T175752Z">
+        <seg>200g g &lt;t0/&gt;de&lt;t1/&gt; &lt;t2/&gt;harina&lt;t3/&gt; &lt;t4/&gt;con levadura</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>50 g apple cored and chopped (&lt;t0/&gt;approx&lt;t1/&gt; ½ an apple)</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175729Z" creationid="alond" creationdate="20230522T175729Z">
+        <seg>50 g manzana sin corazón y troceada (&lt;t0/&gt;aprox.&lt;t1/&gt; ½ manzana)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>500 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;ricotta</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170939Z" creationid="raque" creationdate="20230522T170939Z">
@@ -914,6 +946,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162707Z" creationid="mmolc" creationdate="20230519T162707Z">
         <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Vuelca la masa en tu encimera y divídela en dos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>60 g &lt;t0/&gt;butter</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175654Z" creationid="alond" creationdate="20230522T175654Z">
+        <seg>60 g &lt;t0/&gt;mantequilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -1678,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt;72&lt;t1/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175629Z" creationid="alond" creationdate="20230522T175629Z">
+        <seg>Calorías&lt;t0/&gt;72&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Carefully remove your Apple and Cinnamon Loaf from the oven and allow it to cool in the loaf tin for 10 minutes before transferring to a wire rack to cool completely.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T154340Z" creationid="mmolc" creationdate="20230522T154230Z">
@@ -1786,6 +1834,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173422Z" creationid="beatr" creationdate="20230520T173422Z">
         <seg>Tiempo de cocina&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt;10 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175557Z" creationid="alond" creationdate="20230522T175557Z">
+        <seg>Tiempo de coción&lt;t0/&gt;10 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,8 +2032,8 @@
       <tuv lang="en">
         <seg>Course&lt;t0/&gt;Breakfast&lt;t1/&gt;, Snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175510Z" creationid="alond" creationdate="20230522T175510Z">
-        <seg>Cocina&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
+      <tuv lang="es" changeid="alond" changedate="20230522T175522Z" creationid="alond" creationdate="20230522T175510Z">
+        <seg>Tipo de plato&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
       </tuv>
     </tu>
     <tu>
@@ -2074,6 +2130,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061520Z" creationid="beatr" creationdate="20230522T061520Z">
         <seg>Cocina&lt;t0/&gt;del Oeste de USA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt;Australian&lt;t1/&gt;, Western</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175536Z" creationid="alond" creationdate="20230522T175536Z">
+        <seg>Cocina&lt;t0/&gt;Australiana&lt;t1/&gt;, Occidental</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,6 +3224,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt;5 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175548Z" creationid="alond" creationdate="20230522T175548Z">
+        <seg>Tiempo de preparación&lt;t0/&gt;5 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press down lightly with a fork.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T184422Z" creationid="mmolc" creationdate="20230520T184340Z">
@@ -3500,6 +3572,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T172448Z" creationid="alond" creationdate="20230522T172448Z">
         <seg>Porciones&lt;t0/&gt;1 &lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;20 &lt;t1/&gt;pikelet&lt;t2/&gt;s</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175624Z" creationid="alond" creationdate="20230522T175624Z">
+        <seg>Raciones&lt;t0/&gt;20 &lt;t1/&gt;pikelet&lt;t2/&gt;s</seg>
       </tuv>
     </tu>
     <tu>
@@ -4100,6 +4180,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T173953Z" creationid="alond" creationdate="20230522T173953Z">
         <seg>Tiempo total&lt;t0/&gt;1 &lt;t1/&gt;hora&lt;t2/&gt; 25 &lt;t3/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;15 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T175605Z" creationid="alond" creationdate="20230522T175605Z">
+        <seg>Tiempo total&lt;t0/&gt;15 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
