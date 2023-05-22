@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freezing&lt;t0/&gt; - freeze in an airtight container for up to 2 months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T161324Z" creationid="mmolc" creationdate="20230522T161324Z">
+        <seg>Congelado:&lt;t0/&gt;congélalos en un taper hermético hasta 2 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frying&lt;t0/&gt; Pan</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201512Z" creationid="beatr" creationdate="20230512T201512Z">
@@ -2276,6 +2284,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T124606Z" creationid="beatr" creationdate="20230520T124513Z">
         <seg>Guárdalo en el frigorífico el tiempo necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Storing - &lt;t0/&gt;Store in an airtight container in the fridge for up to 5 days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T161335Z" creationid="mmolc" creationdate="20230522T161224Z">
+        <seg>Conservación: &lt;t0/&gt;consérvalos en un recipiente hermético en el frigorífico hasta 5 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The balls will only take a few minutes to defrost.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T161408Z" creationid="mmolc" creationdate="20230522T161408Z">
+        <seg>Las bolitas solo tardarán unos minutos en descongelarse.</seg>
       </tuv>
     </tu>
     <tu>
