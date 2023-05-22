@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 1/2 &lt;t0/&gt;tbs&lt;t1/&gt; &lt;t2/&gt;tahini</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T142527Z" creationid="alond" creationdate="20230502T142527Z">
+        <seg>1 1/2 &lt;t0/&gt;Cda&lt;t1/&gt; &lt;t2/&gt;de tahini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 &lt;t0/&gt;egg</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171015Z" creationid="raque" creationdate="20230522T171015Z">
@@ -42,6 +50,22 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171100Z" creationid="raque" creationdate="20230522T171100Z">
         <seg>1 &lt;t0/&gt;cucharadita de nuez moscada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; raw &lt;t2/&gt;sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T161651Z" creationid="alond" creationdate="20230505T161651Z">
+        <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; de &lt;t2/&gt;azúcar en bruto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 clove garlic or 1 teaspoon minced garlic</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T142223Z" creationid="alond" creationdate="20230502T142223Z">
+        <seg>1 diente de ajo or 1 cucharadita de ajo molido</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +138,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T004327Z" creationid="mmolc" creationdate="20230520T232107Z">
         <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Precalienta el horno a 180 grados centígrados (con ventilador) y forra un molde redondo de 20 cm con papel de cocina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1/2 &lt;t0/&gt;tsp&lt;t1/&gt; sea &lt;t2/&gt;salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T142735Z" creationid="alond" creationdate="20230502T142735Z">
+        <seg>1/2 &lt;t0/&gt;cda&lt;t1/&gt; sal &lt;t2/&gt;de mar</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>15 g &lt;t0/&gt;caster&lt;t1/&gt; &lt;t2/&gt;sugar&lt;t3/&gt; &lt;t4/&gt;optional</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T171508Z" creationid="alond" creationdate="20230522T171508Z">
+        <seg>15 g &lt;t0/&gt;azúcar&lt;t1/&gt; &lt;t2/&gt;glass&lt;t3/&gt; &lt;t4/&gt;opcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>15 grams milk</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162411Z" creationid="mmolc" creationdate="20230519T162411Z">
@@ -302,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>190 g &lt;t0/&gt;lukewarm&lt;t1/&gt; &lt;t2/&gt;water</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T161752Z" creationid="alond" creationdate="20230505T161752Z">
+        <seg>190 g de &lt;t0/&gt;agua&lt;t1/&gt; &lt;t2/&gt;tibia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>190&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201730Z" creationid="beatr" creationdate="20230512T201612Z">
@@ -366,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2 tsp instant coffee granules see &lt;t0/&gt;notes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T171412Z" creationid="alond" creationdate="20230522T171412Z">
+        <seg>2 cucharaditas de café instantáneo granulado véase &lt;t0/&gt;notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2 x &lt;t0/&gt;Baking&lt;t1/&gt; &lt;t2/&gt;Trays</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170931Z" creationid="raque" creationdate="20230522T170931Z">
@@ -418,6 +474,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T152850Z" creationid="mmolc" creationdate="20230519T162644Z">
         <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Raspa los laterales de tu cuenco de Thermomix y añade el azúcar molido, la harina y la sal, y remueve durante 20 segundos a velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>20 g olive &lt;t0/&gt;oil</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T142706Z" creationid="alond" creationdate="20230502T142706Z">
+        <seg>20 g aceite de &lt;t0/&gt;oliva</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>30 g vegetable or rice bran oil</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T161716Z" creationid="alond" creationdate="20230505T161716Z">
+        <seg>30 g de aceite vegetal o de salvado de arroz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>300 g &lt;t0/&gt;sweetened&lt;t1/&gt; &lt;t2/&gt;condensed&lt;t3/&gt; &lt;t4/&gt;milk</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163534Z" creationid="raque" creationdate="20230522T163534Z">
@@ -670,10 +742,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>400 g can chickpeas drained (keep the liquid aside)</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T142335Z" creationid="alond" creationdate="20230502T142335Z">
+        <seg>400 g de garbanzos cocidos (mantén el líquido aparte)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>400&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sushi rice</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203311Z" creationid="beatr" creationdate="20230512T203311Z">
         <seg>400&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;arroz de sushi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>450 g plain flour (or &lt;t0/&gt;Bakers&lt;t1/&gt; flour)</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T163344Z" creationid="alond" creationdate="20230505T161550Z">
+        <seg>450 g de harina normal (o &lt;t0/&gt;harina&lt;t1/&gt; de panadería)</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>7 g &lt;t0/&gt;dried&lt;t1/&gt; &lt;t2/&gt;yeast</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T161606Z" creationid="alond" creationdate="20230505T161606Z">
+        <seg>7 g &lt;t0/&gt;levadura&lt;t1/&gt; &lt;t2/&gt;seca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>7.&lt;t0/&gt;              &lt;t1/&gt;Bake for 10-12 minutes.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T184504Z" creationid="mmolc" creationdate="20230520T184504Z">
@@ -870,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>90 g &lt;t0/&gt;greek&lt;t1/&gt; &lt;t2/&gt;or&lt;t3/&gt; natural &lt;t4/&gt;yoghurt</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T161824Z" creationid="alond" creationdate="20230505T161824Z">
+        <seg>90 g &lt;t0/&gt;de yogur&lt;t1/&gt; &lt;t2/&gt;griego&lt;t3/&gt; o &lt;t4/&gt;natural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>90&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173732Z" creationid="beatr" creationdate="20230520T173732Z">
@@ -926,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Scrape&lt;t1/&gt; &lt;t2/&gt;down&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;bowl&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T143242Z" creationid="alond" creationdate="20230502T143146Z">
+        <seg>&lt;t0/&gt;Rebaña&lt;t1/&gt; &lt;t2/&gt;el&lt;t3/&gt; &lt;t4/&gt;vaso&lt;t5/&gt; &lt;t6/&gt;entero&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Scrape&lt;t1/&gt; &lt;t2/&gt;down&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;sides&lt;t7/&gt; &lt;t8/&gt;of&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;bowl&lt;t13/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T164358Z" creationid="raque" creationdate="20230522T164358Z">
@@ -974,6 +1086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;Scrape&lt;t3/&gt; &lt;t4/&gt;down&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;sides&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T143358Z" creationid="alond" creationdate="20230502T143358Z">
+        <seg>&lt;t2/&gt;Rebaña&lt;t3/&gt; &lt;t4/&gt;los&lt;t5/&gt; &lt;t6/&gt;laterales&lt;t7/&gt; &lt;t8/&gt;del vaso&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A simple Thermomix Easter Egg Slice filled with yum&lt;t0/&gt;my chocolate Easter eggs... and it's completely no-bake!!</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163125Z" creationid="raque" creationdate="20230522T163125Z">
@@ -994,6 +1114,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170702Z" creationid="raque" creationdate="20230522T170702Z">
         <seg>Una forma de ganar con toda la familia. ¡Estos rollos de espinacas y ricotta de Thermomix son siempre los favoritos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add &lt;t0/&gt;all of&lt;t1/&gt; the remaining ingredients to the Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T143234Z" creationid="alond" creationdate="20230502T143234Z">
+        <seg>Añade &lt;t0/&gt;el resto de&lt;t1/&gt; ingredientes dentro del vaso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,10 +1270,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternatively, you can &lt;t0/&gt;freeze leftover naan breads for up to 1 month.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230509T144437Z" creationid="alond" creationdate="20230509T144437Z">
+        <seg>También puede &lt;t0/&gt;congelar los panes naan sobrantes hasta 1 mes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And they're freezer friendly too!</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170709Z" creationid="raque" creationdate="20230522T170709Z">
         <seg>Y también se pueden meter en el congelador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any leftover naan breads can be &lt;t0/&gt;stored in an airtight container in the fridge or at room temperature for up to 3 days.&lt;t1/&gt; &lt;t2/&gt;Reheat&lt;t3/&gt; &lt;t4/&gt;before&lt;t5/&gt; &lt;t6/&gt;consuming&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230509T144327Z" creationid="alond" creationdate="20230509T144327Z">
+        <seg>Los panes naan que sobren se pueden &lt;t0/&gt;guardar en un recipiente hermético en el frigorífico o a temperatura ambiente hasta 3 días.&lt;t1/&gt; &lt;t2/&gt;Recalentar&lt;t3/&gt; &lt;t4/&gt;antes&lt;t5/&gt; &lt;t6/&gt;de consumir&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1450,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170139Z" creationid="raque" creationdate="20230522T170139Z">
         <seg>Calorías: &lt;t0/&gt;365&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;38&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;24&lt;t10/&gt;g&lt;t11/&gt; | Grasas Saturadas: &lt;t12/&gt;14&lt;t13/&gt;g&lt;t14/&gt; | Grasas Poliinsaturadas: &lt;t15/&gt;2&lt;t16/&gt;g&lt;t17/&gt; | Grasas Monoinsaturadas: &lt;t18/&gt;6&lt;t19/&gt;g&lt;t20/&gt; | Grasas Trans: &lt;t21/&gt;0. 2&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;126&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;197&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;3&lt;t34/&gt;g&lt;t35/&gt; | Azúcar: &lt;t36/&gt;28&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;220&lt;t40/&gt;IU&lt;t41/&gt; | &lt;t42/&gt;Vitamina C: &lt;t43/&gt;1&lt;t44/&gt;mg&lt;t45/&gt;| Calcio: &lt;t46/&gt;65&lt;t47/&gt;mg&lt;t48/&gt; | Hierro: &lt;t49/&gt;1&lt;t50/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;67&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;6&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;2&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;2&lt;t19/&gt;g&lt;t20/&gt; | Sodium: &lt;t21/&gt;228&lt;t22/&gt;mg&lt;t23/&gt; | Potassium: &lt;t24/&gt;69&lt;t25/&gt;mg&lt;t26/&gt; | Fiber: &lt;t27/&gt;2&lt;t28/&gt;g&lt;t29/&gt; | Sugar: &lt;t30/&gt;0.003&lt;t31/&gt;g&lt;t32/&gt; | Vitamin A: &lt;t33/&gt;8&lt;t34/&gt;IU&lt;t35/&gt; | Vitamin C: &lt;t36/&gt;0.2&lt;t37/&gt;mg&lt;t38/&gt; | Calcium: &lt;t39/&gt;18&lt;t40/&gt;mg&lt;t41/&gt; | Iron: &lt;t42/&gt;1&lt;t43/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T161036Z" creationid="alond" creationdate="20230505T161036Z">
+        <seg>Calorías: &lt;t0/&gt;67&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;6&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;2&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;2&lt;t19/&gt;g&lt;t20/&gt; | Sodio: &lt;t21/&gt;228&lt;t22/&gt;mg&lt;t23/&gt; | Potasio: &lt;t24/&gt;69&lt;t25/&gt;mg&lt;t26/&gt; | Fibra: &lt;t27/&gt;2&lt;t28/&gt;g&lt;t29/&gt; | Azúcar: &lt;t30/&gt;0.003&lt;t31/&gt;g&lt;t32/&gt; | Vitamina A: &lt;t33/&gt;8&lt;t34/&gt;IU&lt;t35/&gt; | Vitamina C: &lt;t36/&gt;0.2&lt;t37/&gt;mg&lt;t38/&gt; | Calcio: &lt;t39/&gt;18&lt;t40/&gt;mg&lt;t41/&gt; | Hierro: &lt;t42/&gt;1&lt;t43/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -1590,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cost&lt;t0/&gt; &lt;t1/&gt;$2</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T142049Z" creationid="alond" creationdate="20230502T142015Z">
+        <seg>Coste&lt;t0/&gt; &lt;t1/&gt;2€</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cost&lt;t0/&gt; &lt;t1/&gt;$5</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061646Z" creationid="beatr" creationdate="20230522T061646Z">
@@ -1634,6 +1794,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170722Z" creationid="beatr" creationdate="20230520T173400Z">
         <seg>Plato&lt;t0/&gt; &lt;t1/&gt;Aperitivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Course&lt;t0/&gt; &lt;t1/&gt;breads</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T162807Z" creationid="alond" creationdate="20230505T161202Z">
+        <seg>Tipo de plato&lt;t0/&gt; &lt;t1/&gt;panes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1822,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Divide the dough into 8 equal pieces and roll out into flat ovals.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230509T142454Z" creationid="alond" creationdate="20230509T142454Z">
+        <seg>Divída la masa en 8 partes iguales y extiéndelas en hasta formar tortitas ovaladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Divide the mixture evenly between the muffin cases filling to ⅔ full.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T154525Z" creationid="beatr" creationdate="20230522T154525Z">
@@ -1882,6 +2058,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202234Z" creationid="beatr" creationdate="20230512T202234Z">
         <seg>Para una versión sin gluten, utilice harina sin gluten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a smoother hummus, &lt;t0/&gt;add 1-2 tablespoons of the reserved chickpea liquid and mix through.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T162537Z" creationid="alond" creationdate="20230505T160140Z">
+        <seg>Para obtener un hummus más suave, &lt;t0/&gt;añade 1 o 2 cucharadas del líquido de garbanzos reservado y mezclar bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is &lt;t0/&gt;best consumed fresh within 4 days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T160535Z" creationid="alond" creationdate="20230505T160535Z">
+        <seg>Es &lt;t0/&gt;preferible consumirlo fresco antes de 4 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It's important that your butter is at room temperature, it will take longer to combine with the caster sugar if it's cold.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T055815Z" creationid="beatr" creationdate="20230522T055815Z">
@@ -2134,6 +2326,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mix for 20 seconds on Speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T143310Z" creationid="alond" creationdate="20230502T143310Z">
+        <seg>Mezcla por 20 segundos a Velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mix for a further 20 seconds on Speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T143430Z" creationid="alond" creationdate="20230502T143430Z">
+        <seg>Mezcla por otros 20 segundos a Velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mix for another 10 seconds, Speed 5, or until just combined - it’s fine if the mixture is a little lumpy.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153145Z" creationid="mmolc" creationdate="20230520T201233Z">
@@ -2206,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you've made homemade hummus in your Thermomix, you'll never buy store-bought hummus again!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T141620Z" creationid="alond" creationdate="20230502T141608Z">
+        <seg>Una vez que hace humus casero en tu Thermomix, ¡no volverás a comprarlo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Our Thermomix Apple Loaf recipe makes a great sweet treat for the whole family.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T002812Z" creationid="mmolc" creationdate="20230521T002812Z">
@@ -2254,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place &lt;t0/&gt;all of&lt;t1/&gt; the ingredients into your Thermomix bowl and blend for 3 minutes, Speed 6.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T171604Z" creationid="alond" creationdate="20230522T171604Z">
+        <seg>Introduce &lt;t0/&gt;todos&lt;t1/&gt; los ingredientes en el bol de tu Thermomix y bate durante 3 minutos, Velocidad 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place a nori sheet on top of the sushi mat with the rough side facing up.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203506Z" creationid="beatr" creationdate="20230512T203506Z">
@@ -2270,10 +2494,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place all ingredients (except for the sesame/poppy seeds) into the Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230509T140115Z" creationid="alond" creationdate="20230509T140115Z">
+        <seg>Coloque todos los ingredientes (excepto las semillas de sésamo/amapola) en el vaso de Thermomix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place bananas into the Thermomix bowl.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T152600Z" creationid="beatr" creationdate="20230522T152600Z">
         <seg>Coloca los plátanos en el bol de la Thermomix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place into a warm spot and allow to rise (this will take approximately 1 hour).</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230509T141845Z" creationid="alond" creationdate="20230509T141845Z">
+        <seg>Coloca la masa en un lugar cálido y deja que fermente (esto tomará aporximadamente 1 hora).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,6 +2602,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174632Z" creationid="beatr" creationdate="20230520T174632Z">
         <seg> del Poner la harina ¡, la mantequilla y la sal en el bowl de la Thermomix y mezcla durante 10 segundos a la velocidad 9 hasta que la mezcla tenga la misma consistencia &lt;t0/&gt;de pan rallado&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the garlic clove into the Thermomix bowl and chop for 5 seconds, Speed 6.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T143246Z" creationid="alond" creationdate="20230502T142954Z">
+        <seg>Coloca el diente de ajo dentro del vaso de la Thermomix y pica por 5 segundos a Velocidad 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2552,6 +2800,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proving Time&lt;t0/&gt;1 &lt;t1/&gt;hour</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T163204Z" creationid="alond" creationdate="20230505T161323Z">
+        <seg>Tiempo de reposo&lt;t0/&gt;1 &lt;t1/&gt;hora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RECIPE NOTES &amp; TIPS</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203537Z" creationid="beatr" creationdate="20230512T203537Z">
@@ -2624,6 +2880,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scrape down the sides of the bowl &lt;t0/&gt;between &lt;t1/&gt;mixing&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T162543Z" creationid="alond" creationdate="20230505T160227Z">
+        <seg>Raspa las paredes del bol &lt;t0/&gt;entre &lt;t1/&gt;mezcla y mezcla&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 20 seconds, Speed 3.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T152707Z" creationid="mmolc" creationdate="20230520T232316Z">
@@ -2688,10 +2952,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Serve drizzled with olive oil and sprinkled with paprika (optional).</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T143819Z" creationid="alond" creationdate="20230502T143819Z">
+        <seg>Sírvelo con un poco de aceite y pimentón en polvo (opcional)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Serve these pikelets warm with your choice of toppings.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202212Z" creationid="beatr" creationdate="20230512T202212Z">
         <seg>Sirve estos pikelets calientes con los toppings de tu elección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Serve&lt;t0/&gt; with a drizzle of olive oil and a sprinkle of paprika (optional)</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T162628Z" creationid="alond" creationdate="20230505T160606Z">
+        <seg>Sirve&lt;t0/&gt; con un chorrito de aceite de oliva y una pizca de pimentón (opcional)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2856,10 +3136,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sprinkle with sesame or poppy seeds (optional).</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230509T142538Z" creationid="alond" creationdate="20230509T142538Z">
+        <seg>Espolvoree con semillas de sésamo o de amapola (opcional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start from the end without the gap and roll tightly together (it takes a bit of practice).</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203527Z" creationid="beatr" creationdate="20230512T203527Z">
         <seg>Empieza desde el final sin el margen y enróllalo de manera apretada (requiere un poco de práctica).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Store &lt;t0/&gt;in an airtight container in the fridge for 3-4 days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T162553Z" creationid="alond" creationdate="20230505T160302Z">
+        <seg>Guárdalo &lt;t0/&gt;en un recipiente hermético en el frigorífico durante 3 o 4 días.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3016,6 +3312,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix Hummus</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T140947Z" creationid="alond" creationdate="20230502T140947Z">
+        <seg>Thermomix Humus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Iced Coffee Frappe</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153509Z" creationid="alond" creationdate="20230519T153509Z">
@@ -3028,6 +3332,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T230302Z" creationid="mmolc" creationdate="20230520T230230Z">
         <seg>Bizcocho de mármol Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thermomix Naan Bread</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T162640Z" creationid="alond" creationdate="20230505T161112Z">
+        <seg>Pan Naan en Thermomix</seg>
       </tuv>
     </tu>
     <tu>
@@ -3148,6 +3460,14 @@
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
         <seg>Esto es completamente normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This recipe is &lt;t0/&gt;suitable for use in &lt;t1/&gt;all of&lt;t2/&gt; the Thermomix models (TM31, TM5 and TM6) &lt;t3/&gt;or any other thermal cooker.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230509T143405Z" creationid="alond" creationdate="20230509T143405Z">
+        <seg>Esta receta es &lt;t0/&gt;apta &lt;t1/&gt;para todos&lt;t2/&gt; los modelos Thermomix (TM31, TM5 and TM6) &lt;t3/&gt;o cualquier otra olla térmica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,6 +3856,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>frying&lt;t0/&gt; pan &lt;t1/&gt;or&lt;t2/&gt; BBQ grill</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T163327Z" creationid="alond" creationdate="20230505T161520Z">
+        <seg>una&lt;t0/&gt; sartén &lt;t1/&gt;o&lt;t2/&gt; una parrilla para barbacoa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>juice of 1 lemon (&lt;t0/&gt;approx&lt;t1/&gt; 30g)</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230502T142544Z" creationid="alond" creationdate="20230502T142544Z">
+        <seg>zumo de 1 limón (&lt;t0/&gt;approx&lt;t1/&gt; 30g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nori &lt;t0/&gt;sheets</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203352Z" creationid="beatr" creationdate="20230512T203352Z">
@@ -3556,6 +3892,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T062723Z" creationid="beatr" creationdate="20230522T062723Z">
         <seg>una pizca de sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sesame or poppy seeds, for sprinkling</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230505T161856Z" creationid="alond" creationdate="20230505T161856Z">
+        <seg>semillas de sésamo o amapola, para espolvorear</seg>
       </tuv>
     </tu>
     <tu>
