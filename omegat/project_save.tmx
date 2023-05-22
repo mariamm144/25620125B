@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the &lt;t0/&gt;mini Easter&lt;t1/&gt; eggs and mix for 10 seconds, REVERSE, Speed 3, using the spatula to help mix.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T164636Z" creationid="raque" creationdate="20230522T164636Z">
+        <seg>Añade los mini huevos de Pascua y mezcla durante 10 segundos, REVERSO, velocidad 3, usando la espátula para mezclar mejor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;egg&lt;t3/&gt; and a sprinkle of salt and mix for 10 seconds on speed 5.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202024Z" creationid="beatr" creationdate="20230512T202024Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T154313Z" creationid="beatr" creationdate="20230522T154313Z">
         <seg>Añade las pepitas de chocolate y mezcla durante 5-10 segundos, marcha atrás, velocidad 4 o hasta que estén bien mezcladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the coconut and the crushed biscuits and mix for 10 seconds, Speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T164417Z" creationid="raque" creationdate="20230522T164417Z">
+        <seg>Añade el coco y las galletas trituradas y mezcla durante 10 segundos, velocidad 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: If your mixture is too crumbly, add a little more sweetened condensed milk and mix again for 5 seconds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T164510Z" creationid="raque" creationdate="20230522T164510Z">
+        <seg>Nota: Si la mezcla tiene muchos grumos, añade más leche condensada y mezcla otros 5 segundos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T234652Z" creationid="beatr" creationdate="20230512T202215Z">
@@ -2236,6 +2260,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202031Z" creationid="beatr" creationdate="20230512T202031Z">
         <seg> Raspa las paredes de los lados del bol y mezcla durante otros 5 minutos en la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of the bowl and repeat for a further 5&lt;t0/&gt; seconds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T164450Z" creationid="raque" creationdate="20230522T164450Z">
+        <seg>Raspa las paredes de los lados del bol y mezcla durante otros 5 segundos.</seg>
       </tuv>
     </tu>
     <tu>
