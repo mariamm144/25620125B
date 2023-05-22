@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once completely cool, combine your icing ingredients in a bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T054810Z" creationid="beatr" creationdate="20230522T054810Z">
+        <seg>Una vez totalmente enfriadas, combina tus glaseados en un bol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Our Thermomix Apple Loaf recipe makes a great sweet treat for the whole family.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T002812Z" creationid="mmolc" creationdate="20230521T002812Z">
