@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add one tablespoon of boiling water and then add an additional ½ tablespoon at a time until your icing is a spreadable consistency.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T055002Z" creationid="beatr" creationdate="20230522T055002Z">
+        <seg>Añade una cucharada de agua hirviendo y luego ½ cucharada más hasta que el glaseado tenga una consistencia untable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;egg&lt;t3/&gt; and a sprinkle of salt and mix for 10 seconds on speed 5.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202024Z" creationid="beatr" creationdate="20230512T202024Z">
@@ -2148,6 +2156,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T175001Z" creationid="beatr" creationdate="20230520T175001Z">
         <seg>Volcar la masa sobre un banco enharinado y, con ayuda de un rodillo, extenderla hasta obtener un rectángulo de 30 cm x 40 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a butter knife to place the icing onto each biscuit and add the sprinkles.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T055238Z" creationid="beatr" creationdate="20230522T055238Z">
+        <seg>Coloca el glaseado en cada galleta con un cuchillo de mantequilla y añade las virutas.</seg>
       </tuv>
     </tu>
     <tu>
