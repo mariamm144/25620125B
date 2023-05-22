@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A winner with the whole family - these Thermomix Spinach and Ricotta Rolls are always a &lt;t0/&gt;favourite&lt;t1/&gt;!</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170702Z" creationid="raque" creationdate="20230522T170702Z">
+        <seg>Una forma de ganar con toda la familia. ¡Estos rollos de espinacas y ricotta de Thermomix son siempre los favoritos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add another 250g of the self-raising flour and mix for a further 20 seconds.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T164439Z" creationid="mmolc" creationdate="20230519T164439Z">
@@ -1912,8 +1920,8 @@
       <tuv lang="en">
         <seg>Nutrition</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T170013Z" creationid="beatr" creationdate="20230512T202237Z">
-        <seg>Nutrientes:</seg>
+      <tuv lang="es" changeid="raque" changedate="20230522T170156Z" creationid="beatr" creationdate="20230512T202237Z">
+        <seg>Valores nutricionales:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2708,6 +2716,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201424Z" creationid="beatr" creationdate="20230512T201424Z">
         <seg>Receta Pikelet en la Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thermomix Spinach and Ricotta Rolls</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T170307Z" creationid="raque" creationdate="20230522T170307Z">
+        <seg>Rollos de espinaca y ricotta para Thermomix</seg>
       </tuv>
     </tu>
     <tu>
