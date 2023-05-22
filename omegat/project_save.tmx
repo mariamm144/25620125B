@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt;1602&lt;t1/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172454Z" creationid="alond" creationdate="20230522T172454Z">
+        <seg>Calorías&lt;t0/&gt;1602&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt;187&lt;t1/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154113Z" creationid="alond" creationdate="20230519T154113Z">
@@ -1730,6 +1738,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154048Z" creationid="alond" creationdate="20230519T154048Z">
         <seg>Tiempo de coción&lt;t0/&gt;3 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt;50 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172404Z" creationid="alond" creationdate="20230522T172404Z">
+        <seg>Tiempo de coción&lt;t0/&gt;50 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +1970,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061520Z" creationid="beatr" creationdate="20230522T061520Z">
         <seg>Cocina&lt;t0/&gt;del Oeste de USA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt;French</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172338Z" creationid="alond" creationdate="20230522T172338Z">
+        <seg>Cocina&lt;t0/&gt;Francesa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2370,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T123336Z" creationid="beatr" creationdate="20230520T123336Z">
         <seg>Hazlo la noche de antes – &lt;t0/&gt;ahorra tu tiempo y haz tu sushi la noche de antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make your own Thermomix Sourdough Loaf wit&lt;t0/&gt;h our simple step-by-step recipe using starter, flour, &lt;t1/&gt;water&lt;t2/&gt; and salt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172328Z" creationid="alond" creationdate="20230522T172328Z">
+        <seg>Prepara tu propia masa madre Thermomix con nuestra sencilla receta paso a paso a base de fermento, harina, &lt;t1/&gt;agua&lt;t2/&gt; y sal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2848,6 +2880,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt;10 &lt;t1/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172351Z" creationid="alond" creationdate="20230522T172351Z">
+        <seg>Tiempo de preparación&lt;t0/&gt;10 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prep Time&lt;t0/&gt;2 &lt;t1/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154036Z" creationid="alond" creationdate="20230519T154036Z">
@@ -2876,6 +2916,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230505T163204Z" creationid="alond" creationdate="20230505T161323Z">
         <seg>Tiempo de reposo&lt;t0/&gt;1 &lt;t1/&gt;hora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proving Time&lt;t0/&gt;8 &lt;t1/&gt;hours</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172421Z" creationid="alond" creationdate="20230522T172421Z">
+        <seg>Tiempo de reposo&lt;t0/&gt;8 &lt;t1/&gt;horas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,6 +3224,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;1 &lt;t1/&gt;loaf</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172448Z" creationid="alond" creationdate="20230522T172448Z">
+        <seg>Porciones&lt;t0/&gt;1 &lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set aside until needed.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T232151Z" creationid="mmolc" creationdate="20230520T232151Z">
@@ -3456,6 +3512,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix Sourdough Loaf</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172242Z" creationid="alond" creationdate="20230522T172242Z">
+        <seg>Pan de manzana con Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Spinach and Ricotta Rolls</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170307Z" creationid="raque" creationdate="20230522T170307Z">
@@ -3724,6 +3788,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154102Z" creationid="alond" creationdate="20230519T154102Z">
         <seg>Timepo total&lt;t0/&gt;5 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;9 &lt;t1/&gt;hours</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T172433Z" creationid="alond" creationdate="20230522T172433Z">
+        <seg>Tiempo total&lt;t0/&gt;9 &lt;t1/&gt;horas</seg>
       </tuv>
     </tu>
     <tu>
