@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Place the Apple Loaf into your oven and bake for 50 - 55 minutes or until cooked when tested with a skewer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T153941Z" creationid="mmolc" creationdate="20230522T153941Z">
+        <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Coloca el molde con la masa en el horno y cocínala durante 50-55 minutos o hasta que estén hechos al probarlos con una brocheta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Roll into teaspoon-sized balls and place onto the prepared baking trays.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T184358Z" creationid="mmolc" creationdate="20230520T184225Z">
