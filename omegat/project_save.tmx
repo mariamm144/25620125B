@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Roll the mixture into balls.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T160452Z" creationid="mmolc" creationdate="20230522T160452Z">
+        <seg>3.&lt;t0/&gt;              &lt;t1/&gt;Haz bolitas con la mezcla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>300 grams plain flour</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162417Z" creationid="mmolc" creationdate="20230519T162417Z">
