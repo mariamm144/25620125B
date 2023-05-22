@@ -1072,8 +1072,8 @@
       <tuv lang="en">
         <seg>Carefully remove your Apple and Cinnamon Loaf from the oven and allow it to cool in the loaf tin for 10 minutes before transferring to a wire rack to cool completely.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230522T154230Z" creationid="mmolc" creationdate="20230522T154230Z">
-        <seg>Sácalo del horno y deja enfriar el pan de manzana con  en las bandejas durante 10 minutos antes de pasarlas a una rejilla para que se enfríen completamente.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T154340Z" creationid="mmolc" creationdate="20230522T154230Z">
+        <seg>Sácalo del horno y deja enfriar el pan de manzana con canela en las bandejas durante 10 minutos antes de pasarlas a una rejilla para que se enfríen completamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1778,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203519Z" creationid="beatr" creationdate="20230512T203519Z">
         <seg>Coloca el relleno en una fina línea en el &lt;t0/&gt;centro&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please note it may take longer for your mixture to combine if your butter is not at room temperature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T154439Z" creationid="mmolc" creationdate="20230522T154439Z">
+        <seg>Pof favor, ten en cuenta que si la mantequilla no está a temperatura ambiente, la mezcla tardará más en mezclarse.</seg>
       </tuv>
     </tu>
     <tu>
