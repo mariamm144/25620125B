@@ -2486,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Look after your starter &lt;t0/&gt;– you need to take care of your starter and feed it!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T174920Z" creationid="alond" creationdate="20230522T174920Z">
+        <seg>Cuida tu levadura casera &lt;t0/&gt;- ¡tienes que cuidarla y alimentarla!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Made with just a few basic ingredients from your fridge and pantry, you will love how easy this recipe is to put together!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201427Z" creationid="beatr" creationdate="20230512T201427Z">
@@ -2854,6 +2862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the dough onto the &lt;t0/&gt;centre&lt;t1/&gt; of the tray and cut a couple of tiny slits with a very sharp knife on the top of the dough.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T174410Z" creationid="alond" creationdate="20230522T174410Z">
+        <seg>Coloca la masa sobre el &lt;t0/&gt;centro&lt;t1/&gt; de la bandeja y haz un par de pequeñas hendiduras con un cuchillo muy afilado en la parte superior de la masa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the flour, butter and salt into the Thermomix bowl and mix for 10 seconds on Speed 9 until mixture is the same consistency as &lt;t0/&gt;bread crumbs&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174632Z" creationid="beatr" creationdate="20230520T174632Z">
@@ -2914,6 +2930,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T140151Z" creationid="beatr" creationdate="20230520T140151Z">
         <seg>Coloque la bandeja en el frigorífico y déjela reposar un mínimo de cuatro horas (mejor toda la noche) antes de cortarla en barritas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the tray on the&lt;t0/&gt; shelf above the water tray and cook for 30-35 minutes or until a crust has formed and the loaf sounds hollow when tapped.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T174442Z" creationid="alond" creationdate="20230522T174442Z">
+        <seg>Coloca la bandeja en el estante&lt;t0/&gt; por encima de la bandeja de agua y cocina durante 30-35 minutos o hasta que se haya formado una corteza y el pan suene hueco al golpearlo.</seg>
       </tuv>
     </tu>
     <tu>
