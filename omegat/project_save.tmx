@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Banana&lt;t0/&gt; - the riper the better!</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180426Z" creationid="alond" creationdate="20230522T180426Z">
+        <seg>Plátano&lt;t0/&gt; - ¡cuanto más maduro, mejor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break the extra egg into a small bowl and lightly whisk.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171338Z" creationid="raque" creationdate="20230522T171338Z">
@@ -1786,6 +1794,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T165854Z" creationid="raque" creationdate="20230522T165854Z">
         <seg>Elige tus mini huevos de Pascua favoritos - Yo recomiendo usar huevos moteados crujientes de M&amp;Ms ya que se cortan fácilmente y son brillantes y coloridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue until you have used &lt;t0/&gt;all of&lt;t1/&gt; the mixture.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180351Z" creationid="alond" creationdate="20230522T180351Z">
+        <seg>Continúa hasta que hayas utilizado &lt;t0/&gt;toda&lt;t1/&gt; la mezcla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3183,6 +3199,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preheat your frying pan with a little butter over a medium high heat and add tablespoons of the pikelet mixture.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180326Z" creationid="alond" creationdate="20230522T180228Z">
+        <seg>Precalienta la sartén con un poco de mantequilla a fuego medio-alto y añade las cucharadas de la mezcla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line an oven tray with baking paper.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174122Z" creationid="beatr" creationdate="20230520T174122Z">
@@ -3410,8 +3434,8 @@
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180116Z" creationid="alond" creationdate="20230522T180116Z">
-        <seg>Añada la &lt;t0/&gt;harina autolevante&lt;t1/&gt;, la leche, el extracto de vainilla, la &lt;t2/&gt;ba&lt;t3/&gt;nana&lt;t4/&gt; y el huevo y mezcle durante 10 segundos, Velocidad 5.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230522T180148Z" creationid="alond" creationdate="20230522T180116Z">
+        <seg>Raspa las paredes de los lados del bol y mezcla durante otros 5 minutos en la velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4348,6 +4372,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202045Z" creationid="beatr" creationdate="20230512T202045Z">
         <seg>Cuando empiecen a salir burbujas en la superficie de los pikelets, dales ña vuelta cuidadodamente y deja que se hagan otros 30 segundos a cada lado antes de sacarlos en un plato y cubrirlos con lámina para mantener el calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When bubbles begin to&lt;t0/&gt; appear on the surface of the pikelets, carefully flip them over and cook for a further 30 seconds - 1 minute on the other side before transferring to a plate and cover with foil to keep warm.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T180316Z" creationid="alond" creationdate="20230522T180316Z">
+        <seg>Cuando empiecen a aparecer burbujas en la superficie de los pikelets, dáles la vuelta con cuidado y cocínalas durante otros 30 segundos - 1 minuto por el otro lado antes de pasarlas a un plato y cubrirlas con papel de aluminio para mantenerlas calientes.</seg>
       </tuv>
     </tu>
     <tu>
