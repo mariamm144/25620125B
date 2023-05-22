@@ -1671,6 +1671,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preheat oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced).</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T063120Z" creationid="beatr" creationdate="20230522T063120Z">
+        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Precalentar el horno a 180 grados Celsius (con la ventilación a tope).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line an oven tray with baking paper.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174122Z" creationid="beatr" creationdate="20230520T174122Z">
