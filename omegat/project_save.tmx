@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Carefully remove your Apple and Cinnamon Loaf from the oven and allow it to cool in the loaf tin for 10 minutes before transferring to a wire rack to cool completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T154230Z" creationid="mmolc" creationdate="20230522T154230Z">
+        <seg>Sácalo del horno y deja enfriar el pan de manzana con  en las bandejas durante 10 minutos antes de pasarlas a una rejilla para que se enfríen completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chilling Time1 &lt;t0/&gt;hour</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162258Z" creationid="mmolc" creationdate="20230519T162258Z">
