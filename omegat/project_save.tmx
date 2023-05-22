@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Banana muffins are an absolute classic and when you add in some chocolate, you end up with something even better!</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T061423Z" creationid="beatr" creationdate="20230522T061423Z">
+        <seg>Los muffins de plátano son un clásico y cuando añades pepitas de chocolate, ¡Consigues hasta algo mejor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T003147Z" creationid="beatr" creationdate="20230520T125556Z">
