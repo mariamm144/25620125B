@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>500 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;beef&lt;t3/&gt; &lt;t4/&gt;mince</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T181038Z" creationid="alond" creationdate="20230522T181038Z">
+        <seg>500 &lt;t0/&gt;gramos&lt;t1/&gt; de&lt;t2/&gt;carne&lt;t3/&gt; picada&lt;t4/&gt;de ternera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>500 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;ricotta</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170939Z" creationid="raque" creationdate="20230522T170939Z">
@@ -1074,6 +1082,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230505T161824Z" creationid="alond" creationdate="20230505T161824Z">
         <seg>90 g &lt;t0/&gt;de yogur&lt;t1/&gt; &lt;t2/&gt;griego&lt;t3/&gt; o &lt;t4/&gt;natural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>90 grams brown onion cut in &lt;t0/&gt;half</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T181101Z" creationid="alond" creationdate="20230522T181101Z">
+        <seg>90 gramos de cebolla morena cortada por la mitad</seg>
       </tuv>
     </tu>
     <tu>
