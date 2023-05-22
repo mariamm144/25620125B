@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's important that your butter is at room temperature, it will take longer to combine with the caster sugar if it's cold.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T055815Z" creationid="beatr" creationdate="20230522T055815Z">
+        <seg>Es importante que la mantequilla esté a temperatura ambiente, tardará más en mezclarse con el azucar superfino si está fría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It's important to not over mix the ingredients as this will result in a dense muffin.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T224608Z" creationid="mmolc" creationdate="20230520T224410Z">
