@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories72&lt;t0/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155320Z" creationid="mmolc" creationdate="20230522T155320Z">
+        <seg>Calorías: 72&lt;t0/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories82&lt;t0/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132817Z" creationid="mmolc" creationdate="20230519T132817Z">
@@ -1202,6 +1210,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195632Z" creationid="mmolc" creationdate="20230520T195632Z">
         <seg>Precio: 10 dólares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cost$5</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155344Z" creationid="mmolc" creationdate="20230522T155344Z">
+        <seg>Precio: 5 dólares</seg>
       </tuv>
     </tu>
     <tu>
@@ -2080,6 +2096,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings16 &lt;t0/&gt;balls</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155310Z" creationid="mmolc" creationdate="20230522T155310Z">
+        <seg>Porciones: 16 &lt;t0/&gt;bolitas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings24 &lt;t0/&gt;biscuits</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162327Z" creationid="mmolc" creationdate="20230519T162327Z">
@@ -2496,6 +2520,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Time5 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155245Z" creationid="mmolc" creationdate="20230522T155245Z">
+        <seg>Tiempo total: 5 &lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T125450Z" creationid="beatr" creationdate="20230520T125450Z">
@@ -2880,6 +2912,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;190 g dried apricots</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155436Z" creationid="mmolc" creationdate="20230522T155436Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;190 g de orejones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 eggs</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195838Z" creationid="mmolc" creationdate="20230520T195838Z">
@@ -2892,6 +2932,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T231747Z" creationid="mmolc" creationdate="20230520T231747Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 huevos de 70 gramos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;20 g desiccated coconut</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155538Z" creationid="mmolc" creationdate="20230522T155538Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;20 g de coco deshidratado</seg>
       </tuv>
     </tu>
     <tu>
@@ -2932,6 +2980,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195746Z" creationid="mmolc" creationdate="20230520T195746Z">
         <seg>·&lt;t0/&gt;       &lt;t1/&gt;375 gramos de harina con levadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;70 g rolled oats</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155447Z" creationid="mmolc" creationdate="20230522T155447Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;70 g de copos de avena</seg>
       </tuv>
     </tu>
     <tu>
