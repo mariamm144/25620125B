@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Allow&lt;t1/&gt; &lt;t2/&gt;to&lt;t3/&gt; &lt;t4/&gt;cool&lt;t5/&gt; &lt;t6/&gt;slightly&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T153308Z" creationid="beatr" creationdate="20230522T153308Z">
+        <seg>Dejar enfriar un poco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Rinse&lt;t1/&gt; &lt;t2/&gt;under&lt;t3/&gt; &lt;t4/&gt;cold&lt;t5/&gt; &lt;t6/&gt;water&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203428Z" creationid="beatr" creationdate="20230512T203428Z">
@@ -798,10 +806,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the chocolate chips and mix for 5-10 seconds, Reverse, Speed 4 or until just combined.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T154313Z" creationid="beatr" creationdate="20230522T154313Z">
+        <seg>Añade las pepitas de chocolate y mezcla durante 5-10 segundos, marcha atrás, velocidad 4 o hasta que estén bien mezcladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the final 250g and mix for 20 seconds, Speed 6 (please note that you'll need to use the spatula to assist with the mixing).</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153036Z" creationid="mmolc" creationdate="20230520T183822Z">
         <seg>Añade los 250g restantes y remueve durante 20 segundos, a velocidad 6 (por favor, ten en cuenta que necesitarás la espátula para removerlo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the mashed bananas and mix for a further 20 seconds or until well combined.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T153818Z" creationid="beatr" creationdate="20230522T153818Z">
+        <seg>Añade los plátanos aplastados y mezcla durante 20 segundos más o hasta que quede homogéneo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,10 +838,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the self-&lt;t0/&gt;raising&lt;t1/&gt; flour, caster sugar, baking powder, bi-carb soda, &lt;t2/&gt;cinnamon&lt;t3/&gt; and salt and mix for 5 seconds, Speed 4 (use the spatula to help mix).</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T154115Z" creationid="beatr" creationdate="20230522T154115Z">
+        <seg>Añadir la harina, el azúcar, la levadura en polvo, el bicarbonato, la canela y la sal y mezclar durante 5 segundos a la velocidad 4 (utiliza la espátula para mezclar).&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the vanilla extract and continue to mix for 20 seconds, Speed 1.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T135422Z" creationid="beatr" creationdate="20230520T135422Z">
         <seg>Añade el extracto de vainilla y continúa mezclando por 20 segundos, a la velocidad 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the vanilla extract, honey and milk and &lt;t0/&gt;mix together&lt;t1/&gt; for 20 seconds, Speed 6.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T153440Z" creationid="beatr" creationdate="20230522T153440Z">
+        <seg>Añade el extracto de vainilla, la miel y la leche, y mezcla durante 20 segundos, a la velocidad 6. &lt;t0/&gt;&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1502,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mash for 10 seconds, Speed 8.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T152644Z" creationid="beatr" creationdate="20230522T152644Z">
+        <seg>Machácalos durante 10 segundos, a la velocidad 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mix for 1 minute, Speed 5 (scrape down the sides after 30 seconds).</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T134714Z" creationid="mmolc" creationdate="20230519T134714Z">
@@ -1606,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place bananas into the Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T152600Z" creationid="beatr" creationdate="20230522T152600Z">
+        <seg>Coloca los plátanos en el bol de la Thermomix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place into the oven to bake for 10 - 12 minutes or until the edges of the biscuits start to turn golden.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T054309Z" creationid="beatr" creationdate="20230522T054309Z">
@@ -1642,6 +1698,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T055149Z" creationid="beatr" creationdate="20230521T054818Z">
         <seg>Coloca la mantequilla y el azúcar superfino en el bol de tu Thermomix y mezcla durante 15 segundos, a la velocidad 3 para combinar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the butter into the Thermomix bowl (don't worry about cleaning it) and melt for 1 minute, 100 degrees, Speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T153047Z" creationid="beatr" creationdate="20230522T153047Z">
+        <seg>Pon la mantequilla en el bol de la Thermomix (no te preocupes por limpiarlo) y derrítelo por 1 minuto, a 100 grados, a la velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1786,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T060311Z" creationid="beatr" creationdate="20230522T060311Z">
         <seg>Ten en cuenta que estas galletas se ablandarán al cabo de un par de días, sobre todo si tienen glaseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pour into a bowl and set aside.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T152714Z" creationid="beatr" creationdate="20230522T152714Z">
+        <seg>Pasar a un plato y reservar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1836,6 +1908,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T053611Z" creationid="beatr" creationdate="20230522T053611Z">
         <seg>Repetir hasta que la mezcla se acabe &lt;t2/&gt;&lt;t3/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides and melt for a further 30 seconds, 100 degrees, Speed 3 (if needed).</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T153253Z" creationid="beatr" creationdate="20230522T153253Z">
+        <seg>Raspa las paredes de los lados y derrítelo por unos 30 segundos más, a la velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2452,6 +2532,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195217Z" creationid="mmolc" creationdate="20230520T195217Z">
         <seg>Con sólo 10 minutos de preparación, esta receta de muffins de arándanos con Thermomix es el capricho perfecto, rápido y fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With the blades spinning on Speed 3, add the eggs one at a time through the MC hole.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T153614Z" creationid="beatr" creationdate="20230522T153614Z">
+        <seg>Con las cuchillas girando a velocidad 3, añade los huevos de uno en uno a través del orificio MC.</seg>
       </tuv>
     </tu>
     <tu>
