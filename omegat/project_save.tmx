@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Peel the apple and roughly chop it into pieces no bigger than 1cm.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T152256Z" creationid="mmolc" creationdate="20230522T152256Z">
+        <seg>2.&lt;t0/&gt;              &lt;t1/&gt;&gt;Pelar la manzana y cortarla en trozos de no más de 1 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Place the butter and caster sugar into the Thermomix bowl.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T134409Z" creationid="mmolc" creationdate="20230519T134409Z">
