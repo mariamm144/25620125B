@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cover and&lt;t0/&gt; allow to prove for 4 hours at room temperature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173052Z" creationid="alond" creationdate="20230522T173052Z">
+        <seg>Cubre y&lt;t0/&gt; deja reposar durante 4 horas a temperatura ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Australian</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170756Z" creationid="beatr" creationdate="20230512T201441Z">
@@ -2534,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On a lightly floured board, knock the air out of the dough and form into a tight ball.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173116Z" creationid="alond" creationdate="20230522T173116Z">
+        <seg>Sobre una tabla ligeramente enharinada, elimina el aire de la masa y formar una bola compacta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once completely cool, combine your icing ingredients in a bowl.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T054810Z" creationid="beatr" creationdate="20230522T054810Z">
@@ -2744,8 +2760,8 @@
       <tuv lang="en">
         <seg>Place the flour, salt, &lt;t0/&gt;water&lt;t1/&gt; and sourdough into the Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172744Z" creationid="alond" creationdate="20230522T172744Z">
-        <seg>Colocar la harina, la sal, &lt;t0/&gt;el agua&lt;t1/&gt; y la masa madre en el bol del Thermomix.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230522T172925Z" creationid="alond" creationdate="20230522T172744Z">
+        <seg>Coloca la harina, la sal, &lt;t0/&gt;el agua&lt;t1/&gt; y la masa madre en el bol del Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,6 +3448,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mixture will be very sticky at this stage - this is perfect.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173000Z" creationid="alond" creationdate="20230522T173000Z">
+        <seg>La mezcla será muy pegajosa en esta etapa - eso está bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The sugar can be omitted from this recipe.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202226Z" creationid="beatr" creationdate="20230512T202226Z">
@@ -3884,6 +3908,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T055238Z" creationid="beatr" creationdate="20230522T055238Z">
         <seg>Coloca el glaseado en cada galleta con un cuchillo de mantequilla y añade las virutas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a spatula to scrape the sticky dough into a greased bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T173023Z" creationid="alond" creationdate="20230522T173023Z">
+        <seg>Utiliza una espátula para raspar la masa pegajosa en un bol engrasado.</seg>
       </tuv>
     </tu>
     <tu>
