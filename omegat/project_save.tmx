@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oats&lt;t0/&gt; - use rolled oats or quick oats.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T161055Z" creationid="mmolc" creationdate="20230522T161055Z">
+        <seg>La avena:&lt;t0/&gt;utiliza avena en copos o precocida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once completely cool, combine your icing ingredients in a bowl.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T054810Z" creationid="beatr" creationdate="20230522T054810Z">
