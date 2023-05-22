@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cuisinehealthy recipes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155223Z" creationid="mmolc" creationdate="20230522T155223Z">
+        <seg>Cocina: recetas saludables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut into 12 slices – approximately 2cm thick.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T175905Z" creationid="beatr" creationdate="20230520T175905Z">
@@ -1876,6 +1884,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132615Z" creationid="mmolc" creationdate="20230519T132503Z">
         <seg>Tiempo de preparación: 10&lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prep Time5 &lt;t0/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230522T155236Z" creationid="mmolc" creationdate="20230522T155236Z">
+        <seg>Tiempo de preparación: 5&lt;t0/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
