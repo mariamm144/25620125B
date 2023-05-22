@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lightly press down on top of each biscuit to flatten slightly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T054026Z" creationid="beatr" creationdate="20230522T054026Z">
+        <seg>Presiona suavemente encima de cada galleta para aplanarla un poco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Made with just a few basic ingredients from your fridge and pantry, you will love how easy this recipe is to put together!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201427Z" creationid="beatr" creationdate="20230512T201427Z">
@@ -1564,6 +1572,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203544Z" creationid="beatr" creationdate="20230512T203544Z">
         <seg>Quitar el arroz de sushi de la cesta &lt;t0/&gt;si dejas el arroz de sushi en la cesta tras el tiempo de cocción, se quedará pegajoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat until &lt;t2/&gt;all of&lt;t3/&gt; the mixture has been used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T053611Z" creationid="beatr" creationdate="20230522T053611Z">
+        <seg>Repetir hasta que la mezcla se acabe &lt;t2/&gt;&lt;t3/&gt; .</seg>
       </tuv>
     </tu>
     <tu>
