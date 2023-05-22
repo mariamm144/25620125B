@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please note these biscuits will soften after a couple of days, especially if iced.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T060311Z" creationid="beatr" creationdate="20230522T060311Z">
+        <seg>Ten en cuenta que estas galletas se ablandarán al cabo de un par de días, sobre todo si tienen glaseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-heat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line two baking trays with baking paper.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T054444Z" creationid="beatr" creationdate="20230521T054444Z">
