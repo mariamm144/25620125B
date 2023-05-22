@@ -70,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;worcestershire&lt;t3/&gt; sauce</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T182748Z" creationid="alond" creationdate="20230522T182748Z">
+        <seg>1 &lt;t0/&gt;cuhcaradita&lt;t1/&gt; &lt;t2/&gt;de salsa Worcestershire&lt;t3/&gt; o salsa inglesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; raw &lt;t2/&gt;sugar</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230505T161651Z" creationid="alond" creationdate="20230505T161651Z">
         <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; de &lt;t2/&gt;azúcar en bruto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; soy sauce</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T182642Z" creationid="alond" creationdate="20230522T182642Z">
+        <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; de salsa de soja</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +264,16 @@
       <tuv lang="en">
         <seg>100 grams carrot cut into 3cm &lt;t0/&gt;pieces</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T182542Z" creationid="alond" creationdate="20230522T182542Z">
-        <seg>100 gramo de zanahoria cortadas en trozos de 3cm &lt;t0/&gt;</seg>
+      <tuv lang="es" changeid="alond" changedate="20230522T182625Z" creationid="alond" creationdate="20230522T182542Z">
+        <seg>100 gramo de zanahoria cortada en trozos de 3cm &lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>100 grams zucchini cut into 3cm &lt;t0/&gt;pieces</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T182621Z" creationid="alond" creationdate="20230522T182621Z">
+        <seg>100 gramos de calabacín cortado en trozos de 3cm &lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +362,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162349Z" creationid="mmolc" creationdate="20230519T162349Z">
         <seg>150 gramos de mantequilla a temperatura ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>150 grams plain flour in a separate bowl for coati&lt;t0/&gt;ng.</seg>
+      </tuv>
+      <tuv lang="es" changeid="alond" changedate="20230522T182822Z" creationid="alond" creationdate="20230522T182822Z">
+        <seg>150 gramos de harina común en un bol aparte para rebozar&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
