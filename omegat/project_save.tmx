@@ -664,8 +664,8 @@
       <tuv lang="en">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, egg and vanilla extract and mix for 10 seconds, speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T055550Z" creationid="beatr" creationdate="20230521T055550Z">
-        <seg>Añade  &lt;t0/&gt;self raising&lt;t1/&gt; flour, egg and vanilla extract and mix for 10 seconds, speed 4.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230522T053124Z" creationid="beatr" creationdate="20230521T055550Z">
+        <seg>Añade  &lt;t0/&gt;harina&lt;t1/&gt; con levadura, huevo egg y extracto de vainilla y mezclardurante 10 segundos, a la velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1604,6 +1604,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174857Z" creationid="beatr" creationdate="20230520T174857Z">
         <seg>Selectciona la función de amasar y mezcla por dos minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the kneading function and mix for 40 seconds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T053205Z" creationid="beatr" creationdate="20230522T053205Z">
+        <seg>Selectciona la función de amasar y mezcla por 40 segundos.</seg>
       </tuv>
     </tu>
     <tu>
