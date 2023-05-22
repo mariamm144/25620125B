@@ -22,6 +22,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 &lt;t0/&gt;egg</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171015Z" creationid="raque" creationdate="20230522T171015Z">
+        <seg>1 &lt;t0/&gt;huevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 &lt;t0/&gt;tbsp&lt;t1/&gt; &lt;t2/&gt;sesame&lt;t3/&gt; &lt;t4/&gt;seeds&lt;t5/&gt; &lt;t6/&gt;optional</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171153Z" creationid="raque" creationdate="20230522T171153Z">
+        <seg>1 &lt;t0/&gt;cucharada sopera de semillas de sésamo  opcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 &lt;t0/&gt;teaspoon&lt;t1/&gt; &lt;t2/&gt;nutmeg</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171100Z" creationid="raque" creationdate="20230522T171100Z">
+        <seg>1 &lt;t0/&gt;cucharadita de nuez moscada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 egg</seg>
       </tuv>
       <tuv lang="es" changeid="Dell" changedate="20140516T112044Z" creationid="Dell" creationdate="20140516T112044Z">
@@ -102,10 +126,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1/4 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;pepper</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171131Z" creationid="raque" creationdate="20230522T171131Z">
+        <seg>1/4 &lt;t0/&gt;cucharadita de primienta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1/4 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171119Z" creationid="raque" creationdate="20230522T171119Z">
+        <seg>1/4 &lt;t0/&gt;cucharadita de sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>10.&lt;t0/&gt;           &lt;t1/&gt;Bake for 8 - 10 minutes or until the sugar cookies are beginning to turn golden on the edge.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
         <seg>10.&lt;t0/&gt; &lt;t1/&gt;Hornea durante 8 - 10 minutos o hasta que las galletas de azúcar empiecen a dorarse por los bordes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>100 &lt;t0/&gt;grams&lt;t1/&gt; baby &lt;t2/&gt;spinach&lt;t3/&gt; &lt;t4/&gt;leaves</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171010Z" creationid="raque" creationdate="20230522T171010Z">
+        <seg>100 &lt;t0/&gt;gramos&lt;t1/&gt; hojas de espinacas baby</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4 &lt;t0/&gt;sheets&lt;t1/&gt; &lt;t2/&gt;puff&lt;t3/&gt; &lt;t4/&gt;pastry&lt;t5/&gt; &lt;t6/&gt;partially&lt;t7/&gt; &lt;t8/&gt;thawed</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171037Z" creationid="raque" creationdate="20230522T171037Z">
+        <seg>4 &lt;t0/&gt;hojas de hojaldre amasadas parcialmente descongeladas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>4.&lt;t0/&gt;              &lt;t1/&gt;Add 250g of the self-raising flour and mix for 20 seconds, Speed 6.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153023Z" creationid="mmolc" creationdate="20230519T164227Z">
@@ -1018,6 +1074,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174803Z" creationid="beatr" creationdate="20230520T174803Z">
         <seg>Añade la leche y mezclar durante 7 segundos a la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the ricotta, baby spinach leave&lt;t0/&gt;s, 1 egg, nutmeg and salt and pepper to your Thermomix bowl and mix for 15 seconds on speed 4 or until &lt;t1/&gt;all of&lt;t2/&gt; the ingredients have combined.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171309Z" creationid="raque" creationdate="20230522T171309Z">
+        <seg>Añade la ricotta, las hojas de espinaca baby, 1 huevo, la nuez moscada y la sal y la pimienta a tu bol de Thermomix y mezcla durante 15 segundos a velocidad 4 o hasta que todos los ingredientes se hayan mezclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cut the parmesan cheese into cubes no bigger than 3cm and place in your Thermomix bowl to mix for 10 seconds on speed 9 to grate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171242Z" creationid="raque" creationdate="20230522T171242Z">
+        <seg>Corta el queso parmesano en cuadrados de no más de 3 cm y colócalos en tu vaso de Thermomix para mezclar durante 10 segundos a velocidad 9 para rallar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dampen the uncovered end of the nori sheet with water.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203523Z" creationid="beatr" creationdate="20230512T203523Z">
@@ -1978,6 +2050,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153157Z" creationid="alond" creationdate="20230519T153157Z">
         <seg>Amasa en Función amasado (velocidad espiga) por 3 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lightly grease two baking trays and preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced).</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230522T171222Z" creationid="raque" creationdate="20230522T171222Z">
+        <seg>Engrasa ligeramente dos bandejas para hornear y precalienta el horno a 210 grados centígrados (con ventilador).</seg>
       </tuv>
     </tu>
     <tu>
