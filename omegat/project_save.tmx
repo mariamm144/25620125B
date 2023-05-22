@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>260&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;ripe bananas&lt;t4/&gt; &lt;t5/&gt;(&lt;t6/&gt;approx&lt;t7/&gt; 2 large)</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T062113Z" creationid="beatr" creationdate="20230522T062113Z">
+        <seg>260&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de plátanos maduros&lt;t4/&gt; &lt;t5/&gt;(&lt;t6/&gt;aprox&lt;t7/&gt; 2 largos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;tablespoons&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201704Z" creationid="beatr" creationdate="20230512T201704Z">
@@ -1956,6 +1964,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T192655Z" creationid="mmolc" creationdate="20230520T192655Z">
         <seg>La masa cruda y las galletas horneadas pueden estar congeladas hasta dos meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thermomix</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230522T061824Z" creationid="beatr" creationdate="20230522T061824Z">
+        <seg>La Thermomix</seg>
       </tuv>
     </tu>
     <tu>
