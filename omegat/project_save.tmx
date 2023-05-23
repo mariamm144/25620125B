@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;15&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;5&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;15&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;5&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;2&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;8&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;154&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;60&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;397&lt;t40/&gt;IU&lt;t41/&gt; | Vitamin C: &lt;t42/&gt;1&lt;t43/&gt;mg&lt;t44/&gt; | Calcium: &lt;t45/&gt;72&lt;t46/&gt;mg&lt;t47/&gt; | Iron: &lt;t48/&gt;1&lt;t49/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T094331Z" creationid="raque" creationdate="20230523T094331Z">
+        <seg>Calorías: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;15&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;5&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;15&lt;t10/&gt;g&lt;t11/&gt; | Grasas Saturadas: &lt;t12/&gt;5&lt;t13/&gt;g&lt;t14/&gt; | Grasas Poliinsaturadas: &lt;t15/&gt;2&lt;t16/&gt;g&lt;t17/&gt; | Grasas Monoinsaturadas: &lt;t18/&gt;8&lt;t19/&gt;g&lt;t20/&gt; | Grasas Trans: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;154&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;60&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Azúcar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;397&lt;t40/&gt;IU&lt;t41/&gt; | Vitamina C: &lt;t42/&gt;1&lt;t43/&gt;mg&lt;t44/&gt; | Calcio: &lt;t45/&gt;72&lt;t46/&gt;mg&lt;t47/&gt; | Hierro: &lt;t48/&gt;1&lt;t49/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;26&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;10&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;6&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;0.4&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;57&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;87&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;49&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;12&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;336&lt;t40/&gt;IU&lt;t41/&gt; | Calcium: &lt;t42/&gt;21&lt;t43/&gt;mg&lt;t44/&gt; | Iron: &lt;t45/&gt;0.4&lt;t46/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230521T002119Z" creationid="mmolc" creationdate="20230521T002119Z">
@@ -2142,6 +2150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Course&lt;t0/&gt; &lt;t1/&gt;Dinner, main meal, &lt;t2/&gt;thermomix</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T094433Z" creationid="raque" creationdate="20230523T094433Z">
+        <seg>Plato&lt;t0/&gt; &lt;t1/&gt;Cena, plato principal, &lt;t2/&gt;thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Muffins</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061435Z" creationid="beatr" creationdate="20230522T061435Z">
@@ -2282,6 +2298,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061520Z" creationid="beatr" creationdate="20230522T061520Z">
         <seg>Cocina&lt;t0/&gt;del Oeste de USA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;asian&lt;t2/&gt;, bao buns, &lt;t3/&gt;thermomix</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T094450Z" creationid="raque" creationdate="20230523T094450Z">
+        <seg>Gastronomía&lt;t0/&gt; &lt;t1/&gt;asiática&lt;t2/&gt;, bao buns, &lt;t3/&gt;thermomix</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3058,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201417Z" creationid="beatr" creationdate="20230512T201417Z">
         <seg>¡Nuestra famosa receta de Pikelets en la Thermomix puede estar lista en menos de 30 minutos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our soft and fluffy Thermomix Bao Buns served with leftover roast pork and crunchy Asian slaw make the perfect family dinner.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T094410Z" creationid="raque" creationdate="20230523T094410Z">
+        <seg>Nuestros suaves y esponjosos bollos Bao de Thermomix servidos con sobras de cerdo asado y crujiente ensalada asiática son la cena familiar perfecta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4152,6 +4184,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thermomix Bao Buns</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T094348Z" creationid="raque" creationdate="20230523T094348Z">
+        <seg>Bollos Bao Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thermomix Blueberry Muffins</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195045Z" creationid="mmolc" creationdate="20230520T195045Z">
@@ -4412,6 +4452,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T191529Z" creationid="mmolc" creationdate="20230520T191529Z">
         <seg>Con esta receta tendrás aproximadamente 100 galletas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To freeze, place in a freezer safe container and store for up to two months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T094311Z" creationid="raque" creationdate="20230523T094311Z">
+        <seg>Para congelarlo, colócalo en un recipiente apto para congelador y guárdalo un máximo de dos meses.</seg>
       </tuv>
     </tu>
     <tu>
