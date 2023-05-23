@@ -2176,10 +2176,26 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt; &lt;t1/&gt;67&lt;t2/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134409Z" creationid="raque" creationdate="20230523T134409Z">
+        <seg>Calorías&lt;t0/&gt; &lt;t1/&gt;67&lt;t2/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;73&lt;t2/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201501Z" creationid="beatr" creationdate="20230512T201501Z">
         <seg>Calorías&lt;t0/&gt;73&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories&lt;t0/&gt;120&lt;t1/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134611Z" creationid="raque" creationdate="20230523T134611Z">
+        <seg>Calorías&lt;t0/&gt;120&lt;t1/&gt;kcal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2252,6 +2268,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163248Z" creationid="raque" creationdate="20230522T163248Z">
         <seg>Tiempo de reposo &lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chilling Time&lt;t0/&gt;1&lt;t1/&gt; &lt;t2/&gt;hour</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134545Z" creationid="raque" creationdate="20230523T134545Z">
+        <seg>Tiempo de enfriamiento&lt;t0/&gt;1&lt;t1/&gt; &lt;t2/&gt;hora</seg>
       </tuv>
     </tu>
     <tu>
@@ -2584,6 +2608,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Course&lt;t0/&gt;Dessert</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134523Z" creationid="raque" creationdate="20230523T134523Z">
+        <seg>Plato&lt;t0/&gt;Postre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt;Dinners</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T180930Z" creationid="alond" creationdate="20230522T180930Z">
@@ -2700,6 +2732,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T132157Z" creationid="raque" creationdate="20230523T132157Z">
         <seg>Gastronomía&lt;t0/&gt; &lt;t1/&gt;panadería, &lt;t2/&gt;thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;middle eastern</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134322Z" creationid="raque" creationdate="20230523T134322Z">
+        <seg>Cocina&lt;t0/&gt; &lt;t1/&gt;medio oriental</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4138,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134334Z" creationid="raque" creationdate="20230523T134334Z">
+        <seg>Tiempo de preparación&lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;20 &lt;t2/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T094508Z" creationid="raque" creationdate="20230523T094508Z">
@@ -4118,6 +4166,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T172351Z" creationid="alond" creationdate="20230522T172351Z">
         <seg>Tiempo de preparación&lt;t0/&gt;10 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134533Z" creationid="raque" creationdate="20230523T134533Z">
+        <seg>Tiempo de preparación&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4538,6 +4594,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;10 &lt;t2/&gt;serves</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134405Z" creationid="raque" creationdate="20230523T134405Z">
+        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;10 &lt;t2/&gt;porciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;12&lt;t2/&gt; &lt;t3/&gt;muffins</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061717Z" creationid="beatr" creationdate="20230522T061717Z">
@@ -4630,6 +4694,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175624Z" creationid="alond" creationdate="20230522T175624Z">
         <seg>Raciones&lt;t0/&gt;20 &lt;t1/&gt;pikelet&lt;t2/&gt;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;24&lt;t1/&gt; &lt;t2/&gt;biscuits</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134607Z" creationid="raque" creationdate="20230523T134607Z">
+        <seg>Raciones&lt;t0/&gt;24&lt;t1/&gt; &lt;t2/&gt;galletas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5386,6 +5458,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134344Z" creationid="raque" creationdate="20230523T134344Z">
+        <seg>Tiempo total&lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201454Z" creationid="beatr" creationdate="20230512T201454Z">
@@ -5438,6 +5518,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175605Z" creationid="alond" creationdate="20230522T175605Z">
         <seg>Tiempo total&lt;t0/&gt;15 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;1&lt;t1/&gt; &lt;t2/&gt;hour&lt;t3/&gt; &lt;t4/&gt;22&lt;t5/&gt; &lt;t6/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134557Z" creationid="raque" creationdate="20230523T134557Z">
+        <seg>Tiempo total&lt;t0/&gt;1&lt;t1/&gt; &lt;t2/&gt;hora&lt;t3/&gt; &lt;t4/&gt;22&lt;t5/&gt; &lt;t6/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
