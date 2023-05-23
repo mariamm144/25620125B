@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 x Thermomix</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100334Z" creationid="raque" creationdate="20230523T100334Z">
+        <seg>La Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Chop the dried apricots for 5 seconds, Speed 8.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T155821Z" creationid="mmolc" creationdate="20230522T155821Z">
@@ -654,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>250 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;warm&lt;t3/&gt; &lt;t4/&gt;water</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100439Z" creationid="raque" creationdate="20230523T100439Z">
+        <seg>250 &lt;t0/&gt;ml&lt;t1/&gt; &lt;t2/&gt;agua&lt;t3/&gt; &lt;t4/&gt;templada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>250 g &lt;t0/&gt;milk&lt;t1/&gt; chocolate</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163556Z" creationid="raque" creationdate="20230522T163556Z">
@@ -1010,6 +1026,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162707Z" creationid="mmolc" creationdate="20230519T162707Z">
         <seg>6.&lt;t0/&gt;              &lt;t1/&gt;Vuelca la masa en tu encimera y divídela en dos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>60 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100449Z" creationid="raque" creationdate="20230523T100449Z">
+        <seg>60 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;de azúcar</seg>
       </tuv>
     </tu>
     <tu>
@@ -1802,6 +1826,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163423Z" creationid="raque" creationdate="20230522T163423Z">
         <seg>Calorías&lt;t0/&gt;  &lt;t1/&gt;365&lt;t2/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories&lt;t0/&gt; &lt;t1/&gt;183&lt;t2/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100322Z" creationid="raque" creationdate="20230523T100322Z">
+        <seg>Calorías&lt;t0/&gt; &lt;t1/&gt;183&lt;t2/&gt;kcal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,6 +3704,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rolling Pin</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100352Z" creationid="raque" creationdate="20230523T100352Z">
+        <seg>Rodillo de cocina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scrape down th&lt;t0/&gt;e sides of the bowl and mix for a further 10 seconds, speed 4 or until the mixture is well combined.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T183846Z" creationid="alond" creationdate="20230522T183846Z">
@@ -3852,6 +3892,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162327Z" creationid="mmolc" creationdate="20230519T162327Z">
         <seg>Porciones: 24 &lt;t0/&gt;galletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;  &lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;Buns</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100313Z" creationid="raque" creationdate="20230523T100313Z">
+        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;Bollos</seg>
       </tuv>
     </tu>
     <tu>
