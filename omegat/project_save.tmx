@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Set aside.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133829Z" creationid="raque" creationdate="20230523T133829Z">
+        <seg>&lt;t0/&gt;Apártalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Sprinkle&lt;t1/&gt; &lt;t2/&gt;it&lt;t3/&gt; &lt;t4/&gt;with&lt;t5/&gt; a &lt;t6/&gt;tiny&lt;t7/&gt; &lt;t8/&gt;amount&lt;t9/&gt; &lt;t10/&gt;of&lt;t11/&gt; &lt;t12/&gt;water&lt;t13/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203510Z" creationid="beatr" creationdate="20230512T203510Z">
@@ -1426,6 +1434,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230523T122655Z" creationid="beatr" creationdate="20230523T122655Z">
         <seg>&lt;t1/&gt;Por lo tanto,&lt;t2/&gt; los plátanos oscuros son perfectos para usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t1/&gt;Wash&lt;t2/&gt; and &lt;t3/&gt;dry&lt;t4/&gt; &lt;t5/&gt;the&lt;t6/&gt; &lt;t7/&gt;bowl&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133845Z" creationid="raque" creationdate="20230523T133845Z">
+        <seg>&lt;t1/&gt;Lava&lt;t2/&gt; y &lt;t3/&gt;seca&lt;t4/&gt; &lt;t5/&gt;el&lt;t6/&gt; &lt;t7/&gt;cuenco&lt;t8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;Allow&lt;t3/&gt; &lt;t4/&gt;to&lt;t5/&gt; &lt;t6/&gt;cool&lt;t7/&gt; &lt;t8/&gt;slightly&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133934Z" creationid="raque" creationdate="20230523T133934Z">
+        <seg>&lt;t2/&gt;Deja&lt;t3/&gt; &lt;t4/&gt;que&lt;t5/&gt; &lt;t6/&gt;enfríe&lt;t7/&gt; &lt;t8/&gt;ligeramente&lt;t9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the eggs, milk and cheese and mix on Reverse, Speed 3, 20 seconds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133957Z" creationid="raque" creationdate="20230523T133957Z">
+        <seg>Añade los huevos, la leche y el queso y mezcla en REVERSO, Velocidad 3, 20 segundos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the final 250g and mix for 20 seconds, Speed 6 (please note that you'll need to use the spatula to assist with the mixing).</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153036Z" creationid="mmolc" creationdate="20230520T183822Z">
@@ -1586,6 +1618,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174803Z" creationid="beatr" creationdate="20230520T174803Z">
         <seg>Añade la leche y mezclar durante 7 segundos a la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the olive oil and &lt;t0/&gt;saute&lt;t1/&gt; on 100 degrees, Speed 1 for 3 minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133916Z" creationid="raque" creationdate="20230523T133916Z">
+        <seg>Añadimos el aceite de oliva y &lt;t0/&gt;salteamos&lt;t1/&gt; a 100 grados, Velocidad 1 durante 3 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2712,6 +2752,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cut 6 X 8cm round holes from each pastry sheet and press into patty pan baking tins.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133755Z" creationid="raque" creationdate="20230523T133755Z">
+        <seg>Corta 6 agujeros redondos de 8 cm en cada lámina de hojaldre y presiónalos en moldes para empanadillas..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut into 12 slices – approximately 2cm thick.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T175905Z" creationid="beatr" creationdate="20230520T175905Z">
@@ -3608,6 +3656,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the bacon (roughly chopped), into the Thermomix bowl and press Turbo in 1 second bursts until chopped into small pieces.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133903Z" creationid="raque" creationdate="20230523T133903Z">
+        <seg>Introduce el bacon (cortado en trozos grandes) en el bol del Thermomix y pulsa Turbo en ráfagas de 1 segundo hasta que quede picado en trozos pequeños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the bao buns onto&lt;t0/&gt; the 2 trays of the &lt;t1/&gt;Varoma&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T131539Z" creationid="raque" creationdate="20230523T131539Z">
@@ -3660,6 +3716,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T132419Z" creationid="beatr" creationdate="20230520T132419Z">
         <seg>Coloca la mantequilla, el azúcar moreno, &lt;t0/&gt;la miel&lt;t1/&gt; y la canela en el bowl de la TM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cheese into the Thermomix bowl and grate on Speed 8, 10 seconds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133823Z" creationid="raque" creationdate="20230523T133823Z">
+        <seg>Pon el queso en el bol de la Thermomix y rállalo a velocidad 8, durante 10 segundos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3756,6 +3820,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T122658Z" creationid="beatr" creationdate="20230520T122658Z">
         <seg>Pon los rollitos en el frigorífico por una hora antes de cortarlos – &lt;t0/&gt;esto permite que los rollitos se asienten haciendo que sean más fáciles de cortar y servir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the sheets of puff pastry on a flat bench to defrost.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133722Z" creationid="raque" creationdate="20230523T133722Z">
+        <seg>Coloca las láminas de hojaldre sobre un banco plano para que se descongelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3872,6 +3944,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pour the mixture over the pastry cases (being careful not to overfill as the mixture rises when cooked).</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134010Z" creationid="raque" creationdate="20230523T134010Z">
+        <seg>Vierte la mezcla sobre los moldes (con cuidado de no llenarlos demasiado, ya que la mezcla sube al cocinarse).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-heat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line two baking trays with baking paper.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T054444Z" creationid="beatr" creationdate="20230521T054444Z">
@@ -3883,8 +3963,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T063120Z" creationid="beatr" creationdate="20230522T063120Z">
-        <seg>1.&lt;t0/&gt;              &lt;t1/&gt;Precalentar el horno a 180 grados Celsius (con la ventilación a tope).</seg>
+      <tuv lang="es" changeid="raque" changedate="20230523T133740Z" creationid="beatr" creationdate="20230522T063120Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Precalentar el horno a 180 grados Celsius (con el ventilador).</seg>
       </tuv>
     </tu>
     <tu>
