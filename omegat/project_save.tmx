@@ -358,6 +358,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;cheddar cheese&lt;t4/&gt; &lt;t5/&gt;or tasty cheese</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133621Z" creationid="raque" creationdate="20230523T133621Z">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de queso cheddar&lt;t4/&gt; &lt;t5/&gt;o queso sabroso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;full &lt;t4/&gt;fat&lt;t5/&gt; &lt;t6/&gt;milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133706Z" creationid="raque" creationdate="20230523T133706Z">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;ml&lt;t2/&gt; &lt;t3/&gt;de leche entera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;milk&lt;t4/&gt; &lt;t5/&gt;full &lt;t6/&gt;cream</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T062441Z" creationid="beatr" creationdate="20230522T062441Z">
@@ -414,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;bacon&lt;t4/&gt; &lt;t5/&gt;or&lt;t6/&gt; &lt;t7/&gt;ham</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133631Z" creationid="raque" creationdate="20230523T133631Z">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de bacon&lt;t4/&gt; &lt;t5/&gt;o&lt;t6/&gt; &lt;t7/&gt;jamón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>150&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;nut-free toasted muesli&lt;t4/&gt; &lt;t5/&gt;(~1 ½ cups)</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T130254Z" creationid="beatr" creationdate="20230520T130254Z">
@@ -426,6 +450,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T173943Z" creationid="beatr" creationdate="20230520T173943Z">
         <seg>150&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de queso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>15&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;olive &lt;t4/&gt;oil</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133646Z" creationid="raque" creationdate="20230523T133646Z">
+        <seg>15&lt;t0/&gt; &lt;t1/&gt;ml&lt;t2/&gt; &lt;t3/&gt;aceite de oliva &lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,6 +1002,22 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230505T163344Z" creationid="alond" creationdate="20230505T161550Z">
         <seg>450 g de harina normal (o &lt;t0/&gt;harina&lt;t1/&gt; de panadería)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>4&lt;t0/&gt; &lt;t1/&gt;eggs</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133650Z" creationid="raque" creationdate="20230523T133650Z">
+        <seg>4&lt;t0/&gt; &lt;t1/&gt;huevos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>4&lt;t0/&gt; &lt;t1/&gt;sheets&lt;t2/&gt; &lt;t3/&gt;puff&lt;t4/&gt; &lt;t5/&gt;pastry&lt;t6/&gt; &lt;t7/&gt;defrosted</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133600Z" creationid="raque" creationdate="20230523T133600Z">
+        <seg>4&lt;t0/&gt; &lt;t1/&gt;hojas&lt;t2/&gt; &lt;t3/&gt;de hojaldre&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;descongelado</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,6 +2112,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt; &lt;t1/&gt;321&lt;t2/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133514Z" creationid="raque" creationdate="20230523T133514Z">
+        <seg>Calorías&lt;t0/&gt; &lt;t1/&gt;321&lt;t2/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;73&lt;t2/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201501Z" creationid="beatr" creationdate="20230512T201501Z">
@@ -2580,6 +2636,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T132157Z" creationid="raque" creationdate="20230523T132157Z">
         <seg>Gastronomía&lt;t0/&gt; &lt;t1/&gt;panadería, &lt;t2/&gt;thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;party food</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133444Z" creationid="raque" creationdate="20230523T133444Z">
+        <seg>Gastronomía&lt;t0/&gt; &lt;t1/&gt;comida de fiesta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,6 +3840,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plus, they're freezer-friendly, so you'll always have a batch ready!</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133430Z" creationid="raque" creationdate="20230523T133430Z">
+        <seg>Además, son aptos para el congelador, ¡así que siempre tendrás una tanda lista!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pour into a bowl and set aside.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T152714Z" creationid="beatr" creationdate="20230522T152714Z">
@@ -3894,6 +3966,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170821Z" creationid="raque" creationdate="20230522T170821Z">
         <seg>Tiempo de preparación &lt;t0/&gt; &lt;t1/&gt;15 &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133459Z" creationid="raque" creationdate="20230523T133459Z">
+        <seg>Tiempo de preparación&lt;t0/&gt; &lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4310,6 +4390,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T100313Z" creationid="raque" creationdate="20230523T100313Z">
         <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;Bollos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;  &lt;t1/&gt;24&lt;t2/&gt; &lt;t3/&gt;quiches</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133508Z" creationid="raque" creationdate="20230523T133508Z">
+        <seg>Raciones&lt;t0/&gt;  &lt;t1/&gt;24&lt;t2/&gt; &lt;t3/&gt;quiches</seg>
       </tuv>
     </tu>
     <tu>
