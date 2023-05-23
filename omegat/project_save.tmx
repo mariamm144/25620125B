@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the olive oil, plain flour and salt and mix for 8 seconds on spee&lt;t0/&gt;d 6.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132601Z" creationid="raque" creationdate="20230523T132601Z">
+        <seg>Añade el aceite de oliva, la harina normal y la sal y mezcla durante 8 segundos a velocidad&lt;t0/&gt; 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the plain flour, olive oil, salt and baking powder into the Thermomix bowl and mix for 8 seconds, Speed 6 to combine.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T131227Z" creationid="raque" creationdate="20230523T131227Z">
@@ -3216,6 +3224,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mix for two minutes at 37 degrees on speed 1.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132532Z" creationid="raque" creationdate="20230523T132532Z">
+        <seg>Mezcla durante dos minutos a 37 grados a velocidad 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mix on for 10 minutes, 100 degrees, Speed 1. &lt;t0/&gt;It needs to heat for this long to allow the mixture to thicken enough.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T132644Z" creationid="beatr" creationdate="20230520T132644Z">
@@ -3588,6 +3604,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T143246Z" creationid="alond" creationdate="20230502T142954Z">
         <seg>Coloca el diente de ajo dentro del vaso de la Thermomix y pica por 5 segundos a Velocidad 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the mixture into a greased bowl (or &lt;t0/&gt;ThermoServer&lt;t1/&gt;) and leave in a warm place to rise until doubled in size (approximately 1 hour).</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132857Z" creationid="raque" creationdate="20230523T132857Z">
+        <seg>Coloca la mezcla en un cuenco engrasado (o &lt;t0/&gt;ThermoServer&lt;t1/&gt;) y deja que suba en un lugar cálido hasta que doble su tamaño (aproximadamente 1 hora).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4078,6 +4102,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202031Z" creationid="beatr" creationdate="20230512T202031Z">
         <seg> Raspa las paredes de los lados del bol y mezcla durante otros 5 minutos en la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of the bowl and mix on Interval (knead) function for 2 minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132649Z" creationid="raque" creationdate="20230523T132649Z">
+        <seg>Limpia las paredes del bol y mezcla en la función Intervalo (amasar) durante 2 minutos.</seg>
       </tuv>
     </tu>
     <tu>
