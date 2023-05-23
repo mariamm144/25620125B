@@ -2454,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either fresh or pre-packaged ricotta can be used for this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T092656Z" creationid="raque" creationdate="20230523T092656Z">
+        <seg>Para esta receta se puede utilizar ricotta fresca o envasada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure the butter is softened to assist combining with the caster sugar.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T191048Z" creationid="mmolc" creationdate="20230520T191048Z">
@@ -2566,10 +2574,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I suggest you remove any excess liquid from the spinach as other&lt;t2/&gt;wise the pastry will be soggy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T092617Z" creationid="raque" creationdate="20230523T092617Z">
+        <seg>Te aconsejo que quites el líquido sobrante de las espinacas, ya que de lo contrario el hojaldre quedará empapado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I use Tasty Cheese when making this recipe, however you can also use Cheddar, Mozzarella – or a combination of both!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T180929Z" creationid="beatr" creationdate="20230520T180929Z">
         <seg>Yo uso Tasty Cheese cuando hago esta receta uso Tasty Cheese, Sin embargo también puedes usar Chedar, Mozzarella – ¡o una combinación de los dos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I use baby spinach leaves for this &lt;t0/&gt;recipe,&lt;t1/&gt; however you can use frozen spinach if you wish.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T092601Z" creationid="raque" creationdate="20230523T092601Z">
+        <seg>Yo uso hojas de espinacas baby para esta &lt;t0/&gt;receta,&lt;t1/&gt; sin embargo se pueden usar espinacas congeladas si lo deseas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3110,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the Spinach an&lt;t0/&gt;d Ricotta Rolls into the oven to cook for 25 minutes or until the pastry is golden and crispy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T092523Z" creationid="raque" creationdate="20230523T092501Z">
+        <seg>Introduce los rollitos de espinaca y ricotta en el horno durante 25 minutos o hasta que la masa esté dorada y crujiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the apple pieces into a small bowl and add the cinnamon before gently stirring to combine.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153455Z" creationid="mmolc" creationdate="20230522T152354Z">
@@ -3532,6 +3564,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203544Z" creationid="beatr" creationdate="20230512T203544Z">
         <seg>Quitar el arroz de sushi de la cesta &lt;t0/&gt;si dejas el arroz de sushi en la cesta tras el tiempo de cocción, se quedará pegajoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat process until all the pastry and Spinach and Ricotta mixture has been used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T092517Z" creationid="raque" creationdate="20230523T092437Z">
+        <seg>Repite el proceso hasta que se haya utilizado toda la masa y la mezcla de espinacas y ricotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4756,6 +4796,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202219Z" creationid="beatr" creationdate="20230512T202219Z">
         <seg>Puede preparar la mezcla para pikelets con hasta 12 horas de antelación, simplemente guárdela en el frigorífico hasta que la necesite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can omit the nutmeg if you wish.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T092632Z" creationid="raque" creationdate="20230523T092632Z">
+        <seg>Se puede omitir la nuez moscada si se desea.</seg>
       </tuv>
     </tu>
     <tu>
