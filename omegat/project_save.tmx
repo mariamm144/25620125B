@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding Nuts&lt;t0/&gt; - Chopped walnuts, macadamias and pecans are a few of my &lt;t1/&gt;favourite&lt;t2/&gt; additions.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230523T123347Z" creationid="beatr" creationdate="20230523T123347Z">
+        <seg>Nueces picadas, macadamias y pacanas son algunos de mis ingredientes favoritos&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow to cool for 10 minutes on the baking trays before transferring to a wire rack to cool completely.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T184947Z" creationid="mmolc" creationdate="20230520T184947Z">
@@ -3088,6 +3096,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Muffins are best consumed within 1-2 days of &lt;t1/&gt;baking.Note&lt;t2/&gt;: do not store muffins in the fridge as this will dry them out.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230523T123620Z" creationid="beatr" creationdate="20230523T123620Z">
+        <seg>Las magdalenas se consumen mejor en los 1-2 días siguientes a su horneado. Nota: no guarde las magdalenas en el frigorífico, ya que se secarían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Muffins are best consumed within 2-3 days of baking.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T225329Z" creationid="mmolc" creationdate="20230520T225329Z">
@@ -4222,6 +4238,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161335Z" creationid="mmolc" creationdate="20230522T161224Z">
         <seg>Conservación: &lt;t0/&gt;consérvalos en un recipiente hermético en el frigorífico hasta 5 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Storing&lt;t0/&gt; - Store muffins in an airtight container at room temperature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230523T123503Z" creationid="beatr" creationdate="20230523T123503Z">
+        <seg>Almacenamiento&lt;t0/&gt; - Mantén los muffins en un recipiente hermético a temperatura ambiente.</seg>
       </tuv>
     </tu>
     <tu>
