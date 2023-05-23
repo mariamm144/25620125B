@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;dry&lt;t3/&gt; &lt;t4/&gt;yeast</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T102730Z" creationid="raque" creationdate="20230523T102730Z">
+        <seg>2 &lt;t0/&gt; cucharaditas &lt;t1/&gt; &lt;t2/&gt;de&lt;t3/&gt; &lt;t4/&gt;levadura seca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2 tsp instant coffee granules see &lt;t0/&gt;notes</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T171412Z" creationid="alond" creationdate="20230522T171412Z">
