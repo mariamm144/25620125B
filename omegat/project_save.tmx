@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t2/&gt;Cook &lt;t3/&gt;for&lt;t4/&gt; 30 minutes, &lt;t5/&gt;Varoma&lt;t6/&gt; &lt;t7/&gt;temperature&lt;t8/&gt;, &lt;t9/&gt;Speed&lt;t10/&gt; 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131626Z" creationid="raque" creationdate="20230523T131626Z">
+        <seg>&lt;t2/&gt;Cocina &lt;t3/&gt;durante&lt;t4/&gt; 30 minutos, &lt;t5/&gt;temperatura Varoma&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;, &lt;t9/&gt;Velocidad&lt;t10/&gt; 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;Grease and line 3 baking trays and set aside (or as many trays as will fit in your oven).</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T134313Z" creationid="mmolc" creationdate="20230519T134313Z">
@@ -2592,6 +2600,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Divide th&lt;t0/&gt;e dough into approximately 15 - 18 small pieces.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131441Z" creationid="raque" creationdate="20230523T131441Z">
+        <seg>Divide la masa en unos 15-18 trozos pequeños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Divide the dough into 8 equal pieces and roll out into flat ovals.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230509T142454Z" creationid="alond" creationdate="20230509T142454Z">
@@ -2652,6 +2668,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T195639Z" creationid="beatr" creationdate="20230512T201508Z">
         <seg>Utensilios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fill the Thermomix bowl with 500g of water and put the &lt;t0/&gt;Varoma&lt;t1/&gt; (with the 2 trays) in place.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131557Z" creationid="raque" creationdate="20230523T131557Z">
+        <seg>Llena el bol del Thermomix con 500 ml de agua y coloca la &lt;t0/&gt;Varoma&lt;t1/&gt; (con las 2 bandejas).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2980,6 +3004,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153157Z" creationid="alond" creationdate="20230519T153157Z">
         <seg>Amasa en Función amasado (velocidad espiga) por 3 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Knead the dough on an oiled bench or board.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131427Z" creationid="raque" creationdate="20230523T131427Z">
+        <seg>Amasa la masa en un banco o una tabla aceitada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3344,6 +3376,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place small pieces of baking paper onto half of each flattened oval and fold over (so that the baking paper is in between.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131523Z" creationid="raque" creationdate="20230523T131523Z">
+        <seg>Coloca pequeños trozos de papel de hornear sobre la mitad de cada óvalo aplanado y dóblalo (de modo que el papel de hornear quede en medio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the &lt;t3/&gt;pyrex&lt;t4/&gt; bowl over the top of the dough to form a dome.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T173546Z" creationid="alond" creationdate="20230522T173546Z">
@@ -3364,6 +3404,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153455Z" creationid="mmolc" creationdate="20230522T152354Z">
         <seg>Pon los trozos de manzana en un bol pequeño y añada la canela antes de remover suavemente para combinar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the bao buns onto&lt;t0/&gt; the 2 trays of the &lt;t1/&gt;Varoma&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131539Z" creationid="raque" creationdate="20230523T131539Z">
+        <seg>Coloca los bao buns en&lt;t0/&gt; las 2 bandejas del &lt;t1/&gt;Varoma&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3850,6 +3898,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Roll into balls and flatten down into a circle/oval shape.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131459Z" creationid="raque" creationdate="20230523T131459Z">
+        <seg>Haz bolas y aplástalas en forma de círculo u óvalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Roll the pastry (starting from the edge without the egg) to enclose the fill&lt;t0/&gt;ing.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171635Z" creationid="raque" creationdate="20230522T171635Z">
@@ -4306,6 +4362,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Take the buns out (they will be quite wet and sticky) and serve immediately with left&lt;t0/&gt;over roast pork, slaw, Kewpie (Japanese) mayo and sesame seeds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131647Z" creationid="raque" creationdate="20230523T131647Z">
+        <seg>Saca los bollos (estarán bastante húmedos y pegajosos) y sírvelos inmediatamente con la carne de cerdo asada sobrante, la ensalada de repollo, la mayonesa Kewpie (japonesa) y las semillas de sésamo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The balls will only take a few minutes to defrost.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161408Z" creationid="mmolc" creationdate="20230522T161408Z">
@@ -4678,6 +4742,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230509T143405Z" creationid="alond" creationdate="20230509T143405Z">
         <seg>Esta receta es &lt;t0/&gt;apta &lt;t1/&gt;para todos&lt;t2/&gt; los modelos Thermomix (TM31, TM5 and TM6) &lt;t3/&gt;o cualquier otra olla térmica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This recipe makes quite a lot of buns (around 15-18) so if you're only feeding a couple of people, you can freeze the extra dough for another time.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131723Z" creationid="raque" creationdate="20230523T131723Z">
+        <seg>Esta receta da para bastantes bollos (unos 15-18), así que si sólo vas a dar de comer a un par de personas, puedes congelar la masa sobrante para otra ocasión.</seg>
       </tuv>
     </tu>
     <tu>
