@@ -454,10 +454,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter&lt;t4/&gt; &lt;t5/&gt;at &lt;t6/&gt;room&lt;t7/&gt; &lt;t8/&gt;temperature</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134626Z" creationid="raque" creationdate="20230523T134626Z">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;mantequilla&lt;t4/&gt; &lt;t5/&gt;a &lt;t6/&gt;temperatura ambiente&lt;t7/&gt; &lt;t8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>15&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;olive &lt;t4/&gt;oil</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T133646Z" creationid="raque" creationdate="20230523T133646Z">
         <seg>15&lt;t0/&gt; &lt;t1/&gt;ml&lt;t2/&gt; &lt;t3/&gt;aceite de oliva &lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>15 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134731Z" creationid="raque" creationdate="20230523T134731Z">
+        <seg>15 &lt;t0/&gt;ml&lt;t1/&gt; de&lt;t2/&gt;leche</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +498,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162356Z" creationid="mmolc" creationdate="20230519T162356Z">
         <seg>165 gramos de azúcar molido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>165&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134704Z" creationid="raque" creationdate="20230523T134704Z">
+        <seg>165&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;azúcar glas&lt;t4/&gt; &lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +914,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162417Z" creationid="mmolc" creationdate="20230519T162417Z">
         <seg>300 gramos de harina común</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>300&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;plain&lt;t4/&gt; &lt;t5/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134749Z" creationid="raque" creationdate="20230523T134749Z">
+        <seg>300&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de harina sin refinar&lt;t4/&gt; &lt;t5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1618,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T164417Z" creationid="raque" creationdate="20230522T164417Z">
         <seg>Añade el coco y las galletas trituradas y mezcla durante 10 segundos, velocidad 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the egg, milk and vanilla extract and mix for 10 seconds, speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134854Z" creationid="raque" creationdate="20230523T134854Z">
+        <seg>Añade el huevo, la leche y el extracto de vainilla y mezcla durante 10 segundos, velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3792,6 +3832,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the butter into your Thermomix bowl and mix for 20 seconds, speed 2.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134805Z" creationid="raque" creationdate="20230523T134805Z">
+        <seg>Pon la mantequilla en el bol de tu Thermomix y mezcla durante 20 segundos, velocidad 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the butter, brown sugar, &lt;t0/&gt;honey&lt;t1/&gt; and cinnamon into the TM bowl.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T132419Z" creationid="beatr" creationdate="20230520T132419Z">
@@ -4454,6 +4502,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T164249Z" creationid="mmolc" creationdate="20230519T164249Z">
         <seg> Raspa las paredes de los lados del bol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of your Thermomix bowl and add the caster sugar, baking powder and salt and mix for 20 seconds, speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134835Z" creationid="raque" creationdate="20230523T134835Z">
+        <seg>Limpia las paredes del bol del Thermomix y añade el azúcar glas, la levadura en polvo y la sal y mezcla durante 20 segundos, velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5950,6 +6006,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T062723Z" creationid="beatr" creationdate="20230522T062723Z">
         <seg>una pizca de sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>pinch&lt;t0/&gt; &lt;t1/&gt;salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134714Z" creationid="raque" creationdate="20230523T134714Z">
+        <seg>Una pizca de&lt;t0/&gt; &lt;t1/&gt;sal</seg>
       </tuv>
     </tu>
     <tu>
