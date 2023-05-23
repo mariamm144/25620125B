@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add your toppings before baking and gently press them into the dough.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133228Z" creationid="raque" creationdate="20230523T133228Z">
+        <seg>Añade los ingredientes antes de hornear y presiónalos suavemente sobre la masa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding Nuts&lt;t0/&gt; - Chopped walnuts, macadamias and pecans are a few of my &lt;t1/&gt;favourite&lt;t2/&gt; additions.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230523T123347Z" creationid="beatr" creationdate="20230523T123347Z">
@@ -1896,6 +1904,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;207&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;39&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;6&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;3&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;0.4&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;0.4&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;2&lt;t19/&gt;g&lt;t20/&gt; | Sodium: &lt;t21/&gt;237&lt;t22/&gt;mg&lt;t23/&gt; | Potassium: &lt;t24/&gt;76&lt;t25/&gt;mg&lt;t26/&gt; | Fiber: &lt;t27/&gt;2&lt;t28/&gt;g&lt;t29/&gt; | Sugar: &lt;t30/&gt;0.1&lt;t31/&gt;g&lt;t32/&gt; | Vitamin C: &lt;t33/&gt;0.01&lt;t34/&gt;mg&lt;t35/&gt; | Calcium: &lt;t36/&gt;9&lt;t37/&gt;mg&lt;t38/&gt; | Iron: &lt;t39/&gt;2&lt;t40/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133242Z" creationid="raque" creationdate="20230523T133242Z">
+        <seg>Calorías: &lt;t0/&gt;207&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;39&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;6&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;3&lt;t10/&gt;g&lt;t11/&gt; | Grasas Saturadas: &lt;t12/&gt;0,4&lt;t13/&gt;g&lt;t14/&gt; | Grasas Poliinsaturadas: &lt;t15/&gt;0,4&lt;t16/&gt;g&lt;t17/&gt; | Grasas Monoinsaturadas: &lt;t18/&gt;2&lt;t19/&gt;g&lt;t20/&gt; | Sodio: &lt;t21/&gt;237&lt;t22/&gt;mg&lt;t23/&gt; | Potasio: &lt;t24/&gt;76&lt;t25/&gt;mg&lt;t26/&gt; | Fibra: &lt;t27/&gt;2&lt;t28/&gt;g&lt;t29/&gt; | Azúcar: &lt;t30/&gt;0,1&lt;t31/&gt;g&lt;t32/&gt; | Vitamina C: &lt;t33/&gt;0,01&lt;t34/&gt;mg&lt;t35/&gt; | Calcio: &lt;t36/&gt;9&lt;t37/&gt;mg&lt;t38/&gt; | Hierro: &lt;t39/&gt;2&lt;t40/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;15&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;5&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;15&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;5&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;2&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;8&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;1&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;20&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;154&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;60&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;1&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;397&lt;t40/&gt;IU&lt;t41/&gt; | Vitamin C: &lt;t42/&gt;1&lt;t43/&gt;mg&lt;t44/&gt; | Calcium: &lt;t45/&gt;72&lt;t46/&gt;mg&lt;t47/&gt; | Iron: &lt;t48/&gt;1&lt;t49/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T094331Z" creationid="raque" creationdate="20230523T094331Z">
@@ -2140,6 +2156,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T165854Z" creationid="raque" creationdate="20230522T165854Z">
         <seg>Elige tus mini huevos de Pascua favoritos - Yo recomiendo usar huevos moteados crujientes de M&amp;Ms ya que se cortan fácilmente y son brillantes y coloridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classic Thermomix Egg &amp; Bacon Quiches that make the perfect party food or lunch box snack!</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133417Z" creationid="raque" creationdate="20230523T133417Z">
+        <seg>Las clásicas quiches de huevo y bacon de Thermomix son perfectas para una fiesta o como tentempié para el almuerzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3720,6 +3744,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain flour can be used instead of Baker's Flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133118Z" creationid="raque" creationdate="20230523T133118Z">
+        <seg>Se puede utilizar harina normal en lugar de harina panadera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please note it may take longer for your mixture to combine if your butter is not at room temperature.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T154439Z" creationid="mmolc" creationdate="20230522T154439Z">
@@ -4554,6 +4586,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ba&lt;t0/&gt;ked focaccia can be frozen for up to two months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133214Z" creationid="raque" creationdate="20230523T133214Z">
+        <seg>La focaccia se puede congelar hasta dos meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The balls will only take a few minutes to defrost.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161408Z" creationid="mmolc" creationdate="20230522T161408Z">
@@ -4598,6 +4638,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202226Z" creationid="beatr" creationdate="20230512T202226Z">
         <seg>Puede prescindir del azúcar en esta receta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The time it takes for the dough to double in size will depend on the climate.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133158Z" creationid="raque" creationdate="20230523T133158Z">
+        <seg>El tiempo que tarda la masa en doblar su tamaño dependerá del ambiente..</seg>
       </tuv>
     </tu>
     <tu>
@@ -4710,6 +4758,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T162725Z" creationid="raque" creationdate="20230522T162725Z">
         <seg>Tira de Huevo de Pascua a Thermomix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thermomix Egg &amp; Bacon Quiches</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133400Z" creationid="raque" creationdate="20230523T133400Z">
+        <seg>Quiches de huevo y bacon Thermomix</seg>
       </tuv>
     </tu>
     <tu>
@@ -5342,6 +5398,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T153614Z" creationid="beatr" creationdate="20230522T153614Z">
         <seg>Con las cuchillas girando a velocidad 3, añade los huevos de uno en uno a través del orificio MC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add 1 tablespoon of bread improver for a lighter consistency.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T133140Z" creationid="raque" creationdate="20230523T133140Z">
+        <seg>Puedes añadir 1 cucharada de mejorador de pan para obtener una consistencia más ligera.</seg>
       </tuv>
     </tu>
     <tu>
