@@ -1808,6 +1808,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;183&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;31&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Sodium: &lt;t21/&gt;320&lt;t22/&gt;mg&lt;t23/&gt; | Potassium: &lt;t24/&gt;53&lt;t25/&gt;mg&lt;t26/&gt; | Fiber: &lt;t27/&gt;1&lt;t28/&gt;g&lt;t29/&gt; | Sugar: &lt;t30/&gt;4&lt;t31/&gt;g&lt;t32/&gt; | Vitamin C: &lt;t33/&gt;1&lt;t34/&gt;mg&lt;t35/&gt; | Calcium: &lt;t36/&gt;53&lt;t37/&gt;mg&lt;t38/&gt; | Iron: &lt;t39/&gt;2&lt;t40/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131848Z" creationid="raque" creationdate="20230523T131848Z">
+        <seg>Calorías: &lt;t0/&gt;183&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;31&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Grasas Saturadas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Grasas Poliinsaturadas: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Grasas Monoinsaturadas: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Sodio: &lt;t21/&gt;320&lt;t22/&gt;mg&lt;t23/&gt; | Potasio: &lt;t24/&gt;53&lt;t25/&gt;mg&lt;t26/&gt; | Fibra: &lt;t27/&gt;1&lt;t28/&gt;g&lt;t29/&gt; | Azúcar: &lt;t30/&gt;4&lt;t31/&gt;g&lt;t32/&gt; | Vitamina C: &lt;t33/&gt;1&lt;t34/&gt;mg&lt;t35/&gt; | Calcio: &lt;t36/&gt;53&lt;t37/&gt;mg&lt;t38/&gt; | Hierro: &lt;t39/&gt;2&lt;t40/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;187&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;26&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;7&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;7&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;2&lt;t19/&gt;g&lt;t20/&gt; | Cholesterol: &lt;t21/&gt;20&lt;t22/&gt;mg&lt;t23/&gt; | Sodium: &lt;t24/&gt;97&lt;t25/&gt;mg&lt;t26/&gt; | Potassium: &lt;t27/&gt;335&lt;t28/&gt;mg&lt;t29/&gt; | Sugar: &lt;t30/&gt;25&lt;t31/&gt;g&lt;t32/&gt; | Vitamin A: &lt;t33/&gt;324&lt;t34/&gt;IU&lt;t35/&gt; | Calcium: &lt;t36/&gt;235&lt;t37/&gt;mg&lt;t38/&gt; | Iron: &lt;t39/&gt;1&lt;t40/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T172220Z" creationid="alond" creationdate="20230522T172220Z">
@@ -4650,6 +4658,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These buns will be quite damp after cooking, this is &lt;t0/&gt;normal&lt;t1/&gt; and they will dry quickly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131823Z" creationid="raque" creationdate="20230523T131823Z">
+        <seg>Estos bollos estarán bastante húmedos después de la cocción, esto es &lt;t0/&gt;normal&lt;t1/&gt; y se secarán rápidamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These easy Thermomix Banana and Apple Pikelets are perfect for the entire family, freezer friendly and a great lunchbox snack!</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175445Z" creationid="alond" creationdate="20230522T175445Z">
@@ -5066,6 +5082,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We find that 2-3 buns &lt;t0/&gt;is&lt;t1/&gt; plenty for a&lt;t2/&gt;n adult (unless you're super hungry of course!!).</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131750Z" creationid="raque" creationdate="20230523T131750Z">
+        <seg>A nosotras nos parece que 2-3 bollos &lt;t0/&gt;es&lt;t1/&gt;suficiente para un&lt;t2/&gt; adulto (¡a no ser que estés super hambriento, claro!).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We recommend using caster sugar as it dissolves easily when blended in the frappe.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T172042Z" creationid="alond" creationdate="20230522T172042Z">
@@ -5154,6 +5178,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can freeze any leftover dough for up to two months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131834Z" creationid="raque" creationdate="20230523T131834Z">
+        <seg>Puedes congelar la masa sobrante hasta dos meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can freeze both the uncooked dough and the biscuits for up to one month.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
@@ -5230,6 +5262,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T181607Z" creationid="beatr" creationdate="20230520T181607Z">
         <seg>Puedes utilizar diferentes tipos de quesos para esta receta, estos rollitos también están deliciosos hechos con una combinación de Tasty Cheese y mozzarella. &lt;t0/&gt;&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use either plain or &lt;t0/&gt;bakers&lt;t1/&gt; flour for this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131809Z" creationid="raque" creationdate="20230523T131809Z">
+        <seg>Para esta receta puedes utilizar harina normal o harina de repostería.</seg>
       </tuv>
     </tu>
     <tu>
