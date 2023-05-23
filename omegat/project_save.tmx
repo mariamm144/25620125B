@@ -1990,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;30 &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100218Z" creationid="raque" creationdate="20230523T100218Z">
+        <seg>Tiempo de cocción&lt;t0/&gt; &lt;t1/&gt;30 &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt;10 &lt;t1/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175557Z" creationid="alond" creationdate="20230522T175557Z">
@@ -3500,6 +3508,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T170821Z" creationid="raque" creationdate="20230522T170821Z">
         <seg>Tiempo de preparación &lt;t0/&gt; &lt;t1/&gt;15 &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;20 &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T094508Z" creationid="raque" creationdate="20230523T094508Z">
+        <seg>Tiempo de preparación&lt;t0/&gt; &lt;t1/&gt;20 &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
