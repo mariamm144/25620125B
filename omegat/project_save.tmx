@@ -2696,6 +2696,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freezing&lt;t0/&gt; - Freeze muffins in an airtight container for up to 3 months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230523T123758Z" creationid="beatr" creationdate="20230523T123704Z">
+        <seg>Congelar&lt;t0/&gt; - Congela los muffins en un recipiente hermético hasta 3 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frying&lt;t0/&gt; Pan</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201512Z" creationid="beatr" creationdate="20230512T201512Z">
@@ -3098,8 +3106,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Muffins are best consumed within 1-2 days of &lt;t1/&gt;baking.Note&lt;t2/&gt;: do not store muffins in the fridge as this will dry them out.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230523T123620Z" creationid="beatr" creationdate="20230523T123620Z">
-        <seg>Las magdalenas se consumen mejor en los 1-2 días siguientes a su horneado. Nota: no guarde las magdalenas en el frigorífico, ya que se secarían.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230523T123718Z" creationid="beatr" creationdate="20230523T123620Z">
+        <seg>Las magdalenas se consumen mejor en los 1-2 días siguientes a su horneado. Nota: no guarde los muffins en el frigorífico, ya que se secarían.</seg>
       </tuv>
     </tu>
     <tu>
