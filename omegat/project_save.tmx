@@ -1678,6 +1678,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bananas have gone bad (and shouldn't be used) if they have &lt;t3/&gt;mould&lt;t4/&gt; on them or a slimy liquid coming from them.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230523T122856Z" creationid="beatr" creationdate="20230523T122815Z">
+        <seg>
+
+Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un líquido viscoso&lt;t3/&gt;&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break the extra egg into a small bowl and lightly whisk.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171338Z" creationid="raque" creationdate="20230522T171338Z">
@@ -1986,6 +1996,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T163248Z" creationid="raque" creationdate="20230522T163248Z">
         <seg>Tiempo de reposo &lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chocolate Chips&lt;t0/&gt; - Our muffins are completely delicious with or without chocolate chips.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230523T123009Z" creationid="beatr" creationdate="20230523T123009Z">
+        <seg>Las pepitas de chocolate&lt;t0/&gt; - Nuestros muffins están deliciosos con o sin pepitas.</seg>
       </tuv>
     </tu>
     <tu>
