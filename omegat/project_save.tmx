@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Knead&lt;t1/&gt; &lt;t2/&gt;for&lt;t3/&gt; 10 minutes, &lt;t4/&gt;Kneading&lt;t5/&gt; &lt;t6/&gt;Function&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131316Z" creationid="raque" creationdate="20230523T131316Z">
+        <seg>&lt;t0/&gt;Amasa&lt;t1/&gt; &lt;t2/&gt;durante&lt;t3/&gt; 10 minutos, &lt;t4/&gt;con la&lt;t5/&gt; &lt;t6/&gt;función de amasar&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Mix&lt;t1/&gt; &lt;t2/&gt;on&lt;t3/&gt; &lt;t4/&gt;Speed&lt;t5/&gt; 6, 5 &lt;t6/&gt;secon&lt;t7/&gt;ds&lt;t8/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153046Z" creationid="alond" creationdate="20230519T153046Z">
@@ -1478,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the plain flour, olive oil, salt and baking powder into the Thermomix bowl and mix for 8 seconds, Speed 6 to combine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131227Z" creationid="raque" creationdate="20230523T131227Z">
+        <seg>Añade la harina normal, el aceite de oliva, la sal y la levadura en polvo en el bol del Thermomix y mezcla durante 8 segundos, Velocidad 6 para mezclar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the ricotta, baby spinach leave&lt;t0/&gt;s, 1 egg, nutmeg and salt and pepper to your Thermomix bowl and mix for 15 seconds on speed 4 or until &lt;t1/&gt;all of&lt;t2/&gt; the ingredients have combined.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171309Z" creationid="raque" creationdate="20230522T171309Z">
@@ -1554,6 +1570,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T174236Z" creationid="alond" creationdate="20230522T174236Z">
         <seg>Deje reposar y enfriar antes de cortar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow to rest for 5 minutes or until &lt;t0/&gt;the mixture has turned frothy.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131151Z" creationid="raque" creationdate="20230523T131151Z">
+        <seg>Deja reposar durante 5 minutos o hasta que &lt;t0/&gt;la mezcla se haya vuelto espumosa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3392,6 +3416,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the dough into a greased &lt;t0/&gt;ThermoServer&lt;t1/&gt; or large bowl an&lt;t2/&gt;d set aside in a warm, dry place to rise for 45 minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131344Z" creationid="raque" creationdate="20230523T131344Z">
+        <seg>Coloca la masa en un &lt;t0/&gt;ThermoServer&lt;t1/&gt; engrasado o en un bol grande y&lt;t2/&gt;deja reposar en un lugar cálido y seco para que suba durante 45 minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the dough onto the &lt;t0/&gt;centre&lt;t1/&gt; of the tray and cut a couple of tiny slits with a &lt;t2/&gt;very sharp knife on the top of the dough.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T173518Z" creationid="alond" creationdate="20230522T173518Z">
@@ -3798,6 +3830,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T173232Z" creationid="alond" creationdate="20230522T173232Z">
         <seg>Vuelve a ponerlo en el bol engrasado, &lt;t0/&gt;cúbrelo&lt;t1/&gt; y deja que fermente durante otras 4 horas (para obtener mejores resultados, cúbralo y póngalo en el frigorífico&lt;t2/&gt;durante toda la noche para que fermente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rip a piece of baking paper into strips and place over the 2 layers of the &lt;t0/&gt;Varoma&lt;t1/&gt; trays (leaving gaps in between to allow the steam to escape).</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131409Z" creationid="raque" creationdate="20230523T131409Z">
+        <seg>Rasga un trozo de papel de horno en tiras y colócalo sobre las 2 capas de las bandejas &lt;t0/&gt;Varoma&lt;t1/&gt; (dejando huecos entre ellas para que salga el vapor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4674,6 +4714,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To make the bun dough, place the water, sugar and yeast into the Thermomix bowl and mix for 8 seconds, Speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T131135Z" creationid="raque" creationdate="20230523T131135Z">
+        <seg>Para hacer la masa del bollo, pon el agua, el azúcar y la levadura en el bol del Thermomix y mezcla durante 8 segundos, Velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To store the baked scrolls, place into an airtight container and enjoy with 5 days.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T182114Z" creationid="beatr" creationdate="20230520T182114Z">
@@ -5182,6 +5230,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T142544Z" creationid="alond" creationdate="20230502T142544Z">
         <seg>zumo de 1 limón (&lt;t0/&gt;approx&lt;t1/&gt; 30g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>leftover roast pork (or pulled pork), slaw, Kewpie (Japanese) mayo and sesame seeds, to &lt;t0/&gt;serve</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T102939Z" creationid="raque" creationdate="20230523T102939Z">
+        <seg>restos de cerdo asado (o carne de cerdo desmenuzada), ensalada de repollo, mayonesa Kewpie (japonesa) y semillas de sésamo, para &lt;t0/&gt;servir</seg>
       </tuv>
     </tu>
     <tu>
