@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 1/2 &lt;t0/&gt;tsps&lt;t1/&gt; &lt;t2/&gt;salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T102813Z" creationid="raque" creationdate="20230523T102813Z">
+        <seg>1 1/2 &lt;t0/&gt;cucharadita&lt;t1/&gt; &lt;t2/&gt;de sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 &lt;t0/&gt;clove&lt;t1/&gt; &lt;t2/&gt;garlic</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T182451Z" creationid="alond" creationdate="20230522T182451Z">
@@ -42,6 +50,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171015Z" creationid="raque" creationdate="20230522T171015Z">
         <seg>1 &lt;t0/&gt;huevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 &lt;t0/&gt;tbs&lt;t1/&gt; &lt;t2/&gt;baking&lt;t3/&gt; &lt;t4/&gt;powder</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T102836Z" creationid="raque" creationdate="20230523T102836Z">
+        <seg>1 &lt;t0/&gt;cucharada&lt;t1/&gt; &lt;t2/&gt;de levadura en polvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>500 &lt;t0/&gt;grams&lt;t1/&gt; extra &lt;t2/&gt;water</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T102843Z" creationid="raque" creationdate="20230523T102843Z">
+        <seg>500 &lt;t0/&gt;gramos&lt;t1/&gt; extra &lt;t2/&gt;de agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>500 grams butter softened</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133102Z" creationid="mmolc" creationdate="20230519T133102Z">
@@ -1002,6 +1026,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201814Z" creationid="beatr" creationdate="20230512T201814Z">
         <seg>50&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla&lt;t4/&gt;extra para engrasar &lt;t5/&gt;la sartén</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>520 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;plain&lt;t3/&gt; &lt;t4/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T102745Z" creationid="raque" creationdate="20230523T102745Z">
+        <seg>520 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;de harina</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1074,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T100449Z" creationid="raque" creationdate="20230523T100449Z">
         <seg>60 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;de azúcar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>60 &lt;t0/&gt;grams&lt;t1/&gt; extra &lt;t2/&gt;virgin&lt;t3/&gt; olive &lt;t4/&gt;oil</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T102759Z" creationid="raque" creationdate="20230523T102759Z">
+        <seg>60 &lt;t0/&gt;gramos&lt;t1/&gt; de &lt;t2/&gt;aceite virgen extra&lt;t3/&gt; &lt;t4/&gt;oil</seg>
       </tuv>
     </tu>
     <tu>
@@ -4580,6 +4620,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T094250Z" creationid="raque" creationdate="20230523T094250Z">
         <seg>Para conservarlo, mételo en el frigorífico y consúmelo en un plazo de 5 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To&lt;t0/&gt; serve</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T102905Z" creationid="raque" creationdate="20230523T102905Z">
+        <seg>Para servir</seg>
       </tuv>
     </tu>
     <tu>
