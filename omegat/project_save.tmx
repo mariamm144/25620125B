@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow your &lt;t0/&gt;puff pastry sheets to defrost&lt;t1/&gt; before pressing into the mini muffin tin.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134042Z" creationid="raque" creationdate="20230523T134042Z">
+        <seg>Deja que tus láminas de &lt;t0/&gt;hojaldre se descongelen&lt;t1/&gt; antes de presionarlas en el molde para mini magdalenas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, freeze in an airtight container for up to 2 months.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T225540Z" creationid="mmolc" creationdate="20230520T225540Z">
@@ -2096,6 +2104,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;321&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;19&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;25&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;8&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Polyunsaturated Fat: &lt;t20/&gt;3&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Monounsaturated Fat: &lt;t24/&gt;13&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Trans Fat: &lt;t28/&gt;0.003&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Cholesterol: &lt;t32/&gt;39&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodium: &lt;t36/&gt;158&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potassium: &lt;t40/&gt;47&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fiber: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Sugar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamin A: &lt;t52/&gt;101&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcium: &lt;t56/&gt;51&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Iron: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134156Z" creationid="raque" creationdate="20230523T134156Z">
+        <seg>Calorías: &lt;t0/&gt;321&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;19&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;25&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;8&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasas poliinsaturadas: &lt;t20/&gt;3&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Grasas monoinsaturadas: &lt;t24/&gt;13&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Grasas trans: &lt;t28/&gt;0. 003&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Colesterol: &lt;t32/&gt;39&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodio: &lt;t36/&gt;158&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potasio: &lt;t40/&gt;47&lt;t41/&gt;mg&lt;t42/&gt;| &lt;t43/&gt;Fibra: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Azúcar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamina A: &lt;t52/&gt;101&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcio: &lt;t56/&gt;51&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Hierro: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Polyunsaturated Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Monounsaturated Fat: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Trans Fat: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Cholesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodium: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potassium: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fiber: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Sugar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamin A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcium: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Iron: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202245Z" creationid="beatr" creationdate="20230512T202245Z">
@@ -2412,6 +2428,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T153103Z" creationid="mmolc" creationdate="20230520T200607Z">
         <seg>Cocina durante 3 minutos, a 60 grados, a velocidad 2, o hasta que se derrita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cook for approximately 10-15 minutes or until the cheese has turned golden and the middle of the quiches has cooked through.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134027Z" creationid="raque" creationdate="20230523T134027Z">
+        <seg>Deja cocer durante unos 10-15 minutos o hasta que el queso esté dorado y el centro de las quiches esté bien cocido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2960,6 +2984,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freeze&lt;t0/&gt; in an airtight container or sealable plastic sandwich bag (like a &lt;t1/&gt;Glad bag&lt;t2/&gt;) for up to 3 months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134121Z" creationid="raque" creationdate="20230523T134121Z">
+        <seg>Congela&lt;t0/&gt; en un recipiente hermético o en una bolsa de plástico sellable para sándwiches (como una &lt;t1/&gt;Bolsa Glad&lt;t2/&gt;) durante un máximo de 3 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Freezing&lt;t0/&gt; - freeze in an airtight container for up to 2 months.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161324Z" creationid="mmolc" creationdate="20230522T161324Z">
@@ -3466,8 +3498,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Once you've made homemade hummus in your Thermomix, you'll never buy store-bought hummus again!</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230502T141620Z" creationid="alond" creationdate="20230502T141608Z">
-        <seg>Una vez que hace humus casero en tu Thermomix, ¡no volverás a comprarlo!</seg>
+      <tuv lang="es" changeid="raque" changedate="20230523T134307Z" creationid="alond" creationdate="20230502T141608Z">
+        <seg>Una vez que hagas humus casero en tu Thermomix, ¡no volverás a comprarlo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3500,6 +3532,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T153612Z" creationid="alond" creationdate="20230519T153612Z">
         <seg>Nuestra receta de Frappe de café helado con Thermomix es el golpe de cafeína más cremoso y delicioso que existe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our classic Thermomix Hummus recipe takes just 2 minutes to prepare and is made fro&lt;t0/&gt;m 6 pantry staple ingredients.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134256Z" creationid="raque" creationdate="20230523T134256Z">
+        <seg>Nuestra receta clásica de Hummus Thermomix se prepara en sólo 2 minutos y se elabora con 6 ingredientes básicos de la despensa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,6 +4442,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Serve the quiches on their own, or with your &lt;t0/&gt;favourite&lt;t1/&gt; sauces and chutneys.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134142Z" creationid="raque" creationdate="20230523T134142Z">
+        <seg>Sirve las quiches solas o acompañadas de tus salsas y salsas chutneys favoritas..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Serve these pikelets warm with your choice of toppings.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202212Z" creationid="beatr" creationdate="20230512T202212Z">
@@ -4714,6 +4762,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Store &lt;t0/&gt;in an airtight container in the fridge for up to 3 days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T134053Z" creationid="raque" creationdate="20230523T134053Z">
+        <seg>Conservar &lt;t0/&gt;en un recipiente hermético en el frigorífico hasta 3 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Storing - &lt;t0/&gt;Store in an airtight container in the fridge for up to 3 days.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T180530Z" creationid="alond" creationdate="20230522T180530Z">
@@ -4948,8 +5004,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Thermomix Hummus</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230502T140947Z" creationid="alond" creationdate="20230502T140947Z">
-        <seg>Thermomix Humus</seg>
+      <tuv lang="es" changeid="raque" changedate="20230523T134244Z" creationid="alond" creationdate="20230502T140947Z">
+        <seg>Humus Thermomix</seg>
       </tuv>
     </tu>
     <tu>
