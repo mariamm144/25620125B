@@ -3568,6 +3568,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proving Time&lt;t0/&gt; &lt;t1/&gt;45 &lt;t2/&gt;minut&lt;t3/&gt;es</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100247Z" creationid="raque" creationdate="20230523T100247Z">
+        <seg>Tiempo de reposo&lt;t0/&gt; &lt;t1/&gt;45 &lt;t2/&gt;minut&lt;t3/&gt;os</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proving Time&lt;t0/&gt;1 &lt;t1/&gt;hour</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230505T163204Z" creationid="alond" creationdate="20230505T161323Z">
@@ -4564,6 +4572,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T155245Z" creationid="mmolc" creationdate="20230522T155245Z">
         <seg>Tiempo total: 5 &lt;t0/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hour&lt;t3/&gt; 35 &lt;t4/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T100301Z" creationid="raque" creationdate="20230523T100301Z">
+        <seg>Tiempo total&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hora&lt;t3/&gt; 35 &lt;t4/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
