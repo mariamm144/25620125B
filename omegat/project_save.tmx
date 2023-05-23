@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a crispy pastry base, I recommend placing the rolls directly onto a greased baking tray.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T092723Z" creationid="raque" creationdate="20230523T092723Z">
+        <seg>Para obtener una base de hojaldre crujiente, recomiendo colocar los panecillos directamente sobre una bandeja de horno engrasada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a gluten free version, switch to Gluten Free self-&lt;t0/&gt;raising&lt;t1/&gt; flour.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202234Z" creationid="beatr" creationdate="20230512T202234Z">
@@ -2674,6 +2682,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T181149Z" creationid="beatr" creationdate="20230520T181149Z">
         <seg>Si haces tus rollitos más grandes o pequeños que en esta receta el tiempo de cocina va a variar..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you use baking paper the b&lt;t0/&gt;ase of the rolls will not crisp as much.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T092743Z" creationid="raque" creationdate="20230523T092743Z">
+        <seg>Si usas papel de horno la b&lt;t0/&gt;ase de los panecillos no quedará tan crujiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4428,6 +4444,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T060054Z" creationid="beatr" creationdate="20230522T060054Z">
         <seg>Para guardarlas, colócalas en un recipiente hermético y mantenlo a temperatura ambiente hasta 5 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To store, place into the fridge and enjoy within 5 days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T094250Z" creationid="raque" creationdate="20230523T094250Z">
+        <seg>Para conservarlo, mételo en el frigorífico y consúmelo en un plazo de 5 días.</seg>
       </tuv>
     </tu>
     <tu>
