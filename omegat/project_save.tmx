@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t1/&gt;So&lt;t2/&gt; your dark brown bananas as perfect to use.</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230523T122655Z" creationid="beatr" creationdate="20230523T122655Z">
+        <seg>&lt;t1/&gt;Por lo tanto,&lt;t2/&gt; los plátanos oscuros son perfectos para usar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t2/&gt;Grease and line 3 baking trays and set aside (or as many trays as will fit in your oven).</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T134313Z" creationid="mmolc" creationdate="20230519T134313Z">
@@ -3740,6 +3748,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T173232Z" creationid="alond" creationdate="20230522T173232Z">
         <seg>Vuelve a ponerlo en el bol engrasado, &lt;t0/&gt;cúbrelo&lt;t1/&gt; y deja que fermente durante otras 4 horas (para obtener mejores resultados, cúbralo y póngalo en el frigorífico&lt;t2/&gt;durante toda la noche para que fermente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ripe Bananas&lt;t0/&gt; - When baking with bananas the general rule is the riper the better!</seg>
+      </tuv>
+      <tuv lang="es" changeid="beatr" changedate="20230523T122558Z" creationid="beatr" creationdate="20230523T122558Z">
+        <seg>Plátanos maduros&lt;t0/&gt; -  Cuando se trata de hornear con plátano la regla general es ¡cuanto más maduro mejor!!</seg>
       </tuv>
     </tu>
     <tu>
