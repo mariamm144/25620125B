@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;salt</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132500Z" creationid="raque" creationdate="20230523T132500Z">
+        <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; &lt;t2/&gt;sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;vanilla&lt;t3/&gt; &lt;t4/&gt;extract</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175818Z" creationid="alond" creationdate="20230522T175818Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T162413Z" creationid="mmolc" creationdate="20230519T162413Z">
         <seg>1 cucharadita de extracto de vanilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 x &lt;t0/&gt;Baking&lt;t1/&gt; &lt;t2/&gt;Tray</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132326Z" creationid="raque" creationdate="20230523T132326Z">
+        <seg>1 x &lt;t0/&gt;Bandeja para horno</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;yeast</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132350Z" creationid="raque" creationdate="20230523T132350Z">
+        <seg>2 &lt;t0/&gt;cucharaditas&lt;t1/&gt; &lt;t2/&gt;de levadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2 tsp instant coffee granules see &lt;t0/&gt;notes</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T171412Z" creationid="alond" creationdate="20230522T171412Z">
@@ -610,6 +634,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T152850Z" creationid="mmolc" creationdate="20230519T162644Z">
         <seg>2.&lt;t0/&gt;              &lt;t1/&gt;Raspa los laterales de tu cuenco de Thermomix y añade el azúcar molido, la harina y la sal, y remueve durante 20 segundos a velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>20 &lt;t0/&gt;grams&lt;t1/&gt; extra &lt;t2/&gt;virgin&lt;t3/&gt; olive &lt;t4/&gt;oil</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132423Z" creationid="raque" creationdate="20230523T132423Z">
+        <seg>20 &lt;t0/&gt;ml&lt;t1/&gt; de aceite de oliva virgen extra</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>350 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;water</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132338Z" creationid="raque" creationdate="20230523T132338Z">
+        <seg>350 &lt;t0/&gt;ml&lt;t1/&gt; &lt;t2/&gt;de agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>395 grams sweetened condensed milk</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133502Z" creationid="mmolc" creationdate="20230519T133502Z">
@@ -986,6 +1026,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175729Z" creationid="alond" creationdate="20230522T175729Z">
         <seg>50 g manzana sin corazón y troceada (&lt;t0/&gt;aprox.&lt;t1/&gt; ½ manzana)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>500 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;Baker's&lt;t3/&gt; &lt;t4/&gt;flour&lt;t5/&gt; &lt;t6/&gt;see&lt;t7/&gt; notes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132453Z" creationid="raque" creationdate="20230523T132453Z">
+        <seg>500 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;Harina de panadería&lt;t3/&gt; &lt;t6/&gt;ver&lt;t7/&gt; notas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1956,6 +2004,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T100322Z" creationid="raque" creationdate="20230523T100322Z">
         <seg>Calorías&lt;t0/&gt; &lt;t1/&gt;183&lt;t2/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories&lt;t0/&gt; &lt;t1/&gt;207&lt;t2/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132303Z" creationid="raque" creationdate="20230523T132303Z">
+        <seg>Calorías&lt;t0/&gt; &lt;t1/&gt;207&lt;t2/&gt;kcal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,6 +3656,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the water and yeast into the Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132519Z" creationid="raque" creationdate="20230523T132519Z">
+        <seg>Introduce el agua y la levadura en el bol del Thermomix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the water into the Thermomix bowl, insert the rice basket, secure the &lt;t0/&gt;lid&lt;t1/&gt; and cook for 20 minutes, &lt;t2/&gt;Varoma&lt;t3/&gt;, Speed 4.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203437Z" creationid="beatr" creationdate="20230512T203437Z">
@@ -3830,6 +3894,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T172421Z" creationid="alond" creationdate="20230522T172421Z">
         <seg>Tiempo de reposo&lt;t0/&gt;8 &lt;t1/&gt;horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Proving time&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hour</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132228Z" creationid="raque" creationdate="20230523T132228Z">
+        <seg>Tiempo de fermentación&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hora</seg>
       </tuv>
     </tu>
     <tu>
@@ -4134,6 +4206,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T100313Z" creationid="raque" creationdate="20230523T100313Z">
         <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;Bollos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servings&lt;t0/&gt; &lt;t1/&gt;10 &lt;t2/&gt;pieces</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132256Z" creationid="raque" creationdate="20230523T132256Z">
+        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;10 &lt;t2/&gt;piezas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4918,6 +4998,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T100301Z" creationid="raque" creationdate="20230523T100301Z">
         <seg>Tiempo total&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hora&lt;t3/&gt; 35 &lt;t4/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hour&lt;t3/&gt; 3&lt;t4/&gt;5 &lt;t5/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="raque" changedate="20230523T132242Z" creationid="raque" creationdate="20230523T132242Z">
+        <seg>Tiempo total&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hora&lt;t3/&gt; 3&lt;t4/&gt;5 &lt;t5/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
