@@ -1528,8 +1528,8 @@
       <tuv lang="en">
         <seg>A winner with the whole family - these Thermomix Spinach and Ricotta Rolls are always a &lt;t0/&gt;favourite&lt;t1/&gt;!</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T170702Z" creationid="raque" creationdate="20230522T170702Z">
-        <seg>Una forma de ganar con toda la familia. ¡Estos rollos de espinacas y ricotta de Thermomix son siempre los favoritos!</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T115235Z" creationid="raque" creationdate="20230522T170702Z">
+        <seg>Una forma de ganar con toda la familia. ¡Estos rollos de espinacas y ricotta con Thermomix son siempre los favoritos!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4340,8 +4340,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Remove the slice from the fridge 20 minutes before cutting&lt;t0/&gt; (this helps to stop the chocolate layer on top from cracking).</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T165929Z" creationid="raque" creationdate="20230522T165929Z">
-        <seg>Sácalos de la nevera 20 minutos antes de cortar (esto ayuda a que la capa de chocolate de la parte superior no se agriete).</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T114809Z" creationid="raque" creationdate="20230522T165929Z">
+        <seg>Sácalos de la nevera 20 minutos antes de cortar (esto ayuda a que la capa de chocolate de la parte superior no se agriete.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5180,8 +5180,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Thermomix Spinach and Ricotta Rolls</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T170307Z" creationid="raque" creationdate="20230522T170307Z">
-        <seg>Rollos de espinaca y ricotta para Thermomix</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T114955Z" creationid="raque" creationdate="20230522T170307Z">
+        <seg>Rollos de espinaca y ricotta con Thermomix</seg>
       </tuv>
     </tu>
     <tu>
