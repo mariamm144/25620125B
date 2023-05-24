@@ -3906,8 +3906,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the mixture into a greased bowl (or &lt;t0/&gt;ThermoServer&lt;t1/&gt;) and leave in a warm place to rise until doubled in size (approximately 1 hour).</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132857Z" creationid="raque" creationdate="20230523T132857Z">
-        <seg>Coloca la mezcla en un cuenco engrasado (o &lt;t0/&gt;ThermoServer&lt;t1/&gt;) y deja que suba en un lugar cálido hasta que doble su tamaño (aproximadamente 1 hora).</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T131027Z" creationid="raque" creationdate="20230523T132857Z">
+        <seg>Coloca la mezcla en un cuenco engrasado (o &lt;t0/&gt;ThermoServer&lt;t1/&gt;) y deja que suba en un lugar cálido hasta que doble su tamaño (aproximadamente 1 hora.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4099,8 +4099,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat oven to 200 degrees&lt;t0/&gt; &lt;t1/&gt;celsius&lt;t2/&gt; (fan-forced).</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132913Z" creationid="raque" creationdate="20230523T132913Z">
-        <seg>Precalentar el horno a 200 grados&lt;t0/&gt; &lt;t1/&gt;celsius&lt;t2/&gt; ( con ventilador).</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T131043Z" creationid="raque" creationdate="20230523T132913Z">
+        <seg>Precalentar el horno a 200 grados&lt;t0/&gt; &lt;t1/&gt;centígrados&lt;t2/&gt; ( con ventilador.)</seg>
       </tuv>
     </tu>
     <tu>
