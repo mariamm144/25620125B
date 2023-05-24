@@ -1488,8 +1488,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Cook &lt;t3/&gt;for&lt;t4/&gt; 30 minutes, &lt;t5/&gt;Varoma&lt;t6/&gt; &lt;t7/&gt;temperature&lt;t8/&gt;, &lt;t9/&gt;Speed&lt;t10/&gt; 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T131626Z" creationid="raque" creationdate="20230523T131626Z">
-        <seg>&lt;t2/&gt;Cocina &lt;t3/&gt;durante&lt;t4/&gt; 30 minutos, &lt;t5/&gt;temperatura Varoma&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;, &lt;t9/&gt;Velocidad&lt;t10/&gt; 4.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T125614Z" creationid="raque" creationdate="20230523T131626Z">
+        <seg>&lt;t2/&gt;Cocina &lt;t3/&gt;durante&lt;t4/&gt; 30 minutos, &lt;t5/&gt;temperatura Varoma&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;, &lt;t9/&gt; a velocidad&lt;t10/&gt; 4.</seg>
       </tuv>
     </tu>
     <tu>
