@@ -80,8 +80,8 @@
       <tuv lang="en">
         <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;salt</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132500Z" creationid="raque" creationdate="20230523T132500Z">
-        <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; &lt;t2/&gt;sal</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T130753Z" creationid="raque" creationdate="20230523T132500Z">
+        <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; &lt;t2/&gt; de sal</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,8 +1112,8 @@
       <tuv lang="en">
         <seg>500 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;Baker's&lt;t3/&gt; &lt;t4/&gt;flour&lt;t5/&gt; &lt;t6/&gt;see&lt;t7/&gt; notes</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132453Z" creationid="raque" creationdate="20230523T132453Z">
-        <seg>500 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;Harina de panadería&lt;t3/&gt; &lt;t6/&gt;ver&lt;t7/&gt; notas.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T130740Z" creationid="raque" creationdate="20230523T132453Z">
+        <seg>500 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;de harina de panadería&lt;t3/&gt; &lt;t6/&gt;ver&lt;t7/&gt; notas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,8 +2410,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;25 &lt;t2/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T170843Z" creationid="raque" creationdate="20230522T170843Z">
-        <seg>Tiempo de cocinar &lt;t0/&gt; &lt;t1/&gt;25 &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T130615Z" creationid="raque" creationdate="20230522T170843Z">
+        <seg>Tiempo de cocina &lt;t0/&gt; &lt;t1/&gt;25 &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,8 +3986,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the water and yeast into the Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132519Z" creationid="raque" creationdate="20230523T132519Z">
-        <seg>Introduce el agua y la levadura en el bol del Thermomix.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T130821Z" creationid="raque" creationdate="20230523T132519Z">
+        <seg>Introduce el agua y la levadura en el bol de la Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4292,8 +4292,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Proving time&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hour</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132228Z" creationid="raque" creationdate="20230523T132228Z">
-        <seg>Tiempo de fermentación&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hora</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T130639Z" creationid="raque" creationdate="20230523T132228Z">
+        <seg>Tiempo de reposo&lt;t0/&gt;1 &lt;t1/&gt;hora</seg>
       </tuv>
     </tu>
     <tu>
