@@ -1512,8 +1512,8 @@
       <tuv lang="en">
         <seg>A simple Thermomix Easter Egg Slice filled with yum&lt;t0/&gt;my chocolate Easter eggs... and it's completely no-bake!!</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T163125Z" creationid="raque" creationdate="20230522T163125Z">
-        <seg>Una simple tira de Huevo de Pascua a Thermomix con deliciosos huevos de Pascua de chocolate... ¡y sin cocer!</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T112643Z" creationid="raque" creationdate="20230522T163125Z">
+        <seg>Una simple tira de Huevo de Pascua con Thermomix con deliciosos huevos de Pascua de chocolate... ¡y sin cocer!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1848,8 +1848,8 @@
       <tuv lang="en">
         <seg>Author&lt;t0/&gt; &lt;t1/&gt;Lucy &amp; Lauren</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201505Z" creationid="beatr" creationdate="20230512T201505Z">
-        <seg>Autoras&lt;t0/&gt;Lucy&lt;t1/&gt; &amp; Lauren</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T112744Z" creationid="beatr" creationdate="20230512T201505Z">
+        <seg>Autoras&lt;t0/&gt;Lucy&lt;t1/&gt; y Lauren</seg>
       </tuv>
     </tu>
     <tu>
@@ -5108,8 +5108,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Thermomix Easter Egg Slice</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T162725Z" creationid="raque" creationdate="20230522T162725Z">
-        <seg>Tira de Huevo de Pascua a Thermomix</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230524T112622Z" creationid="raque" creationdate="20230522T162725Z">
+        <seg>Tira de Huevo de Pascua con Thermomix</seg>
       </tuv>
     </tu>
     <tu>
