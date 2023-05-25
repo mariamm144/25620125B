@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>190&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;dried&lt;t4/&gt; &lt;t5/&gt;apricots</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130947Z" creationid="mmolc" creationdate="20230525T130947Z">
+        <seg>190 g de orejones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>190&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201730Z" creationid="beatr" creationdate="20230512T201612Z">
@@ -3240,6 +3248,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cuisine&lt;t0/&gt;healthy&lt;t1/&gt; recipes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130719Z" creationid="mmolc" creationdate="20230525T130652Z">
+        <seg>Cocina:&lt;t0/&gt;tentempiés&lt;t1/&gt;saludables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CuisineAustralian</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T132307Z" creationid="mmolc" creationdate="20230519T132307Z">
@@ -4240,6 +4256,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the Apple Loaf into your oven and bake for 50 - 55 minutes or until cooked when tested with a skewer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130632Z" creationid="mmolc" creationdate="20230525T130632Z">
+        <seg>Coloca el molde con la masa en el horno y cocínala durante 50-55 minutos o hasta que estén hechos al probarlos con una brocheta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the Spinach an&lt;t0/&gt;d Ricotta Rolls into the oven to cook for 25 minutes or until the pastry is golden and crispy.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230524T120857Z" creationid="raque" creationdate="20230523T092501Z">
@@ -4576,6 +4600,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pour the mixture into your prepared loaf tin and sprinkle the apple pieces over the top.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130622Z" creationid="mmolc" creationdate="20230525T130622Z">
+        <seg>Vierte la mezcla en el molde preparado y oon los trozos de manzana encima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pour the mixture over the pastry cases (being careful not to overfill as the mixture rises when cooked).</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T134010Z" creationid="raque" creationdate="20230523T134010Z">
@@ -4775,6 +4807,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175548Z" creationid="alond" creationdate="20230522T175548Z">
         <seg>Tiempo de preparación&lt;t0/&gt;5 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prep Time&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130732Z" creationid="mmolc" creationdate="20230525T130732Z">
+        <seg>Tiempo de preparación&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5015,6 +5055,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230525T122209Z" creationid="mmolc" creationdate="20230525T122209Z">
         <seg>Raspa los laterales de tu cuenco, añade la harina y remuévelo durante 10 segundos a velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of the bowl and mix for a further 10 seconds, speed 4 or until the mixture is smooth and well combined.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130612Z" creationid="mmolc" creationdate="20230525T130612Z">
+        <seg>Raspa los laterales del cuenco de Thermomix y remueve todo a velocidad 4 durante 10 segundos más o hasta que se mezcle bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5343,6 +5391,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230525T124946Z" creationid="mmolc" creationdate="20230525T124946Z">
         <seg>Raciones&lt;t0/&gt;12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;16&lt;t1/&gt; &lt;t2/&gt;balls</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130754Z" creationid="mmolc" creationdate="20230525T130754Z">
+        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;16 &lt;t2/&gt;bolitas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6263,6 +6319,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154102Z" creationid="alond" creationdate="20230519T154102Z">
         <seg>Timepo total&lt;t0/&gt;5 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130738Z" creationid="mmolc" creationdate="20230525T130738Z">
+        <seg>Tiempo total &lt;t0/&gt; &lt;t1/&gt;5 &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
