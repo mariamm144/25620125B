@@ -3480,6 +3480,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mix for a further 2 minutes using the dough/interval function.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122221Z" creationid="mmolc" creationdate="20230525T122221Z">
+        <seg>Remuévelo durante 2 minutos más usando la función de masa/intervalos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mix for a further 20 seconds on Speed 4.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T143430Z" creationid="alond" creationdate="20230502T143430Z">
@@ -3580,6 +3588,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T054810Z" creationid="beatr" creationdate="20230522T054810Z">
         <seg>Una vez totalmente enfriadas, combina tus glaseados en un bol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the dough has chilled, preheat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan forced) and line two trays with baking paper.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122321Z" creationid="mmolc" creationdate="20230525T122321Z">
+        <seg>Una vez que la masa se haya enfriado, precalienta el horno a 180 grados Celsius (con la ventilación a tope) y forra dos bandejas con papel de cocina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4410,6 +4426,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Roll the dough on your bench until it's approximately 4 mm thick and use the cutter of your choice to make shapes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122331Z" creationid="mmolc" creationdate="20230525T122331Z">
+        <seg>Enrolla la masa en la encimera hasta que tenga aproximadamente 4 mm de grosor y utiliza el cortador de tu elección para hacer formas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Roll the pastry (starting from the edge without the egg) to enclose the fill&lt;t0/&gt;ing.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171635Z" creationid="raque" creationdate="20230522T171635Z">
@@ -4462,6 +4486,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T183901Z" creationid="alond" creationdate="20230522T183757Z">
         <seg>Raspa las paredes del bol y añade la carne picada, las salsas y el huevo al vaso de tu Thermomix y mezcla durante 15 segundos, velocidad 5 para homogenear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scrape down the sides of the bowl and add the plain flour and mix for 10 seconds, speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122209Z" creationid="mmolc" creationdate="20230525T122209Z">
+        <seg>Raspa los laterales de tu cuenco, añade la harina y remuévelo durante 10 segundos a velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,6 +5686,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T175001Z" creationid="beatr" creationdate="20230520T175001Z">
         <seg>Volcar la masa sobre un banco enharinado y, con ayuda de un rodillo, extenderla hasta obtener un rectángulo de 30 cm x 40 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn the dough out onto your bench and divide into two.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122257Z" creationid="mmolc" creationdate="20230525T122257Z">
+        <seg>Vuelca la masa en tu encimera y divídela en dos.</seg>
       </tuv>
     </tu>
     <tu>
