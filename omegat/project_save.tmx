@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;Mix&lt;t5/&gt; &lt;t6/&gt;to&lt;t7/&gt; &lt;t8/&gt;create&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;coloured&lt;t13/&gt; mixture.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130047Z" creationid="mmolc" creationdate="20230525T130047Z">
+        <seg>Mezcla para lograr la mezcla coloreada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t4/&gt;Scrape&lt;t5/&gt; &lt;t6/&gt;down&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230525T125233Z" creationid="mmolc" creationdate="20230525T125233Z">
@@ -1706,6 +1714,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T143234Z" creationid="alond" creationdate="20230502T143234Z">
         <seg>Añade &lt;t0/&gt;el resto de&lt;t1/&gt; ingredientes dentro del vaso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add &lt;t0/&gt;spoonfuls&lt;t1/&gt; of the three different &lt;t2/&gt;coloured&lt;t3/&gt; mixtures to your prepared loaf tin and once all the mixture is in the tin, use a butter knife to gently swirl the mixture to create the ‘marble’ effect.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130055Z" creationid="mmolc" creationdate="20230525T130055Z">
+        <seg>Añade cucharadas de las tres mezclas de colores diferentes al molde preparado y, una vez que toda la mezcla esté en el molde, utilice un cuchillo para mantequilla para remover suavemente la mezcla y crear el efecto "mármol".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,6 +1938,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T153440Z" creationid="beatr" creationdate="20230522T153440Z">
         <seg>Añade el extracto de vainilla, la miel y la leche, y mezcla durante 20 segundos, a la velocidad 6. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the vanilla extract, milk, &lt;t0/&gt;eggs&lt;t1/&gt; and &lt;t2/&gt;self raising&lt;t3/&gt; flour and mix for 10 seconds, Speed 4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130021Z" creationid="mmolc" creationdate="20230525T130021Z">
+        <seg>Añade el extracto de vainilla, leche, huevos y la harina con levadura, y remuévelo durante 10 segundos, a velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2364,6 +2388,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T181944Z" creationid="beatr" creationdate="20230520T181944Z">
         <seg>Calorías: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;20&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteinas: &lt;t8/&gt;8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;11&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;7&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasa transgénica: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Colesterol: &lt;t24/&gt;31&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Sodio: &lt;t28/&gt;381&lt;t29/&gt;mg&lt;t30/&gt; | &lt;t31/&gt;Potasio: &lt;t32/&gt;161&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Fibrar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Azúcar: &lt;t40/&gt;1&lt;t41/&gt;g&lt;t42/&gt; | &lt;t43/&gt;Vitamina A: &lt;t44/&gt;336&lt;t45/&gt;IU&lt;t46/&gt; | &lt;t47/&gt;Calcio: &lt;t48/&gt;115&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Hierro: &lt;t52/&gt;1&lt;t53/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;26&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;4&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;10&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated &lt;t16/&gt;Fat&lt;t17/&gt;: &lt;t18/&gt;6&lt;t19/&gt;g&lt;t20/&gt; | &lt;t21/&gt;Polyunsaturated&lt;t22/&gt; &lt;t23/&gt;Fat&lt;t24/&gt;: &lt;t25/&gt;1&lt;t26/&gt;g&lt;t27/&gt; | &lt;t28/&gt;Monounsaturated&lt;t29/&gt; &lt;t30/&gt;Fat&lt;t31/&gt;: &lt;t32/&gt;3&lt;t33/&gt;g&lt;t34/&gt; | &lt;t35/&gt;Trans Fat: &lt;t36/&gt;0.4&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Cholesterol: &lt;t40/&gt;57&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Sodium: &lt;t44/&gt;87&lt;t45/&gt;mg&lt;t46/&gt; | &lt;t47/&gt;Potassium: &lt;t48/&gt;49&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Fiber: &lt;t52/&gt;1&lt;t53/&gt;g&lt;t54/&gt; | &lt;t55/&gt;Sugar: &lt;t56/&gt;12&lt;t57/&gt;g&lt;t58/&gt; | &lt;t59/&gt;Vitamin A: &lt;t60/&gt;336&lt;t61/&gt;IU&lt;t62/&gt; | &lt;t63/&gt;Calcium&lt;t64/&gt;: &lt;t65/&gt;21&lt;t66/&gt;mg&lt;t67/&gt; | &lt;t68/&gt;Iron&lt;t69/&gt;: &lt;t70/&gt;0.4&lt;t71/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130320Z" creationid="mmolc" creationdate="20230525T130320Z">
+        <seg>Calorías: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;26&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;4&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;10&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas &lt;t16/&gt;saturadas&lt;t17/&gt;: &lt;t18/&gt;6&lt;t19/&gt;g&lt;t20/&gt; | &lt;t21/&gt;Grasas&lt;t22/&gt; &lt;t23/&gt;poliinsaturadas&lt;t24/&gt;: &lt;t25/&gt;1&lt;t26/&gt;g&lt;t27/&gt; | &lt;t28/&gt;Grasas&lt;t29/&gt; &lt;t30/&gt;monoinsaturadas&lt;t31/&gt;: &lt;t32/&gt;3&lt;t33/&gt;g&lt;t34/&gt; | &lt;t35/&gt;Grasas trans: &lt;t36/&gt;0.4&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Colesterol: &lt;t40/&gt;57&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Sodio: &lt;t44/&gt;87&lt;t45/&gt;mg&lt;t46/&gt; | &lt;t47/&gt;Potasio: &lt;t48/&gt;49&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Fibra: &lt;t52/&gt;1&lt;t53/&gt;g&lt;t54/&gt; | &lt;t55/&gt;Azúcares: &lt;t56/&gt;12&lt;t57/&gt;g&lt;t58/&gt; | &lt;t59/&gt;Vitamina A: &lt;t60/&gt;336&lt;t61/&gt;IU&lt;t62/&gt; | &lt;t63/&gt;Calcio&lt;t64/&gt;: &lt;t65/&gt;21&lt;t66/&gt;mg&lt;t67/&gt; | &lt;t68/&gt;Hierro&lt;t69/&gt;: &lt;t70/&gt;0.4&lt;t71/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -2812,6 +2844,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T202305Z" creationid="beatr" creationdate="20230512T202305Z">
         <seg>¡Cocinar arroz para sushi en tu Thermomix no puede ser más fácil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cool in tin for 5 minutes before transferring to a wire rack to cool completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130109Z" creationid="mmolc" creationdate="20230525T130109Z">
+        <seg>Deja enfriar en la bandeja durante 5 minutos antes de transferir a una bandeja de rejilla para enfriar completamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,6 +3536,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I usually ice this Thermomix Marble Cake with a &lt;t0/&gt;simple chocolate icing &lt;t1/&gt;however you can also top it with a store bought chocolate or vanilla icing, and it's even delicious served un-iced.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130137Z" creationid="mmolc" creationdate="20230525T130137Z">
+        <seg>Yo suelo cubrir este bizcocho de mármol Thermomix con un &lt;t0/&gt;simple glaseado de chocolate,&lt;t1/&gt;aunque también se puede cubrir con un glaseado de chocolate o vainilla comprado en la tienda, e incluso está deliciosa servida sin glaseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Icing&lt;t0/&gt; &lt;t1/&gt;Ingredients</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T053638Z" creationid="beatr" creationdate="20230521T053638Z">
@@ -3548,6 +3596,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T160811Z" creationid="mmolc" creationdate="20230522T160811Z">
         <seg>Si no tienes un aparato Thermomix,&lt;t0/&gt;puedes usar una batidora o un procesador de alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you don't have any pink food &lt;t0/&gt;colouring&lt;t1/&gt;, different &lt;t2/&gt;colours&lt;t3/&gt; can be used or you can divide the mixture into two and have one chocolate and one vanilla.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130128Z" creationid="mmolc" creationdate="20230525T130128Z">
+        <seg>Si no tienes ningún colorante alimentario rosa, puedes utilizar otros colores o dividir la mezcla en dos y tener una de chocolate y otra de vainilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4232,6 +4288,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the cake tin into the oven and cook for 30 – 35 minutes or until your marble cake is cooked through when tested with a skewer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130101Z" creationid="mmolc" creationdate="20230525T130101Z">
+        <seg>Coloca el molde en el horno y cocina los muffins durante 30-35 minutos o hasta que estén hechos al probarlos con una brocheta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the cheese into the Thermomix bowl and grate on Speed 8, 10 seconds.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T133823Z" creationid="raque" creationdate="20230523T133823Z">
@@ -4899,6 +4963,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 4 or until well combined.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130031Z" creationid="mmolc" creationdate="20230525T130031Z">
+        <seg>Raspa los laterales de tu cuenco de Thermomix y remueve todo a velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 5.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T180148Z" creationid="alond" creationdate="20230522T180116Z">
@@ -5335,6 +5407,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T140512Z" creationid="beatr" creationdate="20230520T140512Z">
         <seg>Conservar en un recipiente hermético en el frigorífico hasta una semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Store in an airtight container or freeze &lt;t0/&gt;indivually&lt;t1/&gt; wrapped slices in the &lt;t2/&gt;freeer&lt;t3/&gt; for up to 3 months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130118Z" creationid="mmolc" creationdate="20230525T130118Z">
+        <seg>Consérvalos en un recipiente hermético o congélalos envueltos individualmente en el frigorífico hasta 3 meses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6111,6 +6191,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T172433Z" creationid="alond" creationdate="20230522T172433Z">
         <seg>Tiempo total&lt;t0/&gt;9 &lt;t1/&gt;horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transfer the mixture in three equal parts (&lt;t0/&gt;approx&lt;t1/&gt; 180g each) and add the cocoa to one and a couple of drops of pink food &lt;t2/&gt;colouring&lt;t3/&gt; (or cochineal if using) to the other.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130043Z" creationid="mmolc" creationdate="20230525T130043Z">
+        <seg>Reparte la mezcla en tres partes iguales (aproximadamente 180 g cada una) y añadir el cacao a una y un par de gotas de colorante alimentario rosa (o cochinilla si se utiliza) a la otra.</seg>
       </tuv>
     </tu>
     <tu>
