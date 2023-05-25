@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125028Z" creationid="mmolc" creationdate="20230525T125028Z">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;de mantequilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>150&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter&lt;t4/&gt; &lt;t5/&gt;at &lt;t6/&gt;room&lt;t7/&gt; &lt;t8/&gt;temperature</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T134626Z" creationid="raque" creationdate="20230523T134626Z">
@@ -962,6 +970,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T132338Z" creationid="raque" creationdate="20230523T132338Z">
         <seg>350 &lt;t0/&gt;ml&lt;t1/&gt; &lt;t2/&gt;de agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>375&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125041Z" creationid="mmolc" creationdate="20230525T125041Z">
+        <seg>375&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de&lt;t4/&gt; &lt;t5/&gt;harina con levadura&lt;t6/&gt; &lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,6 +2408,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories&lt;t0/&gt;283&lt;t1/&gt;kcal</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124956Z" creationid="mmolc" creationdate="20230525T124956Z">
+        <seg>Calorías&lt;t0/&gt;283&lt;t1/&gt;kcal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt;72&lt;t1/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175629Z" creationid="alond" creationdate="20230522T175629Z">
@@ -2584,6 +2608,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cook Time&lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124934Z" creationid="mmolc" creationdate="20230525T124934Z">
+        <seg>Tiempo de cocina&lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt;3 &lt;t1/&gt;minutes</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154048Z" creationid="alond" creationdate="20230519T154048Z">
@@ -2704,6 +2736,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cost&lt;t0/&gt;$10</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125014Z" creationid="mmolc" creationdate="20230525T125014Z">
+        <seg>Precio:&lt;t0/&gt;10 dólares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cost&lt;t0/&gt;$5</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T174021Z" creationid="alond" creationdate="20230522T174021Z">
@@ -2812,6 +2852,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T152330Z" creationid="alond" creationdate="20230519T152330Z">
         <seg>Tipo de plato&lt;t0/&gt;panes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Course&lt;t0/&gt;healthy&lt;t1/&gt; snacks</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124916Z" creationid="mmolc" creationdate="20230525T124916Z">
+        <seg>Corriente:&lt;t0/&gt;tentempiés&lt;t1/&gt;saludables</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,8 +3010,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt;Western</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T154022Z" creationid="alond" creationdate="20230519T154022Z">
-        <seg>Cocina&lt;t0/&gt;Occidente</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124921Z" creationid="alond" creationdate="20230519T154022Z">
+        <seg>Cocina:&lt;t0/&gt;Occidente</seg>
       </tuv>
     </tu>
     <tu>
@@ -4971,6 +5019,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings&lt;t0/&gt;12</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124946Z" creationid="mmolc" creationdate="20230525T124946Z">
+        <seg>Raciones&lt;t0/&gt;12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Servings&lt;t0/&gt;20 &lt;t1/&gt;pikelet&lt;t2/&gt;s</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175624Z" creationid="alond" creationdate="20230522T175624Z">
@@ -5839,6 +5895,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T180951Z" creationid="alond" creationdate="20230522T180951Z">
         <seg>Tiempo total&lt;t0/&gt;25 &lt;t1/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;30&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124941Z" creationid="mmolc" creationdate="20230525T124941Z">
+        <seg>Tiempo total &lt;t0/&gt; &lt;t1/&gt;30 &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
