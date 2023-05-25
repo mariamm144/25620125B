@@ -1462,6 +1462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;This&lt;t1/&gt; &lt;t2/&gt;is&lt;t3/&gt; &lt;t4/&gt;completely&lt;t5/&gt; normal.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122514Z" creationid="mmolc" creationdate="20230525T122514Z">
+        <seg>&lt;t0/&gt;Esto&lt;t1/&gt; &lt;t2/&gt;es&lt;t3/&gt; &lt;t4/&gt;completamente&lt;t5/&gt; normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t1/&gt;So&lt;t2/&gt; your dark brown bananas as perfect to use.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230523T122655Z" creationid="beatr" creationdate="20230523T122655Z">
@@ -1766,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow to cool on the tray for 5 minutes before transferring to a wire tray to cool completely.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122355Z" creationid="mmolc" creationdate="20230525T122355Z">
+        <seg>Deja enfriar en la bandeja durante 5 minutos antes de transferir a una bandeja de rejilla para enfriar completamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow to prove for a further 15 - 30 minutes.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T133041Z" creationid="raque" creationdate="20230523T133041Z">
@@ -1866,6 +1882,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154129Z" creationid="alond" creationdate="20230519T154129Z">
         <seg>Autoras&lt;t0/&gt;Lucy&lt;t1/&gt; y Lauren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bake for 8 - 10 minutes or until the sugar cookies are beginning to turn golden on the edge.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122349Z" creationid="mmolc" creationdate="20230525T122349Z">
+        <seg>Hornea durante 8 - 10 minutos o hasta que las galletas de azúcar empiecen a dorarse por los bordes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,6 +2140,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T193128Z" creationid="mmolc" creationdate="20230520T193128Z">
         <seg>Calorías: &lt;t0/&gt;82&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;9&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;1&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;5&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;3&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;0.2&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Grasas trans: &lt;t21/&gt;0.2&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;12&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;37&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;23&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;0.2&lt;t34/&gt;g&lt;t35/&gt; | Azúcares: &lt;t36/&gt;4&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;136&lt;t40/&gt;IU&lt;t41/&gt; | Vitamina C: &lt;t42/&gt;0.1&lt;t43/&gt;mg&lt;t44/&gt; | Calcio: &lt;t45/&gt;14&lt;t46/&gt;mg&lt;t47/&gt; | Hierro: &lt;t48/&gt;0.1&lt;t49/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;120&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;17&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;2&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;5&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Polyunsaturated Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Monounsaturated Fat: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Trans Fat: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Cholesterol: &lt;t32/&gt;20&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodium: &lt;t36/&gt;65&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potassium: &lt;t40/&gt;19&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fiber: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Sugar: &lt;t48/&gt;7&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamin A: &lt;t52/&gt;167&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcium: &lt;t56/&gt;15&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Iron: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T123638Z" creationid="mmolc" creationdate="20230525T123638Z">
+        <seg>Calorías: &lt;t0/&gt;120&lt;t1/&gt;kcal&lt;t2/&gt; |&lt;t3/&gt;Carbohidratos:&lt;t4/&gt; 17&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt; 2&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;5&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasas poliinsaturadas: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Grasas monoinsaturadas: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Grasas trans: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Colesterol: &lt;t32/&gt;20&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodio: &lt;t36/&gt;65&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potasio: &lt;t40/&gt;19&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fibra: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Azúcares: &lt;t48/&gt;7&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamina A: &lt;t52/&gt;167&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcio: &lt;t56/&gt;15&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Hierro: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,6 +3624,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once cool, decorate as desired.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122401Z" creationid="mmolc" creationdate="20230525T122401Z">
+        <seg>Una vez frías, decorar al gusto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the dough has chilled, preheat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan forced) and line two trays with baking paper.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230525T122321Z" creationid="mmolc" creationdate="20230525T122321Z">
@@ -3772,6 +3812,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230524T125348Z" creationid="raque" creationdate="20230523T131523Z">
         <seg>Coloca pequeños trozos de papel de hornear sobre la mitad de cada óvalo aplanado y dóblalo (de modo que el papel de hornear quede en medio.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the &lt;t0/&gt;cut out&lt;t1/&gt; sugar cookies onto your prepared trays and continue until all of the dough has been used.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T122342Z" creationid="mmolc" creationdate="20230525T122342Z">
+        <seg>Coloca las galletas de azúcar recortadas en las bandejas preparadas y continúa hasta que hayas utilizado toda la masa.</seg>
       </tuv>
     </tu>
     <tu>
