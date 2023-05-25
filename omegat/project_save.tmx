@@ -2640,6 +2640,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Course&lt;t0/&gt;Biscuits&lt;t1/&gt;, Biscuits and Cookies, cookies</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T121552Z" creationid="mmolc" creationdate="20230525T121552Z">
+        <seg>Corriente: Galletas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Course&lt;t0/&gt;Breakfast&lt;t1/&gt;, Snacks</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175522Z" creationid="alond" creationdate="20230522T175510Z">
@@ -5298,6 +5306,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are made from just 4 basic &lt;t0/&gt;ingredients&lt;t1/&gt; and you will get around 100 biscuits from a batch!</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T121558Z" creationid="mmolc" creationdate="20230525T121558Z">
+        <seg>¡Están hechas de tan solo 4 ingredientes básicos, y obtendrás unas 100 galletas de una!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are made from just 4 basic ingredients and you will get around 100 biscuits from a batch!</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T131218Z" creationid="mmolc" creationdate="20230519T130951Z">
@@ -5582,6 +5598,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T134557Z" creationid="raque" creationdate="20230523T134557Z">
         <seg>Tiempo total&lt;t0/&gt;1&lt;t1/&gt; &lt;t2/&gt;hora&lt;t3/&gt; &lt;t4/&gt;22&lt;t5/&gt; &lt;t6/&gt;minutos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Time&lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T121621Z" creationid="mmolc" creationdate="20230525T121621Z">
+        <seg>Tiempo total &lt;t0/&gt; &lt;t1/&gt;20 &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
