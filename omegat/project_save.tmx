@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;tbs&lt;t2/&gt; &lt;t3/&gt;chia&lt;t4/&gt; &lt;t5/&gt;seeds</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131015Z" creationid="mmolc" creationdate="20230525T131015Z">
+        <seg>1 cucharadita de semillas de chía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;baking&lt;t4/&gt; &lt;t5/&gt;powder</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T062540Z" creationid="beatr" creationdate="20230522T062540Z">
@@ -846,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>20&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;desiccated&lt;t4/&gt; &lt;t5/&gt;coconut</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131009Z" creationid="mmolc" creationdate="20230525T131009Z">
+        <seg>20 g de coco deshidratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>225&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230525T130402Z" creationid="mmolc" creationdate="20230525T130402Z">
@@ -930,6 +946,22 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201704Z" creationid="beatr" creationdate="20230512T201704Z">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;cuchadaras de&lt;t2/&gt; &lt;t3/&gt;azucar&lt;t4/&gt; &lt;t5/&gt;en polvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;tbs&lt;t2/&gt; &lt;t3/&gt;coconut&lt;t4/&gt; &lt;t5/&gt;oil&lt;t6/&gt; &lt;t7/&gt;melted</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131020Z" creationid="mmolc" creationdate="20230525T131020Z">
+        <seg>2 cucharaditas de aceite de coco derretido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;tbs&lt;t2/&gt; &lt;t3/&gt;rice malt syrup or honey</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131026Z" creationid="mmolc" creationdate="20230525T131026Z">
+        <seg>2 cucharadas de sirope de arroz malteado o miel</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>70&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;rolled&lt;t4/&gt; &lt;t5/&gt;oats</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131002Z" creationid="mmolc" creationdate="20230525T131002Z">
+        <seg>70 g de copos de avena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>750 grams self-raising flour</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133627Z" creationid="mmolc" creationdate="20230519T133605Z">
@@ -1746,6 +1786,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230525T124335Z" creationid="mmolc" creationdate="20230525T124335Z">
         <seg>Añade 250g de harina con levadura remuévelo durante 20 segundos, a velocidad 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add &lt;t0/&gt;all of&lt;t1/&gt; the remaining ingredients and mix together for 10 seconds, Speed 6.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131052Z" creationid="mmolc" creationdate="20230525T131052Z">
+        <seg>Añade todos los ingredientes restantes y remuévelos durante 10 segundos a velocidad 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2688,6 +2736,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chop the dried apricots for 5 seconds, Speed 8.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131033Z" creationid="mmolc" creationdate="20230525T131033Z">
+        <seg>Corta los orejones durante 5 segundos, a velocidad 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Classic Thermomix Egg &amp; Bacon Quiches that make the perfect party food or lunch box snack!</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T133417Z" creationid="raque" creationdate="20230523T133417Z">
@@ -3520,6 +3576,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freezing&lt;t0/&gt; - freeze in an airtight container for up to 2 months.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131145Z" creationid="mmolc" creationdate="20230525T131145Z">
+        <seg>Congelado:&lt;t0/&gt;congélalos en un taper hermético hasta 2 meses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frying&lt;t0/&gt; Pan</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T201512Z" creationid="beatr" creationdate="20230512T201512Z">
@@ -3624,6 +3688,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the mixture is too crumbly&lt;t0/&gt; - add a little more honey/rice malt syrup and mix again.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131130Z" creationid="mmolc" creationdate="20230525T131130Z">
+        <seg>Si la mezcla está llena de migas,&lt;t0/&gt;añade un poco más de miel/sirope de arroz malteado y vuelve a remover.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If there are still large pieces remaining, blitz for a further 3 s&lt;t0/&gt;econds, speed 5 until finely grated.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T183711Z" creationid="alond" creationdate="20230522T183711Z">
@@ -3651,6 +3723,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
         <seg>If you don't have a Thermomix,&lt;t0/&gt; you can use a blender or food processor.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T160811Z" creationid="mmolc" creationdate="20230522T160811Z">
+        <seg>Si no tienes un aparato Thermomix,&lt;t0/&gt;puedes usar una batidora o un procesador de alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you don't have a Thermomix,&lt;t0/&gt; you can use a blender or food processor.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131135Z" creationid="mmolc" creationdate="20230525T131135Z">
         <seg>Si no tienes un aparato Thermomix,&lt;t0/&gt;puedes usar una batidora o un procesador de alimentos.</seg>
       </tuv>
     </tu>
@@ -4011,6 +4091,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
         <seg>Oats&lt;t0/&gt; - use rolled oats or quick oats.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161055Z" creationid="mmolc" creationdate="20230522T161055Z">
+        <seg>La avena:&lt;t0/&gt;utiliza avena en copos o precocida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oats&lt;t0/&gt; - use rolled oats or quick oats.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131138Z" creationid="mmolc" creationdate="20230525T131138Z">
         <seg>La avena:&lt;t0/&gt;utiliza avena en copos o precocida.</seg>
       </tuv>
     </tu>
@@ -4995,6 +5083,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Roll the mixture into balls.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131058Z" creationid="mmolc" creationdate="20230525T131058Z">
+        <seg>Haz bolitas con la mezcla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Roll the pastry (starting from the edge without the egg) to enclose the fill&lt;t0/&gt;ing.</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171635Z" creationid="raque" creationdate="20230522T171635Z">
@@ -5117,8 +5213,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230519T164249Z" creationid="mmolc" creationdate="20230519T164249Z">
-        <seg> Raspa las paredes de los lados del bol.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131044Z" creationid="mmolc" creationdate="20230519T164249Z">
+        <seg>Raspa las paredes de los lados del bol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5582,6 +5678,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
         <seg>Storing - &lt;t0/&gt;Store in an airtight container in the fridge for up to 5 days.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230522T161335Z" creationid="mmolc" creationdate="20230522T161224Z">
+        <seg>Conservación: &lt;t0/&gt;consérvalos en un recipiente hermético en el frigorífico hasta 5 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Storing - &lt;t0/&gt;Store in an airtight container in the fridge for up to 5 days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T131142Z" creationid="mmolc" creationdate="20230525T131142Z">
         <seg>Conservación: &lt;t0/&gt;consérvalos en un recipiente hermético en el frigorífico hasta 5 días.</seg>
       </tuv>
     </tu>
