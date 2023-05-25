@@ -2272,6 +2272,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;82&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;9&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;5&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated &lt;t16/&gt;Fat&lt;t17/&gt;: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | &lt;t21/&gt;Polyunsaturated&lt;t22/&gt; &lt;t23/&gt;Fat&lt;t24/&gt;: &lt;t25/&gt;0.2&lt;t26/&gt;g&lt;t27/&gt; | &lt;t28/&gt;Monounsaturated&lt;t29/&gt; &lt;t30/&gt;Fat&lt;t31/&gt;: &lt;t32/&gt;1&lt;t33/&gt;g&lt;t34/&gt; | &lt;t35/&gt;Trans Fat: &lt;t36/&gt;0.2&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Cholesterol: &lt;t40/&gt;12&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Sodium: &lt;t44/&gt;37&lt;t45/&gt;mg&lt;t46/&gt; | &lt;t47/&gt;Potassium: &lt;t48/&gt;23&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Fiber: &lt;t52/&gt;0.2&lt;t53/&gt;g&lt;t54/&gt; | &lt;t55/&gt;Sugar: &lt;t56/&gt;4&lt;t57/&gt;g&lt;t58/&gt; | &lt;t59/&gt;Vitamin A: &lt;t60/&gt;136&lt;t61/&gt;IU&lt;t62/&gt; | &lt;t63/&gt;Vitamin&lt;t64/&gt; C: &lt;t65/&gt;0.1&lt;t66/&gt;mg&lt;t67/&gt; | &lt;t68/&gt;Calcium&lt;t69/&gt;: &lt;t70/&gt;14&lt;t71/&gt;mg&lt;t72/&gt; | &lt;t73/&gt;Iron&lt;t74/&gt;: &lt;t75/&gt;0.1&lt;t76/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124840Z" creationid="mmolc" creationdate="20230525T124840Z">
+        <seg>Calorías:&lt;t0/&gt;82&lt;t1/&gt;kcal&lt;t2/&gt;| &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;9&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;5&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas &lt;t16/&gt;saturadas&lt;t17/&gt;: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | &lt;t21/&gt;Grasas&lt;t22/&gt; &lt;t23/&gt;poliinsaturadas&lt;t24/&gt;: &lt;t25/&gt;0.2&lt;t26/&gt;g&lt;t27/&gt; | &lt;t28/&gt;Grasas&lt;t29/&gt; &lt;t30/&gt;monoinsaturadas&lt;t31/&gt;: &lt;t32/&gt;1&lt;t33/&gt;g&lt;t34/&gt; | &lt;t35/&gt;Grasas trans: &lt;t36/&gt;0.2&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Colesterol: &lt;t40/&gt;12&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Sodio: &lt;t44/&gt;37&lt;t45/&gt;mg&lt;t46/&gt; | &lt;t47/&gt;Potasio: &lt;t48/&gt;23&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Fibra: &lt;t52/&gt;0.2&lt;t53/&gt;g&lt;t54/&gt; | &lt;t55/&gt;Azúcares: &lt;t56/&gt;4&lt;t57/&gt;g&lt;t58/&gt; | &lt;t59/&gt;Vitamina A: &lt;t60/&gt;136&lt;t61/&gt;IU&lt;t62/&gt; | &lt;t63/&gt;Vitamina&lt;t64/&gt; C: &lt;t65/&gt;0.1&lt;t66/&gt;mg&lt;t67/&gt; | &lt;t68/&gt;Calcio&lt;t69/&gt;: &lt;t70/&gt;14&lt;t71/&gt;mg&lt;t72/&gt; | &lt;t73/&gt;Hierro&lt;t74/&gt;: &lt;t75/&gt;0.1&lt;t76/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories&lt;t0/&gt;  &lt;t1/&gt;167&lt;t2/&gt;.3&lt;t3/&gt;kcal</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T061625Z" creationid="beatr" creationdate="20230522T061625Z">
@@ -5611,6 +5619,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To make multiple &lt;t0/&gt;flavoured&lt;t1/&gt; biscuits from the one dough, split your dough and place into bowls.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124512Z" creationid="mmolc" creationdate="20230525T124512Z">
+        <seg>Para hacer galletas de varios sabores con la misma masa, divídela y ponla en boles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To make multiple flavoured biscuits from the one dough, split your dough and place into bowls.</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T191235Z" creationid="mmolc" creationdate="20230520T191235Z">
@@ -6027,6 +6043,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add any &lt;t0/&gt;flavourings&lt;t1/&gt; you like to the cookie dough (sprinkles, sultanas, Milo, nuts, peanut butter, Smarties &lt;t2/&gt;etc&lt;t3/&gt;).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124454Z" creationid="mmolc" creationdate="20230525T124454Z">
+        <seg>Puedes añadir cualquier condimento que quieras a la masa de galletas (bolitas multicolores, sultanas, Milo, nueces, mantequilla de cacahuete, lacasitos, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add any flavourings you like to the cookie dough (sprinkles, sultanas, Milo, nuts, peanut butter, Smarties etc).</seg>
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T190513Z" creationid="mmolc" creationdate="20230520T190513Z">
@@ -6087,6 +6111,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T184112Z" creationid="alond" creationdate="20230522T184112Z">
         <seg>Si lo prefieres, puedes prescindir del huevo en esta receta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can make larger biscuits however the baking time will &lt;t0/&gt;vary&lt;t1/&gt; and you will get less cookies.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124519Z" creationid="mmolc" creationdate="20230525T124519Z">
+        <seg>Puedes hacer galletas más grandes, pero el tiempo de horneado variará y obtendrás menos galletas.</seg>
       </tuv>
     </tu>
     <tu>
