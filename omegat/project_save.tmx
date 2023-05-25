@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>395&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;sweetened&lt;t4/&gt; &lt;t5/&gt;condensed&lt;t6/&gt; &lt;t7/&gt;milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T123955Z" creationid="mmolc" creationdate="20230525T123856Z">
+        <seg>395&lt;t0/&gt; &lt;t1/&gt;gramos de leche condensada azucarada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>4 &lt;t0/&gt;sheets&lt;t1/&gt; &lt;t2/&gt;puff&lt;t3/&gt; &lt;t4/&gt;pastry&lt;t5/&gt; &lt;t6/&gt;partially&lt;t7/&gt; &lt;t8/&gt;thawed</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171037Z" creationid="raque" creationdate="20230522T171037Z">
@@ -1290,6 +1298,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230519T133627Z" creationid="mmolc" creationdate="20230519T133605Z">
         <seg>750 gramos de harina leudante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>750&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self-raising&lt;t4/&gt; &lt;t5/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124030Z" creationid="mmolc" creationdate="20230525T124011Z">
+        <seg>300&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de&lt;t4/&gt; &lt;t5/&gt;harina con levadura</seg>
       </tuv>
     </tu>
     <tu>
@@ -4201,6 +4217,15 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preheat oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced). Grease and line 3 baking trays and set aside (or as many trays as will fit in your oven).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124303Z" creationid="mmolc" creationdate="20230525T124303Z">
+        <seg>Precalienta el horno a 180 grados  &lt;t0/&gt;centígrados&lt;t1/&gt; (con ventilador). Aceita y forra 3 bandejas (o cuantas te quepan en el horno) y deja a un lado.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preheat oven to 200 degrees&lt;t0/&gt; &lt;t1/&gt;celsius&lt;t2/&gt; (fan-forced).</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230524T131043Z" creationid="raque" creationdate="20230523T132913Z">
@@ -6086,6 +6111,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T181315Z" creationid="beatr" creationdate="20230520T181315Z">
         <seg>Tu masa será suave, sin embargo, si haces estos rollitos en un clima cálido, sugerimos colocar la masa en la nevera durante 20 minutos para endurecerla antes de cortar..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>any &lt;t0/&gt;flavourings&lt;t1/&gt; or add-ins you like (see notes)</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124057Z" creationid="mmolc" creationdate="20230525T124057Z">
+        <seg>cualquier&lt;t0/&gt;condimento&lt;t1/&gt; o añadido que desees (mirar en Notas)</seg>
       </tuv>
     </tu>
     <tu>
