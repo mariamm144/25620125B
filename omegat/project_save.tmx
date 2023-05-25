@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;cocoa</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125822Z" creationid="mmolc" creationdate="20230525T125822Z">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;cucharita&lt;t2/&gt; &lt;t3/&gt;de cacao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;ground&lt;t4/&gt; &lt;t5/&gt;cinnamon</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T062716Z" creationid="beatr" creationdate="20230522T062716Z">
@@ -640,8 +648,8 @@
       <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;vanilla&lt;t4/&gt; &lt;t5/&gt;extract</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125130Z" creationid="beatr" creationdate="20230521T053538Z">
-        <seg>&lt;t0/&gt;       &lt;t1/&gt;1 cucharadita de extracto de vainilla</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125714Z" creationid="beatr" creationdate="20230521T053538Z">
+        <seg>1 cucharadita de extracto de vainilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>200&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;self&lt;t4/&gt; &lt;t5/&gt;raising&lt;t6/&gt; &lt;t7/&gt;flour</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125803Z" creationid="mmolc" creationdate="20230525T125803Z">
+        <seg>200&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de harina&lt;t4/&gt; &lt;t5/&gt;con&lt;t6/&gt; &lt;t7/&gt;levadura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>200g g &lt;t0/&gt;self&lt;t1/&gt; &lt;t2/&gt;raising&lt;t3/&gt; &lt;t4/&gt;flour</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230522T175752Z" creationid="alond" creationdate="20230522T175752Z">
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230525T125119Z" creationid="beatr" creationdate="20230522T062454Z">
         <seg>&lt;t0/&gt;       &lt;t1/&gt;2 huevos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;eggs&lt;t2/&gt; &lt;t3/&gt;70 &lt;t4/&gt;gram&lt;t5/&gt; &lt;t6/&gt;eggs</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125737Z" creationid="mmolc" creationdate="20230525T125737Z">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;huevos&lt;t2/&gt; &lt;t3/&gt;70 &lt;t4/&gt;gramos&lt;t5/&gt; &lt;t6/&gt;de huevo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1398,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>80&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125722Z" creationid="mmolc" creationdate="20230525T125722Z">
+        <seg>80&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de leche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>9.&lt;t0/&gt;              &lt;t1/&gt;Place the cut out sugar cookies onto your prepared trays and continue until all of the dough has been used.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
@@ -1618,6 +1650,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T143358Z" creationid="alond" creationdate="20230502T143358Z">
         <seg>&lt;t2/&gt;Rebaña&lt;t3/&gt; &lt;t4/&gt;los&lt;t5/&gt; &lt;t6/&gt;laterales&lt;t7/&gt; &lt;t8/&gt;del vaso&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;Set aside &lt;t3/&gt;until&lt;t4/&gt; &lt;t5/&gt;needed&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125910Z" creationid="mmolc" creationdate="20230525T125910Z">
+        <seg>Déjalo apartado hasta que se necesite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,6 +4184,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the butter and caster sugar into your Thermomix bowl and mix for 30 seconds, Speed 3. Scrape down the sides of the bowl and mix for a further 20 seconds, Speed 3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T130010Z" creationid="mmolc" creationdate="20230525T130010Z">
+        <seg>Coloca la mantequilla en el cuenco de Thermomix  y remuévela durante 30 segundos a velocidad 3. Raspa las paredes de los lados del bol y mezcla durante otros 20 segundos a velocidad 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the butter into the Thermomix bowl (don't worry about cleaning it) and melt for 1 minute, 100 degrees, Speed 3.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T153047Z" creationid="beatr" creationdate="20230522T153047Z">
@@ -4470,6 +4518,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230525T125208Z" creationid="mmolc" creationdate="20230525T125208Z">
         <seg>Precalienta el horno a 180 grados centígrados (con ventilador) y forra con papel de hornear una bandeja con 12 huecos para muffins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preheat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line a 20cm round baking tin with baking paper.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125907Z" creationid="mmolc" creationdate="20230525T125907Z">
+        <seg>Precalienta el horno a 180 grados centígrados (con ventilador) y forra un molde redondo de 20 cm con papel de cocina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6503,6 +6559,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T134714Z" creationid="raque" creationdate="20230523T134714Z">
         <seg>Una pizca de&lt;t0/&gt; &lt;t1/&gt;sal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>pink&lt;t0/&gt; &lt;t1/&gt;food&lt;t2/&gt; &lt;t3/&gt;colouring</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125835Z" creationid="mmolc" creationdate="20230525T125835Z">
+        <seg>colorante alimentario rosa</seg>
       </tuv>
     </tu>
     <tu>
