@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>110&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125057Z" creationid="mmolc" creationdate="20230525T125057Z">
+        <seg>110&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de azúcar&lt;t4/&gt; &lt;t5/&gt;molido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>12.&lt;t0/&gt;           &lt;t1/&gt;Once cool, decorate as desired.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
@@ -616,8 +624,8 @@
       <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;vanilla&lt;t4/&gt; &lt;t5/&gt;extract</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053538Z" creationid="beatr" creationdate="20230521T053538Z">
-        <seg>·&lt;t0/&gt;       &lt;t1/&gt;1 cucharadita de extracto de vainilla</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125130Z" creationid="beatr" creationdate="20230521T053538Z">
+        <seg>&lt;t0/&gt;       &lt;t1/&gt;1 cucharadita de extracto de vainilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +840,8 @@
       <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;eggs</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062454Z" creationid="beatr" creationdate="20230522T062454Z">
-        <seg>·&lt;t0/&gt;       &lt;t1/&gt;2 huevos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125119Z" creationid="beatr" creationdate="20230522T062454Z">
+        <seg>&lt;t0/&gt;       &lt;t1/&gt;2 huevos</seg>
       </tuv>
     </tu>
     <tu>
@@ -942,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>300&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;blueberries&lt;t4/&gt; – &lt;t5/&gt;fresh&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;frozen</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125155Z" creationid="mmolc" creationdate="20230525T125155Z">
+        <seg>&lt;t0/&gt;       &lt;t1/&gt;300 gramos de arándanos, frescos o congelados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>300&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;plain&lt;t4/&gt; &lt;t5/&gt;flour</seg>
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T134749Z" creationid="raque" creationdate="20230523T134749Z">
@@ -970,6 +986,14 @@
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T132338Z" creationid="raque" creationdate="20230523T132338Z">
         <seg>350 &lt;t0/&gt;ml&lt;t1/&gt; &lt;t2/&gt;de agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>375&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;milk</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125107Z" creationid="mmolc" creationdate="20230525T125107Z">
+        <seg>375&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de leche</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t4/&gt;Scrape&lt;t5/&gt; &lt;t6/&gt;down&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125233Z" creationid="mmolc" creationdate="20230525T125233Z">
+        <seg> Raspa las paredes del bol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A simple Thermomix Easter Egg Slice filled with yum&lt;t0/&gt;my chocolate Easter eggs... and it's completely no-bake!!</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230524T112643Z" creationid="raque" creationdate="20230522T163125Z">
@@ -1694,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the blueberries and gently stir through using your spatula.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125243Z" creationid="mmolc" creationdate="20230525T125243Z">
+        <seg>Añade los arándanos y remuévelo suavemente con la espátula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the chocolate chips and mix for 5-10 seconds, Reverse, Speed 4 or until just combined.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T154313Z" creationid="beatr" creationdate="20230522T154313Z">
@@ -1794,6 +1834,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230522T154115Z" creationid="beatr" creationdate="20230522T154115Z">
         <seg>Añadir la harina, el azúcar, la levadura en polvo, el bicarbonato, la canela y la sal y mezclar durante 5 segundos a la velocidad 4 (utiliza la espátula para mezclar).&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the self-&lt;t0/&gt;raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;eggs&lt;t3/&gt; and vanilla extract and mix for 10 seconds, Speed 5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125230Z" creationid="mmolc" creationdate="20230525T125230Z">
+        <seg>Añade la harina con levadura, el azúcar molido, leche, huevos el extracto de vainilla, y remueve durante 10 segundos a velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2264,6 +2312,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Calories: &lt;t0/&gt;283&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;37&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;6&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;12&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;7&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Polyunsaturated Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Monounsaturated Fat: &lt;t24/&gt;3&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Trans Fat: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Cholesterol: &lt;t32/&gt;57&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodium: &lt;t36/&gt;114&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potassium: &lt;t40/&gt;106&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fiber: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Sugar: &lt;t48/&gt;13&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamin A: &lt;t52/&gt;417&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Vitamin C: &lt;t56/&gt;2&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Calcium: &lt;t60/&gt;49&lt;t61/&gt;mg&lt;t62/&gt; | &lt;t63/&gt;Iron: &lt;t64/&gt;1&lt;t65/&gt;mg</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125457Z" creationid="mmolc" creationdate="20230525T125457Z">
+        <seg>Calorías: &lt;t0/&gt;283&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;37&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;6&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;12&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;7&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasas poliinsaturadas: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Grasas monoinsaturadas: &lt;t24/&gt;3&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Grasas trans: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Colesterol: &lt;t32/&gt;57&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodio: &lt;t36/&gt;114&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potasio: &lt;t40/&gt;106&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fibra: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Azúcares: &lt;t48/&gt;13&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamina A: &lt;t52/&gt;417&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Vitamina C: &lt;t56/&gt;2&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Calcio: &lt;t60/&gt;49&lt;t61/&gt;mg&lt;t62/&gt; | &lt;t63/&gt;Hierro: &lt;t64/&gt;1&lt;t65/&gt;mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;296&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;65&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;1&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Sodium: &lt;t20/&gt;15&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Potassium: &lt;t24/&gt;62&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fiber: &lt;t28/&gt;2&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Calcium: &lt;t32/&gt;15&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Iron: &lt;t36/&gt;1&lt;t37/&gt;mg</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T131910Z" creationid="beatr" creationdate="20230520T125209Z">
@@ -2484,6 +2540,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T165854Z" creationid="raque" creationdate="20230522T165854Z">
         <seg>Elige tus mini huevos de Pascua favoritos - Yo recomiendo usar huevos moteados crujientes de M&amp;Ms ya que se cortan fácilmente y son brillantes y coloridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chop the butter and place into your Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125216Z" creationid="mmolc" creationdate="20230525T125216Z">
+        <seg>Pica la mantequilla y ponla en el bol de la Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4362,6 +4426,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preheat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line a 12-hole muffin tray with paper cases.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125208Z" creationid="mmolc" creationdate="20230525T125208Z">
+        <seg>Precalienta el horno a 180 grados centígrados (con ventilador) y forra con papel de hornear una bandeja con 12 huecos para muffins.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line an oven tray with baking paper.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230520T174122Z" creationid="beatr" creationdate="20230520T174122Z">
@@ -5063,6 +5135,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230522T171708Z" creationid="raque" creationdate="20230522T171708Z">
         <seg>Corta los rollitos de espinacas y ricotta en cuatro partes iguales y pincélalos con un poco más del huevo batido y espolvoréalos con semillas de sésamo si lo deseas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spoon the mixture into the prepared muffin tin (filling to ⅔ full) and bake for 18-20 minutes or until golden and cooked through when tested with a skewer.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125250Z" creationid="mmolc" creationdate="20230525T125250Z">
+        <seg>Vierte la mezcla en el molde para muffins (llenándolo hasta ⅔ de su capacidad) y hornea durante 18-20 minutos o hasta que se doren y estén hechos al probarlos con una brocheta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6119,6 +6199,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="mmolc" changedate="20230520T190513Z" creationid="mmolc" creationdate="20230520T190513Z">
         <seg>Puedes añadir cualquier condimento que quieras a la masa de galletas (bolitas multicolores, sultanas, Milo, nueces, mantequilla de cacahuete, lacasitos, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use &lt;t0/&gt;greek&lt;t1/&gt; or vanilla yoghurt in place of milk for this recipe.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T125300Z" creationid="mmolc" creationdate="20230525T125300Z">
+        <seg>También puedes utilizar yogur griego o de vainilla en lugar de leche para esta receta.</seg>
       </tuv>
     </tu>
     <tu>
