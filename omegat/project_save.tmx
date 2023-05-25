@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0/&gt;Press&lt;t1/&gt; &lt;t2/&gt;down&lt;t3/&gt; &lt;t4/&gt;lightly&lt;t5/&gt; &lt;t6/&gt;with&lt;t7/&gt; a &lt;t8/&gt;fork&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124427Z" creationid="mmolc" creationdate="20230525T124427Z">
+        <seg>&lt;t0/&gt;Presiónalo ligeramente con un tenedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0/&gt;Rinse&lt;t1/&gt; &lt;t2/&gt;under&lt;t3/&gt; &lt;t4/&gt;cold&lt;t5/&gt; &lt;t6/&gt;water&lt;t7/&gt;.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230512T203428Z" creationid="beatr" creationdate="20230512T203428Z">
@@ -1582,10 +1590,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add 250g of the self-&lt;t0/&gt;raising&lt;t1/&gt; flour and mix for 20 seconds, Speed 6.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124335Z" creationid="mmolc" creationdate="20230525T124335Z">
+        <seg>Añade 250g de harina con levadura remuévelo durante 20 segundos, a velocidad 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add &lt;t0/&gt;all of&lt;t1/&gt; the remaining ingredients to the Thermomix bowl.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230502T143234Z" creationid="alond" creationdate="20230502T143234Z">
         <seg>Añade &lt;t0/&gt;el resto de&lt;t1/&gt; ingredientes dentro del vaso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add another 250g of the self-&lt;t2/&gt;raising&lt;t3/&gt; flour and mix for a further 20 seconds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124343Z" creationid="mmolc" creationdate="20230525T124343Z">
+        <seg>Añade otros 250g de harina con levadura y remuévelo durante 20 segundos más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,6 +1690,14 @@
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230524T113601Z" creationid="raque" creationdate="20230522T164417Z">
         <seg>Añade el coco y las galletas trituradas y mezcla durante 10 segundos, a la velocidad 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add the condensed milk and mix for 30 seconds, Speed 5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124328Z" creationid="mmolc" creationdate="20230525T124328Z">
+        <seg>Añade la leche condensada y remuévelo durante 30 segundos, a velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,6 +1954,14 @@
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230519T154129Z" creationid="alond" creationdate="20230519T154129Z">
         <seg>Autoras&lt;t0/&gt;Lucy&lt;t1/&gt; y Lauren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bake for 10-12 minutes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124441Z" creationid="mmolc" creationdate="20230525T124441Z">
+        <seg>Hornear durante 10-12 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,6 +3064,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Divide the cookie dough between bowls and &lt;t0/&gt;flavour&lt;t1/&gt; however you'd like (see notes).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124354Z" creationid="mmolc" creationdate="20230525T124354Z">
+        <seg>Divide la masa de las galletas entre los cuencos y condimenta a tu gusto (ver en Notas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Divide the dough into 8 equal pieces and roll out into flat ovals.</seg>
       </tuv>
       <tuv lang="es" changeid="alond" changedate="20230509T142454Z" creationid="alond" creationdate="20230509T142454Z">
@@ -3920,6 +3968,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the butter and caster sugar into the Thermomix bowl.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124314Z" creationid="mmolc" creationdate="20230525T124314Z">
+        <seg>Coloca la mantequilla y el azúcar glas en el cuenco de Thermomix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the butter and caster sugar into your Thermomix bowl and mix for 15 seconds, speed 3 to combine.</seg>
       </tuv>
       <tuv lang="es" changeid="beatr" changedate="20230521T055149Z" creationid="beatr" creationdate="20230521T054818Z">
@@ -4527,6 +4583,14 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       </tuv>
       <tuv lang="es" changeid="raque" changedate="20230523T131459Z" creationid="raque" creationdate="20230523T131459Z">
         <seg>Haz bolas y aplástalas en forma de círculo u óvalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Roll into teaspoon-sized balls and place onto the prepared baking trays.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mmolc" changedate="20230525T124400Z" creationid="mmolc" creationdate="20230525T124400Z">
+        <seg>Forma bolas del tamaño de una cucharadita y colócalas en las bandejas de horno preparadas..</seg>
       </tuv>
     </tu>
     <tu>
