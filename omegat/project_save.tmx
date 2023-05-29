@@ -568,8 +568,8 @@
       <tuv lang="en">
         <seg>170&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T123836Z" creationid="mmolc" creationdate="20230525T123836Z">
-        <seg>170&lt;t0/&gt; &lt;t1/&gt;gramos de azúcar molido</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091702Z" creationid="mmolc" creationdate="20230525T123836Z">
+        <seg>170&lt;t0/&gt; &lt;t1/&gt;gramos de azúcar molida</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="en">
         <seg>3 x &lt;t0/&gt;Baking&lt;t1/&gt; &lt;t2/&gt;Trays</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T123713Z" creationid="mmolc" creationdate="20230525T123713Z">
-        <seg>3 x &lt;t0/&gt;bandejas para hornear</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091653Z" creationid="mmolc" creationdate="20230525T123713Z">
+        <seg>3 &lt;t0/&gt;bandejas para hornear</seg>
       </tuv>
     </tu>
     <tu>
@@ -2858,8 +2858,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt;12&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053159Z" creationid="beatr" creationdate="20230521T053159Z">
-        <seg>Tiempo de cocina&lt;t0/&gt;12&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091635Z" creationid="beatr" creationdate="20230521T053159Z">
+        <seg>Tiempo de coción&lt;t0/&gt;12&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,8 +3098,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt;Biscuits&lt;t1/&gt;, Biscuits and Cookies, cookies</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T121552Z" creationid="mmolc" creationdate="20230525T121552Z">
-        <seg>Corriente: Galletas</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091617Z" creationid="mmolc" creationdate="20230525T121552Z">
+        <seg>Tipo de plato Galletas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,8 +3994,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Mix for 1 minute, Speed 5 (scrape down the sides after 30 seconds).</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230519T134714Z" creationid="mmolc" creationdate="20230519T134714Z">
-        <seg>Remuévelo durante 1 minuto a la velocidad 5 (raspa los laterales del cuenco pasados los 30 segundos).</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091758Z" creationid="mmolc" creationdate="20230519T134714Z">
+        <seg>Remuévelo durante 1 minuto a la velocidad 5 (raspa los laterales del bol pasados los 30 segundos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,8 +4402,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter and caster sugar into the Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124314Z" creationid="mmolc" creationdate="20230525T124314Z">
-        <seg>Coloca la mantequilla y el azúcar glas en el cuenco de Thermomix.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091750Z" creationid="mmolc" creationdate="20230525T124314Z">
+        <seg>Coloca la mantequilla y el azúcar glas en el bol de Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4731,8 +4731,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced). Grease and line 3 baking trays and set aside (or as many trays as will fit in your oven).</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124303Z" creationid="mmolc" creationdate="20230525T124303Z">
-        <seg>Precalienta el horno a 180 grados  &lt;t0/&gt;centígrados&lt;t1/&gt; (con ventilador). Aceita y forra 3 bandejas (o cuantas te quepan en el horno) y deja a un lado.
+      <tuv lang="es" changeid="alond" changedate="20230529T091742Z" creationid="mmolc" creationdate="20230525T124303Z">
+        <seg>Precalienta el horno a 180 grados  &lt;t0/&gt;centígrados&lt;t1/&gt; (con ventilador). Engrasa y forra 3 bandejas (o cuantas te quepan en el horno) y deja a un lado.
 </seg>
       </tuv>
     </tu>
