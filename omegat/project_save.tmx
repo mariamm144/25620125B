@@ -360,8 +360,8 @@
       <tuv lang="en">
         <seg>110&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125057Z" creationid="mmolc" creationdate="20230525T125057Z">
-        <seg>110&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de azúcar&lt;t4/&gt; &lt;t5/&gt;molido</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092111Z" creationid="mmolc" creationdate="20230525T125057Z">
+        <seg>110&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de azúcar&lt;t4/&gt; &lt;t5/&gt;molida</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +928,8 @@
       <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;eggs</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125119Z" creationid="beatr" creationdate="20230522T062454Z">
-        <seg>&lt;t0/&gt;       &lt;t1/&gt;2 huevos</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092127Z" creationid="beatr" creationdate="20230522T062454Z">
+        <seg>2&lt;t0/&gt;  &lt;t1/&gt;huevos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1064,8 +1064,8 @@
       <tuv lang="en">
         <seg>300&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;blueberries&lt;t4/&gt; – &lt;t5/&gt;fresh&lt;t6/&gt; &lt;t7/&gt;or&lt;t8/&gt; &lt;t9/&gt;frozen</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125155Z" creationid="mmolc" creationdate="20230525T125155Z">
-        <seg>&lt;t0/&gt;       &lt;t1/&gt;300 gramos de arándanos, frescos o congelados</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092252Z" creationid="mmolc" creationdate="20230525T125155Z">
+        <seg>300&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de arándanos,&lt;t4/&gt; &lt;t5/&gt;frescos&lt;t6/&gt; &lt;t7/&gt;o&lt;t8/&gt; &lt;t9/&gt;congelados</seg>
       </tuv>
     </tu>
     <tu>
@@ -2930,8 +2930,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook for 3 minutes, 60 degrees, Speed 2, or until melted.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230522T153103Z" creationid="mmolc" creationdate="20230520T200607Z">
-        <seg>Cocina durante 3 minutos, a 60 grados, a velocidad 2, o hasta que se derrita.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092349Z" creationid="mmolc" creationdate="20230520T200607Z">
+        <seg>Cocina durante 3 minutos, a 60 grados Velocidad 2, o hasta que se derrita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4772,8 +4772,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line a 12-hole muffin tray with paper cases.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125208Z" creationid="mmolc" creationdate="20230525T125208Z">
-        <seg>Precalienta el horno a 180 grados centígrados (con ventilador) y forra con papel de hornear una bandeja con 12 huecos para muffins.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092312Z" creationid="mmolc" creationdate="20230525T125208Z">
+        <seg>Precalienta el horno a 180 grados centígrados (con ventilador) y forra con papel de hornear una bandeja con 12 huecos para magadalenas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5869,8 +5869,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Thermomix Blueberry Muffins</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230520T195045Z" creationid="mmolc" creationdate="20230520T195045Z">
-        <seg>Muffins de arándanos con Thermomix</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092326Z" creationid="mmolc" creationdate="20230520T195045Z">
+        <seg>Magadalenas de arándanos con Thermomix</seg>
       </tuv>
     </tu>
     <tu>
