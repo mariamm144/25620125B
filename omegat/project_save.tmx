@@ -1784,8 +1784,8 @@
       <tuv lang="en">
         <seg>Add 250g of the self-&lt;t0/&gt;raising&lt;t1/&gt; flour and mix for 20 seconds, Speed 6.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124335Z" creationid="mmolc" creationdate="20230525T124335Z">
-        <seg>Añade 250g de harina con levadura remuévelo durante 20 segundos, a velocidad 6.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091815Z" creationid="mmolc" creationdate="20230525T124335Z">
+        <seg>Añade 250g de harina con levadura  y remueve durante 20 segundos, a velocidad 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1816,8 +1816,8 @@
       <tuv lang="en">
         <seg>Add another 250g of the self-&lt;t2/&gt;raising&lt;t3/&gt; flour and mix for a further 20 seconds.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124343Z" creationid="mmolc" creationdate="20230525T124343Z">
-        <seg>Añade otros 250g de harina con levadura y remuévelo durante 20 segundos más.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091827Z" creationid="mmolc" creationdate="20230525T124343Z">
+        <seg>Añade otros 250g de harina con levadura y remueve durante 20 segundos más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3154,8 +3154,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt;healthy&lt;t1/&gt; snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124916Z" creationid="mmolc" creationdate="20230525T124916Z">
-        <seg>Corriente:&lt;t0/&gt;tentempiés&lt;t1/&gt;saludables</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092029Z" creationid="mmolc" creationdate="20230525T124916Z">
+        <seg>Tipo de plato&lt;t0/&gt;tentempiés&lt;t1/&gt;saludables</seg>
       </tuv>
     </tu>
     <tu>
@@ -3306,8 +3306,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt;Western</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124921Z" creationid="alond" creationdate="20230519T154022Z">
-        <seg>Cocina:&lt;t0/&gt;Occidente</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092039Z" creationid="alond" creationdate="20230519T154022Z">
+        <seg>Cocina&lt;t0/&gt;Occidente</seg>
       </tuv>
     </tu>
     <tu>
