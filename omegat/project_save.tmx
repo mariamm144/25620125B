@@ -688,8 +688,8 @@
       <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;vanilla&lt;t4/&gt; &lt;t5/&gt;extract</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125714Z" creationid="beatr" creationdate="20230521T053538Z">
-        <seg>1 cucharadita de extracto de vainilla</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T090339Z" creationid="beatr" creationdate="20230521T053538Z">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de extracto de&lt;t4/&gt; &lt;t5/&gt;vainilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,8 +2232,8 @@
       <tuv lang="en">
         <seg>Baking&lt;t0/&gt; &lt;t1/&gt;Trays&lt;t2/&gt; x 2</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053417Z" creationid="beatr" creationdate="20230521T053417Z">
-        <seg>bandejas de horno x 2</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T090232Z" creationid="beatr" creationdate="20230521T053417Z">
+        <seg>Bbandejas de horno x 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,8 +3114,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt;Dessert</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T134523Z" creationid="raque" creationdate="20230523T134523Z">
-        <seg>Plato&lt;t0/&gt;Postre</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T090135Z" creationid="raque" creationdate="20230523T134523Z">
+        <seg>Tipo de plato&lt;t0/&gt;Postre</seg>
       </tuv>
     </tu>
     <tu>
@@ -6125,8 +6125,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>This easy Thermomix Sugar Cookies Recipe makes PERFECT cut out biscuits that everyone will love to decorate - and eat!</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230519T160259Z" creationid="mmolc" creationdate="20230519T160259Z">
-        <seg>¡Esta receta Thermomix de galletas con azúcar permite elaborar galletas con un recorte PERFECTO que todos disfrutarán decorando y comiendo!</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T090123Z" creationid="mmolc" creationdate="20230519T160259Z">
+        <seg>¡Esta fácil receta Thermomix de galletas con azúcar permite elaborar galletas con un recorte PERFECTO que todos disfrutarán decorando y comiendo!</seg>
       </tuv>
     </tu>
     <tu>
