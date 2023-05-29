@@ -4210,8 +4210,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Our super easy Thermomix Condensed Milk Cookies are the perfect biscuit jar filler!</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230519T130937Z" creationid="mmolc" creationdate="20230519T130937Z">
-        <seg>¡Nuestras galletas súper fáciles de leche condensada con Thermomix son perfectas para llenar el bote!</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091425Z" creationid="mmolc" creationdate="20230519T130937Z">
+        <seg>¡Nuestras facilísimas galletas de leche condensada con Thermomix son perfectas para llenar el bote de galletas!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6637,8 +6637,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>You can add 100s and 1000s to the dough, mix through with a spatula before chilling the dough in the fridge.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230505T114955Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
-        <seg>Puedes añadir bolitas multicolores de repostería a la masa, mezclar con una espátula antes de enfriar la masa en la nevera.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T091234Z" creationid="OmegaT Aligner" creationdate="20230505T114955Z">
+        <seg>Puedes añadir bolitas multicolores de repostería a la masa y mezclarla con una espátula antes de enfriar la masa en la nevera.</seg>
       </tuv>
     </tu>
     <tu>
