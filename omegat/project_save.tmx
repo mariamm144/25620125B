@@ -1280,8 +1280,8 @@
       <tuv lang="en">
         <seg>50 g apple cored and chopped (&lt;t0/&gt;approx&lt;t1/&gt; ½ an apple)</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175729Z" creationid="alond" creationdate="20230522T175729Z">
-        <seg>50 g manzana sin corazón y troceada (&lt;t0/&gt;aprox.&lt;t1/&gt; ½ manzana)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T204015Z" creationid="alond" creationdate="20230522T175729Z">
+        <seg>50 g de manzana sin pepitas y troceada (&lt;t0/&gt;aprox.&lt;t1/&gt; ½ manzana)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1400,8 @@
       <tuv lang="en">
         <seg>60 g &lt;t0/&gt;butter</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175654Z" creationid="alond" creationdate="20230522T175654Z">
-        <seg>60 g &lt;t0/&gt;mantequilla</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T203704Z" creationid="alond" creationdate="20230522T175654Z">
+        <seg>60 g &lt;t0/&gt;de mantequilla</seg>
       </tuv>
     </tu>
     <tu>
