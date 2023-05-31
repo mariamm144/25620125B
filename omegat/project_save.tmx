@@ -2096,8 +2096,8 @@
       <tuv lang="en">
         <seg>Allow to rest and cool before cutting.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T174236Z" creationid="alond" creationdate="20230522T174236Z">
-        <seg>Deje reposar y enfriar antes de cortar.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T175757Z" creationid="alond" creationdate="20230522T174236Z">
+        <seg>Deja reposar y enfriar antes de cortarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,8 +3802,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>If&lt;t0/&gt; &lt;t1/&gt;using&lt;t2/&gt; a &lt;t3/&gt;water&lt;t4/&gt; &lt;t5/&gt;tray</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T174255Z" creationid="alond" creationdate="20230522T174255Z">
-        <seg>Si&lt;t0/&gt; &lt;t1/&gt;utiliza&lt;t2/&gt; una &lt;t3/&gt;bandeja de agua&lt;t4/&gt; &lt;t5/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T175957Z" creationid="alond" creationdate="20230522T174255Z">
+        <seg>Si&lt;t0/&gt; &lt;t1/&gt;utilizas&lt;t2/&gt; una &lt;t3/&gt;bandeja de agua&lt;t4/&gt; &lt;t5/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
