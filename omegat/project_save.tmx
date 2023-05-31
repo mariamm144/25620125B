@@ -1872,16 +1872,16 @@
       <tuv lang="en">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, milk, vanilla extract, &lt;t2/&gt;ba&lt;t3/&gt;nana&lt;t4/&gt; and egg and mix for 10 seconds, Speed 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180058Z" creationid="alond" creationdate="20230522T180058Z">
-        <seg>Añade la &lt;t0/&gt;harina con levadura&lt;t1/&gt;, la leche, el extracto de vainilla, el &lt;t2/&gt;plá&lt;t3/&gt;tano&lt;t4/&gt; y el huevo y mezcla durante 10 segundos, Velocidad 5.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T205100Z" creationid="alond" creationdate="20230522T180058Z">
+        <seg>Añade la &lt;t0/&gt;harina con levadura&lt;t1/&gt;, la leche, el extracto de vainilla, el &lt;t2/&gt;plá&lt;t3/&gt;tano&lt;t4/&gt; y el huevo y mezcla durante 10 segundos, velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Add the apple (which has been cut into chunks) and mix for 4 seconds, Speed 5, to grate.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180013Z" creationid="alond" creationdate="20230522T180013Z">
-        <seg>Añade la manzana cortada en trozos y mezcla durante 4 segundos, Velocidad 5, para rallar.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T205020Z" creationid="alond" creationdate="20230522T180013Z">
+        <seg>Añade la manzana cortada en trozos y mezcla durante 4 segundos, velocidad 5, para rallar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5189,8 +5189,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180148Z" creationid="alond" creationdate="20230522T180116Z">
-        <seg>Raspa las paredes de los lados del bol y mezcla durante otros 5 minutos en la velocidad 5.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T205119Z" creationid="alond" creationdate="20230522T180116Z">
+        <seg>Raspa las paredes de los lados del vaso y mezcla durante otros 5 minutos, velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
