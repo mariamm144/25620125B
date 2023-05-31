@@ -2850,8 +2850,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt;10 &lt;t1/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175557Z" creationid="alond" creationdate="20230522T175557Z">
-        <seg>Tiempo de coción&lt;t0/&gt;10 &lt;t1/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T182928Z" creationid="alond" creationdate="20230522T175557Z">
+        <seg>Tiempo de cocción&lt;t0/&gt;10 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
