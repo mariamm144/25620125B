@@ -576,8 +576,8 @@
       <tuv lang="en">
         <seg>170&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;milk</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173830Z" creationid="beatr" creationdate="20230520T173830Z">
-        <seg>170&lt;t0/&gt; &lt;t1/&gt;gramos&lt;t2/&gt; &lt;t3/&gt;de leche</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121517Z" creationid="beatr" creationdate="20230520T173830Z">
+        <seg>170&lt;t0/&gt; &lt;t1/&gt;ml&lt;t2/&gt; &lt;t3/&gt;de leche</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,8 +1664,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Sprinkle&lt;t1/&gt; &lt;t2/&gt;the&lt;t3/&gt; &lt;t4/&gt;cheese&lt;t5/&gt; - reserve &lt;t6/&gt;approximately&lt;t7/&gt; ¼ cup &lt;t8/&gt;of&lt;t9/&gt; &lt;t10/&gt;cheese&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T175611Z" creationid="beatr" creationdate="20230520T175611Z">
-        <seg>&lt;t0/&gt;Esplvoreamos&lt;t1/&gt; &lt;t2/&gt;el queso&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; - reserva &lt;t6/&gt;aproximadamente&lt;t7/&gt; ¼ taza &lt;t8/&gt;de&lt;t9/&gt; &lt;t10/&gt;queso&lt;t11/&gt;.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121645Z" creationid="beatr" creationdate="20230520T175611Z">
+        <seg>&lt;t0/&gt;Espolvorea&lt;t1/&gt; &lt;t2/&gt;el queso&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;, reserva &lt;t6/&gt;aproximadamente&lt;t7/&gt; ¼ taza &lt;t8/&gt;de&lt;t9/&gt; &lt;t10/&gt;queso&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="en">
         <seg>Add the milk and mix for 7 seconds on Speed 4 to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T174803Z" creationid="beatr" creationdate="20230520T174803Z">
-        <seg>Añade la leche y mezclar durante 7 segundos a la velocidad 4.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121557Z" creationid="beatr" creationdate="20230520T174803Z">
+        <seg>Añade la leche y mezcla durante 7 segundos a la velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2224,8 +2224,8 @@
       <tuv lang="en">
         <seg>Baking&lt;t0/&gt; &lt;t1/&gt;Tray</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173624Z" creationid="beatr" creationdate="20230520T173624Z">
-        <seg>bandeja&lt;t0/&gt; &lt;t1/&gt;de horno</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121458Z" creationid="beatr" creationdate="20230520T173624Z">
+        <seg>Una bandeja&lt;t0/&gt; &lt;t1/&gt;de horno</seg>
       </tuv>
     </tu>
     <tu>
@@ -4506,8 +4506,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the flour, butter and salt into the Thermomix bowl and mix for 10 seconds on Speed 9 until mixture is the same consistency as &lt;t0/&gt;bread crumbs&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T174632Z" creationid="beatr" creationdate="20230520T174632Z">
-        <seg> del Poner la harina ¡, la mantequilla y la sal en el bowl de la Thermomix y mezcla durante 10 segundos a la velocidad 9 hasta que la mezcla tenga la misma consistencia &lt;t0/&gt;de pan rallado&lt;t1/&gt;.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121552Z" creationid="beatr" creationdate="20230520T174632Z">
+        <seg>Pon la harina, la mantequilla y la sal en el bol de la Thermomix y mezcla durante 10 segundos a la velocidad 9 hasta que la mezcla tenga la misma consistencia &lt;t0/&gt;que el pan rallado&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5253,8 +5253,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Select the Kneading Function and mix for 2 minutes.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T174857Z" creationid="beatr" creationdate="20230520T174857Z">
-        <seg>Selectciona la función de amasar y mezcla por dos minutos.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121604Z" creationid="beatr" creationdate="20230520T174857Z">
+        <seg>Selecciona la función de amasar y mezcla por dos minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5573,8 +5573,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Spread the Vegemite over the dough, leaving a 2cm gap around the edges.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T175444Z" creationid="beatr" creationdate="20230520T175444Z">
-        <seg>Unta la vegemite sobre la masa, dejando un hueco ce 2 centímetros alrededor de los bordes.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121626Z" creationid="beatr" creationdate="20230520T175444Z">
+        <seg>Unta la vegemite sobre la masa, dejando un hueco de 2 centímetros alrededor de los bordes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6477,8 +6477,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Turn the dough out onto a floured bench and using a rolling pin, roll the dough out until you have a 30cm x 40cm rectangle.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T175001Z" creationid="beatr" creationdate="20230520T175001Z">
-        <seg>Volcar la masa sobre un banco enharinado y, con ayuda de un rodillo, extenderla hasta obtener un rectángulo de 30 cm x 40 cm.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121620Z" creationid="beatr" creationdate="20230520T175001Z">
+        <seg>Vuelca la masa sobre un banco enharinado y, con ayuda de un rodillo, extiéndela hasta obtener un rectángulo de 30 cm x 40 cm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7189,8 +7189,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>½&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;salt&lt;t4/&gt; &lt;t5/&gt;optional</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173814Z" creationid="beatr" creationdate="20230520T173814Z">
-        <seg>½ cucharadita de sal opcional</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121510Z" creationid="beatr" creationdate="20230520T173814Z">
+        <seg>Media cucharadita de sal (opcional)</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
