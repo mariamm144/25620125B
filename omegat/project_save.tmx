@@ -1832,8 +1832,8 @@
       <tuv lang="en">
         <seg>Add as much or as little as you like to suit your taste preferences.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172022Z" creationid="alond" creationdate="20230522T172022Z">
-        <seg>Añade la cantidad que desee según sus preferencias.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171511Z" creationid="alond" creationdate="20230522T172022Z">
+        <seg>Añade la cantidad que desees según sus preferencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4242,8 +4242,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place &lt;t0/&gt;all of&lt;t1/&gt; the ingredients into your Thermomix bowl and blend for 3 minutes, Speed 6.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T171604Z" creationid="alond" creationdate="20230522T171604Z">
-        <seg>Introduce &lt;t0/&gt;todos&lt;t1/&gt; los ingredientes en el bol de tu Thermomix y bate durante 3 minutos, Velocidad 6.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171226Z" creationid="alond" creationdate="20230522T171604Z">
+        <seg>Introduce &lt;t0/&gt;todos&lt;t1/&gt; los ingredientes en el vaso de tu Thermomix y bate durante 3 minutos, Velocidad 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5805,8 +5805,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>There is no need to dissolve the granules before using - simply place them into the Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T171907Z" creationid="alond" creationdate="20230522T171907Z">
-        <seg>No es necesario disolver los gránulos antes de usarlos, basta con colocarlos en el bol del Thermomix.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171457Z" creationid="alond" creationdate="20230522T171907Z">
+        <seg>No es necesario disolver los gránulos antes de usarlos, basta con colocarlos en el vaso del Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
