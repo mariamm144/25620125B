@@ -1656,8 +1656,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Sprinkle&lt;t1/&gt; &lt;t2/&gt;it&lt;t3/&gt; &lt;t4/&gt;with&lt;t5/&gt; a &lt;t6/&gt;tiny&lt;t7/&gt; &lt;t8/&gt;amount&lt;t9/&gt; &lt;t10/&gt;of&lt;t11/&gt; &lt;t12/&gt;water&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203510Z" creationid="beatr" creationdate="20230512T203510Z">
-        <seg>&lt;t0/&gt;Espolvorearlo&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;con&lt;t5/&gt; una&lt;t6/&gt;pequeña&lt;t7/&gt; &lt;t8/&gt;cantidad&lt;t9/&gt; &lt;t10/&gt;de&lt;t11/&gt; &lt;t12/&gt;agua&lt;t13/&gt;.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120627Z" creationid="beatr" creationdate="20230512T203510Z">
+        <seg>&lt;t0/&gt;Espolvoréalo&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;con&lt;t5/&gt; una&lt;t6/&gt;pequeña&lt;t7/&gt; &lt;t8/&gt;cantidad&lt;t9/&gt; &lt;t10/&gt;de&lt;t11/&gt; &lt;t12/&gt;agua&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3458,8 +3458,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Drizzle over the sushi seasoning and fluff with a fork up and allow to cool slightly.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203455Z" creationid="beatr" creationdate="20230512T203455Z">
-        <seg>Salpica sobre el condimento de sushi y dale  vueltas con un tenedor and deja que se enfríe un poco.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120421Z" creationid="beatr" creationdate="20230512T203455Z">
+        <seg>Rocía el condimento en el sushi y dale  vueltas con un tenedor y deja que se enfríe un poco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,8 +4258,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place a sushi bamboo mat (these can be bought from the Asian section of the supermarket) onto a flat bench.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203501Z" creationid="beatr" creationdate="20230512T203501Z">
-        <seg>Pon una esterilla de bambú de sushi (se pueden comprar en la sección asiática en el supermercado) en un bench cuadrada (de vaca).</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120612Z" creationid="beatr" creationdate="20230512T203501Z">
+        <seg>Pon una esterilla de bambú de sushi (se pueden comprar en la sección asiática en el supermercado) en una superficie plana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5565,8 +5565,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Spread a thin layer of cooked sushi rice (approximately ½ cup) over the sheet of nori (leaving a 2cm gap at the top of the sheet – to assist with sealing) and press down with the flat side of a spoon.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203515Z" creationid="beatr" creationdate="20230512T203515Z">
-        <seg>Unta una delgada capa del arroz cocido (aproximadamente ½ de una taza) sobre la hoja de nori (dejando un margen de 2cm encima de la hoja– para ayudar al sellado) y aplástala con la parte plana de la cuchara.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120653Z" creationid="beatr" creationdate="20230512T203515Z">
+        <seg>Unta una delgada capa del arroz cocido (aproximadamente media taza) sobre la hoja de nori (dejando un margen de 2cm encima de la hoja– para ayudarte al cerrarlo) y aplástala con la parte plana de la cuchara.</seg>
       </tuv>
     </tu>
     <tu>
