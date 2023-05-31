@@ -1728,8 +1728,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Scrape&lt;t3/&gt; &lt;t4/&gt;down&lt;t5/&gt; &lt;t6/&gt;the&lt;t7/&gt; &lt;t8/&gt;sides&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230502T143358Z" creationid="alond" creationdate="20230502T143358Z">
-        <seg>&lt;t2/&gt;Rebaña&lt;t3/&gt; &lt;t4/&gt;los&lt;t5/&gt; &lt;t6/&gt;laterales&lt;t7/&gt; &lt;t8/&gt;del vaso&lt;t9/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T165020Z" creationid="alond" creationdate="20230502T143358Z">
+        <seg>&lt;t2/&gt;Raspa&lt;t3/&gt; &lt;t4/&gt;los&lt;t5/&gt; &lt;t6/&gt;laterales&lt;t7/&gt; &lt;t8/&gt;del vaso&lt;t9/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,8 +2690,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Check the consistency - If you would like a smoother hummus, add a 1-2 tbs of the reserved chickpea liquid and &lt;t0/&gt;mix for a further 20 seconds on Speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T152150Z" creationid="alond" creationdate="20230519T152150Z">
-        <seg>Comprueba la consistencia. Si te gusta el humus más suave, añade 1 o 2 cda del líquido que has apartado de los garbanzos cocidos y mezcla por otros 20 segundos a Velocidad 4.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T165112Z" creationid="alond" creationdate="20230519T152150Z">
+        <seg>Comprueba la consistencia. Si te gusta el humus más suave, añade 1 o 2 cucharadita del líquido que has apartado de los garbanzos cocidos y mezcla otros 20 segundos, velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,8 +4002,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Mix for 20 seconds on Speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230502T143310Z" creationid="alond" creationdate="20230502T143310Z">
-        <seg>Mezcla por 20 segundos a Velocidad 4.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T164935Z" creationid="alond" creationdate="20230502T143310Z">
+        <seg>Mezcla durante 20 segundos, velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,8 +4018,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Mix for a further 20 seconds on Speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230502T143430Z" creationid="alond" creationdate="20230502T143430Z">
-        <seg>Mezcla por otros 20 segundos a Velocidad 4.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T165035Z" creationid="alond" creationdate="20230502T143430Z">
+        <seg>Mezcla durante otros 20 segundos, velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
