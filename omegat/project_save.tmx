@@ -1040,8 +1040,8 @@
       <tuv lang="en">
         <seg>30 g vegetable or rice bran oil</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230505T161716Z" creationid="alond" creationdate="20230505T161716Z">
-        <seg>30 g de aceite vegetal o de salvado de arroz</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T170440Z" creationid="alond" creationdate="20230505T161716Z">
+        <seg>30 ml de aceite vegetal o de salvado de arroz</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,8 +1592,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Mix&lt;t1/&gt; &lt;t2/&gt;on&lt;t3/&gt; &lt;t4/&gt;Speed&lt;t5/&gt; 6, 5 &lt;t6/&gt;secon&lt;t7/&gt;ds&lt;t8/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T153046Z" creationid="alond" creationdate="20230519T153046Z">
-        <seg>&lt;t0/&gt;Mezcle&lt;t1/&gt; &lt;t2/&gt;a&lt;t3/&gt; &lt;t4/&gt;Velocidad&lt;t5/&gt; 6, 5 &lt;t6/&gt;segundos&lt;t7/&gt;&lt;t8/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T170550Z" creationid="alond" creationdate="20230519T153046Z">
+        <seg>&lt;t0/&gt;Mezcla&lt;t1/&gt; &lt;t2/&gt;a&lt;t3/&gt; &lt;t4/&gt;velocidad&lt;t5/&gt; 6, 5 &lt;t6/&gt;segundos&lt;t7/&gt;&lt;t8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3874,8 +3874,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Knead on Interval function for 3 minutes.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T153157Z" creationid="alond" creationdate="20230519T153157Z">
-        <seg>Amasa en Función amasado (velocidad espiga) por 3 minutos.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T170606Z" creationid="alond" creationdate="20230519T153157Z">
+        <seg>Amasa en Función amasado (velocidad espiga) durante 3 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4266,8 +4266,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place all ingredients (except for the sesame/poppy seeds) into the Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230509T140115Z" creationid="alond" creationdate="20230509T140115Z">
-        <seg>Coloque todos los ingredientes (excepto las semillas de sésamo/amapola) en el vaso de Thermomix.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T170515Z" creationid="alond" creationdate="20230509T140115Z">
+        <seg>Coloca todos los ingredientes (excepto las semillas de sésamo/amapola) en el vaso de Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
