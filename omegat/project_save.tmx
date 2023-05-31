@@ -3090,8 +3090,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;healthy snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202318Z" creationid="beatr" creationdate="20230512T202318Z">
-        <seg>Plato&lt;t0/&gt;de tentempiés&lt;t1/&gt;saludables</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T151211Z" creationid="beatr" creationdate="20230512T202318Z">
+        <seg>Tipo de plato&lt;t0/&gt;tentempiés&lt;t1/&gt;saludables</seg>
       </tuv>
     </tu>
     <tu>
