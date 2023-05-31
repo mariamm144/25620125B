@@ -872,8 +872,8 @@
       <tuv lang="en">
         <seg>230 g &lt;t0/&gt;water</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172656Z" creationid="alond" creationdate="20230522T172656Z">
-        <seg>230 g &lt;t0/&gt;agua</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171816Z" creationid="alond" creationdate="20230522T172656Z">
+        <seg>230 ml&lt;t0/&gt;de agua</seg>
       </tuv>
     </tu>
     <tu>
@@ -1232,8 +1232,8 @@
       <tuv lang="en">
         <seg>5 g &lt;t0/&gt;salt</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172653Z" creationid="alond" creationdate="20230522T172653Z">
-        <seg>5 g &lt;t0/&gt;sal</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171821Z" creationid="alond" creationdate="20230522T172653Z">
+        <seg>5 g &lt;t0/&gt;de sal</seg>
       </tuv>
     </tu>
     <tu>
@@ -1832,8 +1832,8 @@
       <tuv lang="en">
         <seg>Add as much or as little as you like to suit your taste preferences.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T171511Z" creationid="alond" creationdate="20230522T172022Z">
-        <seg>Añade la cantidad que desees según sus preferencias.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171520Z" creationid="alond" creationdate="20230522T172022Z">
+        <seg>Añade la cantidad que desees según tus preferencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,8 +2898,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt;50 &lt;t1/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172404Z" creationid="alond" creationdate="20230522T172404Z">
-        <seg>Tiempo de coción&lt;t0/&gt;50 &lt;t1/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171712Z" creationid="alond" creationdate="20230522T172404Z">
+        <seg>Tiempo de cocción&lt;t0/&gt;50 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6573,8 +6573,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>We recommend using caster sugar as it dissolves easily when blended in the frappe.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172042Z" creationid="alond" creationdate="20230522T172042Z">
-        <seg>Recomendamos utilizar azúcar en polvo, ya que se disuelve fácilmente al mezclarlo con el frappe.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171533Z" creationid="alond" creationdate="20230522T172042Z">
+        <seg>Recomendamos utilizar azúcar en polvo, ya que se disuelve fácilmente al mezclarlo con el frappé.</seg>
       </tuv>
     </tu>
     <tu>
