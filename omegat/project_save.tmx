@@ -3554,8 +3554,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Freeze – &lt;t0/&gt;sourdough freezes beautifully.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175141Z" creationid="alond" creationdate="20230522T175141Z">
-        <seg>Congelar - &lt;t0/&gt;la masa madre se congela estupendamente.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T182111Z" creationid="alond" creationdate="20230522T175141Z">
+        <seg>Congelar: &lt;t0/&gt;la masa madre se congela estupendamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3786,8 +3786,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>If you’re only planning to bake once a week, keep your starter in the fridge and remove it the day before yo&lt;t1/&gt;u plan to use it.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175046Z" creationid="alond" creationdate="20230522T175046Z">
-        <seg>Si sólo vas a hornear una vez a la semana, guarda el fermento en el frigorífico y sácalo el día antes de utilizarlo.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T181918Z" creationid="alond" creationdate="20230522T175046Z">
+        <seg>Si sólo vas a hornear una vez a la semana, guarda el fermento en el frigorífico y sácalo un día antes de utilizarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6509,8 +6509,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Use a very sharp knife or old school razor blade – &lt;t0/&gt;when cutting tiny slits into your loaf before baking.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175122Z" creationid="alond" creationdate="20230522T175122Z">
-        <seg>Utiliza un cuchillo muy afilado o una cuchilla de afeitar de la vieja escuela - &lt;t0/&gt;al cortar pequeñas hendiduras en tu pan antes de hornear.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T182022Z" creationid="alond" creationdate="20230522T175122Z">
+        <seg>Utiliza un cuchillo muy afilado o una cuchilla de afeitar de la vieja escuela&lt;t0/&gt;al cortar pequeñas hendiduras en tu pan antes de hornear.</seg>
       </tuv>
     </tu>
     <tu>
