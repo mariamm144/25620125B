@@ -1864,8 +1864,8 @@
       <tuv lang="en">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, egg and vanilla extract and mix for 10 seconds, speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T053124Z" creationid="beatr" creationdate="20230521T055550Z">
-        <seg>Añade  &lt;t0/&gt;harina&lt;t1/&gt; con levadura, huevo egg y extracto de vainilla y mezclardurante 10 segundos, a la velocidad 4.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160800Z" creationid="beatr" creationdate="20230521T055550Z">
+        <seg>Añade la &lt;t0/&gt;harina&lt;t1/&gt; con levadura, un huevo y extracto de vainilla y mezcla durante 10 segundos, velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4410,8 +4410,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter and caster sugar into your Thermomix bowl and mix for 15 seconds, speed 3 to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T055149Z" creationid="beatr" creationdate="20230521T054818Z">
-        <seg>Coloca la mantequilla y el azúcar superfino en el bol de tu Thermomix y mezcla durante 15 segundos, a la velocidad 3 para combinar.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160232Z" creationid="beatr" creationdate="20230521T054818Z">
+        <seg>Coloca la mantequilla y el azúcar superfino en el vaso de tu Thermomix y mezcla durante 15 segundos, a velocidad 3 para mezclar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4714,8 +4714,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Pre-heat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line two baking trays with baking paper.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T054444Z" creationid="beatr" creationdate="20230521T054444Z">
-        <seg> Precalienta el horno a 180 grados centígrados (con ventilador) y forra una bandeja de horno con papel de hornear.
+      <tuv lang="es" changeid="raque" changedate="20230531T160212Z" creationid="beatr" creationdate="20230521T054444Z">
+        <seg> Precalienta el horno a 180 grados (con ventilador) y cubre una bandeja de horno con papel de hornear.
 </seg>
       </tuv>
     </tu>
@@ -5237,8 +5237,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of your bowl and mix for a further 15 seconds, speed 3 or until pale and creamy.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T055249Z" creationid="beatr" creationdate="20230521T055249Z">
-        <seg>Raspa los laterales de tu cuenco de Thermomix y remueve todo durante 15 segundos más en la velocidad 3 o hasta que tenga un aspecto claro y cremoso. </seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160254Z" creationid="beatr" creationdate="20230521T055249Z">
+        <seg>Apura los laterales de tu cuenco de Thermomix y remueve todo durante 15 segundos más a velocidad 3 o hasta que tenga un aspecto claro y cremoso. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6925,8 +6925,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>sprinkles&lt;t0/&gt; &lt;t1/&gt;to&lt;t2/&gt; &lt;t3/&gt;decorate</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T054323Z" creationid="beatr" creationdate="20230521T054323Z">
-        <seg>espolvorear&lt;t0/&gt; &lt;t1/&gt;para&lt;t2/&gt; &lt;t3/&gt;decorar</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160149Z" creationid="beatr" creationdate="20230521T054323Z">
+        <seg>Espolvorea&lt;t0/&gt; &lt;t1/&gt;para&lt;t2/&gt; &lt;t3/&gt;decorar</seg>
       </tuv>
     </tu>
     <tu>
