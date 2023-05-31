@@ -1840,8 +1840,8 @@
       <tuv lang="en">
         <seg>Add one tablespoon of boiling water and then add an additional ½ tablespoon at a time until your icing is a spreadable consistency.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T055002Z" creationid="beatr" creationdate="20230522T055002Z">
-        <seg>Añade una cucharada de agua hirviendo y luego ½ cucharada más hasta que el glaseado tenga una consistencia untable.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160914Z" creationid="beatr" creationdate="20230522T055002Z">
+        <seg>Añade una cucharada de agua hirviendo y luego media cucharada más hasta que el glaseado tenga una consistencia untable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4122,8 +4122,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Once completely cool, combine your icing ingredients in a bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T054810Z" creationid="beatr" creationdate="20230522T054810Z">
-        <seg>Una vez totalmente enfriadas, combina tus glaseados en un bol.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160907Z" creationid="beatr" creationdate="20230522T054810Z">
+        <seg>Una vez totalmente enfriadas, mezcla tus glaseados en un bol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,8 +4298,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place into the oven to bake for 10 - 12 minutes or until the edges of the biscuits start to turn golden.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T054309Z" creationid="beatr" creationdate="20230522T054309Z">
-        <seg>Colóquelas en el horno en el horno durante 10-12 minutos o hasta que los bordes de las galletas queden dorados.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160845Z" creationid="beatr" creationdate="20230522T054309Z">
+        <seg>Colócalas en el horno durante 10-12 minutos o hasta que los bordes de las galletas queden dorados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4314,8 +4314,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place onto your baking trays.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T053509Z" creationid="beatr" creationdate="20230522T053509Z">
-        <seg>Colócalas en las bandejas de horno..</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160821Z" creationid="beatr" creationdate="20230522T053509Z">
+        <seg>Colócalas en las bandejas de horno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4997,16 +4997,16 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Remove from the oven and let the biscuits cool on the oven trays for 10 minutes before transferring to a wire rack to cool completely.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T054621Z" creationid="beatr" creationdate="20230522T054621Z">
-        <seg>Sacar del horno y dejar enfriar las galletas en las bandejas durante 10 minutos antes de pasarlas a una rejilla para que se enfríen completamente.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160857Z" creationid="beatr" creationdate="20230522T054621Z">
+        <seg>Sácalas del horno y dejar enfriar las galletas en las bandejas durante 10 minutos antes de pasarlas a una rejilla para que se enfríen completamente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Remove the bowl from your machine and use a &lt;t0/&gt;table spoon&lt;t1/&gt; to scoop up the mixture and roll into a ball.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T053401Z" creationid="beatr" creationdate="20230522T053401Z">
-        <seg>Retira el bol de la máquina y utiliza una cuchara para recoger la mezcla y formar una bola. &lt;t0/&gt;&lt;t1/&gt; </seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160817Z" creationid="beatr" creationdate="20230522T053401Z">
+        <seg>Retira el vaso de la máquina y utiliza una cuchara para recoger la mezcla y formar una bola. &lt;t0/&gt;&lt;t1/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -5037,8 +5037,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Repeat until &lt;t2/&gt;all of&lt;t3/&gt; the mixture has been used.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T053611Z" creationid="beatr" creationdate="20230522T053611Z">
-        <seg>Repetir hasta que la mezcla se acabe &lt;t2/&gt;&lt;t3/&gt; .</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160826Z" creationid="beatr" creationdate="20230522T053611Z">
+        <seg>Repite hasta que la mezcla se acabe &lt;t2/&gt;&lt;t3/&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -5261,8 +5261,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Select the kneading function and mix for 40 seconds.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T053205Z" creationid="beatr" creationdate="20230522T053205Z">
-        <seg>Selectciona la función de amasar y mezcla por 40 segundos.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160808Z" creationid="beatr" creationdate="20230522T053205Z">
+        <seg>Selecciona la función de amasar y mezcla por 40 segundos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6029,8 +6029,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>These biscuits can also be enjoyed plain.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T055843Z" creationid="beatr" creationdate="20230522T055843Z">
-        <seg>Estas galletas también se pueden disfrutar solas.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T160938Z" creationid="beatr" creationdate="20230522T055843Z">
+        <seg>Estas galletas también se pueden disfrutar por sí solas.</seg>
       </tuv>
     </tu>
     <tu>
