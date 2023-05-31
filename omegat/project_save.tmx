@@ -3722,8 +3722,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>If you don't have a &lt;t0/&gt;pyrex&lt;t1/&gt; bowl, you can place a tray of water on the bottom shelf in the oven to create steam.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T174319Z" creationid="alond" creationdate="20230522T174319Z">
-        <seg>Si no tienes un recipiente &lt;t0/&gt;pyrex&lt;t1/&gt;, puedes colocar una bandeja con agua en el estante inferior del horno para crear vapor.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T180154Z" creationid="alond" creationdate="20230522T174319Z">
+        <seg>Si no tienes un recipiente &lt;t0/&gt;mezclador&lt;t1/&gt;, puedes colocar una bandeja con agua en el estante inferior del horno para crear vapor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3794,8 +3794,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>If&lt;t0/&gt; &lt;t1/&gt;using&lt;t2/&gt; a &lt;t3/&gt;pyrex&lt;t4/&gt; &lt;t5/&gt;bowl</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T175615Z" creationid="alond" creationdate="20230522T173416Z">
-        <seg>Si&lt;t0/&gt; &lt;t1/&gt;utilizas&lt;t2/&gt; un &lt;t3/&gt;vaso&lt;t4/&gt; &lt;t5/&gt;mezclador,</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T180012Z" creationid="alond" creationdate="20230522T173416Z">
+        <seg>Si&lt;t0/&gt; &lt;t1/&gt;utilizas&lt;t2/&gt; un &lt;t3/&gt;vaso&lt;t4/&gt; &lt;t5/&gt;mezclador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,8 +3890,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Lightly flour a flat baking tray.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T175520Z" creationid="alond" creationdate="20230522T173443Z">
-        <seg>enharina ligeramente una bandeja de horno plana.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T180017Z" creationid="alond" creationdate="20230522T173443Z">
+        <seg>Enharina ligeramente una bandeja de horno plana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,8 +4602,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the tray on the&lt;t0/&gt; shelf above the water tray and cook for 30-35 minutes or until a crust has formed and the loaf sounds hollow when tapped.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T174442Z" creationid="alond" creationdate="20230522T174442Z">
-        <seg>Coloca la bandeja en el estante&lt;t0/&gt; por encima de la bandeja de agua y cocina durante 30-35 minutos o hasta que se haya formado una corteza y el pan suene hueco al golpearlo.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T180237Z" creationid="alond" creationdate="20230522T174442Z">
+        <seg>Coloca la bandeja en el estante&lt;t0/&gt; por encima de la bandeja de agua y hornea durante 30-35 minutos o hasta que se haya formado una corteza y el pan suene hueco al golpearlo.</seg>
       </tuv>
     </tu>
     <tu>
