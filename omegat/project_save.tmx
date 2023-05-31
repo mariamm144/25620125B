@@ -432,8 +432,8 @@
       <tuv lang="en">
         <seg>15 g &lt;t0/&gt;caster&lt;t1/&gt; &lt;t2/&gt;sugar&lt;t3/&gt; &lt;t4/&gt;optional</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T171508Z" creationid="alond" creationdate="20230522T171508Z">
-        <seg>15 g &lt;t0/&gt;azúcar&lt;t1/&gt; &lt;t2/&gt;glass&lt;t3/&gt; &lt;t4/&gt;opcional</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171130Z" creationid="alond" creationdate="20230522T171508Z">
+        <seg>15 g &lt;t0/&gt;de azúcar&lt;t1/&gt; &lt;t2/&gt;glass&lt;t3/&gt; &lt;t4/&gt;opcional</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@
       <tuv lang="en">
         <seg>200 g milk any variety - skim, full cream, almond, soy, oat &lt;t0/&gt;etc</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T154326Z" creationid="alond" creationdate="20230519T154326Z">
-        <seg>200 g de leche de cualquier variedad: desnatada, entera, de almendras, de soja, de avena, etc.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171104Z" creationid="alond" creationdate="20230519T154326Z">
+        <seg>200 ml de leche de cualquier variedad: desnatada, entera, de almendras, de soja, de avena, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2882,8 +2882,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt;3 &lt;t1/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T154048Z" creationid="alond" creationdate="20230519T154048Z">
-        <seg>Tiempo de coción&lt;t0/&gt;3 &lt;t1/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171032Z" creationid="alond" creationdate="20230519T154048Z">
+        <seg>Tiempo de cocción&lt;t0/&gt;3 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6429,8 +6429,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt;5 &lt;t1/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T154102Z" creationid="alond" creationdate="20230519T154102Z">
-        <seg>Timepo total&lt;t0/&gt;5 &lt;t1/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171045Z" creationid="alond" creationdate="20230519T154102Z">
+        <seg>Tiempo total&lt;t0/&gt;5 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
