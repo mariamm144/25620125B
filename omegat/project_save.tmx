@@ -3042,8 +3042,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201433Z" creationid="beatr" creationdate="20230512T201433Z">
-        <seg>Comida&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120121Z" creationid="beatr" creationdate="20230512T201433Z">
+        <seg>Comida&lt;t0/&gt;Desayuno&lt;t1/&gt;, Aperitivo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,8 +3938,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Made with just a few basic ingredients from your fridge and pantry, you will love how easy this recipe is to put together!</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201427Z" creationid="beatr" creationdate="20230512T201427Z">
-        <seg>Hecha con unos cuantos ingredientes de tu nevera y despensa, ¿te encantará lo fácil que es de preparar!</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120053Z" creationid="beatr" creationdate="20230512T201427Z">
+        <seg>Hecha con unos cuantos ingredientes de tu nevera y despensa, ¡te encantará lo fácil que es de preparar!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6325,8 +6325,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201454Z" creationid="beatr" creationdate="20230512T201454Z">
-        <seg>Tiempo en total&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120146Z" creationid="beatr" creationdate="20230512T201454Z">
+        <seg>Tiempo total&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6933,8 +6933,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>sushi rice &lt;t0/&gt;seasoning&lt;t1/&gt; &lt;t2/&gt;to&lt;t3/&gt; &lt;t4/&gt;drizzle</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203343Z" creationid="beatr" creationdate="20230512T203343Z">
-        <seg>arroz sushi &lt;t0/&gt;sazonar&lt;t1/&gt; &lt;t2/&gt;a&lt;t3/&gt; &lt;t4/&gt;rociar</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120333Z" creationid="beatr" creationdate="20230512T203343Z">
+        <seg>arroz sushi &lt;t0/&gt;condimento&lt;t1/&gt; &lt;t2/&gt;para&lt;t3/&gt; &lt;t4/&gt;rociar</seg>
       </tuv>
     </tu>
     <tu>
