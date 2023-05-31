@@ -4748,8 +4748,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat the oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) or 230 degrees &lt;t2/&gt;celsius&lt;t3/&gt; (&lt;t4/&gt;non fan&lt;t5/&gt;-forced).</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T173320Z" creationid="alond" creationdate="20230522T173320Z">
-        <seg>Precalienta el horno a 210 grados &lt;t0/&gt;celsius&lt;t1/&gt; (forzado con ventilador) o 230 grados &lt;t2/&gt;celsius&lt;t3/&gt; (&lt;t4/&gt;sin ventilador&lt;t5/&gt;).</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T173104Z" creationid="alond" creationdate="20230522T173320Z">
+        <seg>Precalienta el horno a 210 grados &lt;t0/&gt;celsius&lt;t1/&gt; (con ventilación forzada) o 230 grados &lt;t2/&gt;celsius&lt;t3/&gt; (&lt;t4/&gt;sin ventilador&lt;t5/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
