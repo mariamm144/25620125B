@@ -2232,8 +2232,8 @@
       <tuv lang="en">
         <seg>Baking&lt;t0/&gt; &lt;t1/&gt;Trays&lt;t2/&gt; x 2</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230529T090232Z" creationid="beatr" creationdate="20230521T053417Z">
-        <seg>Bbandejas de horno x 2</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T155553Z" creationid="beatr" creationdate="20230521T053417Z">
+        <seg>2 bandejas de horno</seg>
       </tuv>
     </tu>
     <tu>
@@ -6205,8 +6205,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>To store the baked scrolls, place into an airtight container and enjoy with 5 days.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T182114Z" creationid="beatr" creationdate="20230520T182114Z">
-        <seg>Para guardar los rollitos horneados, colócalos en un recipiente hermético y disfrútalos 5 días.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T122016Z" creationid="beatr" creationdate="20230520T182114Z">
+        <seg>Para guardar los rollitos horneados, colócalos en un recipiente hermético y disfrútalos en 5 días.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6773,8 +6773,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>You can use different cheeses for &lt;t0/&gt;this recipes&lt;t1/&gt;, these scrolls are also delicious made with a combination of tasty and mozzarella cheese.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T181607Z" creationid="beatr" creationdate="20230520T181607Z">
-        <seg>Puedes utilizar diferentes tipos de quesos para esta receta, estos rollitos también están deliciosos hechos con una combinación de Tasty Cheese y mozzarella. &lt;t0/&gt;&lt;t1/&gt;.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T122000Z" creationid="beatr" creationdate="20230520T181607Z">
+        <seg>Puedes utilizar diferentes tipos de quesos para esta receta, estos rollitos también están deliciosos hechos con una combinación de queso Tasty y mozzarella. &lt;t0/&gt;&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6813,8 +6813,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Your dough will be soft, however if making these Scrolls in a warm climate, we suggest placing the dough into the fridge for 20 minutes to firm before slicing.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T181315Z" creationid="beatr" creationdate="20230520T181315Z">
-        <seg>Tu masa será suave, sin embargo, si haces estos rollitos en un clima cálido, sugerimos colocar la masa en la nevera durante 20 minutos para endurecerla antes de cortar..</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T121947Z" creationid="beatr" creationdate="20230520T181315Z">
+        <seg>Tu masa será suave, sin embargo, si haces estos rollitos en un ambiente cálido, sugerimos colocar la masa en la nevera durante 20 minutos para endurecerla antes de cortar.</seg>
       </tuv>
     </tu>
     <tu>
