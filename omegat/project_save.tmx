@@ -1768,8 +1768,8 @@
       <tuv lang="en">
         <seg>A simple and delicious Thermomix Na&lt;t0/&gt;an Bread that is perfect served with curries, rice, butter chicken and more!</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T152245Z" creationid="alond" creationdate="20230519T152245Z">
-        <seg>Un pan Naan sencillo y delicioso en Thermomix es perfecto para acompañar curry, arroz, pollo a la mantequilla y mucho más.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T165453Z" creationid="alond" creationdate="20230519T152245Z">
+        <seg>Un pan Naan sencillo y delicioso con Thermomix es perfecto para acompañar curry, arroz, pollo a la mantequilla y mucho más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2866,8 +2866,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt;15 &lt;t1/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T173939Z" creationid="alond" creationdate="20230522T173939Z">
-        <seg>Tiempo de coción&lt;t0/&gt;15 &lt;t1/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T165800Z" creationid="alond" creationdate="20230522T173939Z">
+        <seg>Tiempo de cocción&lt;t0/&gt;15 &lt;t1/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5941,8 +5941,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Thermomix Naan Bread</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230505T162640Z" creationid="alond" creationdate="20230505T161112Z">
-        <seg>Pan Naan en Thermomix</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T165423Z" creationid="alond" creationdate="20230505T161112Z">
+        <seg>Pan Naan con Thermomix</seg>
       </tuv>
     </tu>
     <tu>
