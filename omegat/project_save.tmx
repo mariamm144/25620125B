@@ -1184,8 +1184,8 @@
       <tuv lang="en">
         <seg>400 g &lt;t0/&gt;Bakers&lt;t1/&gt; flour or strong bread flour</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172649Z" creationid="alond" creationdate="20230522T172649Z">
-        <seg>400 g &lt;t0/&gt; Harina de panadería o harina de fuerza</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171830Z" creationid="alond" creationdate="20230522T172649Z">
+        <seg>400 g &lt;t0/&gt;de Harina de panadería o harina de fuerza</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,8 +3866,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Knead for 10 minutes of kneading/Interval function.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172916Z" creationid="alond" creationdate="20230522T172916Z">
-        <seg>Amasa durante 10 minutos en función amasado (velocidad espiga).</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171909Z" creationid="alond" creationdate="20230522T172916Z">
+        <seg>Amasa durante 10 minutos en Función amasado (velocidad espiga).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4114,8 +4114,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>On a lightly floured board, knock the air out of the dough and form into a tight ball.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T173116Z" creationid="alond" creationdate="20230522T173116Z">
-        <seg>Sobre una tabla ligeramente enharinada, elimina el aire de la masa y formar una bola compacta.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T172031Z" creationid="alond" creationdate="20230522T173116Z">
+        <seg>Sobre una encimera ligeramente enharinada, elimina el aire de la masa y forma una bola compacta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4514,8 +4514,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the flour, salt, &lt;t0/&gt;water&lt;t1/&gt; and sourdough into the Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172925Z" creationid="alond" creationdate="20230522T172744Z">
-        <seg>Coloca la harina, la sal, &lt;t0/&gt;el agua&lt;t1/&gt; y la masa madre en el bol del Thermomix.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T171858Z" creationid="alond" creationdate="20230522T172744Z">
+        <seg>Coloca la harina, la sal, &lt;t0/&gt;el agua&lt;t1/&gt; y la masa madre en el vaso Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5045,8 +5045,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Return to the greased bowl, &lt;t0/&gt;cover&lt;t1/&gt; and allow to prove for another 4 hours (for best results, cover and place into the fri&lt;t2/&gt;dge overnight to prove.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T173232Z" creationid="alond" creationdate="20230522T173232Z">
-        <seg>Vuelve a ponerlo en el bol engrasado, &lt;t0/&gt;cúbrelo&lt;t1/&gt; y deja que fermente durante otras 4 horas (para obtener mejores resultados, cúbralo y póngalo en el frigorífico&lt;t2/&gt;durante toda la noche para que fermente).</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T172442Z" creationid="alond" creationdate="20230522T173232Z">
+        <seg>Vuelve a ponerlo en el vaso engrasado, &lt;t0/&gt;cúbrelo&lt;t1/&gt; y deja que fermente durante otras 4 horas (para obtener mejores resultados, cúbrelo y ponlo en el frigorífico&lt;t2/&gt;durante toda la noche para que fermente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6501,8 +6501,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Use a spatula to scrape the sticky dough into a greased bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T173023Z" creationid="alond" creationdate="20230522T173023Z">
-        <seg>Utiliza una espátula para raspar la masa pegajosa en un bol engrasado.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T172007Z" creationid="alond" creationdate="20230522T173023Z">
+        <seg>Utiliza una espátula para raspar la masa pegajosa en un vaso engrasado.</seg>
       </tuv>
     </tu>
     <tu>
