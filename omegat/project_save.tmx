@@ -3506,8 +3506,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Fluff the rice with a fork – &lt;t0/&gt;do this gently &lt;t1/&gt;so as to&lt;t2/&gt; &lt;t3/&gt;seperate&lt;t4/&gt; the rice grains and mix through the seasoning but without squishing the rice.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T122123Z" creationid="beatr" creationdate="20230520T122123Z">
-        <seg>Borra el arroz con un tenedor – &lt;t0/&gt;hazlo con delicadeza &lt;t1/&gt;para&lt;t2/&gt; &lt;t3/&gt;separar&lt;t4/&gt; los granos de arroz y mezcla por el condimento, pero sin aplastar el arroz.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120813Z" creationid="beatr" creationdate="20230520T122123Z">
+        <seg>Remueve el arroz con un tenedor, &lt;t0/&gt;hazlo con delicadeza &lt;t1/&gt;para&lt;t2/&gt; &lt;t3/&gt;separar&lt;t4/&gt; los granos de arroz y mezcla con el condimento, pero sin aplastar el arroz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3954,8 +3954,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Make the night before – &lt;t0/&gt;save yourself time and make your sushi the night before.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T123336Z" creationid="beatr" creationdate="20230520T123336Z">
-        <seg>Hazlo la noche de antes – &lt;t0/&gt;ahorra tu tiempo y haz tu sushi la noche de antes.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120834Z" creationid="beatr" creationdate="20230520T123336Z">
+        <seg>Hazlo la noche de antes, &lt;t0/&gt;ahorra tiempo y haz tu sushi la noche de antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4458,8 +4458,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter, brown sugar, &lt;t0/&gt;honey&lt;t1/&gt; and cinnamon into the TM bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T132419Z" creationid="beatr" creationdate="20230520T132419Z">
-        <seg>Coloca la mantequilla, el azúcar moreno, &lt;t0/&gt;la miel&lt;t1/&gt; y la canela en el bowl de la TM.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120920Z" creationid="beatr" creationdate="20230520T132419Z">
+        <seg>Coloca la mantequilla, el azúcar moreno, &lt;t0/&gt;la miel&lt;t1/&gt; y la canela en el bol de la TM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4570,8 +4570,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the rolls into the fridge for an hour before cutting – &lt;t0/&gt;this allows the rolls to set making it easier to cut and serve.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T122658Z" creationid="beatr" creationdate="20230520T122658Z">
-        <seg>Pon los rollitos en el frigorífico por una hora antes de cortarlos – &lt;t0/&gt;esto permite que los rollitos se asienten haciendo que sean más fáciles de cortar y servir.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120824Z" creationid="beatr" creationdate="20230520T122658Z">
+        <seg>Pon los rollitos en el frigorífico durante una hora antes de cortarlos, &lt;t0/&gt;esto permite que los rollitos se asienten haciendo que sean más fáciles de cortar y servir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6461,8 +6461,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Transfer the rice from the rice basket to a flat plate – &lt;t0/&gt;this &lt;t1/&gt;allow&lt;t2/&gt; the rice to begin to cool and also makes it easier to drizzle with the sushi seasoning and fluff with a fork.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T120625Z" creationid="beatr" creationdate="20230520T120625Z">
-        <seg>Transferir el arroz desde la cesta a un plato llano – &lt;t0/&gt;esto &lt;t1/&gt;permite&lt;t2/&gt;que el arroz empiece  a enfriarse y también hace más fácil salpicar con el condimento de sushi y borra con un tenedor.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230531T120752Z" creationid="beatr" creationdate="20230520T120625Z">
+        <seg>Transferir el arroz desde la cesta a un plato llano; &lt;t0/&gt;esto &lt;t1/&gt;permite&lt;t2/&gt;que el arroz empiece  a enfriarse y también hace más fácil salpicar con el condimento de sushi y revuelve con un tenedor.</seg>
       </tuv>
     </tu>
     <tu>
