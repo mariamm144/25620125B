@@ -2160,8 +2160,8 @@
       <tuv lang="en">
         <seg>Apple &lt;t0/&gt;- use any variety you like!</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180444Z" creationid="alond" creationdate="20230522T180444Z">
-        <seg>Manzana &lt;t0/&gt;- usa cualquier variedad que quieras</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T205715Z" creationid="alond" creationdate="20230522T180444Z">
+        <seg>Manzana:&lt;t0/&gt;¡usa la variedad que quieras!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,8 +2256,8 @@
       <tuv lang="en">
         <seg>Banana&lt;t0/&gt; - the riper the better!</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180426Z" creationid="alond" creationdate="20230522T180426Z">
-        <seg>Plátano&lt;t0/&gt; - ¡cuanto más maduro, mejor!</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T205646Z" creationid="alond" creationdate="20230522T180426Z">
+        <seg>Plátano:&lt;t0/&gt; ¡cuanto más maduro, mejor!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2442,8 +2442,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;72&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;9&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;2&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;3&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;2&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;0.2&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Trans Fat: &lt;t21/&gt;0.1&lt;t22/&gt;g&lt;t23/&gt; | Cholesterol: &lt;t24/&gt;16&lt;t25/&gt;mg&lt;t26/&gt; | Sodium: &lt;t27/&gt;26&lt;t28/&gt;mg&lt;t29/&gt; | Potassium: &lt;t30/&gt;49&lt;t31/&gt;mg&lt;t32/&gt; | Fiber: &lt;t33/&gt;0.5&lt;t34/&gt;g&lt;t35/&gt; | Sugar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | Vitamin A: &lt;t39/&gt;104&lt;t40/&gt;IU&lt;t41/&gt; | Vitamin C: &lt;t42/&gt;1&lt;t43/&gt;mg&lt;t44/&gt; | Calcium: &lt;t45/&gt;13&lt;t46/&gt;mg&lt;t47/&gt; | Iron: &lt;t48/&gt;0.1&lt;t49/&gt;mg</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180733Z" creationid="alond" creationdate="20230522T180733Z">
-        <seg>Calorías: &lt;t0/&gt;72&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;9&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;2&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;3&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;2&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;0.2&lt;t16/&gt;g&lt;t17/&gt; | Grasa monoinsaturadas: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Grasas trans: &lt;t21/&gt;0.1&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;16&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;26&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;49&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;0.5&lt;t34/&gt;g&lt;t35/&gt; | Azúcar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;104&lt;t40/&gt;IU&lt;t41/&gt; | Vitamina C: &lt;t42/&gt;1&lt;t43/&gt;mg&lt;t44/&gt; | Calcio: &lt;t45/&gt;13&lt;t46/&gt;mg&lt;t47/&gt; | Hierro: &lt;t48/&gt;0.1&lt;t49/&gt;mg</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T210359Z" creationid="alond" creationdate="20230522T180733Z">
+        <seg>Calorías: &lt;t0/&gt;72&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;9&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;2&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;3&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;2&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;0.2&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;1&lt;t19/&gt;g&lt;t20/&gt; | Grasas trans: &lt;t21/&gt;0.1&lt;t22/&gt;g&lt;t23/&gt; | Colesterol: &lt;t24/&gt;16&lt;t25/&gt;mg&lt;t26/&gt; | Sodio: &lt;t27/&gt;26&lt;t28/&gt;mg&lt;t29/&gt; | Potasio: &lt;t30/&gt;49&lt;t31/&gt;mg&lt;t32/&gt; | Fibra: &lt;t33/&gt;0.5&lt;t34/&gt;g&lt;t35/&gt; | Azúcares: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | Vitamina A: &lt;t39/&gt;104&lt;t40/&gt;IU&lt;t41/&gt; | Vitamina C: &lt;t42/&gt;1&lt;t43/&gt;mg&lt;t44/&gt; | Calcio: &lt;t45/&gt;13&lt;t46/&gt;mg&lt;t47/&gt; | Hierro: &lt;t48/&gt;0.1&lt;t49/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -5677,8 +5677,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Storing - &lt;t0/&gt;Store in an airtight container in the fridge for up to 3 days.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180530Z" creationid="alond" creationdate="20230522T180530Z">
-        <seg>Conservación - &lt;t0/&gt;Conservar en un recipiente hermético en el frigorífico hasta 3 días.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T205749Z" creationid="alond" creationdate="20230522T180530Z">
+        <seg>Conservación :&lt;t0/&gt;Conservar en un recipiente hermético en el frigorífico hasta 3 días.</seg>
       </tuv>
     </tu>
     <tu>
