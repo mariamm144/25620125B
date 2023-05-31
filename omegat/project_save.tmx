@@ -600,8 +600,8 @@
       <tuv lang="en">
         <seg>190 g &lt;t0/&gt;lukewarm&lt;t1/&gt; &lt;t2/&gt;water</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230505T161752Z" creationid="alond" creationdate="20230505T161752Z">
-        <seg>190 g de &lt;t0/&gt;agua&lt;t1/&gt; &lt;t2/&gt;tibia</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T170434Z" creationid="alond" creationdate="20230505T161752Z">
+        <seg>190 ml de &lt;t0/&gt;agua&lt;t1/&gt; &lt;t2/&gt;tibia</seg>
       </tuv>
     </tu>
     <tu>
