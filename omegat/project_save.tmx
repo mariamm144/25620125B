@@ -448,8 +448,8 @@
       <tuv lang="en">
         <seg>150 g &lt;t0/&gt;milk</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175756Z" creationid="alond" creationdate="20230522T175756Z">
-        <seg>150 g &lt;t0/&gt;leche</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T204033Z" creationid="alond" creationdate="20230522T175756Z">
+        <seg>150 ml &lt;t0/&gt;leche</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,8 +848,8 @@
       <tuv lang="en">
         <seg>200g g &lt;t0/&gt;self&lt;t1/&gt; &lt;t2/&gt;raising&lt;t3/&gt; &lt;t4/&gt;flour</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175752Z" creationid="alond" creationdate="20230522T175752Z">
-        <seg>200g g &lt;t0/&gt;de&lt;t1/&gt; &lt;t2/&gt;harina&lt;t3/&gt; &lt;t4/&gt;con levadura</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T204025Z" creationid="alond" creationdate="20230522T175752Z">
+        <seg>200g &lt;t0/&gt;de&lt;t1/&gt; &lt;t2/&gt;harina&lt;t3/&gt; &lt;t4/&gt;con levadura</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,8 +4434,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter into your Thermomix bowl and cook for 2 minutes, 60 degrees, Speed 1 (or until melted).</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175943Z" creationid="alond" creationdate="20230522T175943Z">
-        <seg>Pon la mantequilla en el bol de tu Thermomix y cocínala durante 2 minutos, 60 grados, Velocidad 1 (o hasta que se derrita).</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230531T204803Z" creationid="alond" creationdate="20230522T175943Z">
+        <seg>Pon la mantequilla en el vaso de tu Thermomix y cocínala durante 2 minutos, a 60 grados, velocidad 1 (o hasta que se derrita).</seg>
       </tuv>
     </tu>
     <tu>
