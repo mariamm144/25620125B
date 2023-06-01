@@ -4731,8 +4731,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced).</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T133740Z" creationid="beatr" creationdate="20230522T063120Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;Precalentar el horno a 180 grados Celsius (con el ventilador).</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T130903Z" creationid="beatr" creationdate="20230522T063120Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;Precalentar el horno a 180 grados centígrados (con el ventilador).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7189,8 +7189,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>½&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;bicarbonate&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; soda</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062657Z" creationid="beatr" creationdate="20230522T062657Z">
-        <seg>½ cucharadita de bicarbonato de soda</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T130823Z" creationid="beatr" creationdate="20230522T062657Z">
+        <seg>½ cucharadita de bicarbonato sódico</seg>
       </tuv>
     </tu>
     <tu>
