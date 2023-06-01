@@ -1608,8 +1608,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Pour&lt;t1/&gt; &lt;t2/&gt;into&lt;t3/&gt; a &lt;t4/&gt;seperate&lt;t5/&gt; &lt;t6/&gt;bowl&lt;t7/&gt; and set aside.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T163818Z" creationid="raque" creationdate="20230522T163818Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt; &lt;t6/&gt;&lt;t7/&gt;Viértelo en un bol diferente y déjalo apartado.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144458Z" creationid="raque" creationdate="20230522T163818Z">
+        <seg>&lt;t0/&gt;Viértelo&lt;t1/&gt; &lt;t2/&gt;en&lt;t3/&gt; un &lt;t4/&gt;bol&lt;t5/&gt; &lt;t6/&gt;diferente&lt;t7/&gt; y déjalo apartado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3610,8 +3610,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Grease and line a 18cm X 28cm rectangular slice tin with baking paper.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T112915Z" creationid="raque" creationdate="20230522T163653Z">
-        <seg>Engrasar y alinear una bandeja rectangular de 18cm X 28cm con papel de horno.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144320Z" creationid="raque" creationdate="20230522T163653Z">
+        <seg>Engrasa y alinea una bandeja rectangular de 18cm X 28cm con papel de horno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,8 +4402,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the biscuits into the Thermomix bowl and crush for 10 seconds, Speed 8.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T113137Z" creationid="raque" creationdate="20230522T163728Z">
-        <seg>Echar las galletas María en la Thermomix 10 segundos, velocidad 8. </seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144329Z" creationid="raque" creationdate="20230522T163728Z">
+        <seg>Echa las galletas María en la Thermomix 10 segundos, velocidad 8. </seg>
       </tuv>
     </tu>
     <tu>
