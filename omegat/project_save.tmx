@@ -4418,8 +4418,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter and caster sugar into your Thermomix bowl and mix for 15 seconds, speed 3 to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T160232Z" creationid="beatr" creationdate="20230521T054818Z">
-        <seg>Coloca la mantequilla y el azúcar superfino en el vaso de tu Thermomix y mezcla durante 15 segundos, a velocidad 3 para mezclar.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T124001Z" creationid="beatr" creationdate="20230521T054818Z">
+        <seg>Coloca la mantequilla y el azúcar superfino en el vaso de tu Thermomix y mezcla durante 15 segundos, velocidad 3 para mezclar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4813,8 +4813,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Prep &lt;t0/&gt;Time&lt;t1/&gt;  &lt;t2/&gt;15&lt;t3/&gt; &lt;t4/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053143Z" creationid="beatr" creationdate="20230521T053143Z">
-        <seg>Tiempo de preparación: 15 minutos</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T123938Z" creationid="beatr" creationdate="20230521T053143Z">
+        <seg>Tiempo de preparación 15 minutos</seg>
       </tuv>
     </tu>
     <tu>
