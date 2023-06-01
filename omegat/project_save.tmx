@@ -4346,8 +4346,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the &lt;t0/&gt;self raising&lt;t1/&gt; flour, caster sugar, butter, vanilla extract, &lt;t2/&gt;eggs&lt;t3/&gt; and milk into your Thermomix bowl and mix for 15 seconds, speed 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T121429Z" creationid="mmolc" creationdate="20230525T130548Z">
-        <seg>Pon la harina con levadura, el azúcar molido, la mantequilla, el extracto de vainilla, los huevos y la leche en el bol de la Thermomix y mézclelos durante 15 segundos, velocidad 5.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T142420Z" creationid="mmolc" creationdate="20230525T130548Z">
+        <seg>Pon la harina&lt;t0/&gt;con levadura&lt;t1/&gt;, el azúcar molido, la mantequilla, el extracto de vainilla, los &lt;t2/&gt;huevos&lt;t3/&gt; y la leche en el bol de la Thermomix y mézclelos durante 15 segundos, velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
