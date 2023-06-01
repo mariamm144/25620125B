@@ -1640,8 +1640,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Scrape&lt;t1/&gt; &lt;t2/&gt;down&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;sides&lt;t7/&gt; &lt;t8/&gt;of&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;bowl&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T164358Z" creationid="raque" creationdate="20230522T164358Z">
-        <seg>&lt;t0/&gt;Retira&lt;t1/&gt; &lt;t2/&gt;todo&lt;t3/&gt; &lt;t4/&gt;de&lt;t5/&gt; &lt;t6/&gt;los laterales&lt;t7/&gt; &lt;t8/&gt;del&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;bol&lt;t13/&gt;.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144602Z" creationid="raque" creationdate="20230522T164358Z">
+        <seg>&lt;t0/&gt;Raspa&lt;t1/&gt; &lt;t2/&gt;todos&lt;t3/&gt; &lt;t4/&gt;los&lt;t5/&gt; &lt;t6/&gt;laterales&lt;t7/&gt; &lt;t8/&gt;del&lt;t9/&gt; &lt;t10/&gt;&lt;t11/&gt; &lt;t12/&gt;vaso&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,8 +3994,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Melt the chocolate in a clean and dry Thermomix bowl for 3 minutes, 60 degrees, Speed 2 (or until melted).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T113408Z" creationid="raque" creationdate="20230522T164725Z">
-        <seg>Derrite el chocolate en el bol de la Thermomix (limpio y seco) durante 3 minutos, a 60 grados, velocidad 2 (o hasta que esté derretido.)</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144658Z" creationid="raque" creationdate="20230522T164725Z">
+        <seg>Derrite el chocolate en el vaso Thermomix (limpio y seco) durante 3 minutos, a 60 grados, velocidad 2 (o hasta que esté derretido.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4698,8 +4698,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Pour the melted chocolate over the top and decorate with extra &lt;t0/&gt;mini Easter&lt;t1/&gt; eggs.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T164743Z" creationid="raque" creationdate="20230522T164743Z">
-        <seg>Vierte el chocolate fundido por encima y decora con mini huevos de Pascua extra.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144711Z" creationid="raque" creationdate="20230522T164743Z">
+        <seg>Vierte el chocolate fundido por encima y decora con los mini huevos de Pascua extra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5229,8 +5229,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and repeat for a further 5&lt;t0/&gt; seconds.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T164450Z" creationid="raque" creationdate="20230522T164450Z">
-        <seg>Raspa las paredes de los lados del bol y mezcla durante otros 5 segundos.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144614Z" creationid="raque" creationdate="20230522T164450Z">
+        <seg>Raspa las paredes de los lados del vaso y mezcla durante otros 5 segundos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5573,8 +5573,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Spoon the mixture into the prepared tr&lt;t0/&gt;ay and press down firmly with a spoon.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T164654Z" creationid="raque" creationdate="20230522T164654Z">
-        <seg>Vierte la mezcla en la bandeja preparada y presiona firmemente con una cuchara.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144643Z" creationid="raque" creationdate="20230522T164654Z">
+        <seg>Vierte la mezcla en la bandeja preparada&lt;t0/&gt;y presiona firmemente con una cuchara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6533,16 +6533,16 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Use any plain sweet biscuits you like&lt;t0/&gt; (such as &lt;t1/&gt;Arnotts&lt;t2/&gt; Ma&lt;t3/&gt;rie, Nice &lt;t4/&gt;etc&lt;t5/&gt;)</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T114611Z" creationid="raque" creationdate="20230522T165824Z">
-        <seg>Utiliza cualquier galleta dulce que te guste (como Arnotts María, Nice etc).</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144810Z" creationid="raque" creationdate="20230522T165824Z">
+        <seg>Utiliza cualquier galleta dulce que te guste&lt;t0/&gt; (como Arnotts&lt;t1/&gt; María, &lt;t2/&gt;Nice&lt;t3/&gt;etc&lt;t4/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Use full fat sweetened condensed milk&lt;t0/&gt; as it sets firmer than skim or &lt;t1/&gt;light</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T165807Z" creationid="raque" creationdate="20230522T165807Z">
-        <seg>Utiliza leche condensada azucarada entera, ya que cuaja más firmemente que la desnatada o ligera. </seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144731Z" creationid="raque" creationdate="20230522T165807Z">
+        <seg>Utiliza leche condensada azucarada entera,&lt;t0/&gt; ya que cuaja más firmemente que la desnatada o ligera. </seg>
       </tuv>
     </tu>
     <tu>
