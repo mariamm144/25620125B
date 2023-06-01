@@ -3674,8 +3674,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>I usually ice this Thermomix Marble Cake with a &lt;t0/&gt;simple chocolate icing &lt;t1/&gt;however you can also top it with a store bought chocolate or vanilla icing, and it's even delicious served un-iced.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130137Z" creationid="mmolc" creationdate="20230525T130137Z">
-        <seg>Yo suelo cubrir este bizcocho de mármol Thermomix con un &lt;t0/&gt;simple glaseado de chocolate,&lt;t1/&gt;aunque también se puede cubrir con un glaseado de chocolate o vainilla comprado en la tienda, e incluso está deliciosa servida sin glaseado.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T141910Z" creationid="mmolc" creationdate="20230525T130137Z">
+        <seg>Yo suelo cubrir este bizcocho marmoleado deThermomix con un &lt;t0/&gt;simple glaseado de chocolate,&lt;t1/&gt;aunque también se puede cubrir con un glaseado de chocolate o vainilla comprado en la tienda, e incluso está delicioso servido sin glaseado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5661,8 +5661,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Store in an airtight container or freeze &lt;t0/&gt;indivually&lt;t1/&gt; wrapped slices in the &lt;t2/&gt;freeer&lt;t3/&gt; for up to 3 months.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230601T141645Z" creationid="mmolc" creationdate="20230525T130118Z">
-        <seg>Consérvalas en un recipiente hermético o congélalas envueltas &lt;t0/&gt;individualmente&lt;t1/&gt; en el &lt;t2/&gt;frigorífico&lt;t3/&gt; hasta 3 meses.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T141815Z" creationid="mmolc" creationdate="20230525T130118Z">
+        <seg>Consérvalo en un recipiente hermético o congélalo envuelto &lt;t0/&gt;individualmente&lt;t1/&gt; en el &lt;t2/&gt;frigorífico&lt;t3/&gt; hasta 3 meses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6189,8 +6189,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>To freeze, wrap in cling wrap or place in a freezer safe container and store for up to two months.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230521T001623Z" creationid="mmolc" creationdate="20230521T001623Z">
-        <seg>Para congelarlo, envuélvelo en film transparente o colóquelo en un recipiente apto para congelador y consérvalo hasta dos meses.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T141836Z" creationid="mmolc" creationdate="20230521T001623Z">
+        <seg>Para congelarlo, envuélvelo en film transparente o colócalo en un recipiente apto para congelador y consérvalo hasta dos meses.</seg>
       </tuv>
     </tu>
     <tu>
