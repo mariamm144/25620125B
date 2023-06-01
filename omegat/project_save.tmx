@@ -2842,8 +2842,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173422Z" creationid="beatr" creationdate="20230520T173422Z">
-        <seg>Tiempo de cocina&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T215338Z" creationid="beatr" creationdate="20230520T173422Z">
+        <seg>Tiempo de cocción&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,8 +3082,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T123048Z" creationid="beatr" creationdate="20230520T173400Z">
-        <seg>Tipo de plato&lt;t0/&gt; &lt;t1/&gt;Aperitivo</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T215329Z" creationid="beatr" creationdate="20230520T173400Z">
+        <seg>Tipo de plato&lt;t0/&gt; &lt;t1/&gt;Tentempié</seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,8 +4050,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Mix on for 10 minutes, 100 degrees, Speed 1. &lt;t0/&gt;It needs to heat for this long to allow the mixture to thicken enough.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122600Z" creationid="beatr" creationdate="20230520T132644Z">
-        <seg>Meclar durante 10 minutos,  a 100 grados, velocidad 1. &lt;t0/&gt; Necesita calentarse por tanto tiempo para que la mezcla se espese lo suficiente.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T215059Z" creationid="beatr" creationdate="20230520T132644Z">
+        <seg>Mecla durante 10 minutos,  a 100 grados, velocidad 1. &lt;t0/&gt; Necesita calentarse tanto tiempo para que la mezcla se espese lo suficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,8 +4594,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the toasted muesli, rice bubbles and sultanas into the TM bowl and mix or 30 seconds, REVERSE, Speed 2, or until completely combined.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122629Z" creationid="beatr" creationdate="20230520T135821Z">
-        <seg>Coloca el muesli tostado, las burbujas de arroz y las pasas sultanas en la TM y mezcla o 30 segundos, REVERSO, velocidad 2, o hasta que esté completamente mezclado.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T215150Z" creationid="beatr" creationdate="20230520T135821Z">
+        <seg>Coloca el muesli tostado, las burbujas de arroz y las pasas sultanas en la TM y mezcla durante 30 segundos, REVERSO, velocidad 2, o hasta que esté completamente mezclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4941,8 +4941,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Press the mixture firmly into the prepared baking tin (using the trick of placing another tray on top and pressing down very firmly).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122826Z" creationid="beatr" creationdate="20230520T135102Z">
-        <seg>Presionar la mezcla firmemente en el molde preparado (utilizando el truco de colocar otra bandeja encima y presionar muy firmemente.)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T215201Z" creationid="beatr" creationdate="20230520T135102Z">
+        <seg>Presiona la mezcla firmemente en el molde preparado (utilizando el truco de colocar otra bandeja encima y presionar muy firmemente.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6013,8 +6013,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>These Cheese and Vegemite Scrolls can be ready to enjoy in less than 30 minutes!</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173245Z" creationid="beatr" creationdate="20230520T173245Z">
-        <seg>¡Estos rollitos de queso y vegemite pueden estar listos en menos de 30 minutos!</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T215307Z" creationid="beatr" creationdate="20230520T173245Z">
+        <seg>¡Estos rollitos de queso y Vegemite pueden estar listos en menos de 30 minutos!</seg>
       </tuv>
     </tu>
     <tu>
