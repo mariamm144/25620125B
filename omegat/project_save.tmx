@@ -3018,8 +3018,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cost&lt;t0/&gt; &lt;t1/&gt;$5</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T061646Z" creationid="beatr" creationdate="20230522T061646Z">
-        <seg>Coste&lt;t0/&gt; &lt;t1/&gt;$5</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T124633Z" creationid="beatr" creationdate="20230522T061646Z">
+        <seg>Coste&lt;t0/&gt; &lt;t1/&gt;5 euros</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,8 +3074,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Muffins</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T061435Z" creationid="beatr" creationdate="20230522T061435Z">
-        <seg>Plato&lt;t0/&gt; &lt;t1/&gt;Muffins</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T124544Z" creationid="beatr" creationdate="20230522T061435Z">
+        <seg>Tipo de plato&lt;t0/&gt; &lt;t1/&gt;Muffins</seg>
       </tuv>
     </tu>
     <tu>
@@ -3850,8 +3850,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>It's important that your butter is at room temperature, it will take longer to combine with the caster sugar if it's cold.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T055815Z" creationid="beatr" creationdate="20230522T055815Z">
-        <seg>Es importante que la mantequilla esté a temperatura ambiente, tardará más en mezclarse con el azucar superfino si está fría.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T124500Z" creationid="beatr" creationdate="20230522T055815Z">
+        <seg>Es importante que la mantequilla esté a temperatura ambiente, tardará más en mezclarse con el azúcar superfino si está fría.</seg>
       </tuv>
     </tu>
     <tu>
