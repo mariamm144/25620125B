@@ -736,8 +736,8 @@
       <tuv lang="en">
         <seg>2 x &lt;t0/&gt;Baking&lt;t1/&gt; &lt;t2/&gt;Trays</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T170931Z" creationid="raque" creationdate="20230522T170931Z">
-        <seg>2 x &lt;t0/&gt;bandejas para hornear</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145043Z" creationid="raque" creationdate="20230522T170931Z">
+        <seg>2 x &lt;t0/&gt;bandejas&lt;t1/&gt; &lt;t2/&gt;para hornear</seg>
       </tuv>
     </tu>
     <tu>
@@ -1784,8 +1784,8 @@
       <tuv lang="en">
         <seg>A winner with the whole family - these Thermomix Spinach and Ricotta Rolls are always a &lt;t0/&gt;favourite&lt;t1/&gt;!</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T115235Z" creationid="raque" creationdate="20230522T170702Z">
-        <seg>Una forma de ganar con toda la familia. ¡Estos rollos de espinacas y ricotta con Thermomix son siempre los favoritos!</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144953Z" creationid="raque" creationdate="20230522T170702Z">
+        <seg>Una forma de ganar con toda la familia. ¡Estos rollos de espinacas y ricotta con Thermomix son siempre los &lt;t0/&gt;favoritos&lt;t1/&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2738,8 +2738,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Choose your &lt;t0/&gt;favourite&lt;t1/&gt; &lt;t2/&gt;mini Easter&lt;t3/&gt; eggs&lt;t4/&gt; - I recommend using M&amp;Ms crispy speckled eggs as they cut easily and are bright and &lt;t5/&gt;colourful&lt;t6/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T165854Z" creationid="raque" creationdate="20230522T165854Z">
-        <seg>Elige tus mini huevos de Pascua favoritos - Yo recomiendo usar huevos moteados crujientes de M&amp;Ms ya que se cortan fácilmente y son brillantes y coloridos.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144846Z" creationid="raque" creationdate="20230522T165854Z">
+        <seg>Elige tus mini huevos de Pascua favoritos. Yo recomiendo usar huevos moteados crujientes de M&amp;Ms ya que se cortan fácilmente y son brillantes y coloridos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3402,8 +3402,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Diet&lt;t0/&gt; &lt;t1/&gt;Vegetarian</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T170730Z" creationid="raque" creationdate="20230522T170730Z">
-        <seg>Dieta&lt;t0/&gt; &lt;t1/&gt;Vegetariana</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145014Z" creationid="raque" creationdate="20230522T170730Z">
+        <seg>Dieta&lt;t0/&gt; &lt;t1/&gt;vegetariana</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,8 +3554,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Freeze in an airtight container for up to 3 &lt;t0/&gt;months</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T170003Z" creationid="raque" creationdate="20230522T170003Z">
-        <seg>Congelar en un recipiente hermético hasta 3 meses</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144908Z" creationid="raque" creationdate="20230522T170003Z">
+        <seg>Congelar en un recipiente hermético hasta 3&lt;t0/&gt;meses</seg>
       </tuv>
     </tu>
     <tu>
@@ -6533,8 +6533,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Use any plain sweet biscuits you like&lt;t0/&gt; (such as &lt;t1/&gt;Arnotts&lt;t2/&gt; Ma&lt;t3/&gt;rie, Nice &lt;t4/&gt;etc&lt;t5/&gt;)</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230601T144810Z" creationid="raque" creationdate="20230522T165824Z">
-        <seg>Utiliza cualquier galleta dulce que te guste&lt;t0/&gt; (como Arnotts&lt;t1/&gt; María, &lt;t2/&gt;Nice&lt;t3/&gt;etc&lt;t4/&gt;).</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144830Z" creationid="raque" creationdate="20230522T165824Z">
+        <seg>Utiliza cualquier galleta dulce que te guste&lt;t0/&gt; (como Arnotts&lt;t1/&gt; María, &lt;t2/&gt;Nice&lt;t3/&gt;etc&lt;t4/&gt;&lt;t5/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
