@@ -2472,8 +2472,8 @@
       <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;167.3&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;37.5&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;2.8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;1.2&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;0.5&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Cholesterol: &lt;t20/&gt;15.8&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Sodium: &lt;t24/&gt;315.2&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fiber: &lt;t28/&gt;1.3&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Sugar: &lt;t32/&gt;22.2&lt;t33/&gt;g</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T131142Z" creationid="beatr" creationdate="20230523T123212Z">
-        <seg>Calorías: &lt;t0/&gt;167.3&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;37.5&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteinas: &lt;t8/&gt;2.8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;1.2&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;0.5&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Colesterol: &lt;t20/&gt;15.8&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Sodio: &lt;t24/&gt;315.2&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fibra: &lt;t28/&gt;1.3&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Azúcares: &lt;t32/&gt;22.2&lt;t33/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221548Z" creationid="beatr" creationdate="20230523T123212Z">
+        <seg>Calorías: &lt;t0/&gt;167.3&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;37.5&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;2.8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;1.2&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;0.5&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Colesterol: &lt;t20/&gt;15.8&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Sodio: &lt;t24/&gt;315.2&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fibra: &lt;t28/&gt;1.3&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Azúcares: &lt;t32/&gt;22.2&lt;t33/&gt;</seg>
       </tuv>
     </tu>
     <tu>
