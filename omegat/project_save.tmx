@@ -184,8 +184,8 @@
       <tuv lang="en">
         <seg>1 x 20cm &lt;t0/&gt;round&lt;t1/&gt; cake &lt;t2/&gt;tin</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125629Z" creationid="mmolc" creationdate="20230525T125629Z">
-        <seg>1 x 20cm &lt;t0/&gt;molde&lt;t1/&gt; recondo &lt;t2/&gt;para horno</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092912Z" creationid="mmolc" creationdate="20230525T125629Z">
+        <seg>1 molde de &lt;t0/&gt;redondo&lt;t1/&gt; de 20cm &lt;t2/&gt;para horno</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="en">
         <seg>Add the vanilla extract, milk, &lt;t0/&gt;eggs&lt;t1/&gt; and &lt;t2/&gt;self raising&lt;t3/&gt; flour and mix for 10 seconds, Speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130021Z" creationid="mmolc" creationdate="20230525T130021Z">
-        <seg>Añade el extracto de vainilla, leche, huevos y la harina con levadura, y remuévelo durante 10 segundos, a velocidad 4.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T082106Z" creationid="mmolc" creationdate="20230525T130021Z">
+        <seg>Añade el extracto de vainilla, leche, &lt;t0/&gt;huevos&lt;t1/&gt;y&lt;t2/&gt; la harina&lt;t3/&gt; con levadura, y remueve durante 10 segundos, a velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,8 +3122,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt;Desserts</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125511Z" creationid="mmolc" creationdate="20230525T125511Z">
-        <seg>Corriente:&lt;t0/&gt;Postre</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092822Z" creationid="mmolc" creationdate="20230525T125511Z">
+        <seg>Tipo de plato&lt;t0/&gt;Postre</seg>
       </tuv>
     </tu>
     <tu>
@@ -4418,8 +4418,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter and caster sugar into your Thermomix bowl and mix for 30 seconds, Speed 3. Scrape down the sides of the bowl and mix for a further 20 seconds, Speed 3.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130010Z" creationid="mmolc" creationdate="20230525T130010Z">
-        <seg>Coloca la mantequilla en el cuenco de Thermomix  y remuévela durante 30 segundos a velocidad 3. Raspa las paredes de los lados del bol y mezcla durante otros 20 segundos a velocidad 3.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T082013Z" creationid="mmolc" creationdate="20230525T130010Z">
+        <seg>Coloca la mantequilla en el bol de Thermomix  y remueve durante 30 segundos a velocidad 3. Raspa las paredes de los lados del bol y mezcla durante otros 20 segundos a velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5181,8 +5181,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 4 or until well combined.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130031Z" creationid="mmolc" creationdate="20230525T130031Z">
-        <seg>Raspa los laterales de tu cuenco de Thermomix y remueve todo a velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T082112Z" creationid="mmolc" creationdate="20230525T130031Z">
+        <seg>Raspa los laterales de tu bol de Thermomix y remueve todo a velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6117,8 +6117,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>This easy Thermomix Marble Cake recipe is simple to make and the perfect cake for your next special occasion - it's also freezer friendly too.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230520T230515Z" creationid="mmolc" creationdate="20230520T230515Z">
-        <seg>Esta receta de bizcocho de mármol para Thermomix es muy fácil de hacer y es perfecta para la próxima ocasión especial. Además se puede congelar.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230529T092814Z" creationid="mmolc" creationdate="20230520T230515Z">
+        <seg>Esta receta de bizcocho marmoleado para Thermomix es muy fácil de hacer y es perfecta para la próxima ocasión especial. Además se puede congelar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6453,8 +6453,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Transfer the mixture in three equal parts (&lt;t0/&gt;approx&lt;t1/&gt; 180g each) and add the cocoa to one and a couple of drops of pink food &lt;t2/&gt;colouring&lt;t3/&gt; (or cochineal if using) to the other.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130043Z" creationid="mmolc" creationdate="20230525T130043Z">
-        <seg>Reparte la mezcla en tres partes iguales (aproximadamente 180 g cada una) y añadir el cacao a una y un par de gotas de colorante alimentario rosa (o cochinilla si se utiliza) a la otra.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T082358Z" creationid="mmolc" creationdate="20230525T130043Z">
+        <seg>Reparte la mezcla en tres partes iguales (aproximadamente 180g cada una) y añadd el cacao a una y un par de gotas de colorante alimentario rosa (o carmín si se utiliza) a la otra.</seg>
       </tuv>
     </tu>
     <tu>
