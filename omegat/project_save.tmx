@@ -336,8 +336,8 @@
       <tuv lang="en">
         <seg>100&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T112916Z" creationid="beatr" creationdate="20230601T112916Z">
-        <seg>&lt;f0&gt;100 g&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;de azúcar molido&lt;/f2&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220827Z" creationid="beatr" creationdate="20230601T112916Z">
+        <seg>100 g de azúcar molido</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="en">
         <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;milk&lt;t4/&gt; &lt;t5/&gt;full &lt;t6/&gt;cream</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062441Z" creationid="beatr" creationdate="20230522T062441Z">
-        <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt; de leche entera&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;cream</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220749Z" creationid="beatr" creationdate="20230522T062441Z">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;ml&lt;t2/&gt; &lt;t3/&gt; de leche entera&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;cream</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +928,8 @@
       <tuv lang="en">
         <seg>260&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;ripe bananas&lt;t4/&gt; &lt;t5/&gt;(&lt;t6/&gt;approx&lt;t7/&gt; 2 large)</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062113Z" creationid="beatr" creationdate="20230522T062113Z">
-        <seg>260&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de plátanos maduros&lt;t4/&gt; &lt;t5/&gt;(&lt;t6/&gt;aprox&lt;t7/&gt; 2 largos)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220739Z" creationid="beatr" creationdate="20230522T062113Z">
+        <seg>260&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de plátanos maduros&lt;t4/&gt; &lt;t5/&gt;(&lt;t6/&gt;aprox&lt;t7/&gt; 2 grandes)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,8 +2256,8 @@
       <tuv lang="en">
         <seg>Banana muffins are an absolute classic and when you add in some chocolate, you end up with something even better!</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T061423Z" creationid="beatr" creationdate="20230522T061423Z">
-        <seg>Los muffins de plátano son un clásico y cuando añades pepitas de chocolate, ¡Consigues hasta algo mejor!</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220639Z" creationid="beatr" creationdate="20230522T061423Z">
+        <seg>Los muffins de plátano son un clásico y, cuando añades pepitas de chocolate, ¡consigues hasta algo mejor!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3242,8 +3242,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Western</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T061520Z" creationid="beatr" creationdate="20230522T061520Z">
-        <seg>Cocina&lt;t0/&gt;del Oeste de USA</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220714Z" creationid="beatr" creationdate="20230522T061520Z">
+        <seg>Cocina&lt;t0/&gt;Occidental</seg>
       </tuv>
     </tu>
     <tu>
@@ -3850,8 +3850,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>It's important that your butter is at room temperature, it will take longer to combine with the caster sugar if it's cold.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T124500Z" creationid="beatr" creationdate="20230522T055815Z">
-        <seg>Es importante que la mantequilla esté a temperatura ambiente, tardará más en mezclarse con el azúcar superfino si está fría.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220553Z" creationid="beatr" creationdate="20230522T055815Z">
+        <seg>Es importante que la mantequilla esté a temperatura ambiente, tardará más en mezclarse con el azúcar molido si está fría.</seg>
       </tuv>
     </tu>
     <tu>
