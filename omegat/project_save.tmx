@@ -1352,8 +1352,8 @@
       <tuv lang="en">
         <seg>520 &lt;t0/&gt;grams&lt;t1/&gt; &lt;t2/&gt;plain&lt;t3/&gt; &lt;t4/&gt;flour</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T102745Z" creationid="raque" creationdate="20230523T102745Z">
-        <seg>520 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt; &lt;t4/&gt;de harina</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T150930Z" creationid="raque" creationdate="20230523T102745Z">
+        <seg>520 &lt;t0/&gt;gramos&lt;t1/&gt; &lt;t2/&gt;de harina&lt;t3/&gt; &lt;t4/&gt;común</seg>
       </tuv>
     </tu>
     <tu>
@@ -1984,8 +1984,8 @@
       <tuv lang="en">
         <seg>Add the plain flour, olive oil, salt and baking powder into the Thermomix bowl and mix for 8 seconds, Speed 6 to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T113706Z" creationid="raque" creationdate="20230523T131227Z">
-        <seg>Añade la harina normal, el aceite de oliva, la sal y la levadura en polvo en el bol del Thermomix y mezcla durante 8 segundos,  velocidad 6 para mezclar.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151035Z" creationid="raque" creationdate="20230523T131227Z">
+        <seg>Añade la harina normal, el aceite de oliva, la sal y la levadura en polvo en el vaso Thermomix y mezcla durante 8 segundos, velocidad 6 para mezclar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,8 +3890,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Knead the dough on an oiled bench or board.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T124628Z" creationid="raque" creationdate="20230523T131427Z">
-        <seg>Amasa la masa en un banco o una tabla aceitadas.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151125Z" creationid="raque" creationdate="20230523T131427Z">
+        <seg>Amasa la masa en la encimera o una tabla con un poco de aceite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,8 +4330,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place small pieces of baking paper onto half of each flattened oval and fold over (so that the baking paper is in between.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T125348Z" creationid="raque" creationdate="20230523T131523Z">
-        <seg>Coloca pequeños trozos de papel de hornear sobre la mitad de cada óvalo aplanado y dóblalo (de modo que el papel de hornear quede en medio.)</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151151Z" creationid="raque" creationdate="20230523T131523Z">
+        <seg>Coloca pequeños trozos de papel de hornear sobre la mitad de cada óvalo aplanado y dóblalo (de modo que el papel de hornear quede en medio).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6213,8 +6213,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>To make the bun dough, place the water, sugar and yeast into the Thermomix bowl and mix for 8 seconds, Speed 3.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T113630Z" creationid="raque" creationdate="20230523T131135Z">
-        <seg>Para hacer la masa del bollo, pon el agua, el azúcar y la levadura en el bol de la Thermomix y mezcla durante 8 segundos, velocidad 3.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151009Z" creationid="raque" creationdate="20230523T131135Z">
+        <seg>Para hacer la masa del bollo, pon el agua, el azúcar y la levadura en el vaso Thermomix y mezcla durante 8 segundos, velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
