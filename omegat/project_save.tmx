@@ -1568,8 +1568,8 @@
       <tuv lang="en">
         <seg>950&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;water</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203336Z" creationid="beatr" creationdate="20230512T203336Z">
-        <seg>950&lt;t0/&gt; &lt;t1/&gt;gr&lt;t2/&gt; &lt;t3/&gt;agua</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T122008Z" creationid="beatr" creationdate="20230512T203336Z">
+        <seg>950&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;agua</seg>
       </tuv>
     </tu>
     <tu>
@@ -2530,8 +2530,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Polyunsaturated Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Monounsaturated Fat: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Trans Fat: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Cholesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodium: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potassium: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt; | &lt;t43/&gt;Fiber: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Sugar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamin A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcium: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Iron: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202245Z" creationid="beatr" creationdate="20230512T202245Z">
-        <seg>Calorías: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasas poliinsaturadas: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Grasas monoinsaturadas: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Grasas trans: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Colesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodio: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potasio: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt;| &lt;t43/&gt;Fibra: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Azúcar: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamina A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcio: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Hierro: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T121953Z" creationid="beatr" creationdate="20230512T202245Z">
+        <seg>Calorías: &lt;t0/&gt;73&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;7&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;1&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;4&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;3&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasas poliinsaturadas: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Grasas monoinsaturadas: &lt;t24/&gt;1&lt;t25/&gt;g&lt;t26/&gt; | &lt;t27/&gt;Grasas trans: &lt;t28/&gt;1&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Colesterol: &lt;t32/&gt;18&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Sodio: &lt;t36/&gt;88&lt;t37/&gt;mg&lt;t38/&gt; | &lt;t39/&gt;Potasio: &lt;t40/&gt;23&lt;t41/&gt;mg&lt;t42/&gt;| &lt;t43/&gt;Fibra: &lt;t44/&gt;1&lt;t45/&gt;g&lt;t46/&gt; | &lt;t47/&gt;Azúcares: &lt;t48/&gt;1&lt;t49/&gt;g&lt;t50/&gt; | &lt;t51/&gt;Vitamina A: &lt;t52/&gt;138&lt;t53/&gt;IU&lt;t54/&gt; | &lt;t55/&gt;Calcio: &lt;t56/&gt;13&lt;t57/&gt;mg&lt;t58/&gt; | &lt;t59/&gt;Hierro: &lt;t60/&gt;1&lt;t61/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -4626,8 +4626,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the water into the Thermomix bowl, insert the rice basket, secure the &lt;t0/&gt;lid&lt;t1/&gt; and cook for 20 minutes, &lt;t2/&gt;Varoma&lt;t3/&gt;, Speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203437Z" creationid="beatr" creationdate="20230512T203437Z">
-        <seg>Poner el agua en el bol del Thermomix, introducir el cestillo del arroz, asegurar la &lt;t0/&gt;tapa&lt;t1/&gt; y cocer durante 20 minutos, &lt;t2/&gt;Varoma&lt;t3/&gt;, Velocidad 4.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T122020Z" creationid="beatr" creationdate="20230512T203437Z">
+        <seg>Poner el agua en el bol del Thermomix, introducir el cestillo del arroz, asegurar la &lt;t0/&gt;tapa&lt;t1/&gt; y cocer durante 20 minutos, &lt;t2/&gt;Varoma&lt;t3/&gt;, velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5621,8 +5621,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Start from the end without the gap and roll tightly together (it takes a bit of practice).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203527Z" creationid="beatr" creationdate="20230512T203527Z">
-        <seg>Empieza desde el final sin el margen y enróllalo de manera apretada (requiere un poco de práctica).</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T122240Z" creationid="beatr" creationdate="20230512T203527Z">
+        <seg>Empieza desde el final sin el margen y enróllalo de manera apretada (requiere un poco de práctica.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6485,8 +6485,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Transfer the rice to a large plate.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203447Z" creationid="beatr" creationdate="20230512T203447Z">
-        <seg>Pasar el arroz en un plato grande.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T122120Z" creationid="beatr" creationdate="20230512T203447Z">
+        <seg>Pasar el arroz a un plato grande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6565,8 +6565,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Very carefully remove the rice basket from the Thermomix (it will be very hot!).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203442Z" creationid="beatr" creationdate="20230512T203442Z">
-        <seg> Quitar cuidadosamente la cesta de arroz de la Thermomix (¡estará muy caliente!).</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T122032Z" creationid="beatr" creationdate="20230512T203442Z">
+        <seg> Quitar cuidadosamente la cesta de arroz de la Thermomix (¡estará muy caliente!)</seg>
       </tuv>
     </tu>
     <tu>
