@@ -856,8 +856,8 @@
       <tuv lang="en">
         <seg>200g g &lt;t0/&gt;self&lt;t1/&gt; &lt;t2/&gt;raising&lt;t3/&gt; &lt;t4/&gt;flour</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T204025Z" creationid="alond" creationdate="20230522T175752Z">
-        <seg>200g &lt;t0/&gt;de&lt;t1/&gt; &lt;t2/&gt;harina&lt;t3/&gt; &lt;t4/&gt;con levadura</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205839Z" creationid="alond" creationdate="20230522T175752Z">
+        <seg>200 g &lt;t0/&gt;de&lt;t1/&gt; &lt;t2/&gt;harina&lt;t3/&gt; &lt;t4/&gt;con levadura</seg>
       </tuv>
     </tu>
     <tu>
