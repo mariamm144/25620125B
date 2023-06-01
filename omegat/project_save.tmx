@@ -440,8 +440,8 @@
       <tuv lang="en">
         <seg>15 g &lt;t0/&gt;caster&lt;t1/&gt; &lt;t2/&gt;sugar&lt;t3/&gt; &lt;t4/&gt;optional</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T171130Z" creationid="alond" creationdate="20230522T171508Z">
-        <seg>15 g &lt;t0/&gt;de azúcar&lt;t1/&gt; &lt;t2/&gt;glass&lt;t3/&gt; &lt;t4/&gt;opcional</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205336Z" creationid="alond" creationdate="20230522T171508Z">
+        <seg>15 g &lt;t0/&gt;de azúcar&lt;t1/&gt; &lt;t2/&gt;glas&lt;t3/&gt; &lt;t4/&gt;opcional</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2144,8 @@
       <tuv lang="en">
         <seg>Amount of coffee granules&lt;t0/&gt; - 2 heaped teaspoons will give you a very strong Thermomix iced coffee&lt;t1/&gt; frappe.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T171747Z" creationid="alond" creationdate="20230522T171747Z">
-        <seg>Cantidad de granos de café&lt;t0/&gt; - con 2 cucharaditas colmadas obtendrá un frappe de café helado Thermomix muy fuerte.&lt;t1/&gt;</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205412Z" creationid="alond" creationdate="20230522T171747Z">
+        <seg>Cantidad de granos de café&lt;t0/&gt;: con 2 cucharaditas colmadas obtendrá un frappe de café helado Thermomix muy fuerte.&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,8 +3938,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Look after your starter &lt;t0/&gt;– you need to take care of your starter and feed it!</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175013Z" creationid="alond" creationdate="20230522T174920Z">
-        <seg>Cuida tu fermento &lt;t0/&gt;- ¡tienes que cuidarlo y alimentarlo!</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205611Z" creationid="alond" creationdate="20230522T174920Z">
+        <seg>Cuida tu fermento &lt;t0/&gt;, ¡tienes que cuidarlo y alimentarlo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,8 +4250,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place &lt;t0/&gt;all of&lt;t1/&gt; the ingredients into your Thermomix bowl and blend for 3 minutes, Speed 6.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T171226Z" creationid="alond" creationdate="20230522T171604Z">
-        <seg>Introduce &lt;t0/&gt;todos&lt;t1/&gt; los ingredientes en el vaso de tu Thermomix y bate durante 3 minutos, Velocidad 6.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205350Z" creationid="alond" creationdate="20230522T171604Z">
+        <seg>Introduce &lt;t0/&gt;todos&lt;t1/&gt; los ingredientes en el vaso de tu Thermomix y bate durante 3 minutos, velocidad 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4756,8 +4756,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat the oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) or 230 degrees &lt;t2/&gt;celsius&lt;t3/&gt; (&lt;t4/&gt;non fan&lt;t5/&gt;-forced).</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T173104Z" creationid="alond" creationdate="20230522T173320Z">
-        <seg>Precalienta el horno a 210 grados &lt;t0/&gt;celsius&lt;t1/&gt; (con ventilación forzada) o 230 grados &lt;t2/&gt;celsius&lt;t3/&gt; (&lt;t4/&gt;sin ventilador&lt;t5/&gt;).</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205528Z" creationid="alond" creationdate="20230522T173320Z">
+        <seg>Precalienta el horno a 210 grados &lt;t0/&gt;&lt;t1/&gt; (con ventilador) o 230 grados &lt;t2/&gt;&lt;t3/&gt; (&lt;t4/&gt;sin ventilador&lt;t5/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5725,8 +5725,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Sugar&lt;t0/&gt; - Adding sugar is e&lt;t1/&gt;ntirely optional.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T172004Z" creationid="alond" creationdate="20230522T172004Z">
-        <seg>Azúcar&lt;t0/&gt; - Añadir azúcar es&lt;t1/&gt;totalmente opcional.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205430Z" creationid="alond" creationdate="20230522T172004Z">
+        <seg>Azúcar&lt;t0/&gt;; Añadir azúcar es&lt;t1/&gt;totalmente opcional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5781,8 +5781,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>The mixture will be very sticky at this stage - this is perfect.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T173000Z" creationid="alond" creationdate="20230522T173000Z">
-        <seg>La mezcla será muy pegajosa en esta etapa - eso está bien.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205501Z" creationid="alond" creationdate="20230522T173000Z">
+        <seg>La mezcla será muy pegajosa en esta etapa, eso está bien.</seg>
       </tuv>
     </tu>
     <tu>
