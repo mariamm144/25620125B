@@ -1624,8 +1624,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Rinse&lt;t1/&gt; &lt;t2/&gt;under&lt;t3/&gt; &lt;t4/&gt;cold&lt;t5/&gt; &lt;t6/&gt;water&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203428Z" creationid="beatr" creationdate="20230512T203428Z">
-        <seg>&lt;t0/&gt;Enjuagar&lt;t1/&gt; &lt;t2/&gt;bajo&lt;t3/&gt; &lt;t4/&gt;agua&lt;t5/&gt; &lt;t6/&gt;fría&lt;t7/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214218Z" creationid="beatr" creationdate="20230512T203428Z">
+        <seg>&lt;t0/&gt;Enjuaga&lt;t1/&gt; &lt;t2/&gt;bajo&lt;t3/&gt; &lt;t4/&gt;agua&lt;t5/&gt; &lt;t6/&gt;fría&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,8 +3466,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Drizzle over the sushi seasoning and fluff with a fork up and allow to cool slightly.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T120421Z" creationid="beatr" creationdate="20230512T203455Z">
-        <seg>Rocía el condimento en el sushi y dale  vueltas con un tenedor y deja que se enfríe un poco.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214320Z" creationid="beatr" creationdate="20230512T203455Z">
+        <seg>Rocía el condimento en el sushi y dale vueltas con un tenedor y deja que se enfríe un poco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4626,8 +4626,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the water into the Thermomix bowl, insert the rice basket, secure the &lt;t0/&gt;lid&lt;t1/&gt; and cook for 20 minutes, &lt;t2/&gt;Varoma&lt;t3/&gt;, Speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122020Z" creationid="beatr" creationdate="20230512T203437Z">
-        <seg>Poner el agua en el bol del Thermomix, introducir el cestillo del arroz, asegurar la &lt;t0/&gt;tapa&lt;t1/&gt; y cocer durante 20 minutos, &lt;t2/&gt;Varoma&lt;t3/&gt;, velocidad 4.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214244Z" creationid="beatr" creationdate="20230512T203437Z">
+        <seg>Pon el agua en el bol del Thermomix, introduce el cestillo del arroz, asegura la &lt;t0/&gt;tapa&lt;t1/&gt; y cuece durante 20 minutos, &lt;t2/&gt;Varoma&lt;t3/&gt;, velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5581,8 +5581,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Spread a thin layer of cooked sushi rice (approximately ½ cup) over the sheet of nori (leaving a 2cm gap at the top of the sheet – to assist with sealing) and press down with the flat side of a spoon.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T120653Z" creationid="beatr" creationdate="20230512T203515Z">
-        <seg>Unta una delgada capa del arroz cocido (aproximadamente media taza) sobre la hoja de nori (dejando un margen de 2cm encima de la hoja– para ayudarte al cerrarlo) y aplástala con la parte plana de la cuchara.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214428Z" creationid="beatr" creationdate="20230512T203515Z">
+        <seg>Unta una delgada capa del arroz cocido (aproximadamente media taza) sobre la hoja de nori (dejando un margen de 2 cm encima de la hoja– para ayudarte al cerrarlo) y aplástala con la parte plana de la cuchara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6485,8 +6485,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Transfer the rice to a large plate.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122120Z" creationid="beatr" creationdate="20230512T203447Z">
-        <seg>Pasar el arroz a un plato grande.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214308Z" creationid="beatr" creationdate="20230512T203447Z">
+        <seg>Pasa el arroz a un plato grande.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6565,8 +6565,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Very carefully remove the rice basket from the Thermomix (it will be very hot!).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122032Z" creationid="beatr" creationdate="20230512T203442Z">
-        <seg> Quitar cuidadosamente la cesta de arroz de la Thermomix (¡estará muy caliente!)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214301Z" creationid="beatr" creationdate="20230512T203442Z">
+        <seg> Quita cuidadosamente la cesta de arroz de la Thermomix (¡estará muy caliente!)</seg>
       </tuv>
     </tu>
     <tu>
