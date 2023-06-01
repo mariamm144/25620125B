@@ -3394,8 +3394,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Dampen the uncovered end of the nori sheet with water.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203523Z" creationid="beatr" creationdate="20230512T203523Z">
-        <seg>Humedece el margen sin cubrir de la hoja de nori con agua.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214533Z" creationid="beatr" creationdate="20230512T203523Z">
+        <seg>Humedece el margen de la hoja de nori sin cubrir con agua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5037,8 +5037,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Remove the sushi rice from the basket once cooked – &lt;t0/&gt;if you leave the sushi rice to sit in the rice basket after the cooking time, it will become gluggy.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122413Z" creationid="beatr" creationdate="20230512T203544Z">
-        <seg>Quitar el arroz de sushi de la cesta&lt;t0/&gt;si dejas el arroz de sushi en la cesta tras el tiempo de cocción, se quedará pegajoso.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214609Z" creationid="beatr" creationdate="20230512T203544Z">
+        <seg>Quitar el arroz de sushi de la cesta:&lt;t0/&gt;si dejas el arroz de sushi en la cesta tras el tiempo de cocción, se quedará pegajoso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6477,8 +6477,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Transfer the rice from the rice basket to a flat plate – &lt;t0/&gt;this &lt;t1/&gt;allow&lt;t2/&gt; the rice to begin to cool and also makes it easier to drizzle with the sushi seasoning and fluff with a fork.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T120752Z" creationid="beatr" creationdate="20230520T120625Z">
-        <seg>Transferir el arroz desde la cesta a un plato llano; &lt;t0/&gt;esto &lt;t1/&gt;permite&lt;t2/&gt;que el arroz empiece  a enfriarse y también hace más fácil salpicar con el condimento de sushi y revuelve con un tenedor.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214705Z" creationid="beatr" creationdate="20230520T120625Z">
+        <seg>Transferir el arroz desde la cesta a un plato llano: &lt;t0/&gt;esto &lt;t1/&gt;permite&lt;t2/&gt;que el arroz empiece a enfriarse y también hace más fácil salpicar con el condimento de sushi y revolverlo con un tenedor.</seg>
       </tuv>
     </tu>
     <tu>
