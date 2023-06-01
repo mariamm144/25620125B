@@ -904,8 +904,8 @@
       <tuv lang="en">
         <seg>250 g &lt;t0/&gt;milk&lt;t1/&gt; chocolate</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T163556Z" creationid="raque" creationdate="20230522T163556Z">
-        <seg>250 g &lt;t0/&gt;leche de chocolate</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144136Z" creationid="raque" creationdate="20230522T163556Z">
+        <seg>250 g &lt;t0/&gt;leche&lt;t1/&gt; de chocolate</seg>
       </tuv>
     </tu>
     <tu>
@@ -1056,8 +1056,8 @@
       <tuv lang="en">
         <seg>300 g &lt;t0/&gt;sweetened&lt;t1/&gt; &lt;t2/&gt;condensed&lt;t3/&gt; &lt;t4/&gt;milk</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T163534Z" creationid="raque" creationdate="20230522T163534Z">
-        <seg>300 g &lt;t0/&gt;leche condensada</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144120Z" creationid="raque" creationdate="20230522T163534Z">
+        <seg>300 g &lt;t0/&gt;leche condensada&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2714,8 +2714,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Chilling Time&lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;hours</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T163248Z" creationid="raque" creationdate="20230522T163248Z">
-        <seg>Tiempo de reposo &lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;horas</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144008Z" creationid="raque" creationdate="20230522T163248Z">
+        <seg>Tiempo de reposo&lt;t0/&gt; &lt;t1/&gt;2 &lt;t2/&gt;horas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,8 +3002,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cost&lt;t0/&gt; &lt;t1/&gt;$10</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T113043Z" creationid="raque" creationdate="20230522T163439Z">
-        <seg>Coste&lt;t0/&gt; &lt;t1/&gt;9 euros</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144046Z" creationid="raque" creationdate="20230522T163439Z">
+        <seg>Coste&lt;t0/&gt; &lt;t1/&gt;9€</seg>
       </tuv>
     </tu>
     <tu>
@@ -3058,8 +3058,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Dessert</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T163148Z" creationid="raque" creationdate="20230522T163148Z">
-        <seg>Tipo de plato &lt;t0/&gt; &lt;t1/&gt;Postre</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T143950Z" creationid="raque" creationdate="20230522T163148Z">
+        <seg>Tipo de plato&lt;t0/&gt; &lt;t1/&gt;Postre</seg>
       </tuv>
     </tu>
     <tu>
@@ -6853,8 +6853,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>extra &lt;t0/&gt;mini Easter&lt;t1/&gt; eggs to decorate</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T163607Z" creationid="raque" creationdate="20230522T163607Z">
-        <seg>extra &lt;t0/&gt;mini huevos para decorar</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T144253Z" creationid="raque" creationdate="20230522T163607Z">
+        <seg>mini huevos &lt;t0/&gt;de más&lt;t1/&gt; para decorar</seg>
       </tuv>
     </tu>
     <tu>
