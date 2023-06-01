@@ -3050,8 +3050,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T131215Z" creationid="beatr" creationdate="20230512T201433Z">
-        <seg>Tipo de plato&lt;t0/&gt;Desayuno&lt;t1/&gt;, Aperitivo</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213527Z" creationid="beatr" creationdate="20230512T201433Z">
+        <seg>Tipo de plato&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
       </tuv>
     </tu>
     <tu>
@@ -3218,8 +3218,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Australian</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T170756Z" creationid="beatr" creationdate="20230512T201441Z">
-        <seg>Gastronomía&lt;t0/&gt;Australiana</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213536Z" creationid="beatr" creationdate="20230512T201441Z">
+        <seg>Cocina&lt;t0/&gt;Australiana</seg>
       </tuv>
     </tu>
     <tu>
@@ -5965,8 +5965,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Thermomix Pikelet Recipe</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201424Z" creationid="beatr" creationdate="20230512T201424Z">
-        <seg>Receta Pikelet en la Thermomix</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213409Z" creationid="beatr" creationdate="20230512T201424Z">
+        <seg>Receta Pikelet con Thermomix</seg>
       </tuv>
     </tu>
     <tu>
