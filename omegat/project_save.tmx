@@ -192,8 +192,8 @@
       <tuv lang="en">
         <seg>1 x &lt;t0/&gt;Baking&lt;t1/&gt; &lt;t2/&gt;Tray</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132326Z" creationid="raque" creationdate="20230523T132326Z">
-        <seg>1 x &lt;t0/&gt;Bandeja para horno</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151608Z" creationid="raque" creationdate="20230523T132326Z">
+        <seg>1 x &lt;t0/&gt;bandeja para horno</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,8 +1976,8 @@
       <tuv lang="en">
         <seg>Add the olive oil, plain flour and salt and mix for 8 seconds on spee&lt;t0/&gt;d 6.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T114821Z" creationid="raque" creationdate="20230523T132601Z">
-        <seg>Añade el aceite de oliva, la harina normal y la sal y mezcla durante 8 segundos, velocidad&lt;t0/&gt; 6.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151641Z" creationid="raque" creationdate="20230523T132601Z">
+        <seg>Añade el aceite de oliva, la harina común y la sal y mezcla durante 8 segundos, velocidad&lt;t0/&gt; 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2362,8 +2362,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;183&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohydrates: &lt;t3/&gt;31&lt;t4/&gt;g&lt;t5/&gt; | Protein: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Fat: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Saturated Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Polyunsaturated Fat: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Monounsaturated Fat: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Sodium: &lt;t21/&gt;320&lt;t22/&gt;mg&lt;t23/&gt; | Potassium: &lt;t24/&gt;53&lt;t25/&gt;mg&lt;t26/&gt; | Fiber: &lt;t27/&gt;1&lt;t28/&gt;g&lt;t29/&gt; | Sugar: &lt;t30/&gt;4&lt;t31/&gt;g&lt;t32/&gt; | Vitamin C: &lt;t33/&gt;1&lt;t34/&gt;mg&lt;t35/&gt; | Calcium: &lt;t36/&gt;53&lt;t37/&gt;mg&lt;t38/&gt; | Iron: &lt;t39/&gt;2&lt;t40/&gt;mg</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T210619Z" creationid="raque" creationdate="20230523T131848Z">
-        <seg>Calorías: &lt;t0/&gt;183&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;31&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Grasas Saturadas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Grasas Poliinsaturadas: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Grasas Monoinsaturadas: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Sodio: &lt;t21/&gt;320&lt;t22/&gt;mg&lt;t23/&gt; | Potasio: &lt;t24/&gt;53&lt;t25/&gt;mg&lt;t26/&gt; | Fibra: &lt;t27/&gt;1&lt;t28/&gt;g&lt;t29/&gt; | Azúcares: &lt;t30/&gt;4&lt;t31/&gt;g&lt;t32/&gt; | Vitamina C: &lt;t33/&gt;1&lt;t34/&gt;mg&lt;t35/&gt; | Calcio: &lt;t36/&gt;53&lt;t37/&gt;mg&lt;t38/&gt; | Hierro: &lt;t39/&gt;2&lt;t40/&gt;mg</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151528Z" creationid="raque" creationdate="20230523T131848Z">
+        <seg>Calorías: &lt;t0/&gt;183&lt;t1/&gt;kcal&lt;t2/&gt; | Carbohidratos: &lt;t3/&gt;31&lt;t4/&gt;g&lt;t5/&gt; | Proteínas: &lt;t6/&gt;4&lt;t7/&gt;g&lt;t8/&gt; | Grasas: &lt;t9/&gt;4&lt;t10/&gt;g&lt;t11/&gt; | Grasas saturadas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | Grasas poliinsaturadas: &lt;t15/&gt;1&lt;t16/&gt;g&lt;t17/&gt; | Grasas monoinsaturadas: &lt;t18/&gt;3&lt;t19/&gt;g&lt;t20/&gt; | Sodio: &lt;t21/&gt;320&lt;t22/&gt;mg&lt;t23/&gt; | Potasio: &lt;t24/&gt;53&lt;t25/&gt;mg&lt;t26/&gt; | Fibra: &lt;t27/&gt;1&lt;t28/&gt;g&lt;t29/&gt; | Azúcares: &lt;t30/&gt;4&lt;t31/&gt;g&lt;t32/&gt; | Vitamina C: &lt;t33/&gt;1&lt;t34/&gt;mg&lt;t35/&gt; | Calcio: &lt;t36/&gt;53&lt;t37/&gt;mg&lt;t38/&gt; | Hierro: &lt;t39/&gt;2&lt;t40/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,8 +4618,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the water and yeast into the Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T130821Z" creationid="raque" creationdate="20230523T132519Z">
-        <seg>Introduce el agua y la levadura en el bol de la Thermomix.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151628Z" creationid="raque" creationdate="20230523T132519Z">
+        <seg>Introduce el agua y la levadura en el vaso Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,8 +4642,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Plain flour can be used instead of Baker's Flour</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T131340Z" creationid="raque" creationdate="20230523T133118Z">
-        <seg>Se puede utilizar harina normal en lugar de harina de panadería</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151749Z" creationid="raque" creationdate="20230523T133118Z">
+        <seg>Se puede utilizar harina común en lugar de harina de panadería</seg>
       </tuv>
     </tu>
     <tu>
@@ -4748,8 +4748,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat oven to 200 degrees&lt;t0/&gt; &lt;t1/&gt;celsius&lt;t2/&gt; (fan-forced).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T131043Z" creationid="raque" creationdate="20230523T132913Z">
-        <seg>Precalentar el horno a 200 grados&lt;t0/&gt; &lt;t1/&gt;centígrados&lt;t2/&gt; ( con ventilador.)</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151715Z" creationid="raque" creationdate="20230523T132913Z">
+        <seg>Precalienta el horno a 200 grados&lt;t0/&gt; &lt;t1/&gt;centígrados&lt;t2/&gt; (con ventilador).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5221,8 +5221,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix on Interval (knead) function for 2 minutes.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132649Z" creationid="raque" creationdate="20230523T132649Z">
-        <seg>Limpia las paredes del bol y mezcla en la función Intervalo (amasar) durante 2 minutos.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151651Z" creationid="raque" creationdate="20230523T132649Z">
+        <seg>Limpia las paredes del vaso y mezcla en la función Intervalo (amasar) durante 2 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6645,8 +6645,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>You can add 1 tablespoon of bread improver for a lighter consistency.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T133140Z" creationid="raque" creationdate="20230523T133140Z">
-        <seg>Puedes añadir 1 cucharada de mejorador de pan para obtener una consistencia más ligera.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T151947Z" creationid="raque" creationdate="20230523T133140Z">
+        <seg>Puedes añadir 1 cucharada de mejorante de pan para obtener una consistencia más ligera.</seg>
       </tuv>
     </tu>
     <tu>
