@@ -1696,8 +1696,8 @@
       <tuv lang="en">
         <seg>&lt;t1/&gt;So&lt;t2/&gt; your dark brown bananas as perfect to use.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230523T122655Z" creationid="beatr" creationdate="20230523T122655Z">
-        <seg>&lt;t1/&gt;Por lo tanto,&lt;t2/&gt; los plátanos oscuros son perfectos para usar.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221426Z" creationid="beatr" creationdate="20230523T122655Z">
+        <seg>&lt;t1/&gt;Por lo tanto,&lt;t2/&gt; los plátanos oscuros vienen perfectos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,8 +2000,8 @@
       <tuv lang="en">
         <seg>Add the self-&lt;t0/&gt;raising&lt;t1/&gt; flour, caster sugar, baking powder, bi-carb soda, &lt;t2/&gt;cinnamon&lt;t3/&gt; and salt and mix for 5 seconds, Speed 4 (use the spatula to help mix).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T154115Z" creationid="beatr" creationdate="20230522T154115Z">
-        <seg>Añadir la harina, el azúcar, la levadura en polvo, el bicarbonato, la canela y la sal y mezclar durante 5 segundos a la velocidad 4 (utiliza la espátula para mezclar).&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221249Z" creationid="beatr" creationdate="20230522T154115Z">
+        <seg>Añade la harina, el azúcar, la levadura en polvo, el bicarbonato, la canela y la sal y mezcla durante 5 segundos a la velocidad 4 (utiliza la espátula para mezclar).&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2080,8 +2080,8 @@
       <tuv lang="en">
         <seg>Allow to cool in the tray for 5 minutes before transferring to a wire rack to cool completely.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T154734Z" creationid="beatr" creationdate="20230522T154734Z">
-        <seg>Dejar enfriar en la bandeja durante 5 minutos antes de pasarlos a una rejilla para que se enfríe completamente.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221331Z" creationid="beatr" creationdate="20230522T154734Z">
+        <seg>Deja enfriar en la bandeja durante 5 minutos antes de pasarlos a una rejilla para que se enfríe completamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,10 +2272,8 @@
       <tuv lang="en">
         <seg>Bananas have gone bad (and shouldn't be used) if they have &lt;t3/&gt;mould&lt;t4/&gt; on them or a slimy liquid coming from them.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230523T122856Z" creationid="beatr" creationdate="20230523T122815Z">
-        <seg>
-
-Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un líquido viscoso&lt;t3/&gt;&lt;t4/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221458Z" creationid="beatr" creationdate="20230523T122815Z">
+        <seg>Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un líquido viscoso&lt;t3/&gt;&lt;t4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2922,8 +2920,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook for 15 minutes or until the muffins spring back when lightly touched in the middle.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T154630Z" creationid="beatr" creationdate="20230522T154630Z">
-        <seg>Hornear durante 15 minutos o hasta que los muffins se ablanden al tocarlas ligeramente en el centro.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221323Z" creationid="beatr" creationdate="20230522T154630Z">
+        <seg>Hornea durante 15 minutos o hasta que los muffins se ablanden al tocarlas ligeramente en el centro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5077,8 +5075,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Ripe Bananas&lt;t0/&gt; - When baking with bananas the general rule is the riper the better!</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230523T122558Z" creationid="beatr" creationdate="20230523T122558Z">
-        <seg>Plátanos maduros&lt;t0/&gt; -  Cuando se trata de hornear con plátano la regla general es ¡cuanto más maduro mejor!!</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221345Z" creationid="beatr" creationdate="20230523T122558Z">
+        <seg>Plátanos maduros&lt;t0/&gt; -  Cuando se trata de hornear con plátano la regla general es: ¡cuanto más maduro mejor!!</seg>
       </tuv>
     </tu>
     <tu>
