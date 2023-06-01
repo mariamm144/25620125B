@@ -2482,8 +2482,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;20&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;11&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;7&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Trans Fat: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Cholesterol: &lt;t24/&gt;31&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Sodium: &lt;t28/&gt;381&lt;t29/&gt;mg&lt;t30/&gt; | &lt;t31/&gt;Potassium: &lt;t32/&gt;161&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Fiber: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Sugar: &lt;t40/&gt;1&lt;t41/&gt;g&lt;t42/&gt; | &lt;t43/&gt;Vitamin A: &lt;t44/&gt;336&lt;t45/&gt;IU&lt;t46/&gt; | &lt;t47/&gt;Calcium: &lt;t48/&gt;115&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Iron: &lt;t52/&gt;1&lt;t53/&gt;mg</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T181944Z" creationid="beatr" creationdate="20230520T181944Z">
-        <seg>Calorías: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;20&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteinas: &lt;t8/&gt;8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;11&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;7&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasa transgénica: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Colesterol: &lt;t24/&gt;31&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Sodio: &lt;t28/&gt;381&lt;t29/&gt;mg&lt;t30/&gt; | &lt;t31/&gt;Potasio: &lt;t32/&gt;161&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Fibrar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Azúcar: &lt;t40/&gt;1&lt;t41/&gt;g&lt;t42/&gt; | &lt;t43/&gt;Vitamina A: &lt;t44/&gt;336&lt;t45/&gt;IU&lt;t46/&gt; | &lt;t47/&gt;Calcio: &lt;t48/&gt;115&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Hierro: &lt;t52/&gt;1&lt;t53/&gt;mg</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T123823Z" creationid="beatr" creationdate="20230520T181944Z">
+        <seg>Calorías: &lt;t0/&gt;212&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;20&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteinas: &lt;t8/&gt;8&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;11&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Grasas saturadas: &lt;t16/&gt;7&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Grasa transgénica: &lt;t20/&gt;1&lt;t21/&gt;g&lt;t22/&gt; | &lt;t23/&gt;Colesterol: &lt;t24/&gt;31&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Sodio: &lt;t28/&gt;381&lt;t29/&gt;mg&lt;t30/&gt; | &lt;t31/&gt;Potasio: &lt;t32/&gt;161&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Fibrar: &lt;t36/&gt;1&lt;t37/&gt;g&lt;t38/&gt; | &lt;t39/&gt;Azúcares: &lt;t40/&gt;1&lt;t41/&gt;g&lt;t42/&gt; | &lt;t43/&gt;Vitamina A: &lt;t44/&gt;336&lt;t45/&gt;IU&lt;t46/&gt; | &lt;t47/&gt;Calcio: &lt;t48/&gt;115&lt;t49/&gt;mg&lt;t50/&gt; | &lt;t51/&gt;Hierro: &lt;t52/&gt;1&lt;t53/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -4514,8 +4514,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the flour, butter and salt into the Thermomix bowl and mix for 10 seconds on Speed 9 until mixture is the same consistency as &lt;t0/&gt;bread crumbs&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T121552Z" creationid="beatr" creationdate="20230520T174632Z">
-        <seg>Pon la harina, la mantequilla y la sal en el bol de la Thermomix y mezcla durante 10 segundos a la velocidad 9 hasta que la mezcla tenga la misma consistencia &lt;t0/&gt;que el pan rallado&lt;t1/&gt;.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T123215Z" creationid="beatr" creationdate="20230520T174632Z">
+        <seg>Pon la harina, la mantequilla y la sal en el bol de la Thermomix y mezcla durante 10 segundos, velocidad 9 hasta que la mezcla tenga la misma consistencia &lt;t0/&gt;que el pan rallado&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
