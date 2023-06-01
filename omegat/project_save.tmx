@@ -952,8 +952,8 @@
       <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;tablespoons&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201704Z" creationid="beatr" creationdate="20230512T201704Z">
-        <seg>2&lt;t0/&gt; &lt;t1/&gt;cuchadaras de&lt;t2/&gt; &lt;t3/&gt;azucar&lt;t4/&gt; &lt;t5/&gt;en polvo</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213606Z" creationid="beatr" creationdate="20230512T201704Z">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;cuchadaras de&lt;t2/&gt; &lt;t3/&gt;azúcar&lt;t4/&gt; &lt;t5/&gt;en polvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1864,8 +1864,8 @@
       <tuv lang="en">
         <seg>Add the &lt;t0/&gt;self raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;egg&lt;t3/&gt; and a sprinkle of salt and mix for 10 seconds on speed 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T121744Z" creationid="beatr" creationdate="20230512T202024Z">
-        <seg>Añade &lt;t0/&gt;la harina con levadura&lt;t1/&gt;, el azucar en polvo, leche, &lt;t2/&gt;el huevo&lt;t3/&gt; y una pizca de sal y mezclar durante 10 segundos, velocidad 5.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213702Z" creationid="beatr" creationdate="20230512T202024Z">
+        <seg>Añade &lt;t0/&gt;la harina con levadura&lt;t1/&gt;, el azcúar en polvo, leche, &lt;t2/&gt;el huevo&lt;t3/&gt; y una pizca de sal y mezclar durante 10 segundos, velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4450,8 +4450,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter into your Thermomix bowl and cook for 2 minutes, 60 degrees, speed 2 or until melted.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T121735Z" creationid="beatr" creationdate="20230512T201949Z">
-        <seg>Pon la mantequilla en el bol de tu Thermomix y pónlo a 2 minutos, a 60 grados, velocidad 2 o hasta que se derrita.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213721Z" creationid="beatr" creationdate="20230512T201949Z">
+        <seg>Pon la mantequilla en el vaso de tu Thermomix y cocínalo 2 minutos, a 60 grados, velocidad 2 o hasta que se derrita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5213,8 +5213,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T121852Z" creationid="beatr" creationdate="20230512T202031Z">
-        <seg> Raspa las paredes de los lados del bol y mezcla durante otros 5 minutos, velocidad 4.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213718Z" creationid="beatr" creationdate="20230512T202031Z">
+        <seg> Raspa las paredes de los lados del vaso y mezcla durante otros 5 minutos, velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5789,8 +5789,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>The sugar can be omitted from this recipe.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202226Z" creationid="beatr" creationdate="20230512T202226Z">
-        <seg>Puede prescindir del azúcar en esta receta.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213819Z" creationid="beatr" creationdate="20230512T202226Z">
+        <seg>Puedes prescindir del azúcar en esta receta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6069,8 +6069,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>These pikelets are freezer friendly.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202230Z" creationid="beatr" creationdate="20230512T202230Z">
-        <seg>Estos pikelets son aptos para el congelador.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213903Z" creationid="beatr" creationdate="20230512T202230Z">
+        <seg>Estos pikelets son aptos para congelar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6605,8 +6605,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>When bubbles begin to appear on the surface of the pikelets, carefully flip them over and cook for a further 30 seconds on the other side before transferring to a plate and cover with foil to keep warm.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202045Z" creationid="beatr" creationdate="20230512T202045Z">
-        <seg>Cuando empiecen a salir burbujas en la superficie de los pikelets, dales ña vuelta cuidadodamente y deja que se hagan otros 30 segundos a cada lado antes de sacarlos en un plato y cubrirlos con lámina para mantener el calor.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213748Z" creationid="beatr" creationdate="20230512T202045Z">
+        <seg>Cuando empiecen a salir burbujas en la superficie de los pikelets, dales la vuelta cuidadodamente y deja que se hagan otros 30 segundos a cada lado antes de sacarlos en un plato y cubrirlos con lámina para mantener el calor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6757,8 +6757,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>You can make the pikelet mixture up to 12 hours in advance, simply keep it in the fridge until needed.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202219Z" creationid="beatr" creationdate="20230512T202219Z">
-        <seg>Puede preparar la mezcla para pikelets con hasta 12 horas de antelación, simplemente guárdela en el frigorífico hasta que la necesite.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213814Z" creationid="beatr" creationdate="20230512T202219Z">
+        <seg>Puedes preparar la mezcla para pikelets con hasta 12 horas de antelación, simplemente guárdala en el frigorífico hasta que la necesite.</seg>
       </tuv>
     </tu>
     <tu>
