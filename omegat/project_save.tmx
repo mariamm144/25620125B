@@ -960,16 +960,16 @@
       <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;tbs&lt;t2/&gt; &lt;t3/&gt;coconut&lt;t4/&gt; &lt;t5/&gt;oil&lt;t6/&gt; &lt;t7/&gt;melted</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T131020Z" creationid="mmolc" creationdate="20230525T131020Z">
-        <seg>2 cucharaditas de aceite de coco derretido</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T142836Z" creationid="mmolc" creationdate="20230525T131020Z">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;cucharaditas&lt;t2/&gt; &lt;t3/&gt;de aceite&lt;t4/&gt; &lt;t5/&gt;de coco&lt;t6/&gt; &lt;t7/&gt;derretido</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;tbs&lt;t2/&gt; &lt;t3/&gt;rice malt syrup or honey</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T131026Z" creationid="mmolc" creationdate="20230525T131026Z">
-        <seg>2 cucharadas de sirope de arroz malteado o miel</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T142857Z" creationid="mmolc" creationdate="20230525T131026Z">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;cucharadas&lt;t2/&gt; &lt;t3/&gt;de sirope de arroz malteado o miel</seg>
       </tuv>
     </tu>
     <tu>
@@ -5237,8 +5237,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T131044Z" creationid="mmolc" creationdate="20230519T164249Z">
-        <seg>Raspa las paredes de los lados del bol.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T143009Z" creationid="mmolc" creationdate="20230519T164249Z">
+        <seg>Raspa las paredes de los lados del vaso.</seg>
       </tuv>
     </tu>
     <tu>
