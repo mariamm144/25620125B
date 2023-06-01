@@ -1800,8 +1800,8 @@
       <tuv lang="en">
         <seg>Add &lt;t0/&gt;all of&lt;t1/&gt; the remaining ingredients and mix together for 10 seconds, Speed 6.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T131052Z" creationid="mmolc" creationdate="20230525T131052Z">
-        <seg>Añade todos los ingredientes restantes y remuévelos durante 10 segundos a velocidad 6.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T121528Z" creationid="mmolc" creationdate="20230525T131052Z">
+        <seg>Añade todos los ingredientes restantes y remuévelos durante 10 segundos, velocidad 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,8 +2754,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Chop the dried apricots for 5 seconds, Speed 8.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T131033Z" creationid="mmolc" creationdate="20230525T131033Z">
-        <seg>Corta los orejones durante 5 segundos, a velocidad 8.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T121440Z" creationid="mmolc" creationdate="20230525T131033Z">
+        <seg>Corta los orejones durante 5 segundos, velocidad 8.</seg>
       </tuv>
     </tu>
     <tu>
