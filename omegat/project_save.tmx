@@ -64,16 +64,16 @@
       <tuv lang="en">
         <seg>1 &lt;t0/&gt;tbsp&lt;t1/&gt; &lt;t2/&gt;sesame&lt;t3/&gt; &lt;t4/&gt;seeds&lt;t5/&gt; &lt;t6/&gt;optional</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T115557Z" creationid="raque" creationdate="20230522T171153Z">
-        <seg>1 &lt;t0/&gt;cucharada sopera de semillas de sésamo opcional</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145254Z" creationid="raque" creationdate="20230522T171153Z">
+        <seg>1 &lt;t0/&gt;cucharada sopera&lt;t1/&gt; &lt;t2/&gt;de semillas&lt;t3/&gt; &lt;t4/&gt;de sésamo&lt;t5/&gt; &lt;t6/&gt;opcional</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>1 &lt;t0/&gt;teaspoon&lt;t1/&gt; &lt;t2/&gt;nutmeg</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T171100Z" creationid="raque" creationdate="20230522T171100Z">
-        <seg>1 &lt;t0/&gt;cucharadita de nuez moscada</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145150Z" creationid="raque" creationdate="20230522T171100Z">
+        <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; &lt;t2/&gt; de nuez moscada</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,16 +272,16 @@
       <tuv lang="en">
         <seg>1/4 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;pepper</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T171131Z" creationid="raque" creationdate="20230522T171131Z">
-        <seg>1/4 &lt;t0/&gt;cucharadita de primienta</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145206Z" creationid="raque" creationdate="20230522T171131Z">
+        <seg>1/4 &lt;t0/&gt;cucharadita&lt;t1/&gt; &lt;t2/&gt;de primienta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>1/4 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;salt</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T171119Z" creationid="raque" creationdate="20230522T171119Z">
-        <seg>1/4 &lt;t0/&gt;cucharadita de sal</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145156Z" creationid="raque" creationdate="20230522T171119Z">
+        <seg>1/4 &lt;t0/&gt;cucharadita&lt;t1/&gt; &lt;t2/&gt;de sal</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="en">
         <seg>100 &lt;t0/&gt;grams&lt;t1/&gt; baby &lt;t2/&gt;spinach&lt;t3/&gt; &lt;t4/&gt;leaves</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T171010Z" creationid="raque" creationdate="20230522T171010Z">
-        <seg>100 &lt;t0/&gt;gramos&lt;t1/&gt; hojas de espinacas baby</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145110Z" creationid="raque" creationdate="20230522T171010Z">
+        <seg>100 &lt;t0/&gt;gramos&lt;t1/&gt; hojas &lt;t2/&gt;de espinacas&lt;t3/&gt; &lt;t4/&gt; baby</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1144,8 @@
       <tuv lang="en">
         <seg>4 &lt;t0/&gt;sheets&lt;t1/&gt; &lt;t2/&gt;puff&lt;t3/&gt; &lt;t4/&gt;pastry&lt;t5/&gt; &lt;t6/&gt;partially&lt;t7/&gt; &lt;t8/&gt;thawed</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T171037Z" creationid="raque" creationdate="20230522T171037Z">
-        <seg>4 &lt;t0/&gt;hojas de hojaldre amasadas parcialmente descongeladas</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145142Z" creationid="raque" creationdate="20230522T171037Z">
+        <seg>4 &lt;t0/&gt;hojas&lt;t1/&gt; &lt;t2/&gt;de hojaldre&lt;t3/&gt; &lt;t4/&gt;amasadas&lt;t5/&gt; &lt;t6/&gt;parcialmente&lt;t7/&gt; &lt;t8/&gt;descongeladas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,8 +1992,8 @@
       <tuv lang="en">
         <seg>Add the ricotta, baby spinach leave&lt;t0/&gt;s, 1 egg, nutmeg and salt and pepper to your Thermomix bowl and mix for 15 seconds on speed 4 or until &lt;t1/&gt;all of&lt;t2/&gt; the ingredients have combined.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T113435Z" creationid="raque" creationdate="20230522T171309Z">
-        <seg>Añade la ricotta, las hojas de espinaca baby, 1 huevo, la nuez moscada y la sal y la pimienta a tu bol de Thermomix y mezcla durante 15 segundos, velocidad 4 o hasta que todos los ingredientes se hayan mezclado.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145330Z" creationid="raque" creationdate="20230522T171309Z">
+        <seg>Añade la ricotta, las hojas de espinaca baby, 1 huevo, la nuez moscada y la sal y la pimienta a tu vaso Thermomix y mezcla durante 15 segundos, velocidad 4 o hasta que todos los ingredientes se hayan mezclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2290,8 +2290,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Brush one edge of the pastry with a little of the egg before using a spoon to add an approximately 3cm wide line of mixture down the &lt;t1/&gt;centre&lt;t2/&gt; of the pasty.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230522T171432Z" creationid="raque" creationdate="20230522T171432Z">
-        <seg>Pasa un cepillo por el borde de la masa con un poco de huevo antes de usar una cuchara para agregar una línea de mezcla de aproximadamente 3 cm de ancho por el centro de la masa pastelera.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145407Z" creationid="raque" creationdate="20230522T171432Z">
+        <seg>Pasa un cepillo por el borde de la masa con un poco de huevo antes de usar una cuchara para agregar una línea de mezcla de aproximadamente 3 cm de ancho por el &lt;t1/&gt;centro&lt;t2/&gt; de la masa pastelera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3378,8 +3378,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cut the parmesan cheese into cubes no bigger than 3cm and place in your Thermomix bowl to mix for 10 seconds on speed 9 to grate.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T113421Z" creationid="raque" creationdate="20230522T171242Z">
-        <seg>Corta el queso parmesano en cuadrados de no más de 3 cm y colócalos en tu vaso de Thermomix para mezclar durante 10 segundos, velocidad 9 para rallar.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145316Z" creationid="raque" creationdate="20230522T171242Z">
+        <seg>Corta el queso parmesano en cuadrados de no más de 3 cm y colócalos en tu vaso Thermomix para mezclar durante 10 segundos, velocidad 9 para rallar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4554,8 +4554,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the partially thawed pastry squares on your bench an&lt;t0/&gt;d cut in half lengthways.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T120306Z" creationid="raque" creationdate="20230522T171410Z">
-        <seg>Coloca los cuadrados de masa parcialmente descongelados y córtalos por la mitad a lo largo.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T145344Z" creationid="raque" creationdate="20230522T171410Z">
+        <seg>Coloca los cuadrados de masa parcialmente descongelados y&lt;t0/&gt;córtalos por la mitad a lo largo.</seg>
       </tuv>
     </tu>
     <tu>
