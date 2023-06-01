@@ -96,8 +96,8 @@
       <tuv lang="en">
         <seg>1 &lt;t0/&gt;tsp&lt;t1/&gt; &lt;t2/&gt;worcestershire&lt;t3/&gt; sauce</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T182748Z" creationid="alond" creationdate="20230522T182748Z">
-        <seg>1 &lt;t0/&gt;cuhcaradita&lt;t1/&gt; &lt;t2/&gt;de salsa Worcestershire&lt;t3/&gt; o salsa inglesa</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T210039Z" creationid="alond" creationdate="20230522T182748Z">
+        <seg>1 &lt;t0/&gt;cucharadita&lt;t1/&gt; &lt;t2/&gt;de salsa Worcestershire&lt;t3/&gt; o salsa inglesa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5165,8 +5165,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and add the mince, sauces and egg to your Thermomix bowl and mix for 15 seconds, speed 5 to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T211143Z" creationid="alond" creationdate="20230522T183757Z">
-        <seg>Raspa las paredes del vaso y añade la carne picada, las salsas y el huevo, y mezcla durante 15 segundos, velocidad 5 para homogenear.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T210118Z" creationid="alond" creationdate="20230522T183757Z">
+        <seg>Raspa las paredes del vaso y añade la carne picada, las salsas y el huevo, y mezcla durante 15 segundos, velocidad 5 para homogeneizar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6613,8 +6613,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>When bubbles begin to&lt;t0/&gt; appear on the surface of the pikelets, carefully flip them over and cook for a further 30 seconds - 1 minute on the other side before transferring to a plate and cover with foil to keep warm.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T180316Z" creationid="alond" creationdate="20230522T180316Z">
-        <seg>Cuando empiecen a aparecer burbujas en la superficie de los pikelets, dáles la vuelta con cuidado y cocínalas durante otros 30 segundos - 1 minuto por el otro lado antes de pasarlas a un plato y cubrirlas con papel de aluminio para mantenerlas calientes.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205950Z" creationid="alond" creationdate="20230522T180316Z">
+        <seg>Cuando empiecen a aparecer burbujas en la superficie de los pikelets, dales la vuelta con cuidado y cocínalas durante otros 30 segundos y 1 minuto por el otro lado antes de pasarlas a un plato y cubrirlas con papel de aluminio para mantenerlas calientes.</seg>
       </tuv>
     </tu>
     <tu>
