@@ -1936,8 +1936,8 @@
       <tuv lang="en">
         <seg>Add the eggs, milk and cheese and mix on Reverse, Speed 3, 20 seconds.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T133957Z" creationid="raque" creationdate="20230523T133957Z">
-        <seg>Añade los huevos, la leche y el queso y mezcla en REVERSO, Velocidad 3, 20 segundos.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T152246Z" creationid="raque" creationdate="20230523T133957Z">
+        <seg>Añade los huevos, la leche y el queso y mezcla en REVERSO, velocidad 3, 20 segundos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1968,8 +1968,8 @@
       <tuv lang="en">
         <seg>Add the olive oil and &lt;t0/&gt;saute&lt;t1/&gt; on 100 degrees, Speed 1 for 3 minutes.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T133916Z" creationid="raque" creationdate="20230523T133916Z">
-        <seg>Añadimos el aceite de oliva y &lt;t0/&gt;salteamos&lt;t1/&gt; a 100 grados, Velocidad 1 durante 3 minutos.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T152233Z" creationid="raque" creationdate="20230523T133916Z">
+        <seg>Añade el aceite de oliva y &lt;t0/&gt;saltea&lt;t1/&gt; a 100 grados, velocidad 1 durante 3 minutos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,8 +3354,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cut 6 X 8cm round holes from each pastry sheet and press into patty pan baking tins.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T133755Z" creationid="raque" creationdate="20230523T133755Z">
-        <seg>Corta 6 agujeros redondos de 8 cm en cada lámina de hojaldre y presiónalos en moldes para empanadillas..</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T152150Z" creationid="raque" creationdate="20230523T133755Z">
+        <seg>Corta 6 agujeros redondos de 8 cm en cada lámina de hojaldre y presiónalos en moldes para empanadillas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4386,8 +4386,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the bacon (roughly chopped), into the Thermomix bowl and press Turbo in 1 second bursts until chopped into small pieces.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T133903Z" creationid="raque" creationdate="20230523T133903Z">
-        <seg>Introduce el bacon (cortado en trozos grandes) en el bol del Thermomix y pulsa Turbo en ráfagas de 1 segundo hasta que quede picado en trozos pequeños.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T152217Z" creationid="raque" creationdate="20230523T133903Z">
+        <seg>Introduce el bacon (cortado en trozos grandes) en el vaso Thermomix y pulsa Turbo en ráfagas de 1 segundo hasta que quede picado en trozos pequeños.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,8 +4482,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the cheese into the Thermomix bowl and grate on Speed 8, 10 seconds.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T133823Z" creationid="raque" creationdate="20230523T133823Z">
-        <seg>Pon el queso en el bol de la Thermomix y rállalo a velocidad 8, durante 10 segundos</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T152201Z" creationid="raque" creationdate="20230523T133823Z">
+        <seg>Pon el queso en el vasoThermomix y rállalo a velocidad 8, durante 10 segundos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,8 +4586,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the sheets of puff pastry on a flat bench to defrost.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T133722Z" creationid="raque" creationdate="20230523T133722Z">
-        <seg>Coloca las láminas de hojaldre sobre un banco plano para que se descongelen.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T152115Z" creationid="raque" creationdate="20230523T133722Z">
+        <seg>Coloca las láminas de hojaldre sobre una encimera plana para que se descongelen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4731,8 +4731,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Preheat oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T130903Z" creationid="beatr" creationdate="20230522T063120Z">
-        <seg>&lt;t0/&gt;&lt;t1/&gt;Precalentar el horno a 180 grados centígrados (con el ventilador).</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T152139Z" creationid="beatr" creationdate="20230522T063120Z">
+        <seg>Precalentar el horno a 180 grados &lt;t0/&gt;centígrados&lt;t1/&gt; (con el ventilador).</seg>
       </tuv>
     </tu>
     <tu>
