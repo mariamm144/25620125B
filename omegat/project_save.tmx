@@ -3962,8 +3962,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Make the night before – &lt;t0/&gt;save yourself time and make your sushi the night before.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T120834Z" creationid="beatr" creationdate="20230520T123336Z">
-        <seg>Hazlo la noche de antes, &lt;t0/&gt;ahorra tiempo y haz tu sushi la noche de antes.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T122450Z" creationid="beatr" creationdate="20230520T123336Z">
+        <seg>Hazlo la noche de antes, &lt;t0/&gt;ahorra tiempo y haz tu sushi la noche anterior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5037,8 +5037,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Remove the sushi rice from the basket once cooked – &lt;t0/&gt;if you leave the sushi rice to sit in the rice basket after the cooking time, it will become gluggy.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203544Z" creationid="beatr" creationdate="20230512T203544Z">
-        <seg>Quitar el arroz de sushi de la cesta &lt;t0/&gt;si dejas el arroz de sushi en la cesta tras el tiempo de cocción, se quedará pegajoso.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T122413Z" creationid="beatr" creationdate="20230512T203544Z">
+        <seg>Quitar el arroz de sushi de la cesta&lt;t0/&gt;si dejas el arroz de sushi en la cesta tras el tiempo de cocción, se quedará pegajoso.</seg>
       </tuv>
     </tu>
     <tu>
