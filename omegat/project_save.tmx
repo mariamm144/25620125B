@@ -3050,8 +3050,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T120121Z" creationid="beatr" creationdate="20230512T201433Z">
-        <seg>Comida&lt;t0/&gt;Desayuno&lt;t1/&gt;, Aperitivo</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T131215Z" creationid="beatr" creationdate="20230512T201433Z">
+        <seg>Tipo de plato&lt;t0/&gt;Desayuno&lt;t1/&gt;, Aperitivo</seg>
       </tuv>
     </tu>
     <tu>
