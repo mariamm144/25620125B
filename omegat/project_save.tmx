@@ -3922,8 +3922,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Line a &lt;t0/&gt;12 hole&lt;t1/&gt; muffin tray with paper cases.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T152424Z" creationid="beatr" creationdate="20230522T152424Z">
-        <seg>Forre una bandeja para muffins de 12 agujeros con fundas de papel.   &lt;t0/&gt;&lt;t1/&gt; .</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221112Z" creationid="beatr" creationdate="20230522T152424Z">
+        <seg>Forre&lt;t0/&gt; una bandeja para muffins de 12 agujeros &lt;t1/&gt; con fundas de papel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4282,8 +4282,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place bananas into the Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T152600Z" creationid="beatr" creationdate="20230522T152600Z">
-        <seg>Coloca los plátanos en el bol de la Thermomix.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221033Z" creationid="beatr" creationdate="20230522T152600Z">
+        <seg>Coloca los plátanos en el vaso de la Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4434,8 +4434,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter into the Thermomix bowl (don't worry about cleaning it) and melt for 1 minute, 100 degrees, Speed 3.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T130930Z" creationid="beatr" creationdate="20230522T153047Z">
-        <seg>Pon la mantequilla en el bol de la Thermomix (no te preocupes por limpiarlo) y derrítelo por 1 minuto, a 100 grados, velocidad 3.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221131Z" creationid="beatr" creationdate="20230522T153047Z">
+        <seg>Pon la mantequilla en el vaso de la Thermomix (no te preocupes por limpiarlo) y derrítelo por 1 minuto, a 100 grados, velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4682,8 +4682,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Pour into a bowl and set aside.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T152714Z" creationid="beatr" creationdate="20230522T152714Z">
-        <seg>Pasar a un plato y reservar.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221023Z" creationid="beatr" creationdate="20230522T152714Z">
+        <seg>Pasa a un plato y deja apartados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5141,8 +5141,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides and melt for a further 30 seconds, 100 degrees, Speed 3 (if needed).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T130938Z" creationid="beatr" creationdate="20230522T153253Z">
-        <seg>Raspa las paredes de los lados y derrítelo por unos 30 segundos más, velocidad 3.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T221154Z" creationid="beatr" creationdate="20230522T153253Z">
+        <seg>Raspa las paredes del vaso y derrítelo por unos 30 segundos más, velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
