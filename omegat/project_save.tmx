@@ -1632,8 +1632,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Scrape&lt;t1/&gt; &lt;t2/&gt;down&lt;t3/&gt; &lt;t4/&gt;the&lt;t5/&gt; &lt;t6/&gt;bowl&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230502T143242Z" creationid="alond" creationdate="20230502T143146Z">
-        <seg>&lt;t0/&gt;Rebaña&lt;t1/&gt; &lt;t2/&gt;el&lt;t3/&gt; &lt;t4/&gt;vaso&lt;t5/&gt; &lt;t6/&gt;entero&lt;t7/&gt;.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205048Z" creationid="alond" creationdate="20230502T143146Z">
+        <seg>&lt;t0/&gt;Raspa&lt;t1/&gt; &lt;t2/&gt;el&lt;t3/&gt; &lt;t4/&gt;vaso&lt;t5/&gt; &lt;t6/&gt;entero&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2698,8 +2698,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Check the consistency - If you would like a smoother hummus, add a 1-2 tbs of the reserved chickpea liquid and &lt;t0/&gt;mix for a further 20 seconds on Speed 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T165112Z" creationid="alond" creationdate="20230519T152150Z">
-        <seg>Comprueba la consistencia. Si te gusta el humus más suave, añade 1 o 2 cucharadita del líquido que has apartado de los garbanzos cocidos y mezcla otros 20 segundos, velocidad 4.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205115Z" creationid="alond" creationdate="20230519T152150Z">
+        <seg>Comprueba la consistencia. Si te gusta el humus más suave, añade 1 o 2 cucharadita(s) del líquido que has apartado de los garbanzos cocidos y mezcla otros 20 segundos, velocidad 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3546,8 +3546,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>For a smoother hummus, &lt;t0/&gt;add 1-2 tablespoons of the reserved chickpea liquid and mix through.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T165300Z" creationid="alond" creationdate="20230505T160140Z">
-        <seg>Para obtener un hummus más suave, &lt;t0/&gt;añade 1 o 2 cucharadas del líquido de garbanzos reservado y mezcla bien.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205128Z" creationid="alond" creationdate="20230505T160140Z">
+        <seg>Para obtener un humus más suave, &lt;t0/&gt;añade 1 o 2 cucharadas del líquido de garbanzos reservado y mezcla bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5157,8 +5157,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl &lt;t0/&gt;between &lt;t1/&gt;mixing&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230505T162543Z" creationid="alond" creationdate="20230505T160227Z">
-        <seg>Raspa las paredes del bol &lt;t0/&gt;entre &lt;t1/&gt;mezcla y mezcla&lt;t2/&gt;.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205135Z" creationid="alond" creationdate="20230505T160227Z">
+        <seg>Raspa las paredes del vaso &lt;t0/&gt;entre &lt;t1/&gt;mezcla y mezcla&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6621,8 +6621,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>While hummus can &lt;t0/&gt;technically be frozen for up to 4 months&lt;t1/&gt;, it does lose &lt;t2/&gt;it's&lt;t3/&gt; &lt;t4/&gt;f&lt;t5/&gt;lavour&lt;t6/&gt; and texture the longer it is frozen.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230519T152213Z" creationid="alond" creationdate="20230519T152213Z">
-        <seg>Aunque &lt;t0/&gt;técnicamente el hummus se puede congelar hasta 4 meses&lt;t1/&gt;, pierde &lt;t2/&gt;sabor&lt;t3/&gt; &lt;t4/&gt;y&lt;t5/&gt; textura cuanto más tiempo pasa congelado.</seg>
+      <tuv lang="es" changeid="raque" changedate="20230601T205146Z" creationid="alond" creationdate="20230519T152213Z">
+        <seg>Aunque &lt;t0/&gt;técnicamente el humus se puede congelar hasta 4 meses&lt;t1/&gt;, pierde &lt;t2/&gt;sabor&lt;t3/&gt; &lt;t4/&gt;y&lt;t5/&gt; textura cuanto más tiempo pasa congelado.</seg>
       </tuv>
     </tu>
     <tu>
