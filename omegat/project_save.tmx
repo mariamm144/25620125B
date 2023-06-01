@@ -4474,8 +4474,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the cake tin into the oven and cook for 30 – 35 minutes or until your marble cake is cooked through when tested with a skewer.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130101Z" creationid="mmolc" creationdate="20230525T130101Z">
-        <seg>Coloca el molde en el horno y cocina los muffins durante 30-35 minutos o hasta que estén hechos al probarlos con una brocheta.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T141540Z" creationid="mmolc" creationdate="20230525T130101Z">
+        <seg>Coloca el molde en el horno y cocina las magdalenas durante 30-35 minutos o hasta que estén hechas al probarlos con una brocheta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5661,8 +5661,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Store in an airtight container or freeze &lt;t0/&gt;indivually&lt;t1/&gt; wrapped slices in the &lt;t2/&gt;freeer&lt;t3/&gt; for up to 3 months.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130118Z" creationid="mmolc" creationdate="20230525T130118Z">
-        <seg>Consérvalos en un recipiente hermético o congélalos envueltos individualmente en el frigorífico hasta 3 meses.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T141645Z" creationid="mmolc" creationdate="20230525T130118Z">
+        <seg>Consérvalas en un recipiente hermético o congélalas envueltas &lt;t0/&gt;individualmente&lt;t1/&gt; en el &lt;t2/&gt;frigorífico&lt;t3/&gt; hasta 3 meses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6117,8 +6117,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>This Marble Cake can be baked in different sized cake tins, please note the baking time will vary.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230521T001514Z" creationid="mmolc" creationdate="20230521T001514Z">
-        <seg>Este bizcocho de mármol puede hornearse en moldes de diferentes tamaños, pero el tiempo de horneado variará.</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T141739Z" creationid="mmolc" creationdate="20230521T001514Z">
+        <seg>Este bizcocho marmoleado puede hornearse en moldes de diferentes tamaños, ten en cuenta que el tiempo de horneado variará.</seg>
       </tuv>
     </tu>
     <tu>
