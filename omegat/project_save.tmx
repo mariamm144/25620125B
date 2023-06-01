@@ -1720,8 +1720,8 @@
       <tuv lang="en">
         <seg>&lt;t2/&gt;Cook &lt;t3/&gt;for&lt;t4/&gt; 30 minutes, &lt;t5/&gt;Varoma&lt;t6/&gt; &lt;t7/&gt;temperature&lt;t8/&gt;, &lt;t9/&gt;Speed&lt;t10/&gt; 4.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T125614Z" creationid="raque" creationdate="20230523T131626Z">
-        <seg>&lt;t2/&gt;Cocina &lt;t3/&gt;durante&lt;t4/&gt; 30 minutos, &lt;t5/&gt;temperatura Varoma&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;, &lt;t9/&gt; a velocidad&lt;t10/&gt; 4.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T113857Z" creationid="raque" creationdate="20230523T131626Z">
+        <seg>&lt;t2/&gt;Cocina &lt;t3/&gt;durante&lt;t4/&gt; 30 minutos, &lt;t5/&gt;temperatura Varoma&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt;, &lt;t9/&gt; velocidad&lt;t10/&gt; 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1984,8 +1984,8 @@
       <tuv lang="en">
         <seg>Add the plain flour, olive oil, salt and baking powder into the Thermomix bowl and mix for 8 seconds, Speed 6 to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T123628Z" creationid="raque" creationdate="20230523T131227Z">
-        <seg>Añade la harina normal, el aceite de oliva, la sal y la levadura en polvo en el bol del Thermomix y mezcla durante 8 segundos, a la velocidad 6 para mezclar.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T113706Z" creationid="raque" creationdate="20230523T131227Z">
+        <seg>Añade la harina normal, el aceite de oliva, la sal y la levadura en polvo en el bol del Thermomix y mezcla durante 8 segundos,  velocidad 6 para mezclar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3506,8 +3506,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Fill the Thermomix bowl with 500g of water and put the &lt;t0/&gt;Varoma&lt;t1/&gt; (with the 2 trays) in place.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T131557Z" creationid="raque" creationdate="20230523T131557Z">
-        <seg>Llena el bol del Thermomix con 500 ml de agua y coloca la &lt;t0/&gt;Varoma&lt;t1/&gt; (con las 2 bandejas).</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T113724Z" creationid="raque" creationdate="20230523T131557Z">
+        <seg>Llena el bol del Thermomix con 500 ml de agua y coloca la &lt;t0/&gt;Varoma&lt;t1/&gt; (con las 2 bandejas.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6213,8 +6213,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>To make the bun dough, place the water, sugar and yeast into the Thermomix bowl and mix for 8 seconds, Speed 3.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T123013Z" creationid="raque" creationdate="20230523T131135Z">
-        <seg>Para hacer la masa del bollo, pon el agua, el azúcar y la levadura en el bol de la Thermomix y mezcla durante 8 segundos, a la velocidad 3.</seg>
+      <tuv lang="es" changeid="beatr" changedate="20230601T113630Z" creationid="raque" creationdate="20230523T131135Z">
+        <seg>Para hacer la masa del bollo, pon el agua, el azúcar y la levadura en el bol de la Thermomix y mezcla durante 8 segundos, velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
