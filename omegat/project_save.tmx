@@ -1568,8 +1568,8 @@
       <tuv lang="en">
         <seg>950&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;water</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122008Z" creationid="beatr" creationdate="20230512T203336Z">
-        <seg>950&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;agua</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214139Z" creationid="beatr" creationdate="20230512T203336Z">
+        <seg>950&lt;t0/&gt; &lt;t1/&gt;ml&lt;t2/&gt; &lt;t3/&gt;de agua</seg>
       </tuv>
     </tu>
     <tu>
@@ -2826,8 +2826,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201449Z" creationid="beatr" creationdate="20230512T201449Z">
-        <seg>Tiempo de cocina&lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214027Z" creationid="beatr" creationdate="20230512T201449Z">
+        <seg>Tiempo de cocción&lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3538,8 +3538,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>For a gluten free version, switch to Gluten Free self-&lt;t0/&gt;raising&lt;t1/&gt; flour.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202234Z" creationid="beatr" creationdate="20230512T202234Z">
-        <seg>Para una versión sin gluten, utilice harina sin gluten.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T213915Z" creationid="beatr" creationdate="20230512T202234Z">
+        <seg>Para una versión sin gluten, utiliza harina sin gluten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5453,8 +5453,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;rolls</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203220Z" creationid="beatr" creationdate="20230512T203220Z">
-        <seg>Raciones&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;de rollito</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214124Z" creationid="beatr" creationdate="20230512T203220Z">
+        <seg>Raciones&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;rollitos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6349,8 +6349,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;30&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202412Z" creationid="beatr" creationdate="20230512T202412Z">
-        <seg>Tiempo en total&lt;t0/&gt;30&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214112Z" creationid="beatr" creationdate="20230512T202412Z">
+        <seg>Tiempo total&lt;t0/&gt;30&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
