@@ -416,8 +416,8 @@
       <tuv lang="en">
         <seg>125&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;butter&lt;t4/&gt; &lt;t5/&gt;at &lt;t6/&gt;room&lt;t7/&gt; &lt;t8/&gt;temperature</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053441Z" creationid="beatr" creationdate="20230521T053441Z">
-        <seg>125 gramos de mantequilla a temperatura ambiente</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220301Z" creationid="beatr" creationdate="20230521T053441Z">
+        <seg>125 &lt;t0/&gt; &lt;t1/&gt;gramos &lt;t2/&gt; &lt;t3/&gt;de mantequilla &lt;t4/&gt; &lt;t5/&gt;a  &lt;t6/&gt;temperatura &lt;t7/&gt; &lt;t8/&gt;ambiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2240,8 +2240,8 @@
       <tuv lang="en">
         <seg>Baking&lt;t0/&gt; &lt;t1/&gt;Trays&lt;t2/&gt; x 2</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T155553Z" creationid="beatr" creationdate="20230521T053417Z">
-        <seg>2 bandejas de horno</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220212Z" creationid="beatr" creationdate="20230521T053417Z">
+        <seg>2 &lt;t0/&gt; &lt;t1/&gt;bandejas&lt;t2/&gt;de horno</seg>
       </tuv>
     </tu>
     <tu>
@@ -6373,8 +6373,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;57&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053305Z" creationid="beatr" creationdate="20230521T053305Z">
-        <seg>Tiempo en total&lt;t0/&gt;57&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T220052Z" creationid="beatr" creationdate="20230521T053305Z">
+        <seg>Tiempo total&lt;t0/&gt;57&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
