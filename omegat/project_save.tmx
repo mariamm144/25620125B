@@ -616,8 +616,8 @@
       <tuv lang="en">
         <seg>190&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;dried&lt;t4/&gt; &lt;t5/&gt;apricots</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130947Z" creationid="mmolc" creationdate="20230525T130947Z">
-        <seg>190 g de orejones</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T142607Z" creationid="mmolc" creationdate="20230525T130947Z">
+        <seg>190&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;albaricoques&lt;t4/&gt; &lt;t5/&gt;secos</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +648,8 @@
       <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;tbs&lt;t2/&gt; &lt;t3/&gt;chia&lt;t4/&gt; &lt;t5/&gt;seeds</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T131015Z" creationid="mmolc" creationdate="20230525T131015Z">
-        <seg>1 cucharadita de semillas de chía</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T142722Z" creationid="mmolc" creationdate="20230525T131015Z">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de semillas&lt;t4/&gt; &lt;t5/&gt;de chía</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,8 +864,8 @@
       <tuv lang="en">
         <seg>20&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;desiccated&lt;t4/&gt; &lt;t5/&gt;coconut</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T131009Z" creationid="mmolc" creationdate="20230525T131009Z">
-        <seg>20 g de coco deshidratado</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T142639Z" creationid="mmolc" creationdate="20230525T131009Z">
+        <seg>20&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de coco&lt;t4/&gt; &lt;t5/&gt;deshidratado</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,8 +4178,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Our Thermomix Healthy Apricot Balls are the perfect lunchbox snack - made from apricots, coconut, rolled oats, chia seeds, coconut oil and rice malt syrup... ready in just 5 minutes!</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230522T155150Z" creationid="mmolc" creationdate="20230522T155150Z">
-        <seg>Nuestras saludables bolitas de albaricoque con Thermomix son perfectas para merendar. Hechas de albaricoque, coco, copos de avena, semillas de chía, aceite de coco y sirope de arroz malteado, ¡se preparan en tan solo 5 minutos!</seg>
+      <tuv lang="es" changeid="alond" changedate="20230601T142446Z" creationid="mmolc" creationdate="20230522T155150Z">
+        <seg>Nuestras saludables bolitas de albaricoque con Thermomix son perfectas para merendar. Hechas de albaricoque, coco, copos de avena, semillas de chía, aceite de coco y sirope de arroz malteado, ¡se preparan en tan sólo 5 minutos!</seg>
       </tuv>
     </tu>
     <tu>
