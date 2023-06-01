@@ -2506,8 +2506,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Calories: &lt;t0/&gt;296&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohydrates: &lt;t4/&gt;65&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Protein: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Fat: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturated Fat: &lt;t16/&gt;1&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Sodium: &lt;t20/&gt;15&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Potassium: &lt;t24/&gt;62&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fiber: &lt;t28/&gt;2&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Calcium: &lt;t32/&gt;15&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Iron: &lt;t36/&gt;1&lt;t37/&gt;mg</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T131910Z" creationid="beatr" creationdate="20230520T125209Z">
-        <seg>Calorías: &lt;t0/&gt;296&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;65&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteinas: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturada Grasa: &lt;t16/&gt;1&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Sodio: &lt;t20/&gt;15&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Potasio: &lt;t24/&gt;62&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fibra: &lt;t28/&gt;2&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Calcio: &lt;t32/&gt;15&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Hierro: &lt;t36/&gt;1&lt;t37/&gt;mg</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214840Z" creationid="beatr" creationdate="20230520T125209Z">
+        <seg>Calorías: &lt;t0/&gt;296&lt;t1/&gt;kcal&lt;t2/&gt; | &lt;t3/&gt;Carbohidratos: &lt;t4/&gt;65&lt;t5/&gt;g&lt;t6/&gt; | &lt;t7/&gt;Proteínas: &lt;t8/&gt;5&lt;t9/&gt;g&lt;t10/&gt; | &lt;t11/&gt;Grasas: &lt;t12/&gt;1&lt;t13/&gt;g&lt;t14/&gt; | &lt;t15/&gt;Saturada Grasa: &lt;t16/&gt;1&lt;t17/&gt;g&lt;t18/&gt; | &lt;t19/&gt;Sodio: &lt;t20/&gt;15&lt;t21/&gt;mg&lt;t22/&gt; | &lt;t23/&gt;Potasio: &lt;t24/&gt;62&lt;t25/&gt;mg&lt;t26/&gt; | &lt;t27/&gt;Fibra: &lt;t28/&gt;2&lt;t29/&gt;g&lt;t30/&gt; | &lt;t31/&gt;Calcio: &lt;t32/&gt;15&lt;t33/&gt;mg&lt;t34/&gt; | &lt;t35/&gt;Hierro: &lt;t36/&gt;1&lt;t37/&gt;mg</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,8 +3618,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Grease and line a 20cm square baking tin with baking paper, allowing the sides to overhang.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T132003Z" creationid="beatr" creationdate="20230520T132003Z">
-        <seg>Engrasar y forrar un molde cuadrado de 20 cm con papel de horno, dejando que los lados sobresalgan..</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T215023Z" creationid="beatr" creationdate="20230520T132003Z">
+        <seg>Engrasa y forra un molde cuadrado de 20 cm con papel de horno, dejando que los lados sobresalgan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4466,8 +4466,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Place the butter, brown sugar, &lt;t0/&gt;honey&lt;t1/&gt; and cinnamon into the TM bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T120920Z" creationid="beatr" creationdate="20230520T132419Z">
-        <seg>Coloca la mantequilla, el azúcar moreno, &lt;t0/&gt;la miel&lt;t1/&gt; y la canela en el bol de la TM.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T215039Z" creationid="beatr" creationdate="20230520T132419Z">
+        <seg>Coloca la mantequilla, el azúcar moreno, &lt;t0/&gt;la miel&lt;t1/&gt; y la canela en el vaso de la TM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4845,8 +4845,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T122547Z" creationid="beatr" creationdate="20230512T202344Z">
-        <seg>Tiempo de preparación 10 minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214931Z" creationid="beatr" creationdate="20230512T202344Z">
+        <seg>Tiempo de preparación&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6317,8 +6317,8 @@ Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un l
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T125450Z" creationid="beatr" creationdate="20230520T125450Z">
-        <seg>Tiempo en total&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230601T214939Z" creationid="beatr" creationdate="20230520T125450Z">
+        <seg>Tiempo total&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
