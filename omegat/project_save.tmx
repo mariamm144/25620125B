@@ -192,8 +192,8 @@
       <tuv lang="en">
         <seg>1 x &lt;t0/&gt;Baking&lt;t1/&gt; &lt;t2/&gt;Tray</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230601T151608Z" creationid="raque" creationdate="20230523T132326Z">
-        <seg>1 x &lt;t0/&gt;bandeja para horno</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011630Z" creationid="raque" creationdate="20230523T132326Z">
+        <seg>1 x &lt;t0/&gt;bandeja&lt;t1/&gt; &lt;t2/&gt; para horno</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +792,8 @@
       <tuv lang="en">
         <seg>20 &lt;t0/&gt;grams&lt;t1/&gt; extra &lt;t2/&gt;virgin&lt;t3/&gt; olive &lt;t4/&gt;oil</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T132423Z" creationid="raque" creationdate="20230523T132423Z">
-        <seg>20 &lt;t0/&gt;ml&lt;t1/&gt; de aceite de oliva virgen extra</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011657Z" creationid="raque" creationdate="20230523T132423Z">
+        <seg>20 &lt;t0/&gt;ml&lt;t1/&gt; de aceite&lt;t2/&gt; de oliva &lt;t3/&gt;virgen &lt;t4/&gt;extra</seg>
       </tuv>
     </tu>
     <tu>
@@ -4168,8 +4168,8 @@
       <tuv lang="en">
         <seg>Our Thermomix Focaccia is the perfect side to a bowl of soup or pasta... or completely delicious all on &lt;t0/&gt;it's&lt;t1/&gt; own (with butter, of course!).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T114012Z" creationid="raque" creationdate="20230523T132135Z">
-        <seg>Nuestra Focaccia con Thermomix es el acompañamiento perfecto para un plato de sopa o pasta... o completamente deliciosa sola (¡con mantequilla, por supuesto!)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011529Z" creationid="raque" creationdate="20230523T132135Z">
+        <seg>Nuestra Focaccia con Thermomix es el acompañamiento perfecto para un plato de sopa o pasta... o completamente deliciosa  &lt;t0/&gt;sola&lt;t1/&gt;(¡con mantequilla, por supuesto!)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4979,8 +4979,8 @@
       <tuv lang="en">
         <seg>Proving time&lt;t0/&gt; &lt;t1/&gt;1 &lt;t2/&gt;hour</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T130639Z" creationid="raque" creationdate="20230523T132228Z">
-        <seg>Tiempo de reposo&lt;t0/&gt;1 &lt;t1/&gt;hora</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011617Z" creationid="raque" creationdate="20230523T132228Z">
+        <seg>Tiempo de reposo&lt;t0/&gt; &lt;t1/&gt;1&lt;t2/&gt;hora</seg>
       </tuv>
     </tu>
     <tu>
@@ -6795,8 +6795,8 @@
       <tuv lang="en">
         <seg>You can use either plain or &lt;t0/&gt;bakers&lt;t1/&gt; flour for this recipe.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230601T151416Z" creationid="raque" creationdate="20230523T131809Z">
-        <seg>Para esta receta puedes utilizar harina común o harina de repostería.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011441Z" creationid="raque" creationdate="20230523T131809Z">
+        <seg>Para esta receta puedes utilizar &lt;t0/&gt;harina &lt;t1/&gt;común o harina de repostería.</seg>
       </tuv>
     </tu>
     <tu>
