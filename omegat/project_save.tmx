@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>1 &amp; ½&lt;t0/&gt; &lt;t1/&gt;cups&lt;t2/&gt; &lt;t3/&gt;soft&lt;t4/&gt; &lt;t5/&gt;icing&lt;t6/&gt; &lt;t7/&gt;sugar&lt;t8/&gt; mixture</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T160129Z" creationid="beatr" creationdate="20230521T053848Z">
-        <seg>1 taza y media&lt;t0/&gt; &lt;t1/&gt;de&lt;t2/&gt; &lt;t3/&gt;mezcla de azúcar glas&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt; &lt;t7/&gt;&lt;t8/&gt; </seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004301Z" creationid="beatr" creationdate="20230521T053848Z">
+        <seg>1 taza y media&lt;t0/&gt; &lt;t1/&gt;de&lt;t2/&gt; &lt;t3/&gt;mezcla&lt;t4/&gt; &lt;t5/&gt;de azúcar&lt;t6/&gt; &lt;t7/&gt;glas&lt;t8/&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="en">
         <seg>100&lt;t0/&gt; &lt;t1/&gt;grams&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053500Z" creationid="beatr" creationdate="20230521T053500Z">
-        <seg>·&lt;t0/&gt;       &lt;t1/&gt;100 gramos de azúcar molido</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004146Z" creationid="beatr" creationdate="20230521T053500Z">
+        <seg>·&lt;t0/&gt;       &lt;t1/&gt;100 gramos de&lt;t2/&gt; &lt;t3/&gt;azúcar&lt;t4/&gt; &lt;t5/&gt;molido</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@
       <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;butter&lt;t4/&gt; &lt;t5/&gt;room&lt;t6/&gt; &lt;t7/&gt;temperature</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053923Z" creationid="beatr" creationdate="20230521T053923Z">
-        <seg>Una cucharadita de mantequilla a temperatura ambiente</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004355Z" creationid="beatr" creationdate="20230521T053923Z">
+        <seg>Una&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de mantequilla&lt;t4/&gt; &lt;t5/&gt; a temperatura&lt;t6/&gt; &lt;t7/&gt;ambiente</seg>
       </tuv>
     </tu>
     <tu>
