@@ -1056,8 +1056,8 @@
       <tuv lang="en">
         <seg>300 g &lt;t0/&gt;sweetened&lt;t1/&gt; &lt;t2/&gt;condensed&lt;t3/&gt; &lt;t4/&gt;milk</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230601T144120Z" creationid="raque" creationdate="20230522T163534Z">
-        <seg>300 g &lt;t0/&gt;leche condensada&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T010438Z" creationid="raque" creationdate="20230522T163534Z">
+        <seg>300 g &lt;t0/&gt;de leche&lt;t1/&gt;&lt;t2/&gt;condensada&lt;t3/&gt;&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3984,8 +3984,8 @@
       <tuv lang="en">
         <seg>Melt the butter in the Thermomix for 2 minutes, 80 degrees, Speed &lt;t0/&gt;2 (or until melted).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T113149Z" creationid="raque" creationdate="20230522T163842Z">
-        <seg>Derrite la mantequilla en la Thermomix, a 80 grados, velocidad 2 (o hasta que se derrita).</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T010517Z" creationid="raque" creationdate="20230522T163842Z">
+        <seg>Derrite la mantequilla en la Thermomix, a 80 grados, velocidad &lt;t0/&gt;2 (o hasta que se derrita).</seg>
       </tuv>
     </tu>
     <tu>
