@@ -832,8 +832,8 @@
       <tuv lang="en">
         <seg>200&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;chocolate &lt;t4/&gt;baking&lt;t5/&gt; chips</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062917Z" creationid="beatr" creationdate="20230522T062917Z">
-        <seg>150 g de pepitas de chocolate para hornear</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005358Z" creationid="beatr" creationdate="20230522T062917Z">
+        <seg>150&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de pepitas de &lt;t4/&gt;chocolate&lt;t5/&gt; para hornear</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,8 +1584,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Allow&lt;t1/&gt; &lt;t2/&gt;to&lt;t3/&gt; &lt;t4/&gt;cool&lt;t5/&gt; &lt;t6/&gt;slightly&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T153308Z" creationid="beatr" creationdate="20230522T153308Z">
-        <seg>Dejar enfriar un poco.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005504Z" creationid="beatr" creationdate="20230522T153308Z">
+        <seg>&lt;t0/&gt;Dejar&lt;t1/&gt; &lt;t2/&gt;enfriar&lt;t3/&gt; &lt;t4/&gt;un&lt;t5/&gt; &lt;t6/&gt;poco&lt;t7/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,8 +2000,8 @@
       <tuv lang="en">
         <seg>Add the self-&lt;t0/&gt;raising&lt;t1/&gt; flour, caster sugar, baking powder, bi-carb soda, &lt;t2/&gt;cinnamon&lt;t3/&gt; and salt and mix for 5 seconds, Speed 4 (use the spatula to help mix).</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T221249Z" creationid="beatr" creationdate="20230522T154115Z">
-        <seg>Añade la harina, el azúcar, la levadura en polvo, el bicarbonato, la canela y la sal y mezcla durante 5 segundos a la velocidad 4 (utiliza la espátula para mezclar).&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005655Z" creationid="beatr" creationdate="20230522T154115Z">
+        <seg>Añade la harina&lt;t0/&gt;, el azúcar,&lt;t1/&gt;la levadura en polvo, el bicarbonato, la canela&lt;t2/&gt; y la sal&lt;t3/&gt; y mezcla durante 5 segundos a la velocidad 4 (utiliza la espátula para mezclar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="en">
         <seg>Add the vanilla extract, honey and milk and &lt;t0/&gt;mix together&lt;t1/&gt; for 20 seconds, Speed 6.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T131111Z" creationid="beatr" creationdate="20230522T153440Z">
-        <seg>Añade el extracto de vainilla, la miel y la leche, y mezcla durante 20 segundos, velocidad 6. &lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005528Z" creationid="beatr" creationdate="20230522T153440Z">
+        <seg>Añade el extracto de vainilla, la miel y la leche, y&lt;t0/&gt;mezcla&lt;t1/&gt;durante 20 segundos, velocidad 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,8 +3920,8 @@
       <tuv lang="en">
         <seg>Line a &lt;t0/&gt;12 hole&lt;t1/&gt; muffin tray with paper cases.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T221112Z" creationid="beatr" creationdate="20230522T152424Z">
-        <seg>Forre&lt;t0/&gt; una bandeja para muffins de 12 agujeros &lt;t1/&gt; con fundas de papel.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005416Z" creationid="beatr" creationdate="20230522T152424Z">
+        <seg>Forra&lt;t0/&gt; una bandeja para muffins de 12 agujeros &lt;t1/&gt; con fundas de papel.</seg>
       </tuv>
     </tu>
     <tu>
