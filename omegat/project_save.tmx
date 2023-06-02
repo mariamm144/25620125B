@@ -2064,8 +2064,8 @@
       <tuv lang="en">
         <seg>Adding Nuts&lt;t0/&gt; - Chopped walnuts, macadamias and pecans are a few of my &lt;t1/&gt;favourite&lt;t2/&gt; additions.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230523T123347Z" creationid="beatr" creationdate="20230523T123347Z">
-        <seg>Nueces picadas, macadamias y pacanas son algunos de mis ingredientes favoritos&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005827Z" creationid="beatr" creationdate="20230523T123347Z">
+        <seg>Nueces picadas&lt;t0/&gt;, macadamias y pacanas son algunos de mis &lt;t1/&gt;ingredientes&lt;t2/&gt;favoritos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2272,8 +2272,8 @@
       <tuv lang="en">
         <seg>Bananas have gone bad (and shouldn't be used) if they have &lt;t3/&gt;mould&lt;t4/&gt; on them or a slimy liquid coming from them.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T221458Z" creationid="beatr" creationdate="20230523T122815Z">
-        <seg>Los plátanos están en mal estado (y no deben utilizarse) si tienen moho o un líquido viscoso&lt;t3/&gt;&lt;t4/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005736Z" creationid="beatr" creationdate="20230523T122815Z">
+        <seg>Los plátanos están en mal estado (y no deben utilizarse) si tienen&lt;t3/&gt;moho&lt;t4/&gt; o un líquido viscoso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4064,8 +4064,8 @@
       <tuv lang="en">
         <seg>Muffins are best consumed within 1-2 days of &lt;t1/&gt;baking.Note&lt;t2/&gt;: do not store muffins in the fridge as this will dry them out.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T131133Z" creationid="beatr" creationdate="20230523T123620Z">
-        <seg>Los muffins se consumen mejor en los 1-2 días siguientes a su horneado. Nota: no guarde los muffins en el frigorífico, ya que se secarían.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005930Z" creationid="beatr" creationdate="20230523T123620Z">
+        <seg>Los muffins se consumen mejor en los 1-2 días siguientes a su&lt;t1/&gt;horneado. Nota&lt;t2/&gt;: no guarde los muffins en el frigorífico, ya que se secarían.</seg>
       </tuv>
     </tu>
     <tu>
