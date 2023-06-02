@@ -824,8 +824,8 @@
       <tuv lang="en">
         <seg>200 g milk any variety - skim, full cream, almond, soy, oat &lt;t0/&gt;etc</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T171104Z" creationid="alond" creationdate="20230519T154326Z">
-        <seg>200 ml de leche de cualquier variedad: desnatada, entera, de almendras, de soja, de avena, etc.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012211Z" creationid="alond" creationdate="20230519T154326Z">
+        <seg>200 ml de leche de cualquier variedad: desnatada, entera, de almendras, de soja, de avena, &lt;t0/&gt;etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1776,8 +1776,8 @@
       <tuv lang="en">
         <seg>A simple and delicious Thermomix Na&lt;t0/&gt;an Bread that is perfect served with curries, rice, butter chicken and more!</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T165453Z" creationid="alond" creationdate="20230519T152245Z">
-        <seg>Un pan Naan sencillo y delicioso con Thermomix es perfecto para acompañar curry, arroz, pollo a la mantequilla y mucho más.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012046Z" creationid="alond" creationdate="20230519T152245Z">
+        <seg>Un pan&lt;t0/&gt; Naan sencillo y delicioso con Thermomix es perfecto para acompañar curry, arroz, pollo a la mantequilla y mucho más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2144,8 @@
       <tuv lang="en">
         <seg>Amount of coffee granules&lt;t0/&gt; - 2 heaped teaspoons will give you a very strong Thermomix iced coffee&lt;t1/&gt; frappe.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230601T205412Z" creationid="alond" creationdate="20230522T171747Z">
-        <seg>Cantidad de granos de café&lt;t0/&gt;: con 2 cucharaditas colmadas obtendrá un frappe de café helado Thermomix muy fuerte.&lt;t1/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012254Z" creationid="alond" creationdate="20230522T171747Z">
+        <seg>Cantidad de granos de café&lt;t0/&gt;: con 2 cucharaditas colmadas obtendrá un frappe de café&lt;t1/&gt; helado Thermomix muy fuerte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6619,8 +6619,8 @@
       <tuv lang="en">
         <seg>While hummus can &lt;t0/&gt;technically be frozen for up to 4 months&lt;t1/&gt;, it does lose &lt;t2/&gt;it's&lt;t3/&gt; &lt;t4/&gt;f&lt;t5/&gt;lavour&lt;t6/&gt; and texture the longer it is frozen.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230601T205146Z" creationid="alond" creationdate="20230519T152213Z">
-        <seg>Aunque &lt;t0/&gt;técnicamente el humus se puede congelar hasta 4 meses&lt;t1/&gt;, pierde &lt;t2/&gt;sabor&lt;t3/&gt; &lt;t4/&gt;y&lt;t5/&gt; textura cuanto más tiempo pasa congelado.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012026Z" creationid="alond" creationdate="20230519T152213Z">
+        <seg>Aunque &lt;t0/&gt;técnicamente el humus se puede congelar hasta 4 meses&lt;t1/&gt;, pierde &lt;t2/&gt;sabor&lt;t3/&gt; &lt;t4/&gt;y&lt;t5/&gt; textura &lt;t6/&gt; cuanto más tiempo pasa congelado.</seg>
       </tuv>
     </tu>
     <tu>
