@@ -2584,8 +2584,8 @@
       <tuv lang="en">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;296&lt;t2/&gt;kcal</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T203243Z" creationid="beatr" creationdate="20230512T203243Z">
-        <seg>Calorías&lt;t0/&gt;296&lt;t1/&gt;kcal</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T002851Z" creationid="beatr" creationdate="20230512T203243Z">
+        <seg>Calorías&lt;t0/&gt;&lt;t1/&gt;296&lt;t2/&gt;kcal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3096,8 +3096,8 @@
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;healthy snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T151211Z" creationid="beatr" creationdate="20230512T202318Z">
-        <seg>Tipo de plato&lt;t0/&gt;tentempiés&lt;t1/&gt;saludables</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T002706Z" creationid="beatr" creationdate="20230512T202318Z">
+        <seg>Tipo de plato&lt;t0/&gt; &lt;t1/&gt;tentempiés saludables</seg>
       </tuv>
     </tu>
     <tu>
@@ -3232,8 +3232,8 @@
       <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Japanese</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202320Z" creationid="beatr" creationdate="20230512T202320Z">
-        <seg>Cocina&lt;t0/&gt;japonesa</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T002728Z" creationid="beatr" creationdate="20230512T202320Z">
+        <seg>Cocina&lt;t0/&gt; &lt;t1/&gt;japonesa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5451,8 +5451,8 @@
       <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;rolls</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T214124Z" creationid="beatr" creationdate="20230512T203220Z">
-        <seg>Raciones&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;rollitos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T002824Z" creationid="beatr" creationdate="20230512T203220Z">
+        <seg>Raciones&lt;t0/&gt;&lt;t1/&gt;5 &lt;t2/&gt; &lt;t3/&gt;rollitos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6347,8 +6347,8 @@
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;30&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T214112Z" creationid="beatr" creationdate="20230512T202412Z">
-        <seg>Tiempo total&lt;t0/&gt;30&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T002806Z" creationid="beatr" creationdate="20230512T202412Z">
+        <seg>Tiempo total&lt;t0/&gt;&lt;t1/&gt;30 &lt;t2/&gt;&lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
