@@ -336,8 +336,8 @@
       <tuv lang="en">
         <seg>100&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;caster&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T220827Z" creationid="beatr" creationdate="20230601T112916Z">
-        <seg>100 g de azúcar molido</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005055Z" creationid="beatr" creationdate="20230601T112916Z">
+        <seg>100&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de azúcar&lt;t4/&gt; &lt;t5/&gt;molido</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;baking&lt;t4/&gt; &lt;t5/&gt;powder</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062540Z" creationid="beatr" creationdate="20230522T062540Z">
-        <seg>1 cucharadita de levadura en polvo</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005128Z" creationid="beatr" creationdate="20230522T062540Z">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de levadura&lt;t4/&gt; &lt;t5/&gt;en polvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -680,8 +680,8 @@
       <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;ground&lt;t4/&gt; &lt;t5/&gt;cinnamon</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062716Z" creationid="beatr" creationdate="20230522T062716Z">
-        <seg>1 cucharadita de canela en polvo</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005247Z" creationid="beatr" creationdate="20230522T062716Z">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de &lt;t4/&gt; &lt;t5/&gt;canela en polvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -920,8 +920,8 @@
       <tuv lang="en">
         <seg>250&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;self-raising&lt;t4/&gt; &lt;t5/&gt;flour</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062515Z" creationid="beatr" creationdate="20230522T062515Z">
-        <seg>250 g de harina con levadura </seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005028Z" creationid="beatr" creationdate="20230522T062515Z">
+        <seg>250&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de harina&lt;t4/&gt; &lt;t5/&gt;con levadura </seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +936,8 @@
       <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;eggs</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230529T092127Z" creationid="beatr" creationdate="20230522T062454Z">
-        <seg>2&lt;t0/&gt;  &lt;t1/&gt;huevos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005000Z" creationid="beatr" creationdate="20230522T062454Z">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;huevos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6907,8 +6907,8 @@
       <tuv lang="en">
         <seg>pinch&lt;t0/&gt; &lt;t1/&gt;of&lt;t2/&gt; &lt;t3/&gt;salt</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062723Z" creationid="beatr" creationdate="20230522T062723Z">
-        <seg>una pizca de sal</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005309Z" creationid="beatr" creationdate="20230522T062723Z">
+        <seg>una&lt;t0/&gt; &lt;t1/&gt;pizca&lt;t2/&gt; &lt;t3/&gt;de sal</seg>
       </tuv>
     </tu>
     <tu>
@@ -7187,8 +7187,8 @@
       <tuv lang="en">
         <seg>½&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;bicarbonate&lt;t4/&gt; &lt;t5/&gt;of&lt;t6/&gt; soda</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T130823Z" creationid="beatr" creationdate="20230522T062657Z">
-        <seg>½ cucharadita de bicarbonato sódico</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T005215Z" creationid="beatr" creationdate="20230522T062657Z">
+        <seg>½&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de bicarbonato&lt;t4/&gt; &lt;t5/&gt;sódico&lt;t6/&gt; </seg>
       </tuv>
     </tu>
     <tu>
