@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;butter</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T125627Z" creationid="beatr" creationdate="20230520T125627Z">
-        <seg>125 g de mantequilla</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003144Z" creationid="beatr" creationdate="20230520T125627Z">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de mantequilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -6315,8 +6315,8 @@
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T214939Z" creationid="beatr" creationdate="20230520T125450Z">
-        <seg>Tiempo total&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003110Z" creationid="beatr" creationdate="20230520T125450Z">
+        <seg>Tiempo total&lt;t0/&gt;&lt;t1/&gt;10&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
