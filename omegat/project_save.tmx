@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>1 1/2 &lt;t0/&gt;tsps&lt;t1/&gt; &lt;t2/&gt;salt</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T122520Z" creationid="raque" creationdate="20230523T102813Z">
-        <seg>1 cucharadita y 1/2 &lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;de sal</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011311Z" creationid="raque" creationdate="20230523T102813Z">
+        <seg>1 y 1/2 &lt;t0/&gt;cucharaditas&lt;t1/&gt; &lt;t2/&gt;de sal</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +56,8 @@
       <tuv lang="en">
         <seg>1 &lt;t0/&gt;tbs&lt;t1/&gt; &lt;t2/&gt;baking&lt;t3/&gt; &lt;t4/&gt;powder</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T102836Z" creationid="raque" creationdate="20230523T102836Z">
-        <seg>1 &lt;t0/&gt;cucharada&lt;t1/&gt; &lt;t2/&gt;de levadura en polvo</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011325Z" creationid="raque" creationdate="20230523T102836Z">
+        <seg>1 &lt;t0/&gt;cucharada&lt;t1/&gt; &lt;t2/&gt;de levadura &lt;t3/&gt; &lt;t4/&gt;en polvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,8 +1992,8 @@
       <tuv lang="en">
         <seg>Add the ricotta, baby spinach leave&lt;t0/&gt;s, 1 egg, nutmeg and salt and pepper to your Thermomix bowl and mix for 15 seconds on speed 4 or until &lt;t1/&gt;all of&lt;t2/&gt; the ingredients have combined.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230601T145330Z" creationid="raque" creationdate="20230522T171309Z">
-        <seg>Añade la ricotta, las hojas de espinaca baby, 1 huevo, la nuez moscada y la sal y la pimienta a tu vaso Thermomix y mezcla durante 15 segundos, velocidad 4 o hasta que todos los ingredientes se hayan mezclado.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011140Z" creationid="raque" creationdate="20230522T171309Z">
+        <seg>Añade la ricotta, las hojas &lt;t0/&gt;de espinaca baby, 1 huevo, la nuez moscada y la sal y la pimienta a tu vaso Thermomix y mezcla durante 15 segundos, velocidad 4 o hasta &lt;t1/&gt;que todos &lt;t2/&gt;los ingredientes se hayan mezclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3424,8 +3424,8 @@
       <tuv lang="en">
         <seg>Divide th&lt;t0/&gt;e dough into approximately 15 - 18 small pieces.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T131441Z" creationid="raque" creationdate="20230523T131441Z">
-        <seg>Divide la masa en unos 15-18 trozos pequeños.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011404Z" creationid="raque" creationdate="20230523T131441Z">
+        <seg>Divide la&lt;t0/&gt; masa en unos 15-18 trozos pequeños.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,8 +3640,8 @@
       <tuv lang="en">
         <seg>I suggest you remove any excess liquid from the spinach as other&lt;t2/&gt;wise the pastry will be soggy.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T092617Z" creationid="raque" creationdate="20230523T092617Z">
-        <seg>Te aconsejo que quites el líquido sobrante de las espinacas, ya que de lo contrario el hojaldre quedará empapado.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011214Z" creationid="raque" creationdate="20230523T092617Z">
+        <seg>Te aconsejo que quites el líquido sobrante de las espinacas, ya que de lo contrario&lt;t2/&gt; el hojaldre quedará empapado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6243,8 +6243,8 @@
       <tuv lang="en">
         <seg>To&lt;t0/&gt; serve</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230523T102905Z" creationid="raque" creationdate="20230523T102905Z">
-        <seg>Para servir</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011337Z" creationid="raque" creationdate="20230523T102905Z">
+        <seg>Para&lt;t0/&gt; servir</seg>
       </tuv>
     </tu>
     <tu>
