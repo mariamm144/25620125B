@@ -3104,8 +3104,8 @@
       <tuv lang="en">
         <seg>Course&lt;t0/&gt;Biscuits&lt;t1/&gt;, Biscuits and Cookies, cookies</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230529T091617Z" creationid="mmolc" creationdate="20230525T121552Z">
-        <seg>Tipo de plato Galletas</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013157Z" creationid="mmolc" creationdate="20230525T121552Z">
+        <seg>Tipo de plato&lt;t0/&gt;Galletas&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4336,8 +4336,8 @@
       <tuv lang="en">
         <seg>Place the &lt;t0/&gt;cut out&lt;t1/&gt; sugar cookies onto your prepared trays and continue until all of the dough has been used.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T122342Z" creationid="mmolc" creationdate="20230525T122342Z">
-        <seg>Coloca las galletas de azúcar recortadas en las bandejas preparadas y continúa hasta que hayas utilizado toda la masa.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013045Z" creationid="mmolc" creationdate="20230525T122342Z">
+        <seg>Coloca las galletas de azúcar &lt;t0/&gt;recortadas&lt;t1/&gt; en las bandejas preparadas y continúa hasta que hayas utilizado toda la masa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,8 +4568,8 @@
       <tuv lang="en">
         <seg>Place the rissoles into a frying pan with a litt&lt;t0/&gt;le olive oil and cook for approximately 3 -4 minutes on each side or until cooked through.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T184045Z" creationid="alond" creationdate="20230522T184045Z">
-        <seg>Pon las croquetas en una sartén con un poco de aceite de oliva y cocínalas durante unos 3-4 minutos por cada lado o hasta que estén bien hechas.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012928Z" creationid="alond" creationdate="20230522T184045Z">
+        <seg>Pon las croquetas en una sartén con un&lt;t0/&gt;poco de aceite de oliva y cocínalas durante unos 3-4 minutos por cada lado o hasta que estén bien hechas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6099,8 +6099,8 @@
       <tuv lang="en">
         <seg>They are made from just 4 basic &lt;t0/&gt;ingredients&lt;t1/&gt; and you will get around 100 biscuits from a batch!</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T121558Z" creationid="mmolc" creationdate="20230525T121558Z">
-        <seg>¡Están hechas de tan solo 4 ingredientes básicos, y obtendrás unas 100 galletas de una!</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013133Z" creationid="mmolc" creationdate="20230525T121558Z">
+        <seg>¡Están hechas de tan solo 4  &lt;t0/&gt;ingredientes&lt;t1/&gt; básicos, y obtendrás unas 100 galletas de una!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6411,8 +6411,8 @@
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T121621Z" creationid="mmolc" creationdate="20230525T121621Z">
-        <seg>Tiempo total &lt;t0/&gt; &lt;t1/&gt;20 &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013215Z" creationid="mmolc" creationdate="20230525T121621Z">
+        <seg>Tiempo total &lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
