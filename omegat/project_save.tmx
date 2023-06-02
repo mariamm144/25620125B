@@ -408,8 +408,8 @@
       <tuv lang="en">
         <seg>125&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;milk&lt;t4/&gt; &lt;t5/&gt;full &lt;t6/&gt;cream</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T220749Z" creationid="beatr" creationdate="20230522T062441Z">
-        <seg>125&lt;t0/&gt; &lt;t1/&gt;ml&lt;t2/&gt; &lt;t3/&gt; de leche entera&lt;t4/&gt; &lt;t5/&gt;&lt;t6/&gt;cream</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004954Z" creationid="beatr" creationdate="20230522T062441Z">
+        <seg>125&lt;t0/&gt; &lt;t1/&gt;ml&lt;t2/&gt; &lt;t3/&gt; de leche&lt;t4/&gt; &lt;t5/&gt;entera&lt;t6/&gt;cream</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1504,8 @@
       <tuv lang="en">
         <seg>80&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;butter</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T062139Z" creationid="beatr" creationdate="20230522T062139Z">
-        <seg>80 g de mantequilla</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004929Z" creationid="beatr" creationdate="20230522T062139Z">
+        <seg>80&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de mantequilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,8 +2544,8 @@
       <tuv lang="en">
         <seg>Calories&lt;t0/&gt;  &lt;t1/&gt;167&lt;t2/&gt;.3&lt;t3/&gt;kcal</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T061625Z" creationid="beatr" creationdate="20230522T061625Z">
-        <seg>Calorías&lt;t0/&gt;167,3&lt;t1/&gt;kcal</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004853Z" creationid="beatr" creationdate="20230522T061625Z">
+        <seg>Calorías&lt;t0/&gt; &lt;t1/&gt;167&lt;t2/&gt;.3&lt;t3/&gt;kcal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2816,8 +2816,8 @@
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T061533Z" creationid="beatr" creationdate="20230522T061533Z">
-        <seg>Tiempo de cocina&lt;t0/&gt;15&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004735Z" creationid="beatr" creationdate="20230522T061533Z">
+        <seg>Tiempo de cocina&lt;t0/&gt;&lt;t1/&gt;15&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3240,8 +3240,8 @@
       <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Western</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T220714Z" creationid="beatr" creationdate="20230522T061520Z">
-        <seg>Cocina&lt;t0/&gt;Occidental</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004713Z" creationid="beatr" creationdate="20230522T061520Z">
+        <seg>Cocina&lt;t0/&gt;&lt;t1/&gt;Occidental</seg>
       </tuv>
     </tu>
     <tu>
@@ -5395,8 +5395,8 @@
       <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;12&lt;t2/&gt; &lt;t3/&gt;muffins</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230522T061717Z" creationid="beatr" creationdate="20230522T061717Z">
-        <seg>Raciones&lt;t0/&gt;12&lt;t1/&gt; &lt;t2/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004802Z" creationid="beatr" creationdate="20230522T061717Z">
+        <seg>Raciones&lt;t0/&gt;&lt;t1/&gt;12&lt;t2/&gt; &lt;t3/&gt; </seg>
       </tuv>
     </tu>
     <tu>
