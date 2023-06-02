@@ -1672,8 +1672,8 @@
       <tuv lang="en">
         <seg>&lt;t0/&gt;Sprinkle&lt;t1/&gt; &lt;t2/&gt;the&lt;t3/&gt; &lt;t4/&gt;cheese&lt;t5/&gt; - reserve &lt;t6/&gt;approximately&lt;t7/&gt; ¼ cup &lt;t8/&gt;of&lt;t9/&gt; &lt;t10/&gt;cheese&lt;t11/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T121645Z" creationid="beatr" creationdate="20230520T175611Z">
-        <seg>&lt;t0/&gt;Espolvorea&lt;t1/&gt; &lt;t2/&gt;el queso&lt;t3/&gt; &lt;t4/&gt;&lt;t5/&gt;, reserva &lt;t6/&gt;aproximadamente&lt;t7/&gt; ¼ taza &lt;t8/&gt;de&lt;t9/&gt; &lt;t10/&gt;queso&lt;t11/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003813Z" creationid="beatr" creationdate="20230520T175611Z">
+        <seg>&lt;t0/&gt;Espolvorea&lt;t1/&gt; &lt;t2/&gt;el&lt;t3/&gt; &lt;t4/&gt;queso&lt;t5/&gt;, reserva &lt;t6/&gt;aproximadamente&lt;t7/&gt; ¼ taza &lt;t8/&gt;de&lt;t9/&gt; &lt;t10/&gt;queso&lt;t11/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,8 +2576,8 @@
       <tuv lang="en">
         <seg>Calories&lt;t0/&gt; &lt;t1/&gt;212&lt;t2/&gt;kcal</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173519Z" creationid="beatr" creationdate="20230520T173519Z">
-        <seg>Calorías&lt;t0/&gt;212&lt;t1/&gt;kcal</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003545Z" creationid="beatr" creationdate="20230520T173519Z">
+        <seg>Calorías&lt;t0/&gt;&lt;t1/&gt;212&lt;t2/&gt;kcal</seg>
       </tuv>
     </tu>
     <tu>
@@ -4802,8 +4802,8 @@
       <tuv lang="en">
         <seg>Preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line an oven tray with baking paper.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T174122Z" creationid="beatr" creationdate="20230520T174122Z">
-        <seg> Precalienta el horno a 210 grados centígrados (con ventilador) y forra una bandeja de horno con papel de hornear.
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003703Z" creationid="beatr" creationdate="20230520T174122Z">
+        <seg> Precalienta el horno a 210 grados &lt;t0/&gt;centígrados&lt;t1/&gt; (con ventilador) y forra una bandeja de horno con papel de hornear.
 </seg>
       </tuv>
     </tu>
@@ -5403,8 +5403,8 @@
       <tuv lang="en">
         <seg>Servings&lt;t0/&gt; &lt;t1/&gt;12&lt;t2/&gt; &lt;t3/&gt;scrolls</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173455Z" creationid="beatr" creationdate="20230520T173455Z">
-        <seg>Raciones&lt;t0/&gt;5&lt;t1/&gt; &lt;t2/&gt;de rollito</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003521Z" creationid="beatr" creationdate="20230520T173455Z">
+        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;12&lt;t2/&gt; &lt;t3/&gt;de rollito</seg>
       </tuv>
     </tu>
     <tu>
@@ -7203,8 +7203,8 @@
       <tuv lang="en">
         <seg>½&lt;t0/&gt; &lt;t1/&gt;teaspoon&lt;t2/&gt; &lt;t3/&gt;salt&lt;t4/&gt; &lt;t5/&gt;optional</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T121510Z" creationid="beatr" creationdate="20230520T173814Z">
-        <seg>Media cucharadita de sal (opcional)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003632Z" creationid="beatr" creationdate="20230520T173814Z">
+        <seg>Media&lt;t0/&gt; &lt;t1/&gt;cucharadita&lt;t2/&gt; &lt;t3/&gt;de sal&lt;t4/&gt; &lt;t5/&gt;(opcional)</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
