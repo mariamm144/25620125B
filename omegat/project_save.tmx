@@ -328,8 +328,8 @@
       <tuv lang="en">
         <seg>100&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;brown&lt;t4/&gt; &lt;t5/&gt;sugar</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T125705Z" creationid="beatr" creationdate="20230520T125705Z">
-        <seg>100&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de azúcar moreno&lt;t4/&gt; &lt;t5/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003202Z" creationid="beatr" creationdate="20230520T125705Z">
+        <seg>100&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de azúcar&lt;t4/&gt; &lt;t5/&gt;moreno</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="en">
         <seg>160&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;sultanas</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T130532Z" creationid="beatr" creationdate="20230520T130532Z">
-        <seg>160&lt;t0/&gt; g de pasas sultanas</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003336Z" creationid="beatr" creationdate="20230520T130532Z">
+        <seg>160&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de pasas sultanas</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="en">
         <seg>1&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;vanilla&lt;t4/&gt; &lt;t5/&gt;extract</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T125837Z" creationid="beatr" creationdate="20230520T125837Z">
-        <seg>1 cucharadita de extracto de vanilla</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003308Z" creationid="beatr" creationdate="20230520T125837Z">
+        <seg>1&lt;t0/&gt; &lt;t1/&gt;cucharadita de&lt;t2/&gt; &lt;t3/&gt;extracto&lt;t4/&gt; &lt;t5/&gt;de vanilla</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="en">
         <seg>2&lt;t0/&gt; &lt;t1/&gt;tsp&lt;t2/&gt; &lt;t3/&gt;cinnamon</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T125822Z" creationid="beatr" creationdate="20230520T125822Z">
-        <seg>2 cucharaditas de canela en polvo</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003233Z" creationid="beatr" creationdate="20230520T125822Z">
+        <seg>2&lt;t0/&gt; &lt;t1/&gt;cucharaditas&lt;t2/&gt; &lt;t3/&gt;de canela en polvo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2840,8 +2840,8 @@
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T215407Z" creationid="beatr" creationdate="20230520T173422Z">
-        <seg>Tiempo de cocina&lt;t0/&gt;25&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003430Z" creationid="beatr" creationdate="20230520T173422Z">
+        <seg>Tiempo de cocina&lt;t0/&gt;&lt;t1/&gt;25&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6355,8 +6355,8 @@
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;35&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T173434Z" creationid="beatr" creationdate="20230520T173434Z">
-        <seg>Tiempo en total&lt;t0/&gt;35&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003454Z" creationid="beatr" creationdate="20230520T173434Z">
+        <seg>Tiempo en total&lt;t0/&gt;&lt;t1/&gt;35&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
