@@ -1192,8 +1192,8 @@
       <tuv lang="en">
         <seg>400 g &lt;t0/&gt;Bakers&lt;t1/&gt; flour or strong bread flour</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T171830Z" creationid="alond" creationdate="20230522T172649Z">
-        <seg>400 g &lt;t0/&gt;de Harina de panadería o harina de fuerza</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012405Z" creationid="alond" creationdate="20230522T172649Z">
+        <seg>400 g &lt;t0/&gt;de Harina&lt;t1/&gt;  de panadería o harina de fuerza</seg>
       </tuv>
     </tu>
     <tu>
@@ -3384,8 +3384,8 @@
       <tuv lang="en">
         <seg>Cutting the bread – &lt;t0/&gt;as delicious as warm br&lt;t1/&gt;ead straight from the oven is… allow it to cool for approximately an hour before slicing.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T182635Z" creationid="alond" creationdate="20230522T175230Z">
-        <seg>Cortar el pan: &lt;t0/&gt;aunque esté delicioso recién salido del horno... déjalo enfriar durante aproximadamente una hora antes de cortarlo en rebanadas.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012536Z" creationid="alond" creationdate="20230522T175230Z">
+        <seg>Cortar el pan: &lt;t0/&gt;aunque esté delicioso recién&lt;t1/&gt;salido del horno... déjalo enfriar durante aproximadamente una hora antes de cortarlo en rebanadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3792,8 +3792,8 @@
       <tuv lang="en">
         <seg>If you’re only planning to bake once a week, keep your starter in the fridge and remove it the day before yo&lt;t1/&gt;u plan to use it.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230531T181918Z" creationid="alond" creationdate="20230522T175046Z">
-        <seg>Si sólo vas a hornear una vez a la semana, guarda el fermento en el frigorífico y sácalo un día antes de utilizarlo.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012511Z" creationid="alond" creationdate="20230522T175046Z">
+        <seg>Si sólo vas a hornear una vez a la semana, guarda el fermento en el frigorífico y sácalo un día antes&lt;t1/&gt; de utilizarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6123,8 +6123,8 @@
       <tuv lang="en">
         <seg>This allows the bread to hold &lt;t2/&gt;it’s&lt;t3/&gt; shape when cut.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230522T175245Z" creationid="alond" creationdate="20230522T175245Z">
-        <seg>Esto permite que el pan mantenga su forma al cortarlo.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T012606Z" creationid="alond" creationdate="20230522T175245Z">
+        <seg>Esto permite que el pan mantenga&lt;t2/&gt;suf&lt;t3/&gt;forma al cortarlo.</seg>
       </tuv>
     </tu>
     <tu>
