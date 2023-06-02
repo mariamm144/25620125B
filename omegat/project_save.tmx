@@ -6195,8 +6195,8 @@
       <tuv lang="en">
         <seg>To make multiple &lt;t0/&gt;flavoured&lt;t1/&gt; biscuits from the one dough, split your dough and place into bowls.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124512Z" creationid="mmolc" creationdate="20230525T124512Z">
-        <seg>Para hacer galletas de varios sabores con la misma masa, divídela y ponla en boles.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013737Z" creationid="mmolc" creationdate="20230525T124512Z">
+        <seg>Para hacer galletas de varios &lt;t0/&gt;sabores&lt;t1/&gt; con la misma masa, divídela y ponla en boles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6659,8 +6659,8 @@
       <tuv lang="en">
         <seg>You can add any &lt;t0/&gt;flavourings&lt;t1/&gt; you like to the cookie dough (sprinkles, sultanas, Milo, nuts, peanut butter, Smarties &lt;t2/&gt;etc&lt;t3/&gt;).</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124454Z" creationid="mmolc" creationdate="20230525T124454Z">
-        <seg>Puedes añadir cualquier condimento que quieras a la masa de galletas (bolitas multicolores, sultanas, Milo, nueces, mantequilla de cacahuete, lacasitos, etc).</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013713Z" creationid="mmolc" creationdate="20230525T124454Z">
+        <seg>Puedes añadir cualquier &lt;t0/&gt;condimento&lt;t1/&gt; que quieras a la masa de galletas (bolitas multicolores, sultanas, Milo, nueces, mantequilla de cacahuete, lacasitos,&lt;t2/&gt;etc&lt;t3/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6739,8 +6739,8 @@
       <tuv lang="en">
         <seg>You can make larger biscuits however the baking time will &lt;t0/&gt;vary&lt;t1/&gt; and you will get less cookies.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T124519Z" creationid="mmolc" creationdate="20230525T124519Z">
-        <seg>Puedes hacer galletas más grandes, pero el tiempo de horneado variará y obtendrás menos galletas.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013758Z" creationid="mmolc" creationdate="20230525T124519Z">
+        <seg>Puedes hacer galletas más grandes, pero el tiempo de horneado &lt;t0/&gt;variará&lt;t1/&gt; y obtendrás menos galletas.</seg>
       </tuv>
     </tu>
     <tu>
