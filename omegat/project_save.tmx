@@ -2824,8 +2824,8 @@
       <tuv lang="en">
         <seg>Cook Time&lt;t0/&gt; &lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T214027Z" creationid="beatr" creationdate="20230512T201449Z">
-        <seg>Tiempo de cocción&lt;t0/&gt;20&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T001950Z" creationid="beatr" creationdate="20230512T201449Z">
+        <seg>Tiempo de cocción&lt;t0/&gt;&lt;t1/&gt;20&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,8 +3048,8 @@
       <tuv lang="en">
         <seg>Course&lt;t0/&gt; &lt;t1/&gt;Breakfast, Snacks</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T213527Z" creationid="beatr" creationdate="20230512T201433Z">
-        <seg>Tipo de plato&lt;t0/&gt;Desayuno&lt;t1/&gt;, Tentempié</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T001747Z" creationid="beatr" creationdate="20230512T201433Z">
+        <seg>Tipo de plato&lt;t0/&gt;&lt;t1/&gt;Desayuno, Tentempié</seg>
       </tuv>
     </tu>
     <tu>
@@ -3216,8 +3216,8 @@
       <tuv lang="en">
         <seg>Cuisine&lt;t0/&gt; &lt;t1/&gt;Australian</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T213536Z" creationid="beatr" creationdate="20230512T201441Z">
-        <seg>Cocina&lt;t0/&gt;Australiana</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T001805Z" creationid="beatr" creationdate="20230512T201441Z">
+        <seg>Cocina&lt;t0/&gt; &lt;t1/&gt;Australiana</seg>
       </tuv>
     </tu>
     <tu>
@@ -4883,8 +4883,8 @@
       <tuv lang="en">
         <seg>Prep Time&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T201446Z" creationid="beatr" creationdate="20230512T201446Z">
-        <seg>Tiempo de preparación: 5 minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T001843Z" creationid="beatr" creationdate="20230512T201446Z">
+        <seg>Tiempo de preparación:&lt;t0/&gt; &lt;t1/&gt;5&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
