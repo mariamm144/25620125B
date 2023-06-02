@@ -1752,8 +1752,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;Mix&lt;t5/&gt; &lt;t6/&gt;to&lt;t7/&gt; &lt;t8/&gt;create&lt;t9/&gt; &lt;t10/&gt;the&lt;t11/&gt; &lt;t12/&gt;coloured&lt;t13/&gt; mixture.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130047Z" creationid="mmolc" creationdate="20230525T130047Z">
-        <seg>Mezcla para lograr la mezcla coloreada.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014559Z" creationid="mmolc" creationdate="20230525T130047Z">
+        <seg>&lt;t4/&gt;Mezcla para&lt;t5/&gt; &lt;t6/&gt;lograr&lt;t7/&gt; &lt;t8/&gt;la&lt;t9/&gt; &lt;t10/&gt;mezcla&lt;t11/&gt; &lt;t12/&gt;coloreada&lt;t13/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1816,8 +1816,8 @@
       <tuv lang="en">
         <seg>Add &lt;t0/&gt;spoonfuls&lt;t1/&gt; of the three different &lt;t2/&gt;coloured&lt;t3/&gt; mixtures to your prepared loaf tin and once all the mixture is in the tin, use a butter knife to gently swirl the mixture to create the ‘marble’ effect.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230601T104026Z" creationid="mmolc" creationdate="20230525T130055Z">
-        <seg>Añade cucharadas de las tres mezclas de colores diferentes al molde preparado y, una vez que toda la mezcla esté en el molde, utiliza un cuchillo para mantequilla para removerla suavemente y crear el efecto "marmoleado".</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014655Z" creationid="mmolc" creationdate="20230525T130055Z">
+        <seg>Añade &lt;t0/&gt;cucharadas&lt;t1/&gt; de las tres mezclas de &lt;t2/&gt;colores&lt;t3/&gt; diferentes al molde preparado y, una vez que toda la mezcla esté en el molde, utiliza un cuchillo para mantequilla para removerla suavemente y crear el efecto "marmoleado".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3752,8 +3752,8 @@
       <tuv lang="en">
         <seg>If you don't have any pink food &lt;t0/&gt;colouring&lt;t1/&gt;, different &lt;t2/&gt;colours&lt;t3/&gt; can be used or you can divide the mixture into two and have one chocolate and one vanilla.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130128Z" creationid="mmolc" creationdate="20230525T130128Z">
-        <seg>Si no tienes ningún colorante alimentario rosa, puedes utilizar otros colores o dividir la mezcla en dos y tener una de chocolate y otra de vainilla.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014812Z" creationid="mmolc" creationdate="20230525T130128Z">
+        <seg>Si no tienes ningún colorante &lt;t0/&gt;alimentario&lt;t1/&gt; rosa, puedes utilizar otros &lt;t2/&gt;colores&lt;t3/&gt; o dividir la mezcla en dos y tener una de chocolate y otra de vainilla.</seg>
       </tuv>
     </tu>
     <tu>
