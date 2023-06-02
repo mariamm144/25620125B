@@ -1760,8 +1760,8 @@
       <tuv lang="en">
         <seg>&lt;t4/&gt;Scrape&lt;t5/&gt; &lt;t6/&gt;down&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230529T092459Z" creationid="mmolc" creationdate="20230525T125233Z">
-        <seg>Raspa las paredes del bol.&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014030Z" creationid="mmolc" creationdate="20230525T125233Z">
+        <seg>&lt;t4/&gt;Raspa&lt;t5/&gt; &lt;t6/&gt;las paredes del vaso.&lt;t7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2008,8 +2008,8 @@
       <tuv lang="en">
         <seg>Add the self-&lt;t0/&gt;raising&lt;t1/&gt; flour, caster sugar, milk, &lt;t2/&gt;eggs&lt;t3/&gt; and vanilla extract and mix for 10 seconds, Speed 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T120753Z" creationid="mmolc" creationdate="20230525T125230Z">
-        <seg>Añade la harina con levadura, el azúcar molido, leche, huevos el extracto de vainilla, y remueve durante 10 segundos, velocidad 5.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013945Z" creationid="mmolc" creationdate="20230525T125230Z">
+        <seg>Añade la harina con&lt;t0/&gt;levadura&lt;t1/&gt;, el azúcar molido, leche, &lt;t2/&gt;huevos&lt;t3/&gt; el extracto de vainilla, y remueve durante 10 segundos, velocidad 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2744,8 +2744,8 @@
       <tuv lang="en">
         <seg>Chop the butter and place into your Thermomix bowl.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125216Z" creationid="mmolc" creationdate="20230525T125216Z">
-        <seg>Pica la mantequilla y ponla en el bol de la Thermomix.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014036Z" creationid="mmolc" creationdate="20230525T125216Z">
+        <seg>Pica la mantequilla y ponla en el vaso de la Thermomix.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,8 +4786,8 @@
       <tuv lang="en">
         <seg>Preheat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line a 12-hole muffin tray with paper cases.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230529T092312Z" creationid="mmolc" creationdate="20230525T125208Z">
-        <seg>Precalienta el horno a 180 grados centígrados (con ventilador) y forra con papel de hornear una bandeja con 12 huecos para magadalenas.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T013858Z" creationid="mmolc" creationdate="20230525T125208Z">
+        <seg>Precalienta el horno a 180 grados &lt;t0/&gt;centígrados&lt;t1/&gt; (con ventilador) y forra con papel de hornear una bandeja con 12 huecos para magadalenas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6675,8 +6675,8 @@
       <tuv lang="en">
         <seg>You can also use &lt;t0/&gt;greek&lt;t1/&gt; or vanilla yoghurt in place of milk for this recipe.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T125300Z" creationid="mmolc" creationdate="20230525T125300Z">
-        <seg>También puedes utilizar yogur griego o de vainilla en lugar de leche para esta receta.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014141Z" creationid="mmolc" creationdate="20230525T125300Z">
+        <seg>También puedes utilizar yogur &lt;t0/&gt;griego&lt;t1/&gt; de vainilla en lugar de leche para esta receta.</seg>
       </tuv>
     </tu>
     <tu>
