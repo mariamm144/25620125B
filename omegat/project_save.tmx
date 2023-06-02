@@ -3688,8 +3688,8 @@
       <tuv lang="en">
         <seg>If it’s too &lt;t0/&gt;cold&lt;t1/&gt; it will be difficult to spread smoothly and you may get holes in your dough.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230520T180656Z" creationid="beatr" creationdate="20230520T180656Z">
-        <seg>Si está demasiado frío &lt;t0/&gt;&lt;t1/&gt;  será difícil de untar cómodamente y podrían salir agujeros en la masa.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003833Z" creationid="beatr" creationdate="20230520T180656Z">
+        <seg>Si está demasiado &lt;t0/&gt;frío&lt;t1/&gt; será difícil de untar cómodamente y podrían salir agujeros en la masa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4811,8 +4811,8 @@
       <tuv lang="en">
         <seg>Prep &lt;t0/&gt;Time&lt;t1/&gt;  &lt;t2/&gt;15&lt;t3/&gt; &lt;t4/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T123938Z" creationid="beatr" creationdate="20230521T053143Z">
-        <seg>Tiempo de preparación 15 minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004013Z" creationid="beatr" creationdate="20230521T053143Z">
+        <seg>Tiempo de&lt;t0/&gt;preparación&lt;t1/&gt;  &lt;t2/&gt;15&lt;t3/&gt; &lt;t4/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6083,8 +6083,8 @@
       <tuv lang="en">
         <seg>They are freezer friendly and great for lunch &lt;t0/&gt;boxes</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230521T053127Z" creationid="beatr" creationdate="20230521T053127Z">
-        <seg>Son aptas para el congelador y perfectas para el almuerzo</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003926Z" creationid="beatr" creationdate="20230521T053127Z">
+        <seg>Son aptas para el congelador y perfectas para el &lt;t0/&gt;almuerzo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6371,8 +6371,8 @@
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt; &lt;t1/&gt;57&lt;t2/&gt; &lt;t3/&gt;minutes</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T220052Z" creationid="beatr" creationdate="20230521T053305Z">
-        <seg>Tiempo total&lt;t0/&gt;57&lt;t1/&gt; &lt;t2/&gt;minutos</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004058Z" creationid="beatr" creationdate="20230521T053305Z">
+        <seg>Tiempo total&lt;t0/&gt;&lt;t1/&gt;57&lt;t2/&gt; &lt;t3/&gt;minutos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6787,8 +6787,8 @@
       <tuv lang="en">
         <seg>You can use different cheeses for &lt;t0/&gt;this recipes&lt;t1/&gt;, these scrolls are also delicious made with a combination of tasty and mozzarella cheese.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T122000Z" creationid="beatr" creationdate="20230520T181607Z">
-        <seg>Puedes utilizar diferentes tipos de quesos para esta receta, estos rollitos también están deliciosos hechos con una combinación de queso Tasty y mozzarella. &lt;t0/&gt;&lt;t1/&gt;.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T003903Z" creationid="beatr" creationdate="20230520T181607Z">
+        <seg>Puedes utilizar diferentes tipos de quesos para&lt;t0/&gt;esta receta &lt;t1/&gt;, estos rollitos también están deliciosos hechos con una combinación de queso Tasty y mozzarella.</seg>
       </tuv>
     </tu>
     <tu>
