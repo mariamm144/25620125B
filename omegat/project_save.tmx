@@ -3720,8 +3720,8 @@
       <tuv lang="en">
         <seg>If using solid mini eggs, I would recommend chopping them into smaller pieces before using (this makes the &lt;t7/&gt;slice easier to cut).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T114741Z" creationid="raque" creationdate="20230522T165908Z">
-        <seg>Si se utilizan mini huevos macizos, recomendaría picarlos en trozos más pequeños antes de usarlos (esto hace que sea más fácil de cortar.)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T010914Z" creationid="raque" creationdate="20230522T165908Z">
+        <seg>Si se utilizan mini huevos macizos, recomendaría picarlos en trozos más pequeños antes de usarlos (esto hace que sea más fácil de&lt;t7/&gt;cortar.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3904,8 +3904,8 @@
       <tuv lang="en">
         <seg>Lightly grease two baking trays and preheat your oven to 210 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T115724Z" creationid="raque" creationdate="20230522T171222Z">
-        <seg>Engrasa ligeramente dos bandejas para hornear y precalienta el horno a 210 grados centígrados (con ventilador.)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T011058Z" creationid="raque" creationdate="20230522T171222Z">
+        <seg>Engrasa ligeramente dos bandejas para hornear y precalienta el horno a 210 grados &lt;t0/&gt;centígrados&lt;t1/&gt; (con ventilador.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5027,8 +5027,8 @@
       <tuv lang="en">
         <seg>Remove the slice from the fridge 20 minutes before cutting&lt;t0/&gt; (this helps to stop the chocolate layer on top from cracking).</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230524T114809Z" creationid="raque" creationdate="20230522T165929Z">
-        <seg>Sácalos de la nevera 20 minutos antes de cortar (esto ayuda a que la capa de chocolate de la parte superior no se agriete.)</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T010926Z" creationid="raque" creationdate="20230522T165929Z">
+        <seg>Sácalos de la nevera 20 minutos antes de cortar&lt;t0/&gt; (esto ayuda a que la capa de chocolate de la parte superior no se agriete.)</seg>
       </tuv>
     </tu>
     <tu>
