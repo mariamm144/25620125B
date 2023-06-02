@@ -4376,8 +4376,8 @@
       <tuv lang="en">
         <seg>Place the apple pieces into a small bowl and add the cinnamon before gently stirring to combine.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230522T153455Z" creationid="mmolc" creationdate="20230522T152354Z">
-        <seg>Pon los trozos de manzana en un bol pequeño y añada la canela antes de remover suavemente para combinar.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014949Z" creationid="mmolc" creationdate="20230522T152354Z">
+        <seg>Pon los trozos de manzana en un vaso pequeño y añada la canela antes de remover suavemente para combinar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4424,8 +4424,8 @@
       <tuv lang="en">
         <seg>Place the butter and caster sugar into your Thermomix bowl and mix for 30 seconds, Speed 3. Scrape down the sides of the bowl and mix for a further 20 seconds, Speed 3.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230601T121037Z" creationid="mmolc" creationdate="20230525T130010Z">
-        <seg>Coloca la mantequilla en el bol de Thermomix  y remueve durante 30 segundos a velocidad 3. Raspa las paredes de los lados del bol y mezcla durante otros 20 segundos, velocidad 3.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T015043Z" creationid="mmolc" creationdate="20230525T130010Z">
+        <seg>Coloca la mantequilla en el vaso de Thermomix  y remueve durante 30 segundos a velocidad 3. Raspa las paredes de los lados del bol y mezcla durante otros 20 segundos, velocidad 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5195,8 +5195,8 @@
       <tuv lang="en">
         <seg>Scrape down the sides of the bowl and mix for a further 5 seconds, Speed 4 or until well combined.</seg>
       </tuv>
-      <tuv lang="es" changeid="alond" changedate="20230601T082112Z" creationid="mmolc" creationdate="20230525T130031Z">
-        <seg>Raspa los laterales de tu bol de Thermomix y remueve todo a velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014958Z" creationid="mmolc" creationdate="20230525T130031Z">
+        <seg>Raspa los laterales de tu vaso de Thermomix y remueve todo a velocidad 4 durante 5 segundos más o hasta que se mezcle bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5491,8 +5491,8 @@
       <tuv lang="en">
         <seg>Servings&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;Slices</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130342Z" creationid="mmolc" creationdate="20230525T130342Z">
-        <seg>Raciones&lt;t0/&gt; &lt;t1/&gt;10 &lt;t2/&gt;porciones</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014900Z" creationid="mmolc" creationdate="20230525T130342Z">
+        <seg>Raciones&lt;t0/&gt;10&lt;t1/&gt; &lt;t2/&gt;porciones</seg>
       </tuv>
     </tu>
     <tu>
@@ -6395,8 +6395,8 @@
       <tuv lang="en">
         <seg>Total Time&lt;t0/&gt;1&lt;t1/&gt; &lt;t2/&gt;hour</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T130336Z" creationid="mmolc" creationdate="20230525T130336Z">
-        <seg>Tiempo total&lt;t0/&gt;1 &lt;t1/&gt;horas</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T014847Z" creationid="mmolc" creationdate="20230525T130336Z">
+        <seg>Tiempo total&lt;t0/&gt;1&lt;t1/&gt; &lt;t2/&gt;horas</seg>
       </tuv>
     </tu>
     <tu>
