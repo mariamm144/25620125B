@@ -4720,8 +4720,8 @@
       <tuv lang="en">
         <seg>Pre-heat your oven to 180 degrees &lt;t0/&gt;celsius&lt;t1/&gt; (fan-forced) and line two baking trays with baking paper.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T160212Z" creationid="beatr" creationdate="20230521T054444Z">
-        <seg> Precalienta el horno a 180 grados (con ventilador) y cubre una bandeja de horno con papel de hornear.
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004510Z" creationid="beatr" creationdate="20230521T054444Z">
+        <seg> Precalienta el horno a 180 grados &lt;t0/&gt;celsius&lt;t1/&gt; (con ventilador) y cubre una bandeja de horno con papel de hornear.
 </seg>
       </tuv>
     </tu>
@@ -5019,8 +5019,8 @@
       <tuv lang="en">
         <seg>Remove the bowl from your machine and use a &lt;t0/&gt;table spoon&lt;t1/&gt; to scoop up the mixture and roll into a ball.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T160817Z" creationid="beatr" creationdate="20230522T053401Z">
-        <seg>Retira el vaso de la máquina y utiliza una cuchara para recoger la mezcla y formar una bola. &lt;t0/&gt;&lt;t1/&gt; </seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004555Z" creationid="beatr" creationdate="20230522T053401Z">
+        <seg>Retira el vaso de la máquina y utiliza una &lt;t0/&gt;cuchara&lt;t1/&gt;para recoger la mezcla y formar una bola. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5051,8 +5051,8 @@
       <tuv lang="en">
         <seg>Repeat until &lt;t2/&gt;all of&lt;t3/&gt; the mixture has been used.</seg>
       </tuv>
-      <tuv lang="es" changeid="raque" changedate="20230531T160826Z" creationid="beatr" creationdate="20230522T053611Z">
-        <seg>Repite hasta que la mezcla se acabe &lt;t2/&gt;&lt;t3/&gt; .</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T004637Z" creationid="beatr" creationdate="20230522T053611Z">
+        <seg>Repite hasta que &lt;t2/&gt;la mezcla&lt;t3/&gt; se acabe.</seg>
       </tuv>
     </tu>
     <tu>
