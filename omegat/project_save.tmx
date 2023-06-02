@@ -2776,8 +2776,8 @@
       <tuv lang="en">
         <seg>Continue until you have used &lt;t0/&gt;all of&lt;t1/&gt; the pikelet mixture.</seg>
       </tuv>
-      <tuv lang="es" changeid="beatr" changedate="20230512T202204Z" creationid="beatr" creationdate="20230512T202204Z">
-        <seg>Continúa hasta que hayas gastado toda la masa de los pikelets.&lt;t0/&gt;&lt;t1/&gt;</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T002518Z" creationid="beatr" creationdate="20230512T202204Z">
+        <seg>Continúa hasta que hayas gastado&lt;t0/&gt;toda&lt;t1/&gt;la masa de los pikelets.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,8 +3536,8 @@
       <tuv lang="en">
         <seg>For a gluten free version, switch to Gluten Free self-&lt;t0/&gt;raising&lt;t1/&gt; flour.</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230601T213915Z" creationid="beatr" creationdate="20230512T202234Z">
-        <seg>Para una versión sin gluten, utiliza harina sin gluten.</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T002626Z" creationid="beatr" creationdate="20230512T202234Z">
+        <seg>Para una versión sin gluten, utiliza&lt;t0/&gt;harina sin gluten&lt;t1/&gt; .</seg>
       </tuv>
     </tu>
     <tu>
