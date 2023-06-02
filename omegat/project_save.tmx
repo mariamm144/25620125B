@@ -1456,8 +1456,8 @@
       <tuv lang="en">
         <seg>70&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;rolled&lt;t4/&gt; &lt;t5/&gt;oats</seg>
       </tuv>
-      <tuv lang="es" changeid="mmolc" changedate="20230525T131002Z" creationid="mmolc" creationdate="20230525T131002Z">
-        <seg>70 g de copos de avena</seg>
+      <tuv lang="es" changeid="mmolc" changedate="20230602T015359Z" creationid="mmolc" creationdate="20230525T131002Z">
+        <seg>70&lt;t0/&gt; &lt;t1/&gt;g&lt;t2/&gt; &lt;t3/&gt;de copos&lt;t4/&gt; &lt;t5/&gt;de avena</seg>
       </tuv>
     </tu>
     <tu>
